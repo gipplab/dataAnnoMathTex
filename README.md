@@ -1,2 +1,2 @@
 # dataAnnoMathTex
-data repo for https://AnnoMathTex.wmfLabs.org
+data repo for https://AnnoMathTeX.wmfLabs.org
