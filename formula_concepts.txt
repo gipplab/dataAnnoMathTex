@@ -1,1 +1,0 @@
-{"dummy_formula": {"TeXStrings": ["empty"], "Identifiers": "empty"}}
