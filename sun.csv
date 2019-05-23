@@ -1,4 +1,4 @@
 Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
+ \foo{2} E ,mass,-,-,-,1,global
 E,energy,1,4,2,2,global
-m,mass,1,3,2,1,global
-c,speed of light,-,1,2,-,global
+c,test name,-,-,-,-,global
