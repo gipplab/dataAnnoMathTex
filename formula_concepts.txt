@@ -1,1 +1,1 @@
-{"mass-energy equivalence": {"TeXStrings": [" E = m c ^2 "], "Identifiers": {"E": "energy", "m": "mass", "c": "speed of light"}}}
+{"mass-energy equivalence": {"TeXStrings": [" E = m c ^2 "], "Identifiers": {"E": "energy", "m": "mass", "c": "speed of light"}}, "Hooke's law": {"TeXStrings": [" \\vec F = -k \\vec x, "], "Identifiers": {"F": "force", "k": "constant", "x": "displacement"}}}
