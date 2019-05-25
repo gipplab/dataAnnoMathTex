@@ -20,3 +20,20 @@ T,period,-,-,2,9,global
 zeta,ratio,-,-,-,1,global
 c,speed of light,-,1,2,-,global
 lambda,decay,-,-,-,2,global
+Q,factor,-,-,-,2,global
+"z(t) = A \mathrm{e}^{-\zeta \omega_0 t} \sin \left( \sqrt{1 - \zeta^2} \omega_0 t + \varphi \right), ",oscillations,-,-,-,1,global
+e,constant,2,-,-,-,global
+Z,response,-,-,-,2,global
+n,integer,2,-,-,-,global
+r,radius,2,2,1,-,global
+tau,time,1,-,-,-,global
+q,parameter,2,-,-,-,global
+i,complex,10,-,-,-,global
+L,energy,-,-,-,4,global
+V,energy,-,-,-,4,global
+C,constant,1,-,-,-,global
+O,order,-,-,-,-,global
+l,length,1,-,1,-,global
+g,constant,3,-,-,-,global
+U,amplitude,-,-,-,1,global
+M,mass,1,1,-,-,global
