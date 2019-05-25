@@ -1,9 +1,0 @@
-Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
-F,force,-,9,2,3,global
-k,constant,2,-,-,-,global
-x,displacement,-,-,-,1,global
-theta,velocity,-,-,-,1,global
-mu,damping,-,-,-,1,global
-Gamma,force,-,-,-,1,global
-R,torque,-,-,-,1,global
-G,voltage,-,-,-,1,global
