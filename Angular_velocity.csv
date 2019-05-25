@@ -1,0 +1,26 @@
+Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
+phi,displacement,-,-,-,10,global
+t,time,1,3,4,5,global
+omega,velocity,-,-,-,1,global
+r,radius,2,2,1,-,global
+d,differential equation,-,7,-,-,global
+v,velocity,3,7,4,1,global
+theta,angle,1,-,-,-,global
+y,coordinate,1,-,-,-,global
+x,coordinate,5,-,-,-,global
+u,vector,8,-,-,1,global
+R,matrix,-,-,-,4,global
+I,matrix,6,-,-,4,global
+W,matrix,-,10,-,4,global
+e,constant,2,-,-,-,global
+alpha,angle,-,-,-,9,global
+beta,angle,-,-,-,-,global
+gamma,angle,-,-,-,9,global
+k,vector,-,-,-,5,global
+z,coordinate,1,-,-,-,global
+A,matrix,2,-,-,1,global
+T,transpose,-,-,-,-,global
+B,matrix,10,-,-,5,global
+L,form,-,-,-,1,global
+V,velocity,-,-,-,2,global
+i,indices,3,-,-,-,global
