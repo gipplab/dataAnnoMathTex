@@ -1,1 +1,1 @@
-{"dummy_formula": {"TeXStrings": ["empty"], "Identifiers": "empty"}}
+{"dummy_formula": {"TeXStrings": ["empty"], "Identifiers": "empty"}, "mass\u2013energy equivalence": {"TeXStrings": ["E = m c^2"], "Identifiers": {"c": "speed of light", "m": "mass", "E": "energy"}}}
