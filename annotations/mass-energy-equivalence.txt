@@ -1,1 +1,0 @@
-{"global": {"E": {"name": "energy", "mathEnv": "E = m c^2", "uniqueIDs": ["2---2", "4---2"], "sourcesWithNums": {"ArXiv": "1", "Wikidata": "2", "Wikipedia": "4", "WordWindow": "7"}, "type": "Identifier"}}}
