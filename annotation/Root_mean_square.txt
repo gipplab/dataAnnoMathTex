@@ -1,0 +1,275 @@
+{{Refimprove|date=March 2010}}
+In mathematics and its applications, the '''root mean square''' ('''RMS''' or '''rms''') is defined as the [[square root]] of the [[mean square]] (the [[arithmetic mean]] of the [[square (algebra)|squares]] of a set of numbers).<ref name=dicphys>{{Cite book
+|title=A Dictionary of Physics (6 ed.)
+|publisher=Oxford University Press 
+|year=2009
+|isbn=9780199233991
+|url=http://www.oxfordreference.com/view/10.1093/acref/9780199233991.001.0001/acref-9780199233991-e-2676
+}}</ref>
+The RMS is also known as the '''quadratic mean''' and is a particular case of the [[Generalized mean#Quadratic|generalized mean]] with exponent&nbsp;2. RMS can also be defined for a continuously varying [[function (mathematics)|function]] in terms of an [[integral]] of the squares of the instantaneous values during a cycle.
+
+For [[Alternating current|alternating electric current]], RMS is equal to the value of the [[direct current]] that would produce the same average power dissipation in a [[Resistor|resistive load]].<ref name=dicphys/>
+
+In [[estimation theory]], the [[root mean square error]] of an estimator is a measure of the imperfection of the fit of the estimator to the data.
+
+==Definition==
+The RMS value of a set of values (or a [[continuous-time]] [[waveform]]) is the square root of the arithmetic mean of the squares of the values, or the square of the function that defines the continuous waveform. In physics, the RMS current is the "value of the direct current that dissipates power in a resistor."
+
+In the case of a set of ''n'' values <math>\{x_1,x_2,\dots,x_n\}</math>, the RMS is
+
+:<math>
+x_{\mathrm{rms}} =
+\sqrt{ \frac{1}{n} \left( x_1^2 + x_2^2 + \cdots + x_n^2 \right) }.
+</math>
+
+The corresponding formula for a continuous function (or waveform) ''f''(''t'') defined over the interval <math>T_1 \le t \le T_2</math> is
+
+:<math>
+f_{\mathrm{rms}} = \sqrt {{1 \over {T_2-T_1}} {\int_{T_1}^{T_2} {[f(t)]}^2\, dt}},
+</math>
+
+and the RMS for a function over all time is
+
+:<math>
+f_\mathrm{rms} = \lim_{T\rightarrow \infty} \sqrt {{1 \over {T}} {\int_{0}^{T} {[f(t)]}^2\, dt}}.
+</math>
+
+The RMS over all time of a [[periodic function]] is equal to the RMS of one period of the function. The RMS value of a continuous function or signal can be approximated by taking the RMS of a sample consisting of equally spaced observations. Additionally, the RMS value of various waveforms can also be determined without [[Calculus#Integral calculus|calculus]], as shown by Cartwright.<ref>{{Cite journal
+|last = Cartwright|first = Kenneth V|title = Determining the Effective or RMS Voltage of Various Waveforms without Calculus|journal = Technology Interface|volume = 8|issue = 1|pages = 20 pages|date = Fall 2007|url = http://tiij.org/issues/issues/fall2007/30_Cartwright/Cartwright-Waveforms.pdf|others = |format = PDF}}</ref>
+
+In the case of the RMS statistic of a [[random process]], the [[expected value]] is used instead of the mean.
+
+==In common waveforms==
+{{further information|RMS amplitude}}
+[[File:Waveforms.svg|thumb|right|400px|[[Sine wave|Sine]], [[square wave|square]], [[triangle wave|triangle]], and [[sawtooth wave|sawtooth]] waveforms.]]
+[[File:Dutycycle.svg|thumb|right|400px|A rectangular pulse wave of duty cycle D, the ratio between the pulse duration (<math>\tau</math>) and the period (T); illustrated here with ''a'' = 1.]]
+[[File:Sine wave voltages.svg|thumb|right|400px|Graph of a sine wave's voltage vs. time (in degrees), showing RMS, peak (PK), and peak-to-peak (PP) voltages.]]
+If the [[waveform]] is a pure [[sine wave]], the relationships between amplitudes (peak-to-peak, peak) and RMS are fixed and known, as they are for any continuous [[period (physics)|periodic]] wave. However, this is not true for an arbitrary waveform, which may not be periodic or continuous. For a zero-mean sine wave, the relationship between RMS and peak-to-peak amplitude is:
+: ''Peak-to-peak'' <math> = 2 \sqrt{2} \times {RMS} \approx 2.8 \times {RMS}.</math>  
+
+For other waveforms the relationships are not the same as they are for sine waves.  For example, for either a triangular or sawtooth wave
+: ''Peak-to-peak'' <math> = 2 \sqrt{3} \times {RMS} \approx 3.5 \times {RMS}.</math>  
+
+{| class="wikitable" border="1"
+|-
+! Waveform !! Equation !! RMS
+|-
+| [[Direct current|DC]], constant || <math>y = A_0\,</math> || <math>A_0\,</math>
+|-
+| [[Sine wave]]
+| <math>y = A_1 \sin(2\pi ft)\,</math>
+| <math>\frac{A_1}{\sqrt{2}}</math>
+|-
+| [[Square wave]]
+| <math>y = \begin{cases}
+     A_1 & \operatorname{frac}(ft) < 0.5 \\
+    -A_1 & \operatorname{frac}(ft) > 0.5
+  \end{cases}</math>
+| <math>A_1\,</math>
+|-
+| DC-shifted square wave
+| <math>y = A_0 + \begin{cases}
+     A_1 & \operatorname{frac}(ft) < 0.5 \\
+    -A_1 & \operatorname{frac}(ft) > 0.5
+  \end{cases}</math>
+| <math>{\sqrt{A_0^2 + A_1^2}}\,</math>
+|-
+| [[Inverter (electrical)#Modified sine wave|Modified sine wave]]
+| <math>y = \begin{cases}
+     0   & \operatorname{frac}(ft) < 0.25 \\
+     A_1 & 0.25 < \operatorname{frac}(ft) < 0.5 \\
+     0   & 0.5 < \operatorname{frac}(ft) < 0.75 \\
+    -A_1 & \operatorname{frac}(ft) > 0.75
+  \end{cases}</math>
+| <math>\frac{A_1}{\sqrt{2}}</math>
+|-
+| [[Triangle wave]]
+| <math>y = \left|2 A_1 \operatorname{frac}(ft) - A_1\right|</math>
+| <math>A_1 \over \sqrt 3</math>
+|-
+| [[Sawtooth wave]]
+| <math>y = 2 A_1 \operatorname{frac}(ft) - A_1\,</math>
+| <math>A_1 \over \sqrt 3</math>
+|-
+| [[Pulse train]]
+| <math>y = \begin{cases}
+    A_1 & \operatorname{frac}(ft) < D \\
+    0   & \operatorname{frac}(ft) > D
+  \end{cases}</math>
+| <math>A_1 \sqrt D</math>
+|-
+| [[Three-phase electric power|Phase-to-phase voltage]]
+| <math>y = A_1 \sin(t) - A_1 \sin\left(t - \frac{2\pi}{3}\right)\,</math>
+| <math>A_1 \sqrt{\frac{3}{2}}</math>
+|-
+| colspan=3 | Notes:{{unbulleted list
+ | ''t'' is time
+ | ''f'' is frequency
+ | ''A{{sub|i}}'' is amplitude (peak value)
+ | ''D'' is the [[duty cycle]] or the proportion of the time period (1/''f'') spent high.
+ | frac(''r'') is the [[fractional part]] of ''r''
+ }}
+|}
+<!--fixme: add more waveforms-->
+
+===In waveform combinations===
+Waveforms made by summing known simple waveforms have an RMS that is the root of the sum of squares of the component RMS values, if the component waveforms are [[orthogonal]] (that is, if the average of the product of one simple waveform with another is zero for all pairs other than a waveform times itself).<ref>
+{{cite web
+ | last1=Nastase | first1=Adrian S.
+ | title=How to Derive the RMS Value of Pulse and Square Waveforms
+ | url=http://masteringelectronicsdesign.com/how-to-derive-the-rms-value-of-pulse-and-square-waveforms/
+ | website=MasteringElectronicsDesign.com
+ | accessdate=21 January 2015
+}}</ref>
+:<math>RMS_\text{Total} =\sqrt{{RMS_1}^2 + {RMS_2}^2 + \cdots + {RMS_n}^2}</math>
+
+(If the waveforms are in phase, then their RMS amplitudes sum directly.)
+
+==Uses==
+
+===In electrical engineering===
+
+====Voltage{{anchor|Voltage}}====
+{{further information|Root mean square AC voltage}}
+A special case of RMS of waveform combinations is:<ref>{{cite web |title=Make Better AC RMS  Measurements with your  Digital Multimeter |url=https://literature.cdn.keysight.com/litweb/pdf/5988-6916EN.pdf |website=Keysight |publisher=Keysight |accessdate=15 January 2019}}</ref>
+:<math>RMS_\text{AC+DC} = \sqrt{{{RMS_\text{DC}}^2 + {RMS_\text{AC}}^2}}</math>
+
+where <math>RMS_\text{DC}</math> refers to the [[direct current]], or average, component of the signal and <math>RMS_\text{AC}</math> is the [[alternating current]] component of the signal.
+
+====Average electrical power{{anchor|Average power}}====
+{{further information|AC power}}Electrical engineers often need to know the [[power (physics)|power]], ''P'', dissipated by an [[electrical resistance and conductance|electrical resistance]], ''R''. It is easy to do the calculation when there is a constant [[electric current|current]], ''I'', through the resistance. For a load of ''R'' ohms, power is defined simply as:
+
+:<math>P = I^2 R.</math>
+
+However, if the current is a time-varying function, ''I''(''t''), this formula must be extended to reflect the fact that the current (and thus the instantaneous power) is varying over time. If the function is periodic (such as household AC power), it is still meaningful to discuss the ''average'' power dissipated over time, which is calculated by taking the average power dissipation:
+
+: <math>
+\begin{align}
+P_\text{avg} & = \left\langle I(t)^2R \right\rangle & & \text{where } \langle\cdots\rangle \text{ denotes the mean of a function} \\[5pt]
+& = R\left\langle I(t)^2 \right\rangle & & \text{(as } R \text{ does not vary over time, it can be factored out)} \\[5pt]
+& = I_\text{RMS}^2R & & \text{by definition of root-mean-square}
+\end{align}
+</math>
+
+So, the RMS value, ''I''<sub>RMS</sub>, of the function ''I''(''t'') is the constant current that yields the same power dissipation as the time-averaged power dissipation of the current ''I''(''t'').
+
+Average power can also be found using the same method that in the case of a time-varying [[voltage]], ''V''(''t''), with RMS value ''V''<sub>RMS</sub>,
+
+:<math>P_\text{Avg} = {V_\text{RMS}^2 \over R}.</math>
+
+This equation can be used for any periodic [[waveform]], such as a [[sine wave|sinusoidal]] or [[sawtooth wave]]form, allowing us to calculate the mean power delivered into a specified load.
+
+By taking the square root of both these equations and multiplying them together, the power is found to be:
+
+:<math>P_\text{Avg} = V_\text{RMS}I_\text{RMS}.</math>
+
+Both derivations depend on voltage and current being proportional (i.e., the load, ''R'', is purely resistive). [[Electrical reactance|Reactive]] loads (i.e., loads capable of not just dissipating energy but also storing it) are discussed under the topic of [[AC power]].
+
+In the common case of [[alternating current]] when ''I''(''t'') is a [[sine wave|sinusoidal]] current, as is approximately true for mains power, the RMS value is easy to calculate from the continuous case equation above. If ''I''<sub>p</sub> is defined to be the peak current, then:
+
+:<math>I_\text{RMS} = \sqrt{{1 \over {T_2 - T_1}} \int_{T_1}^{T_2} \left[I_\text{p} \sin(\omega t)\right]^2 dt}.\,\!</math>
+
+where ''t'' is time and ''?'' is the [[angular frequency]] (''?''&nbsp;=&nbsp;2{{pi}}/''T'', where ''T'' is the period of the wave).
+
+Since ''I''<sub>p</sub> is a positive constant:
+
+:<math>I_\text{RMS} = I_\text{p} \sqrt{{1 \over {T_2 - T_1}} {\int_{T_1}^{T_2} {\sin^2(\omega t)}\, dt}}.</math>
+
+Using a [[list of trigonometric identities|trigonometric identity]] to eliminate squaring of trig function:
+
+:<math>\begin{align}
+  I_\text{RMS} &= I_\text{p} \sqrt{{1 \over {T_2 - T_1}} {\int_{T_1}^{T_2} {{1 - \cos(2\omega t) \over 2}}\, dt}} \\
+  I_\text{RMS} &= I_\text{p} \sqrt{{1 \over {T_2 - T_1}} \left[ {t \over 2} - {\sin(2\omega t) \over 4\omega} \right]_{T_1}^{T_2} }
+\end{align}</math>
+
+but since the interval is a whole number of complete cycles (per definition of RMS), the sin terms will cancel out, leaving:
+
+:<math>I_{\text{RMS}} = I_\text{p} \sqrt{{1 \over {T_2 - T_1}} \left[ {{t \over 2}} \right]_{T_1}^{T_2} } = I_\text{p} \sqrt{{1 \over {T_2 - T_1}} {{{T_2 - T_1} \over 2}} } = {I_\text{p} \over \sqrt{2}}.</math>
+
+A similar analysis leads to the analogous equation for sinusoidal voltage:
+
+:<math>V_\text{RMS} = {V_\text{p} \over {\sqrt 2}}.</math>
+
+Where ''I''<sub>P</sub> represents the peak current and ''V''<sub>P</sub> represents the peak voltage.
+
+Because of their usefulness in carrying out power calculations, listed [[voltage]]s for power outlets (e.g., 120 V in the USA, or 230 V in Europe) are almost always quoted in RMS values, and not peak values. Peak values can be calculated from RMS values from the above formula, which implies ''V''{{sub|P}}&nbsp;=&nbsp;''V''<sub>RMS</sub>&nbsp;×&nbsp;{{radic|2}}, assuming the source is a pure sine wave. Thus the peak value of the mains voltage in the USA is about 120&nbsp;×&nbsp;{{radic|2}}, or about 170 volts. The peak-to-peak voltage, being double this, is about 340 volts. A similar calculation indicates that the peak mains voltage in Europe is about 325 volts, and the peak-to-peak mains voltage, about 650 volts.
+
+RMS quantities such as electric current are usually calculated over one cycle.  However, for some purposes the RMS current over a longer period is required when calculating transmission power losses.  The same principle applies, and (for example) a current of 10 amps used for 12 hours each day represents an RMS current of 5 amps in the long term.
+
+The term "RMS power" is sometimes erroneously used in the audio industry as a synonym for "mean power" or "average power" (it is proportional to the square of the RMS voltage or RMS current in a resistive load). For a discussion of audio power measurements and their shortcomings, see [[Audio power]].
+
+===Speed===
+{{main article|Root-mean-square speed}}
+
+In the [[physics]] of [[gas]] molecules, the '''root-mean-square speed''' is defined as the square root of the average squared-speed. The RMS speed of an ideal gas is [[Maxwell–Boltzmann distribution#Distribution for the velocity vector|calculated]] using the following equation:
+
+:<math>{v_\text{RMS}} = {\sqrt{3RT \over {M}}}</math>
+
+where ''R'' represents the [[ideal gas constant]], 8.314&nbsp;J/(mol·K), ''T'' is the temperature of the gas in [[kelvin]]s, and ''M'' is the [[molar mass]] of the gas in kilograms per mole. The generally accepted terminology for speed as compared to velocity is that the former is the scalar magnitude of the latter. Therefore, although the average speed is between zero and the RMS speed, the average velocity for a stationary gas is zero.
+
+===Error===
+{{Main article|Root-mean-square error}}
+When two data sets—one set from theoretical prediction and the other from actual measurement of some physical variable, for instance—are compared, the RMS of the pairwise differences of the two data sets can serve as a measure how far on average the error is from 0. The [[mean]] of the pairwise differences does not measure the variability of the difference, and the variability as indicated by the [[standard deviation]] is around the mean instead of 0. Therefore, the RMS of the differences is a meaningful measure of the error.
+
+==In frequency domain==
+The RMS can be computed in the frequency domain, using [[Parseval's theorem]]. For a sampled signal <math>x[n]=x(t=nT)</math>, where <math>T</math> is the sampling period,
+
+:<math>\sum_{n=1}^N{x^2[n]} = \frac{1}{N}\sum_{m=1}^N \bigl| X[m] \bigr|^2,</math>
+
+where <math>X[m] = \operatorname{FFT}\{x[n]\}</math> and ''N'' is the sample size, i.e. the number of observations in the sample and FFT coefficients.
+
+In this case, the RMS computed in the time domain is the same as in the frequency domain:
+
+:<math>
+  \mathrm{RMS}\{x[n]\}
+    = \sqrt{\frac{1}{N}\sum_n{x^2[n]}}
+    = \sqrt{\frac{1}{N^2}\sum_m{\bigl| X[m] \bigr|}^2}
+    = \sqrt{\sum_m{\left| \frac{X[m]}{N} \right|^2}}.
+</math>
+
+==Relationship to other statistics==
+If <math>\bar{x}</math> is the [[arithmetic mean]] and <math>\sigma_{x}</math> is the [[standard deviation]] of a [[Statistical Population|population]] or a [[waveform]] then:<ref>
+{{cite book
+ | title = Digital signal transmission
+ | edition = 2nd
+ | author = Chris C. Bissell and David A. Chapman
+ | publisher = Cambridge University Press
+ | year = 1992
+ | isbn = 978-0-521-42557-5
+ | page = 64
+ }}</ref>
+
+:<math>x_{\mathrm{rms}}^2 = \overline{x}^2 + \sigma_x^2 = \overline{x^2}.</math>
+
+From this it is clear that the RMS value is always greater than or equal to the average, in that the RMS includes the "error" / square deviation as well.
+
+Physical scientists often use the term "root mean square" as a synonym for [[standard deviation]] when it can be assumed the input signal has zero mean, i.e., referring to the square root of the mean squared deviation of a signal from a given baseline or fit.<ref>
+{{cite web
+ | title = Root-Mean-Square
+ | url=http://mathworld.wolfram.com/Root-Mean-Square.html
+}}</ref><ref>{{cite web
+ | title = ROOT, TH1:GetRMS
+ | url=http://root.cern.ch/root/html/TH1.html#TH1:GetRMS
+}}</ref>
+This is useful for electrical engineers in calculating the "AC only" RMS of a signal. Standard deviation being the root mean square of a signal's variation about the mean, rather than about 0, the [[DC component]] is removed (i.e. RMS(signal) = Stdev(signal) if the mean signal is 0).
+
+==See also==
+* [[Central moment]]
+* [[Geometric mean]]
+* [[L2 norm]]
+* [[Least squares]]
+* [[Mean squared displacement]]
+* [[Table of mathematical symbols]]
+* [[True RMS converter]]
+* [[Average rectified value]] (ARV)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.hifi-writer.com/he/misc/rmspower.htm A case for why RMS is a misnomer when applied to audio power]
+* [http://phy.hk/wiki/englishhtm/Rms.htm A Java applet on learning RMS]
+
+{{DEFAULTSORT:Root Mean Square}}
+[[Category:Statistical deviation and dispersion]]
+[[Category:Means]]

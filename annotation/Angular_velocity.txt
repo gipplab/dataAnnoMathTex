@@ -1,0 +1,332 @@
+{{See also|Angular frequency}}
+{{Technical|date=July 2017}}
+{{Infobox physical quantity
+| name = Angular velocity
+| unit =
+| otherunits =
+| symbols = '''''&omega;'''''
+| baseunits = sec<sup>-1</sup>
+| dimension = '''rad''' '''T'''<sup>-1</sup>
+| extensive = yes (for rigid body only)
+| intensive = yes
+| conserved = no
+| transformsas = pseudovector
+| derivations =  {{math|'''?''' {{=}} d'''&theta;''' / d'''t'''}}
+}}
+{{Classical mechanics|cTopic=Fundamental concepts}}
+
+In [[physics]], '''angular velocity''' refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a rigid body's centre of rotation revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] ('''?''', sometimes '''O'''). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
+
+For example, a [[Geosynchronous orbit|geostationary]] satellite completes one orbit per day above the equator, or 360 degrees per 24 hours, and has angular velocity ''&omega;'' = 360 / 24 = 15 degrees per hour, or 2&pi; / 24 &asymp; 0.26 radians per hour. If angle is measured in [[radians]], the linear velocity is the radius times the angular velocity, <math>v = r\omega</math>. With orbital radius 42,000 km from the earth's center, the satellite's speed through space is thus ''v'' = 42,000 &times; 0.26 &asymp; 11,000 km/hr. The angular velocity is positive since the satellite travels eastward with the Earth's rotation (counter-clockwise from above the north pole.)
+
+In three dimensions, angular velocity is a [[pseudovector]], with its magnitude measuring the rate at which an object rotates or revolves, and its direction pointing perpendicular to the instantaneous plane of rotation or angular displacement. The orientation of angular velocity is conventionally specified by the [[right-hand rule]].<ref name= EM1>{{cite book
+  | last =  Hibbeler
+  | first = Russell C.
+  | title = Engineering Mechanics
+  | publisher = Pearson Prentice Hall
+  | year = 2009
+  | location = Upper Saddle River, New Jersey
+  | pages = 314, 153
+  | url =https://books.google.com/?id=tOFRjXB-XvMC&pg=PA314&dq=angular+velocity
+  | doi =
+  | isbn = 978-0-13-607791-6}}(EM1)</ref>
+
+== Orbital angular velocity of a point particle ==
+
+=== Particle in two dimensions ===
+[[Image:Angular velocity1.svg|right|256 px|thumb|The angular velocity of the particle at ''P'' with respect to the origin ''O'' is determined by the [[perpendicular component]] of the velocity vector '''v'''.]]
+
+In the simplest case of circular motion at radius ''r'', with position given by the angular displacement <math>\phi(t)</math> from the x-axis, the orbital angular velocity is the rate of change of angle with respect to time: <math>\omega = \tfrac{d\phi}{dt}</math>. If <math>\phi</math> is measured in [[radian]]s, the distance from the x-axis around the circle to the particle is <math>\ell=r\phi</math>, and the linear velocity is <math>v(t)=\tfrac{d\ell}{dt}=r\omega(t)</math>, so that <math>\omega=\tfrac{v}{r}</math>.  
+
+In the general case of a particle moving in the plane, the orbital angular velocity is the rate at which the position vector relative to a chosen origin "sweeps out" angle. The diagram shows the position vector '''r''' from the origin ''O'' to a particle ''P'', with its [[polar coordinates]] <math>(r, \phi)</math>. (All variables are functions of time ''t''.) The particle has linear velocity splitting as <math>\mathbf{v} = \mathbf{v}_\|+\mathbf{v}_\perp</math>,  with the radial component <math>\mathbf{v}_\|</math> parallel to the radius, and the cross-radial (or tangential) component <math>\mathbf{v}_\perp</math> perpendicular to the radius. When there is no radial component, the particle moves around the origin in a circle; but when there is no cross-radial component, it moves in a straight line from the origin. Since radial motion leaves the angle unchanged, only the cross-radial component of linear velocity contributes to angular velocity.
+
+The angular velocity ''?'' is the rate of change of angular position with respect to time, which can be computed from the cross-radial velocity as:
+
+: <math>\omega = \frac{d\phi}{dt} = \frac{v_\perp}{r}.</math>
+
+Here the cross-radial speed <math>v_\perp</math> is the signed magnitude of <math>\mathbf{v}_\perp</math>, positive for counter-clockwise motion, negative for clockwise. Taking polar coordinates for the linear velocity '''v''' gives magnitude ''v'' (linear speed) and angle ''&theta;'' relative to the radius vector; in these terms, <math>v_\perp = v\sin(\theta)</math>, so that 
+
+: <math>\omega = \frac{v\sin(\theta)}{r}.</math>
+
+These formulas may be derived from <math>\mathbf{r}=(x(t),y(t))</math>, <math>\mathbf{v}=(x'(t),y'(t))</math> and <math>\phi = \arctan(y(t)/x(t))</math>, together with the projection formula <math>v_\perp = \tfrac{\mathbf{r}^\perp\!\!}{r}\cdot \mathbf{v}</math>, where <math>\mathbf{r}^\perp = (-y,x)</math>.
+
+In two dimensions, angular velocity is a number with plus or minus sign indicating orientation, but not pointing in a direction. The sign is conventionally taken to be positive if the radius vector turns counter-clockwise, and negative if clockwise. Angular velocity then may be termed a [[pseudoscalar]], a numerical quantity which changes sign under a [[parity (physics)|parity inversion]], such as inverting one axis or switching the two axes.
+
+=== Particle in three dimensions ===
+[[Image:Angular velocity.svg|thumb|250px|The orbital angular velocity vector encodes the time rate of change of angular position, as well as the instantaneous plane of angular displacement. In this case (counter-clockwise circular motion) the vector points up.]]
+
+In  [[three-dimensional space]], we again have the position vector '''r''' of a moving particle. Here, orbital angular velocity is a [[pseudovector]] whose magnitude is the rate at which '''r''' sweeps out angle, and whose direction is perpendicular to the instantaneous plane in which '''r''' sweeps out angle (i.e. the plane spanned by '''r''' and '''v'''). However, as there are ''two'' directions perpendicular to any plane, an additional condition is necessary to uniquely specify the direction of the angular velocity; conventionally, the [[right-hand rule]] is used.
+
+Let the pseudovector <math>\mathbf{u}</math> be the unit vector perpendicular to the plane spanned by '''r''' and '''v''', so that the right-hand rule is satisfied (i.e. the instantaneous direction of angular displacement is counter-clockwise looking from the top of <math>\mathbf{u}</math>). Taking polar coordinates <math>(r,\phi)</math> in this plane, as in the two-dimensional case above, one may define the orbital angular velocity vector as: 
+
+: <math>\boldsymbol\omega =\omega \mathbf u = \tfrac{d\phi}{dt}\mathbf u=\frac{v \sin(\theta)}{r}\mathbf u,</math> 
+
+where ''&theta;'' is the angle between '''r''' and '''v'''. In terms of the cross product, this is:
+
+: <math>\boldsymbol\omega
+=\frac{\mathbf r\times\mathbf v}{r^2}.</math>
+
+From the above equation, one can recover the tangential velocity as:
+
+:<math>\mathbf{v}_{\perp} =\boldsymbol{\omega} \times\mathbf{r}</math>
+
+==== Addition of angular velocity vectors ====
+[[image:gimbaleuler.svg|thumb|Schematic construction for addition of angular velocity vectors for rotating frames]]
+
+If a point rotates with orbital angular velocity <math>\omega_1</math> about its center of rotation in a [[Frame of a vector space|coordinate frame]] <math>F_1</math> which itself rotates with a spin angular velocity <math>\omega_2</math> with respect to an external frame <math>F_2</math>, we can define <math>\omega_1 + \omega_2</math> to be the composite orbital angular velocity vector of the point about its center of rotation with respect to <math>F_2</math>. This operation coincides with usual addition of vectors, and it gives angular velocity the algebraic structure of a true [[Vector space#Definition|vector]], rather than just a pseudo-vector.
+
+The only non-obvious property of the above addition is [[Commutative property|commutativity]]. This can be proven from the fact that the velocity tensor ''W'' (see below) is skew-symmetric, so that <math>R=e^{Wt}</math> is a rotation matrix which can be expanded as <math>R = I + W\cdot dt + \tfrac 12 (W \cdot dt)^2 + \ldots</math>. The composition of rotations is not commutative, but <math>(I+W_1\cdot dt)(I+W_2 \cdot dt)=(I+W_2 \cdot dt)(I+W_1\cdot dt)</math> is commutative to first order, and therefore <math>\omega_1 + \omega_2 = \omega_2 + \omega_1</math>.
+
+Notice that this also defines the substraction as the addition of a negative vector.
+
+== Spin angular velocity vector for a frame ==
+
+Given a rotating frame of three unit coordinate vectors, all the three must have the same angular speed at each instant. In such a frame, each vector may be considered as a moving particle with constant scalar radius.
+
+The rotating frame appears in the context of [[rigid body|rigid bodies]], and special tools have been developed for it: the spin angular velocity may be described as a vector or equivalently as a [[Tensor|tensor]]. 
+
+Consistent with the general definition, the spin angular velocity of a frame is defined as the orbital angular velocity of any of the three vectors (same for all) with respect to its own centre of rotation. The addition of angular velocity vectors for frames is also defined by the usual vector addition (composition of linear movements), and can be useful to decompose the rotation as in a [[gimbal]]. Components of the vector can be calculated as derivatives of the parameters defining the moving frames (Euler angles or rotation matrices). As in the general case, addition is commutative: <math>\omega_1 + \omega_2 = \omega_2 + \omega_1</math>.
+
+By [[Euler's rotation theorem]], any rotating frame possesses an [[instantaneous axis of rotation]], which is the direction of the angular velocity vector, and the magnitude of the angular velocity is consistent with the two-dimensional case.
+
+=== Components from the vectors of the frame ===
+
+Considering a coordinate vector of the frame as a particle, <math>\mathbf{r}=\mathbf{e}_i</math> with <math>|\mathbf{e}_i|=1</math>, we obtain the orbital angular velocity vector:
+
+: <math>\boldsymbol\omega=\frac{\mathbf{r}\times\mathbf{v}}{r^2}
+= \mathbf{e}_1\times\dot{\mathbf{e}}_1 =\mathbf{e}_2\times\dot{\mathbf{e}}_2 = \mathbf{e}_3\times\dot{\mathbf{e}}_3.</math>
+
+Here <math>\mathbf{e}_i</math> are the columns of the matrix of the frame, and  <math>\dot{\mathbf{e}}_i</math> their time derivatives.
+
+=== Components from Euler angles ===
+
+[[Image:Eulerframe.svg|thumb|Diagram showing Euler frame in green]]
+
+The components of the spin angular velocity pseudovector were first calculated by [[Leonhard Euler]] using his [[Euler angles]] and the use of an intermediate frame:
+* One axis of the reference frame (the precession axis)
+* The line of nodes of the moving frame with respect to the reference frame (nutation axis)
+* One axis of the moving frame (the intrinsic rotation axis)
+
+Euler proved that the projections of the angular velocity pseudovector on each of these three axes is the derivative of its associated angle (which is equivalent to decomposing the instantaneous rotation into three instantaneous [[Euler rotations]]). Therefore:<ref>[http://www.vti.mod.gov.rs/ntp/rad2007/3-07/hedr/hedr.pdf K.S.HEDRIH: Leonhard Euler (1707–1783) and rigid body dynamics]</ref>
+
+: <math>\boldsymbol\omega = \dot\alpha\mathbf u_1+\dot\beta\mathbf u_2+\dot\gamma \mathbf u_3</math>
+
+This basis is not orthonormal and it is difficult to use, but now the velocity vector can be changed to the fixed frame or to the moving frame with just a change of bases. For example, changing to the mobile frame:
+
+: <math>\boldsymbol\omega = (\dot\alpha\sin\beta\sin\gamma+\dot\beta\cos\gamma)\mathbf i+(\dot\alpha\sin\beta\cos\gamma-\dot\beta\sin\gamma)\mathbf j +(\dot\alpha\cos\beta+\dot\gamma)\mathbf k</math>
+
+where <math>\mathbf i,\mathbf j,\mathbf k</math> are unit vectors for the frame fixed in the moving body. This example has been made using the Z-X-Z convention for Euler angles.<ref>{{cite web|url=http://www.aeroengineering.info/angspeedconventions.html |title=online tool to calculate angular speed vectors |publisher=Aeroengineering.info |date= |accessdate=2013-01-23}}</ref>
+
+== Angular velocity tensor ==
+{{see also|Skew-symmetric matrix}}
+
+The angular velocity vector <math>\boldsymbol\omega=(\omega_x,\omega_y,\omega_z)</math> defined above may be equivalently expressed as an '''angular velocity tensor''', the matrix (or linear mapping) ''W'' = ''W''(''t'') defined by:
+
+: <math>
+
+W =
+\begin{pmatrix}
+0 & -\omega_z & \omega_y \\
+\omega_z & 0 & -\omega_x \\
+-\omega_y & \omega_x & 0 \\
+\end{pmatrix}</math>
+
+This is an [[Angular displacement#Infinitesimal rotation matrices|infinitesimal rotation matrix]]. The linear mapping ''W'' acts as <math>(\boldsymbol\omega \times)</math>:
+
+: <math>\boldsymbol\omega \times \mathbf{r} = W \cdot\mathbf{r}. </math>
+
+===Calculation from the orientation matrix===
+
+A vector <math>\mathbf r</math> undergoing uniform circular motion around an axis satisfies:
+
+:<math>\frac {d \mathbf r} {dt} = \boldsymbol{\omega} \times\mathbf{r} = W \cdot \mathbf{r}</math>
+
+Given the orientation matrix ''A''(''t'') of a frame, whose columns are the moving orthonormal coordinate vectors <math>\mathbf e_1,\mathbf e_2,\mathbf e_3</math>, we can obtain its angular velocity tensor ''W''(''t'') as follows. Angular velocity must be the same for the three vectors <math>\mathbf r = \mathbf e_i</math>, so arranging the three vector equations into columns of a matrix, we have:
+
+: <math>\frac {dA}{dt} = W \cdot A.</math>
+
+(This holds even if ''A''(''t'') does not rotate uniformly.) Therefore the angular velocity tensor is:
+
+: <math>W = \frac {dA} {dt} \cdot A^{-1} = \frac {dA} {dt} \cdot A^{\mathrm{T}},</math>
+
+since the inverse of the orthogonal matrix <math>A</math> is its transpose <math>A^{\mathrm{T}}</math>.
+
+== Properties of angular velocity tensors ==
+{{see also|Infinitesimal rotation}}
+
+In general, the angular velocity in an ''n''-dimensional space is the time derivative of the angular displacement tensor, which is a second rank [[skew-symmetric tensor]].
+
+This tensor ''W'' will have {{nowrap|''n''(''n''-1)/2}} independent components, which is the dimension of the [[Lie algebra]] of the [[Lie group]] of [[rotations]] of an ''n''-dimensional inner product space.<ref name="baez">[http://math.ucr.edu/home/baez/classical/galilei2.pdf Rotations and Angular Momentum] on the Classical Mechanics page of [http://math.ucr.edu/home/baez/README.html the website of John Baez], especially Questions 1 and 2.</ref>
+
+=== Duality with respect to the velocity vector ===
+
+In three dimensions, angular velocity can be represented by a pseudovector because second rank tensors are [[dual space|dual]] to pseudovectors in three dimensions. Since the angular velocity tensor ''W'' = ''W''(''t'') is a [[skew-symmetric matrix]]:
+
+: <math>
+W =
+\begin{pmatrix}
+0 & \omega_z & -\omega_y \\
+-\omega_z & 0 & \omega_x \\
+\omega_y & -\omega_x & 0\\
+\end{pmatrix},
+</math>
+
+its [[Hodge dual]] is a vector, which is precisely the previous angular velocity vector <math>\boldsymbol\omega=[\omega_x,\omega_y,\omega_z]</math>.
+
+=== Exponential of ''W'' ===
+
+If we know an initial frame ''A''(0) and we are given a ''constant'' angular velocity tensor ''W'', we can obtain ''A''(''t'') for any given ''t''. Recall the matrix differential equation:
+
+: <math>\frac {dA} {dt} = W \cdot A .</math>
+
+This equation can be integrated to give:
+
+: <math>A(t) = e^{Wt}A(0) ,</math>
+
+which shows a connection with the [[Lie group]] of rotations.
+
+=== ''W'' is skew-symmetric ===
+We prove that angular velocity tensor is [[Skew-symmetric matrix|skew symmetric]], i.e. <math>W = \frac {dA(t)}{dt} \cdot A^\text{T} </math> satisfies <math>W^\text{T} = -W</math>.
+
+A rotation matrix ''A'' is orthogonal, inverse to its transpose, so we have <math>I=A\cdot A^\text{T}</math>. For <math>A=A(t)</math> a frame matrix, taking the time derivative of the equation gives:
+
+: <math>0=\frac{dA}{dt}A^\text{T}+A\frac{dA^\text{T}}{dt}</math>
+
+Applying the formula <math>(A B)^\text{T}=B^\text{T}A^\text{T}</math>,
+
+: <math>0 = \frac{dA}{dt}A^\text{T}+\left(\frac{dA}{dt} A^\text{T}\right)^\text{T} = W + W^\text{T}</math>
+
+Thus, ''W'' is the negative of its transpose, which implies it is skew symmetric.
+
+=== Coordinate-free description ===
+At any instant <math>t</math>, the angular velocity tensor represents a linear map between the position vector <math>\mathbf{r}(t)</math> and the velocity vectors <math>\mathbf{v}(t)</math> of a point on a rigid body rotating around the origin:
+
+: <math> \mathbf{v} = W\mathbf{r} .</math>
+
+The relation between this linear map and the angular velocity [[pseudovector]] <math>\omega</math> is the following.
+
+Because ''W'' is the derivative of an [[orthogonal transformation]], the bilinear form
+
+: <math>B(\mathbf{r},\mathbf{s}) = (W\mathbf{r}) \cdot \mathbf{s} </math>
+
+is [[Bilinear form#Symmetric, skew-symmetric and alternating forms|skew-symmetric]]. Thus we can apply the fact of [[exterior algebra]] that there is a unique [[linear form]] <math>L</math> on <math>\Lambda^2 V </math> that
+
+: <math>L(\mathbf{r}\wedge \mathbf{s}) = B(\mathbf{r},\mathbf{s})</math>
+
+where <math>\mathbf{r}\wedge \mathbf{s} \in \Lambda^2 V </math> is the [[exterior product]] of <math>\mathbf{r}</math> and <math>\mathbf{s}</math>.
+
+Taking the [[Musical isomorphism|sharp]] ''L''{{sup|{{music|sharp}}}} of ''L'' we get
+
+: <math> (W\mathbf{r})\cdot \mathbf{s} = L^\sharp \cdot (\mathbf{r}\wedge \mathbf{s}) </math>
+
+Introducing <math> \omega := {\star} (L^\sharp) </math>, as the [[Hodge dual]] of ''L''{{sup|{{music|sharp}}}}, and applying the definition of the Hodge dual twice supposing that the preferred unit 3-vector is <math> \star 1</math>
+
+: <math> (W\mathbf{r}) \cdot \mathbf{s} = {\star} ( {\star} ( L^\sharp ) \wedge \mathbf{r} \wedge \mathbf{s}) = {\star} (\omega \wedge \mathbf{r} \wedge \mathbf{s}) = {\star} ( \omega \wedge \mathbf{r} ) \cdot \mathbf{s} = ( \omega \times \mathbf{r} ) \cdot \mathbf{s} ,</math>
+
+where
+
+: <math>\omega \times \mathbf{r} := {\star} (\omega \wedge \mathbf{r}) </math>
+
+by definition.
+
+Because <math>\mathbf{s}</math> is an arbitrary vector, from nondegeneracy of [[scalar product]] follows
+
+: <math> W\mathbf{r} = \omega \times \mathbf{r}</math>
+
+=== Angular velocity as a vector field ===
+Since the spin angular velocity tensor of a rigid body (in its rest frame) is a linear transformation that maps positions to velocities (within the rigid body), it can be regarded as a constant [[vector field]]. In particular, the spin angular velocity is a [[Killing vector field]] belonging to an element of the [[Lie algebra]] SO(3) of the 3-dimensional [[rotation group SO(3)]]. Also, it can be shown that the spin angular velocity vector field is exactly half of the [[curl (mathematics)|curl]] of the linear velocity vector field '''v'''('''r''') of the rigid body.
+
+== Rigid body considerations ==
+{{see also|axes conventions}}
+
+[[Image:AngularVelocity02.svg|right|320 px|thumb|Position of point P located in the rigid body (shown in blue). '''R'''<sub>''i''</sub> is the position with respect to the lab frame, centered at ''O'' and '''r'''<sub>''i''</sub> is the position with respect to the rigid body frame, centered at {{'|''O''}}. The origin of the rigid body frame is at vector position '''R''' from the lab frame.]]
+
+The same equations for the angular speed can be obtained reasoning over a rotating [[rigid body]]. Here is not assumed that the rigid body rotates around the origin. Instead, it can be supposed rotating around an arbitrary point that is moving with a linear velocity ''V''(''t'') in each instant.
+
+To obtain the equations, it is convenient to imagine a rigid body attached to the frames and consider a coordinate system that is fixed with respect to the rigid body. Then we will study the coordinate transformations between this coordinate and the fixed "laboratory" system.
+
+As shown in the figure on the right, the lab system's origin is at point ''O'', the rigid body system origin is at {{'|''O''}} and the vector from ''O'' to {{'|''O''}} is '''R'''. A particle (''i'') in the rigid body is located at point P and the vector position of this particle is '''R'''<sub>''i''</sub> in the lab frame, and at position '''r'''<sub>''i''</sub> in the body frame. It is seen that the position of the particle can be written:
+
+: <math>\mathbf{R}_i=\mathbf{R}+\mathbf{r}_i</math>
+
+The defining characteristic of a rigid body is that the distance between any two points in a rigid body is unchanging in time. This means that the length of the vector <math>\mathbf{r}_i</math> is unchanging. By [[Euler's rotation theorem]], we may replace the vector <math>\mathbf{r}_i</math> with <math>\mathcal{R}\mathbf{r}_{io}</math> where <math>\mathcal{R}</math> is a 3×3 [[rotation matrix]] and <math>\mathbf{r}_{io}</math> is the position of the particle at some fixed point in time, say {{nowrap|1=''t'' = 0}}. This replacement is useful, because now it is only the rotation matrix <math>\mathcal{R}</math> that is changing in time and not the reference vector <math>\mathbf{r}_{io}</math>, as the rigid body rotates about point {{'|''O''}}. Also, since the three columns of the rotation matrix represent the three [[versor]]s of a reference frame rotating together with the rigid body, any rotation about any axis becomes now visible, while the vector <math>\mathbf{r}_i</math> would not rotate if the rotation axis were parallel to it, and hence it would only describe a rotation about an axis perpendicular to it (i.e., it would not see the component of the angular velocity pseudovector parallel to it, and would only allow the computation of the component perpendicular to it). The position of the particle is now written as:
+
+: <math>\mathbf{R}_i=\mathbf{R}+\mathcal{R}\mathbf{r}_{io}</math>
+
+Taking the time derivative yields the velocity of the particle:
+
+: <math>\mathbf{V}_i=\mathbf{V}+\frac{d\mathcal{R}}{dt}\mathbf{r}_{io}</math>
+
+where '''V'''<sub>''i''</sub> is the velocity of the particle (in the lab frame) and '''V''' is the velocity of {{'|''O''}} (the origin of the rigid body frame). Since <math>\mathcal{R}</math> is a rotation matrix its inverse is its transpose. So we substitute <math>\mathcal{I}=\mathcal{R}^\text{T}\mathcal{R}</math>:
+
+: <math>\mathbf{V}_i = \mathbf{V}+\frac{d\mathcal{R}}{dt}\mathcal{I}\mathbf{r}_{io}</math>
+
+: <math>\mathbf{V}_i = \mathbf{V}+\frac{d\mathcal{R}}{dt}\mathcal{R}^\text{T}\mathcal{R}\mathbf{r}_{io}</math>
+
+: <math>\mathbf{V}_i = \mathbf{V}+\frac{d\mathcal{R}}{dt}\mathcal{R}^\text{T}\mathbf{r}_{i}</math>
+
+or
+
+: <math>\mathbf{V}_i = \mathbf{V}+W\mathbf{r}_{i}</math>
+
+where <math>W = \frac{d\mathcal{R}}{dt}\mathcal{R}^\text{T}</math> is the previous [[angular velocity tensor]].
+
+It can be [[#W is skew-symmetric|proved]] that this is a [[Skew-symmetric matrix|skew symmetric matrix]], so we can take its [[dual space|dual]] to get a 3 dimensional pseudovector that is precisely the previous angular velocity vector <math>\vec \omega</math>:
+
+: <math>\boldsymbol\omega=[\omega_x,\omega_y,\omega_z]</math>
+
+Substituting ''?'' for ''W'' into the above velocity expression, and replacing matrix multiplication by an equivalent cross product:
+
+: <math>\mathbf{V}_i=\mathbf{V}+\boldsymbol\omega\times\mathbf{r}_i</math>
+
+It can be seen that the velocity of a point in a rigid body can be divided into two terms – the velocity of a reference point fixed in the rigid body plus the cross product term involving the orbital angular velocity of the particle with respect to the reference point. This angular velocity is what physicists call the "spin angular velocity" of the rigid body, as opposed to the ''orbital'' angular velocity of the reference point {{'|''O''}} about the origin ''O''.
+
+=== Consistency ===
+We have supposed that the rigid body rotates around an arbitrary point. We should prove that the spin angular velocity previously defined is independent of the choice of origin, which means that the spin angular velocity is an intrinsic property of the spinning rigid body. (Note the marked contrast of this with the ''orbital'' angular velocity of a point particle, which certainly ''does'' depend on the choice of origin.)
+
+[[image:AngularVelocity03.svg|right|320 px| thumb| Proving the independence of spin angular velocity from choice of origin]]
+
+See the graph to the right: The origin of lab frame is ''O'', while ''O''<sub>1</sub> and ''O''<sub>2</sub> are two fixed points on the rigid body, whose velocity is <math>\mathbf{v}_1</math> and <math>\mathbf{v}_2</math> respectively. Suppose the angular velocity with respect to ''O''<sub>1</sub> and O<sub>2</sub> is <math>\boldsymbol{\omega}_1</math> and <math>\boldsymbol{\omega}_2</math> respectively. Since point ''P'' and ''O''<sub>2</sub> have only one velocity,
+
+: <math> \mathbf{v}_1 + \boldsymbol{\omega}_1\times\mathbf{r}_1 = \mathbf{v}_2 + \boldsymbol{\omega}_2\times\mathbf{r}_2 </math>
+
+: <math> \mathbf{v}_2 = \mathbf{v}_1 + \boldsymbol{\omega}_1\times\mathbf{r} = \mathbf{v}_1 + \boldsymbol{\omega}_1\times (\mathbf{r}_1 - \mathbf{r}_2) </math>
+
+The above two yields that
+
+: <math> (\boldsymbol{\omega}_1-\boldsymbol{\omega}_2) \times \mathbf{r}_2=0 </math>
+
+Since the point ''P'' (and thus <math> \mathbf{r}_2 </math>) is arbitrary, it follows that
+
+: <math> \boldsymbol{\omega}_1 = \boldsymbol{\omega}_2 </math>
+
+If the reference point is the [[instantaneous axis of rotation]] the expression of the velocity of a point in the rigid body will have just the angular velocity term. This is because the velocity of the instantaneous axis of rotation is zero. An example of the instantaneous axis of rotation is the hinge of a door. Another example is the point of contact of a purely rolling spherical (or, more generally, convex) rigid body.
+
+== See also ==
+* [[Angular acceleration]]
+* [[Angular frequency]]
+* [[Angular momentum]]
+* [[Areal velocity]]
+* [[Isometry]]
+* [[Orthogonal group]]
+* [[Rigid body dynamics]]
+* [[Vorticity]]
+
+== References ==
+{{Reflist}}
+* {{note_label|Symon1971||}}{{cite book|last=Symon | first=Keith |title=Mechanics|publisher=Addison-Wesley, Reading, MA|year=1971|isbn = 978-0-201-07392-8 }}
+* {{note_label|LL||}}{{cite book |last=Landau |first=L.D. |authorlink=Lev Landau |author2=[[Evgeny Lifshitz|Lifshitz, E.M.]] |title= Mechanics|year=1997 |publisher=Butterworth-Heinemann |isbn=978-0-7506-2896-9 }}
+
+== External links ==
+{{Wiktionary}}
+{{Commons category|Angular velocity}}
+* [https://books.google.com/books?id=QBc5AAAAMAAJ&pg=PA88 A college text-book of physics] By Arthur Lalanne Kimball (''Angular Velocity of a particle'')
+* {{cite web|last=Pickering|first=Steve|title=? Speed of Rotation [Angular Velocity]|url=http://www.sixtysymbols.com/videos/angularvelocity.htm|work=Sixty Symbols|publisher=[[Brady Haran]] for the [[University of Nottingham]]|year=2009}}
+
+{{Classical mechanics derived SI units}}
+
+[[Category:Angle]]
+[[Category:Physical quantities]]
+[[Category:Rotational symmetry]]
+[[Category:Tensors]]
+[[Category:Velocity]]

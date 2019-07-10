@@ -1,0 +1,57 @@
+{{refimprove|date=July 2009}}
+
+'''Quasinormal modes''' ('''QNM''') are the modes of [[energy]] dissipation of a perturbed object or field, ''i.e.'' they describe perturbations of a field that decay in time.
+
+==Example==
+A familiar example is the perturbation (gentle tap) of a wine glass with a knife: the glass begins to ring, it rings with a set, or superposition, of its natural frequencies — its modes of sonic energy dissipation. One could call these modes ''[[Normal mode|normal]]'' if the glass went on ringing forever. Here the amplitude of oscillation decays in time, so we call its modes ''quasi-normal''. To a high degree of accuracy, '''quasinormal''' ringing can be approximated by
+
+:<math>\psi(t) \approx e^{-\omega^{\prime\prime}t}\cos\omega^{\prime}t</math>
+
+where <math>\psi\left(t\right)</math> is the amplitude of oscillation,
+<math>\omega^{\prime}</math> is the frequency, and
+<math>\omega^{\prime\prime}</math> is the decay rate.  The quasinormal
+frequency is described by two numbers,
+
+:<math>\omega = \left(\omega^{\prime} , \omega^{\prime\prime}\right)</math>
+
+or, more compactly
+
+:<math>\psi\left(t\right) \approx \operatorname{Re}(e^{i\omega t})</math>
+
+:<math>\omega =\omega^{\prime} + i\omega^{\prime\prime}</math>
+
+Here, <math>\mathbf{\omega}</math> is what is commonly referred to as the
+'''quasinormal mode frequency'''. It is a [[complex number]] with two pieces of information: real part is the temporal oscillation; imaginary part is the temporal, [[exponential decay]].
+
+::<!-- Deleted image removed: [[Image:qnm.jpg]] -->
+
+In certain cases the amplitude of the wave decays quickly, to follow the decay for a longer time one may plot <math>\log\left|\psi(t)\right|</math>
+
+::<!-- Deleted image removed: [[Image:log(abs(qnm)).jpg]] -->
+{{listen |filename=qnm.ogg |title=The sound of quasinormal ringing |description=}}
+
+==Mathematical Physics==
+In [[theoretical physics]], a '''quasinormal mode''' is a formal solution of linearized [[differential equation]]s (such as the linearized equations of [[general relativity]] constraining perturbations around a [[black hole]] solution) with a complex [[eigenvalue]] ([[frequency]]).<ref>{{Cite journal|title = Quasinormal modes of black holes: From astrophysics to string theory|url = http://link.aps.org/doi/10.1103/RevModPhys.83.793|journal = Reviews of Modern Physics|date = 2011-07-11|pages = 793–836|volume = 83|issue = 3|doi = 10.1103/RevModPhys.83.793|first = R. A.|last = Konoplya|first2 = Alexander|last2 = Zhidenko|arxiv = 1102.4014 |bibcode = 2011RvMP...83..793K }}</ref><ref>{{Cite web|title = Quasi-Normal Modes of Stars and Black Holes|url = http://relativity.livingreviews.org/Articles/lrr-1999-2/|website = relativity.livingreviews.org|date = 1999-01-01|accessdate = 2015-10-29|first = Kostas D.|last = Kokkotas|first2 = Bernd G.|last2 = Schmidt|deadurl = yes|archiveurl = https://web.archive.org/web/20151222231941/http://relativity.livingreviews.org/Articles/lrr-1999-2/|archivedate = 2015-12-22|df = }}</ref>
+
+[[Black hole]]s have many quasinormal modes (also: ringing modes) that describe the exponential decrease of asymmetry of the black hole in time as it evolves towards the perfect spherical shape.
+
+Recently, the properties of quasinormal modes have been tested in the context of the [[AdS/CFT correspondence]]. Also, the asymptotic behavior of quasinormal modes was proposed to be related to the [[Immirzi parameter]] in [[loop quantum gravity]], but convincing arguments have not been found yet.
+
+==Electromagnetism and photonics==
+There are essentially two types of resonators in optics. In the first type, a high-[[Q factor]] [[optical microcavity]] is achieved with lossless dielectric optical materials, with mode volumes of the order of a cubic wavelength, essentially limited by the diffraction limit. Famous examples of high-Q microcavities are micropillar cavities, microtoroid resonators, photonic-crystal cavities. In the second type of resonators, the characteristic size is well below the diffraction limit, routinely by 2-3 orders of magnitude. In such small volumes, energies are stored for a small period of time. A plasmonic nanoantenna supporting a localized [[surface plasmon]] quasinormal mode essentially behaves as a poor antenna that radiates energy rather than stores it. Thus, as the optical mode becomes deeply sub-wavelength in all three dimensions, independent of its shape, the Q-factor is limited to about 10 or less.
+
+Formally, the resonances (i.e., the quasinormal mode) of an open (non-Hermitian) electromagnetic micro or nanoresonators are all found by solving the time-harmonic source-free Maxwell’s equations with a complex [[frequency]], the real part being the resonance frequency and the imaginary part the damping rate. The damping is due to energy loses via leakage (the resonator is coupled to the open space surrounding it) and/or material absorption. Quasinormal-mode solvers exist to efficiently compute and normalize all kinds of modes of plasmonic nanoresonators and photonic microcavities. The proper normalisation of the mode leads to the important concept of mode volume of non-Hermitian (open and lossy) systems. The mode volume directly impact the physics of the interaction of light and electrons with optical resonance, e.g. the local density of electromagnetic states, [[Purcell effect]], [[cavity perturbation theory]], [[strong interaction]] with quantum emitters, [[superradiance]].<ref>{{Cite journal|title = Light interaction with photonic and plasmonic resonances|url = https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.201700113|journal = Laser & Photonics Reviews|date = 2018-04-17|pages = 1700113|volume = 12|issue = 5|doi = 10.1002/lpor.201700113|first = P. |last = Lalanne|first2 = W. |last2 = Yan |first3 = K. |last3 = Vynck |first4 = C. |last4 = Sauvan |first5 = J.-P. |last5 = Hugonin}}</ref>
+
+==Biophysics==
+
+In computational biophysics, quasinormal modes, also called quasiharmonic modes, are derived from diagonalizing the matrix of equal-time correlations of atomic fluctuations.
+
+== See also ==
+* [[Resonance (quantum field theory)]].
+
+== References ==
+{{Reflist}}
+
+[[Category:Theoretical physics]]
+[[Category:Waves]]
+[[Category:Biophysics]]
