@@ -1,0 +1,14 @@
+Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
+M,mass,1,1,-,-,global
+m,mass,1,3,2,-,global
+x,coordinate,5,-,-,-,global
+F,force,-,9,2,4,global
+mu,reduced mass,-,-,-,-,global
+t,time,1,3,4,-,global
+R,trajectories,-,-,-,1,global
+L,angular momentum,-,-,-,-,global
+r,coordinate,1,-,-,-,global
+d,differential equation,-,7,-,-,global
+N,torque,-,-,-,1,global
+E,energy,1,4,2,2,global
+U,energy,-,-,-,2,global

@@ -1,0 +1,11 @@
+Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
+E,energy,1,4,2,7,global
+m,mass,1,3,2,9,global
+c,speed of light,-,1,2,-,global
+p,momentum,5,-,-,-,global
+r,radius,2,2,1,-,global
+v,velocity,3,7,4,-,global
+K,constant,3,-,-,1,global
+H,hamiltonian,1,-,-,-,global
+Delta,shift,-,-,-,5,global
+P,momentum,8,-,-,4,global

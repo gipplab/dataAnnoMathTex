@@ -1,0 +1,69 @@
+F,force,15
+k,constant,14
+x,displacement,55
+m,mass,27
+a,acceleration,4
+d,differential equation,54
+t,time,50
+A,amplitude,1
+omega,frequency,84
+varphi,phase,1
+T,period,8
+pi,constant,1
+zeta,ratio,49
+c,speed of light,19
+Q,ratio,5
+z,oscillations,3
+e,constant,23
+_,resonance,9
+n,integer,3
+Z,impedance,2
+tau,time,41
+r,resonance,1
+E,energy,21
+m,mass,22
+c,speed of light,34
+p,momentum,2
+r,radius,5
+v,velocity,22
+K,constant,2
+H,hamiltonian,2
+Delta,shift,3
+P,momentum,5
+t,time,7
+omega,frequency,12
+e,constant,2
+psi,modes,4
+beta,scalar,48
+X,random variable,34
+Y,variable,33
+f,function,15
+k,length,12
+N,no match,0
+y,variable,15
+i,index,50
+n,number,18
+x,variable,28
+varepsilon,constant,8
+p,no match,0
+m,observations,4
+X,coordinates,6
+U,no match,0
+kappa,no match,0
+t,time,10
+V,no match,0
+tau,rate,3
+t,rate,2
+M,mass,3
+m,mass,42
+x,coordinate,26
+F,force,13
+mu,reduced mass,1
+t,time,6
+R,trajectories,8
+L,angular momentum,1
+r,coordinate,29
+d,differential equation,3
+N,torque,2
+E,energy,8
+U,energy,5
