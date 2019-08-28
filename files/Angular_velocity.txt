@@ -5,17 +5,17 @@
 | unit =
 | otherunits =
 | symbols = '''''&omega;'''''
-| baseunits = sec<sup>-1</sup>
+| baseunits = sec<sup>−1</sup>
 | dimension = '''rad''' '''T'''<sup>-1</sup>
 | extensive = yes (for rigid body only)
 | intensive = yes
 | conserved = no
 | transformsas = pseudovector
-| derivations =  {{math|'''?''' {{=}} d'''&theta;''' / d'''t'''}}
+| derivations =  {{math|'''ω''' {{=}} d'''&theta;''' / d'''t'''}}
 }}
-{{Classical mechanics|cTopic=Fundamental concepts}}
+{{Classical mechanics|rotational}}
 
-In [[physics]], '''angular velocity''' refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a rigid body's centre of rotation revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] ('''?''', sometimes '''O'''). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
+In [[physics]], '''angular velocity''' refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a rigid body's centre of rotation revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] ('''ω''', sometimes '''Ω'''). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
 
 For example, a [[Geosynchronous orbit|geostationary]] satellite completes one orbit per day above the equator, or 360 degrees per 24 hours, and has angular velocity ''&omega;'' = 360 / 24 = 15 degrees per hour, or 2&pi; / 24 &asymp; 0.26 radians per hour. If angle is measured in [[radians]], the linear velocity is the radius times the angular velocity, <math>v = r\omega</math>. With orbital radius 42,000 km from the earth's center, the satellite's speed through space is thus ''v'' = 42,000 &times; 0.26 &asymp; 11,000 km/hr. The angular velocity is positive since the satellite travels eastward with the Earth's rotation (counter-clockwise from above the north pole.)
 
@@ -36,15 +36,15 @@ In three dimensions, angular velocity is a [[pseudovector]], with its magnitude 
 === Particle in two dimensions ===
 [[Image:Angular velocity1.svg|right|256 px|thumb|The angular velocity of the particle at ''P'' with respect to the origin ''O'' is determined by the [[perpendicular component]] of the velocity vector '''v'''.]]
 
-In the simplest case of circular motion at radius ''r'', with position given by the angular displacement <math>\phi(t)</math> from the x-axis, the orbital angular velocity is the rate of change of angle with respect to time: <math>\omega = \tfrac{d\phi}{dt}</math>. If <math>\phi</math> is measured in [[radian]]s, the distance from the x-axis around the circle to the particle is <math>\ell=r\phi</math>, and the linear velocity is <math>v(t)=\tfrac{d\ell}{dt}=r\omega(t)</math>, so that <math>\omega=\tfrac{v}{r}</math>.  
+In the simplest case of circular motion at radius <math>r</math>, with position given by the angular displacement <math>\phi(t)</math> from the x-axis, the orbital angular velocity is the rate of change of angle with respect to time: <math>\omega = \tfrac{d\phi}{dt}</math>. If <math>\phi</math> is measured in [[radian]]s, the distance from the x-axis around the circle to the particle is <math>\ell=r\phi</math>, and the linear velocity is <math>v(t)=\tfrac{d\ell}{dt}=r\omega(t)</math>, so that <math>\omega=\tfrac{v}{r}</math>.  
 
-In the general case of a particle moving in the plane, the orbital angular velocity is the rate at which the position vector relative to a chosen origin "sweeps out" angle. The diagram shows the position vector '''r''' from the origin ''O'' to a particle ''P'', with its [[polar coordinates]] <math>(r, \phi)</math>. (All variables are functions of time ''t''.) The particle has linear velocity splitting as <math>\mathbf{v} = \mathbf{v}_\|+\mathbf{v}_\perp</math>,  with the radial component <math>\mathbf{v}_\|</math> parallel to the radius, and the cross-radial (or tangential) component <math>\mathbf{v}_\perp</math> perpendicular to the radius. When there is no radial component, the particle moves around the origin in a circle; but when there is no cross-radial component, it moves in a straight line from the origin. Since radial motion leaves the angle unchanged, only the cross-radial component of linear velocity contributes to angular velocity.
+In the general case of a particle moving in the plane, the orbital angular velocity is the rate at which the position vector relative to a chosen origin "sweeps out" angle. The diagram shows the position vector <math>\mathbf{r}</math> from the origin <math>O</math> to a particle <math>P</math>, with its [[polar coordinates]] <math>(r, \phi)</math>. (All variables are functions of time <math>t</math>.) The particle has linear velocity splitting as <math>\mathbf{v} = \mathbf{v}_\|+\mathbf{v}_\perp</math>,  with the radial component <math>\mathbf{v}_\|</math> parallel to the radius, and the cross-radial (or tangential) component <math>\mathbf{v}_\perp</math> perpendicular to the radius. When there is no radial component, the particle moves around the origin in a circle; but when there is no cross-radial component, it moves in a straight line from the origin. Since radial motion leaves the angle unchanged, only the cross-radial component of linear velocity contributes to angular velocity.
 
-The angular velocity ''?'' is the rate of change of angular position with respect to time, which can be computed from the cross-radial velocity as:
+The angular velocity ''ω'' is the rate of change of angular position with respect to time, which can be computed from the cross-radial velocity as:
 
 : <math>\omega = \frac{d\phi}{dt} = \frac{v_\perp}{r}.</math>
 
-Here the cross-radial speed <math>v_\perp</math> is the signed magnitude of <math>\mathbf{v}_\perp</math>, positive for counter-clockwise motion, negative for clockwise. Taking polar coordinates for the linear velocity '''v''' gives magnitude ''v'' (linear speed) and angle ''&theta;'' relative to the radius vector; in these terms, <math>v_\perp = v\sin(\theta)</math>, so that 
+Here the cross-radial speed <math>v_\perp</math> is the signed magnitude of <math>\mathbf{v}_\perp</math>, positive for counter-clockwise motion, negative for clockwise. Taking polar coordinates for the linear velocity <math>\mathbf{v}</math> gives magnitude <math>v</math> (linear speed) and angle <math>\theta</math> relative to the radius vector; in these terms, <math>v_\perp = v\sin(\theta)</math>, so that 
 
 : <math>\omega = \frac{v\sin(\theta)}{r}.</math>
 
@@ -107,7 +107,7 @@ The components of the spin angular velocity pseudovector were first calculated b
 * The line of nodes of the moving frame with respect to the reference frame (nutation axis)
 * One axis of the moving frame (the intrinsic rotation axis)
 
-Euler proved that the projections of the angular velocity pseudovector on each of these three axes is the derivative of its associated angle (which is equivalent to decomposing the instantaneous rotation into three instantaneous [[Euler rotations]]). Therefore:<ref>[http://www.vti.mod.gov.rs/ntp/rad2007/3-07/hedr/hedr.pdf K.S.HEDRIH: Leonhard Euler (17071783) and rigid body dynamics]</ref>
+Euler proved that the projections of the angular velocity pseudovector on each of these three axes is the derivative of its associated angle (which is equivalent to decomposing the instantaneous rotation into three instantaneous [[Euler rotations]]). Therefore:<ref>[http://www.vti.mod.gov.rs/ntp/rad2007/3-07/hedr/hedr.pdf K.S.HEDRIH: Leonhard Euler (1707–1783) and rigid body dynamics]</ref>
 
 : <math>\boldsymbol\omega = \dot\alpha\mathbf u_1+\dot\beta\mathbf u_2+\dot\gamma \mathbf u_3</math>
 
@@ -156,7 +156,7 @@ since the inverse of the orthogonal matrix <math>A</math> is its transpose <math
 
 In general, the angular velocity in an ''n''-dimensional space is the time derivative of the angular displacement tensor, which is a second rank [[skew-symmetric tensor]].
 
-This tensor ''W'' will have {{nowrap|''n''(''n''-1)/2}} independent components, which is the dimension of the [[Lie algebra]] of the [[Lie group]] of [[rotations]] of an ''n''-dimensional inner product space.<ref name="baez">[http://math.ucr.edu/home/baez/classical/galilei2.pdf Rotations and Angular Momentum] on the Classical Mechanics page of [http://math.ucr.edu/home/baez/README.html the website of John Baez], especially Questions 1 and 2.</ref>
+This tensor ''W'' will have {{nowrap|''n''(''n''−1)/2}} independent components, which is the dimension of the [[Lie algebra]] of the [[Lie group]] of [[rotations]] of an ''n''-dimensional inner product space.<ref name="baez">[http://math.ucr.edu/home/baez/classical/galilei2.pdf Rotations and Angular Momentum] on the Classical Mechanics page of [http://math.ucr.edu/home/baez/README.html the website of John Baez], especially Questions 1 and 2.</ref>
 
 === Duality with respect to the velocity vector ===
 
@@ -239,17 +239,17 @@ Since the spin angular velocity tensor of a rigid body (in its rest frame) is a 
 == Rigid body considerations ==
 {{see also|axes conventions}}
 
-[[Image:AngularVelocity02.svg|right|320 px|thumb|Position of point P located in the rigid body (shown in blue). '''R'''<sub>''i''</sub> is the position with respect to the lab frame, centered at ''O'' and '''r'''<sub>''i''</sub> is the position with respect to the rigid body frame, centered at {{'|''O''}}. The origin of the rigid body frame is at vector position '''R''' from the lab frame.]]
+[[Image:AngularVelocity02.svg|right|320 px|thumb|Position of point P located in the rigid body (shown in blue). '''R'''<sub>''i''</sub> is the position with respect to the lab frame, centered at ''O'' and '''r'''<sub>''i''</sub> is the position with respect to the rigid body frame, centered at {{′|''O''}}. The origin of the rigid body frame is at vector position '''R''' from the lab frame.]]
 
 The same equations for the angular speed can be obtained reasoning over a rotating [[rigid body]]. Here is not assumed that the rigid body rotates around the origin. Instead, it can be supposed rotating around an arbitrary point that is moving with a linear velocity ''V''(''t'') in each instant.
 
 To obtain the equations, it is convenient to imagine a rigid body attached to the frames and consider a coordinate system that is fixed with respect to the rigid body. Then we will study the coordinate transformations between this coordinate and the fixed "laboratory" system.
 
-As shown in the figure on the right, the lab system's origin is at point ''O'', the rigid body system origin is at {{'|''O''}} and the vector from ''O'' to {{'|''O''}} is '''R'''. A particle (''i'') in the rigid body is located at point P and the vector position of this particle is '''R'''<sub>''i''</sub> in the lab frame, and at position '''r'''<sub>''i''</sub> in the body frame. It is seen that the position of the particle can be written:
+As shown in the figure on the right, the lab system's origin is at point ''O'', the rigid body system origin is at {{′|''O''}} and the vector from ''O'' to {{′|''O''}} is '''R'''. A particle (''i'') in the rigid body is located at point P and the vector position of this particle is '''R'''<sub>''i''</sub> in the lab frame, and at position '''r'''<sub>''i''</sub> in the body frame. It is seen that the position of the particle can be written:
 
 : <math>\mathbf{R}_i=\mathbf{R}+\mathbf{r}_i</math>
 
-The defining characteristic of a rigid body is that the distance between any two points in a rigid body is unchanging in time. This means that the length of the vector <math>\mathbf{r}_i</math> is unchanging. By [[Euler's rotation theorem]], we may replace the vector <math>\mathbf{r}_i</math> with <math>\mathcal{R}\mathbf{r}_{io}</math> where <math>\mathcal{R}</math> is a 3×3 [[rotation matrix]] and <math>\mathbf{r}_{io}</math> is the position of the particle at some fixed point in time, say {{nowrap|1=''t'' = 0}}. This replacement is useful, because now it is only the rotation matrix <math>\mathcal{R}</math> that is changing in time and not the reference vector <math>\mathbf{r}_{io}</math>, as the rigid body rotates about point {{'|''O''}}. Also, since the three columns of the rotation matrix represent the three [[versor]]s of a reference frame rotating together with the rigid body, any rotation about any axis becomes now visible, while the vector <math>\mathbf{r}_i</math> would not rotate if the rotation axis were parallel to it, and hence it would only describe a rotation about an axis perpendicular to it (i.e., it would not see the component of the angular velocity pseudovector parallel to it, and would only allow the computation of the component perpendicular to it). The position of the particle is now written as:
+The defining characteristic of a rigid body is that the distance between any two points in a rigid body is unchanging in time. This means that the length of the vector <math>\mathbf{r}_i</math> is unchanging. By [[Euler's rotation theorem]], we may replace the vector <math>\mathbf{r}_i</math> with <math>\mathcal{R}\mathbf{r}_{io}</math> where <math>\mathcal{R}</math> is a 3×3 [[rotation matrix]] and <math>\mathbf{r}_{io}</math> is the position of the particle at some fixed point in time, say {{nowrap|1=''t'' = 0}}. This replacement is useful, because now it is only the rotation matrix <math>\mathcal{R}</math> that is changing in time and not the reference vector <math>\mathbf{r}_{io}</math>, as the rigid body rotates about point {{′|''O''}}. Also, since the three columns of the rotation matrix represent the three [[versor]]s of a reference frame rotating together with the rigid body, any rotation about any axis becomes now visible, while the vector <math>\mathbf{r}_i</math> would not rotate if the rotation axis were parallel to it, and hence it would only describe a rotation about an axis perpendicular to it (i.e., it would not see the component of the angular velocity pseudovector parallel to it, and would only allow the computation of the component perpendicular to it). The position of the particle is now written as:
 
 : <math>\mathbf{R}_i=\mathbf{R}+\mathcal{R}\mathbf{r}_{io}</math>
 
@@ -257,7 +257,7 @@ Taking the time derivative yields the velocity of the particle:
 
 : <math>\mathbf{V}_i=\mathbf{V}+\frac{d\mathcal{R}}{dt}\mathbf{r}_{io}</math>
 
-where '''V'''<sub>''i''</sub> is the velocity of the particle (in the lab frame) and '''V''' is the velocity of {{'|''O''}} (the origin of the rigid body frame). Since <math>\mathcal{R}</math> is a rotation matrix its inverse is its transpose. So we substitute <math>\mathcal{I}=\mathcal{R}^\text{T}\mathcal{R}</math>:
+where '''V'''<sub>''i''</sub> is the velocity of the particle (in the lab frame) and '''V''' is the velocity of {{′|''O''}} (the origin of the rigid body frame). Since <math>\mathcal{R}</math> is a rotation matrix its inverse is its transpose. So we substitute <math>\mathcal{I}=\mathcal{R}^\text{T}\mathcal{R}</math>:
 
 : <math>\mathbf{V}_i = \mathbf{V}+\frac{d\mathcal{R}}{dt}\mathcal{I}\mathbf{r}_{io}</math>
 
@@ -275,11 +275,11 @@ It can be [[#W is skew-symmetric|proved]] that this is a [[Skew-symmetric matrix
 
 : <math>\boldsymbol\omega=[\omega_x,\omega_y,\omega_z]</math>
 
-Substituting ''?'' for ''W'' into the above velocity expression, and replacing matrix multiplication by an equivalent cross product:
+Substituting ''ω'' for ''W'' into the above velocity expression, and replacing matrix multiplication by an equivalent cross product:
 
 : <math>\mathbf{V}_i=\mathbf{V}+\boldsymbol\omega\times\mathbf{r}_i</math>
 
-It can be seen that the velocity of a point in a rigid body can be divided into two terms  the velocity of a reference point fixed in the rigid body plus the cross product term involving the orbital angular velocity of the particle with respect to the reference point. This angular velocity is what physicists call the "spin angular velocity" of the rigid body, as opposed to the ''orbital'' angular velocity of the reference point {{'|''O''}} about the origin ''O''.
+It can be seen that the velocity of a point in a rigid body can be divided into two terms – the velocity of a reference point fixed in the rigid body plus the cross product term involving the orbital angular velocity of the particle with respect to the reference point. This angular velocity is what physicists call the "spin angular velocity" of the rigid body, as opposed to the ''orbital'' angular velocity of the reference point {{′|''O''}} about the origin ''O''.
 
 === Consistency ===
 We have supposed that the rigid body rotates around an arbitrary point. We should prove that the spin angular velocity previously defined is independent of the choice of origin, which means that the spin angular velocity is an intrinsic property of the spinning rigid body. (Note the marked contrast of this with the ''orbital'' angular velocity of a point particle, which certainly ''does'' depend on the choice of origin.)
@@ -321,7 +321,7 @@ If the reference point is the [[instantaneous axis of rotation]] the expression 
 {{Wiktionary}}
 {{Commons category|Angular velocity}}
 * [https://books.google.com/books?id=QBc5AAAAMAAJ&pg=PA88 A college text-book of physics] By Arthur Lalanne Kimball (''Angular Velocity of a particle'')
-* {{cite web|last=Pickering|first=Steve|title=? Speed of Rotation [Angular Velocity]|url=http://www.sixtysymbols.com/videos/angularvelocity.htm|work=Sixty Symbols|publisher=[[Brady Haran]] for the [[University of Nottingham]]|year=2009}}
+* {{cite web|last=Pickering|first=Steve|title=ω Speed of Rotation [Angular Velocity]|url=http://www.sixtysymbols.com/videos/angularvelocity.htm|work=Sixty Symbols|publisher=[[Brady Haran]] for the [[University of Nottingham]]|year=2009}}
 
 {{Classical mechanics derived SI units}}
 
