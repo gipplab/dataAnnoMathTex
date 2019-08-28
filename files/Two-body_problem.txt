@@ -1,0 +1,184 @@
+{{About|the two-body problem in classical mechanics|the career management problem of working couples|two-body problem (career)}}
+
+{{multiple image
+ |direction=horizontal
+ |align=right
+ |width1=200
+ |width2=100
+ |image1=orbit5.gif
+ |image2=orbit2.gif
+ |footer=''Left: ''[[2|Two]] bodies with similar [[mass]] orbiting a common [[barycenter]] external to both bodies, with [[elliptic]] orbits—typical of binary stars. ''Right:'' Two bodies with a "slight" difference in mass orbiting a common barycenter. The sizes, and this type of orbit are similar to the [[Pluto#Satellites and the Pluto–Charon system|Pluto–Charon system]] (in which the barycenter is external to both bodies), and to the [[Earth]]–[[Moon]] system—where the barycenter is internal to the larger body. 
+}}
+
+In [[classical mechanics]], the '''two-body problem''' is to determine the motion of two point particles that interact only with each other. Common examples include a [[satellite]] orbiting a [[planet]], a [[planet]] orbiting a [[star]], [[2|two]] [[star]]s orbiting each other (a [[binary star]]), and a classical [[electron]] orbiting an [[atomic nucleus]] (although to solve the electron/nucleus 2-body system correctly, a quantum mechanical approach must be used).
+
+The two-body problem can be re-formulated as two '''one-body problems''', a trivial one and one that involves solving for the motion of one particle in an external [[potential]]. Since many one-body problems can be solved exactly, the corresponding two-body problem can also be solved. By contrast, the [[three-body problem]] (and, more generally, the [[n-body problem|''n''-body problem]] for ''n''&nbsp;=&nbsp;3) cannot be solved in terms of first integrals, except in special cases.
+
+== Reduction to two independent, one-body problems ==
+[[File:Two-body Jacobi coordinates.JPG|thumb|300px|[[Jacobi coordinates]] for two-body problem; Jacobi coordinates are <math>\boldsymbol{R}=\frac {m_1}{M} \boldsymbol{x}_1 + \frac {m_2}{M} \boldsymbol{x}_2 </math> and <math>\boldsymbol{r} = \boldsymbol{x}_1 - \boldsymbol{x}_2 </math> with <math>M = m_1+m_2 \ </math>.<ref name=Betounes>{{cite book|title=Differential Equations|author=David Betounes|url=https://books.google.com/books?id=oNvFAzQXBhsC&pg=PA58|isbn=0-387-95140-7|page=58; Figure 2.15|date=2001|publisher=Springer}}</ref>]]
+
+Let '''x'''<sub>1</sub> and '''x'''<sub>2</sub> be the vector positions of the two bodies, and ''m''<sub>1</sub> and ''m''<sub>2</sub> be their masses. The goal is to determine the trajectories '''x'''<sub>1</sub>(''t'') and '''x'''<sub>2</sub>(''t'') for all times ''t'', given the initial positions '''x'''<sub>1</sub>(''t''&nbsp;=&nbsp;0) and '''x'''<sub>2</sub>(''t''&nbsp;=&nbsp;0) and the initial velocities '''v'''<sub>1</sub>(''t''&nbsp;=&nbsp;0) and '''v'''<sub>2</sub>(''t''&nbsp;=&nbsp;0).
+
+When applied to the two masses, [[Newton's laws of motion#Newton's second law|Newton's second law]] states that
+
+:<math>
+\mathbf{F}_{12}(\mathbf{x}_{1},\mathbf{x}_{2}) = m_{1} \ddot{\mathbf{x}}_{1} \quad \quad \quad (\mathrm{Equation} \ 1)
+</math>
+
+:<math>
+\mathbf{F}_{21}(\mathbf{x}_{1},\mathbf{x}_{2}) = m_{2} \ddot{\mathbf{x}}_{2} \quad \quad \quad (\mathrm{Equation} \  2)
+</math>
+
+where '''F'''<sub>12</sub> is the force on mass 1 due to its interactions with mass 2, and '''F'''<sub>21</sub> is the force on mass 2 due to its interactions with mass 1. The two dots on top of the '''x''' position vectors denote their second derivative with respect to time, or their acceleration vectors.
+
+Adding and subtracting these two equations decouples them into two one-body problems, which can be solved independently. ''Adding'' equations (1) and (2) results in an equation describing the [[center of mass]] ([[barycenter]]) motion. By contrast, ''subtracting'' equation (2) from equation (1) results in an equation that describes how the vector '''r'''&nbsp;=&nbsp;'''x'''<sub>1</sub>&nbsp;&minus;&nbsp;'''x'''<sub>2</sub> between the masses changes with time. The solutions of these independent one-body problems can be combined to obtain the solutions for the trajectories '''x'''<sub>1</sub>(''t'') and '''x'''<sub>2</sub>(''t'').
+
+=== Center of mass motion (1st one-body problem) ===
+
+Let <math>\mathbf{R} </math> be the position of the [[center of mass]] ([[barycenter]]) of the system. Addition of the force equations (1) and (2) yields
+
+:<math>
+m_{1}\ddot{\mathbf{x}}_1 + m_2 \ddot{\mathbf{x}}_2 = (m_1 + m_2)\ddot{\mathbf{R}}  = \mathbf{F}_{12} + \mathbf{F}_{21} = 0
+</math>
+
+where we have used [[Newton's laws of motion|Newton's third law]] '''F'''<sub>12</sub>&nbsp;=&nbsp;&minus;'''F'''<sub>21</sub> and where
+
+:<math>
+\ddot{\mathbf{R}}  \equiv \frac{m_{1}\ddot{\mathbf{x}}_{1} + m_{2}\ddot{\mathbf{x}}_{2}}{m_{1} + m_{2}}.
+</math>
+
+The resulting equation:
+
+:<math>
+\ddot{\mathbf{R}}  = 0
+</math>
+
+shows that the velocity '''V'''&nbsp;=&nbsp;''d'''''R'''/''dt'' of the center of mass is constant, from which follows that the total momentum ''m''<sub>1</sub> '''v'''<sub>1</sub>&nbsp;+&nbsp;''m''<sub>2</sub> '''v'''<sub>2</sub> is also constant ([[conservation of momentum]]). Hence, the position '''R''' (''t'') of the center of mass can be determined at all times from the initial positions and velocities.
+
+===Displacement vector motion (2nd one-body problem)===
+Dividing both force equations by the respective masses, subtracting the second equation from the first and rearranging gives the equation
+
+:<math>
+\ddot {\mathbf{r}} = \ddot{\mathbf{x}}_{1} - \ddot{\mathbf{x}}_{2} = 
+\left( \frac{\mathbf{F}_{12}}{m_{1}} - \frac{\mathbf{F}_{21}}{m_{2}} \right) =
+\left(\frac{1}{m_{1}} + \frac{1}{m_{2}} \right)\mathbf{F}_{12}
+</math>
+
+where we have again used [[Newton's laws of motion|Newton's third law]] '''F'''<sub>12</sub>&nbsp;=&nbsp;&minus;'''F'''<sub>21</sub> and where '''r''' is the [[displacement (vector)|displacement vector]] from mass 2 to mass 1, as defined above.
+
+The force between the two objects, which originates in the two objects, should only be a function of their separation '''r''' and not of their absolute positions '''x'''<sub>1</sub> and '''x'''<sub>2</sub>; otherwise, there would not be [[translational symmetry]], and the laws of physics would have to change from place to place. The subtracted equation can therefore be written:
+
+:<math>
+\mu \ddot{\mathbf{r}} = \mathbf{F}_{12}(\mathbf{x}_{1},\mathbf{x}_{2}) = \mathbf{F}(\mathbf{r})
+</math>
+
+where <math>\mu</math> is the '''[[reduced mass]]'''
+
+:<math>
+\mu = \frac{1}{\frac{1}{m_1} + \frac{1}{m_{2}}} = \frac{m_1 m_2}{m_1 + m_2}.
+</math>
+
+Solving the equation for '''r'''(''t'') is the key to the two-body problem; general solution methods are described below.  
+
+Once '''R''' (''t'') and '''r'''(''t'') have been determined, the original trajectories may be obtained
+
+:<math>
+\mathbf{x}_1(t) = 
+\mathbf{R} (t) + \frac{m_2}{m_1 + m_2} \mathbf{r}(t)
+</math>
+
+:<math>
+\mathbf{x}_2(t) = 
+\mathbf{R} (t) - \frac{m_{1}}{m_1 + m_2} \mathbf{r}(t)
+</math>
+
+as may be verified by substituting the definitions of '''R'''  and '''r''' into the right-hand sides of these two equations.
+
+== Two-body motion is planar ==
+
+The motion of two bodies with respect to each other always lies in a plane (in the [[center of mass frame]]). 
+
+Proof: Defining the [[linear momentum]] '''p''' and the [[angular momentum]] '''L''' of the system, with respect to the center of mass, by the equations
+
+:<math>
+\mathbf{L} = \mathbf{r} \times \mathbf{p} = \mathbf{r} \times \mu \frac{d\mathbf{r}}{dt},
+</math>
+
+where µ is the [[reduced mass]] and '''r''' is the relative position '''r<sub>2</sub>'''-'''r<sub>1</sub>''' (with these written taking the center of mass as the origin, and thus both parallel to '''r''') the rate of change of the angular momentum '''L''' equals the net [[torque]] '''N'''
+
+:<math>
+\mathbf{N} = \frac{d\mathbf{L}}{dt} = \dot{\mathbf{r}} \times \mu\dot{\mathbf{r}} + \mathbf{r} \times \mu\ddot{\mathbf{r}} \ ,
+</math>
+
+and using the property of the [[vector cross product]] that '''v''' × '''w''' = '''0''' for any vectors '''''v''''' and '''''w''''' pointing in the same direction,
+
+:<math>
+ \mathbf{N} \ = \ \frac{d\mathbf{L}}{dt} = \mathbf{r} \times \mathbf{F} \ ,
+</math>
+
+with '''F''' = µ ''d'' <sup>2</sup>'''r''' / ''dt'' <sup>2</sup>.
+
+Introducing the assumption (true of most physical forces, as they obey [[Newton's laws of motion|Newton's strong third law of motion]]) that the force between two particles acts along the line between their positions, it follows that '''r''' × '''F'''&nbsp;= &nbsp;'''0''' and the [[conservation of angular momentum|angular momentum vector '''L''' is constant]] (conserved). Therefore, the displacement vector '''r''' and its velocity '''v''' are always in the plane [[perpendicular]] to the constant vector '''L'''.
+
+== Energy of the two-body system ==
+
+If the force '''F'''('''r''') is [[Conservative force|conservative]] then the system has a [[potential energy]] ''U''('''r'''), so the total [[Mechanical energy|energy]] can be written as
+:<math>E_\text{tot} = {1 \over 2} m_1 \dot{\mathbf{x}}_1^2 + {1 \over 2} m_2 \dot{\mathbf{x}}_2^2 + U(\mathbf{r}) = {1 \over 2} (m_1 + m_2) \dot{\mathbf{R}}^2 + {1 \over 2} \mu \dot{\mathbf{r}}^2 + U(\mathbf{r})</math>
+
+In the center of mass frame the [[Kinetic energy#Frame of reference|kinetic energy]] is the lowest and the total energy becomes
+:<math>E = {1 \over 2} \mu \dot{\mathbf{r}}^2 + U(\mathbf{r})</math>
+The coordinates '''x'''<sub>1</sub> and '''x'''<sub>2</sub> can be expressed as
+:<math> \mathbf{x}_1 = \frac{\mu}{m_1} \mathbf{r}</math>
+:<math> \mathbf{x}_2 = - \frac{\mu}{m_2} \mathbf{r}</math> 
+and in a similar way the energy ''E'' is related to the energies ''E''<sub>1</sub> and ''E''<sub>2</sub> that separately contain the kinetic energy of each body: 
+:<math>
+\begin{align}
+E_1 & = \frac{\mu}{m_1}E = {1 \over 2} m_1 \dot{\mathbf{x}}_1^2 + \frac{\mu}{m_1} U(\mathbf{r}) \\[4pt]
+E_2 & = \frac{\mu}{m_2}E = {1 \over 2} m_2 \dot{\mathbf{x}}_2^2 + \frac{\mu}{m_2} U(\mathbf{r}) \\[4pt]
+E_\text{tot} & = E_1 + E_2
+\end{align}
+</math>
+
+== Central forces ==
+{{main|Classical central-force problem}}
+
+For many physical problems, the force '''F'''('''r''') is a [[central force]], i.e., it is of the form
+
+:<math>\mathbf{F}(\mathbf{r}) = F(r)\hat{\mathbf{r}}</math>
+where ''r'' = |'''r'''| and '''r^''' = '''r'''/''r'' is the corresponding [[unit vector]]. We now have:
+
+:<math>
+\mu \ddot{\mathbf{r}} = {F}(r) \hat{\mathbf{r}} \ ,
+</math>
+
+where ''F''(''r'') is negative in the case of an attractive force.
+
+==See also==
+* [[Energy drift]]
+* [[Equation of the center]]
+* [[Euler's three-body problem]]
+* [[Gravitational two-body problem]]
+* [[Kepler orbit]]
+* [[Kepler problem]]
+* [[n-body problem|''n''-body problem]]
+* [[Three-body problem]]
+* [[Two-body problem (career)]]
+* [[Two-body problem in general relativity]]
+* [[Virial theorem]]
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+
+* {{cite book | author = Landau LD | author-link = Lev Landau | author2 = Lifshitz EM | author2-link = Evgeny Lifshitz | date = 1976 | title =  Mechanics | edition = 3rd. | publisher = [[Pergamon Press]] | location = New York | isbn = 0-08-029141-4}}
+* {{cite book | author = Goldstein H | author-link = Herbert Goldstein | date = 1980 | title = [[Classical Mechanics (textbook)|Classical Mechanics]] | edition = 2nd. | publisher = [[Addison-Wesley]] | location = New York | isbn = 0-201-02918-9}}
+
+== External links ==
+
+* [http://scienceworld.wolfram.com/physics/Two-BodyProblem.html Two-body problem] at [[ScienceWorld|Eric Weisstein's World of Physics]]
+
+{{DEFAULTSORT:Two-Body Problem}}
+[[Category:Concepts in physics]]
+[[Category:Orbits]]
+[[Category:Classical mechanics]]
