@@ -1,0 +1,55 @@
+{{Wiktionary|TEST|Test|Tests|testing|tests}}
+<!--
+*********************************************************************
+*        *** Attention ALL USERS (registered or not): ***           *
+*              ****This is **NOT** a test page!****                 *
+*    This is a disambiguation page for the term "test".             *
+* ** DO NOT practice here. ** If you do, you may be blocked         *
+* for disruptive editing or vandalism. If you want to practice,     *
+* please use https://en.wikipedia.org/wiki/Wikipedia:Sandbox        *
+*                                       Thanks...                   *
+*********************************************************************
+-->
+
+'''Test(s)''' or '''TEST''' may refer to:
+
+* [[Test (assessment)]], an assessment intended to measure the respondents' knowledge or other abilities
+
+{{TOC right}}
+== Arts and entertainment ==
+* [[Test (group)]], a jazz collective
+* [[Tests (album)|''Tests'' (album)]], a 1998 album by The Microphones
+* [[Test (2013 film)|''Test'' (2013 film)]], an American film
+* [[Test (2014 film)|''Test'' (2014 film)]], a Russian film
+
+== Science and technology ==
+* [[Test (biology)]], the shell of sea urchins and certain microorganisms
+* [[test (Unix)]], a Unix command for evaluating conditional expressions
+* [[TEST (x86 instruction)]], an x86 assembly language instruction
+
+== Sports ==
+* [[Test cricket]], a series of matches played by two national representative teams
+* [[Test match (rugby league)]], a match between teams representing members of the Rugby League International Federation
+* [[Test match (rugby union)]], an international match usually played between two senior national teams
+* [[Test (greyhound competition)]], a greyhound race run between 1941 and 2008
+
+== People ==
+* [[Test (wrestler)]], ring name for Andrew Martin (1975–2009), Canadian professional wrestler
+* [[John Test]] (1771–1849), American politician
+* [[Zack Test]] (born 1989), American rugby union player 
+
+== Other uses==
+* [[River Test]], a river in England
+
+== See also ==
+{{canned search|Test}}
+* [[Tester (disambiguation)]]
+* [[The Test (disambiguation)]]
+* {{lookfrom|Test}}
+* {{intitle|Test}}
+* [[Tester (disambiguation)]]
+
+{{pp-semi-vandalism|small=yes}}
+{{pp-move-indef}}
+
+{{disambiguation|surname}}
