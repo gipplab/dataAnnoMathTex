@@ -1,1 +1,0 @@
-{"global": {"tau": {"name": "rate", "uniqueIDs": ["43---2", "43---8", "43---10"], "sourcesWithNums": {"WordWindow": "1"}}, "t": {"name": "rate", "uniqueIDs": ["43---4", "43---6"], "sourcesWithNums": {"WordWindow": "1"}}}}
