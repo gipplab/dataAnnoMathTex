@@ -1,0 +1,1856 @@
+{{pp-semi|small=yes}}
+{{EngvarB|date=July 2016}}
+{{Use dmy dates|date=April 2019}}
+[[File:DonaldBradman.jpg|thumb|upright|alt=A man wearing a black shirt, with the collar up, and a dark cap with a light-coloured emblem|[[Donald Bradman]], holder of several Test batting records including highest batting average]]
+[[File:Sachin at Castrol Golden Spanner Awards.jpg|thumb|upright|[[Sachin Tendulkar]] is the leading run-scorer and century maker in Test cricket]]
+[[File:MuralitharanBust2004IMG.JPG|thumb|upright|[[Muttiah Muralitharan]] is the highest wicket-taker in Test cricket]]
+[[Test cricket]] is played between international [[cricket]] teams who are [[List of International Cricket Council members#Full Members|Full Members]] of the [[International Cricket Council]] (ICC).<ref>{{cite web |title=Classification of Official Cricket |publisher=International Cricket Council |url=http://l.yimg.com/t/icccricket/pdfs/classification-of-official-cricket-july-2008.pdf |format=PDF |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20110929114225/http://l.yimg.com/t/icccricket/pdfs/classification-of-official-cricket-july-2008.pdf |archive-date=29 September 2011 |url-status=dead  }}</ref> Unlike [[One Day International]]s, Test matches consist of two [[Innings (cricket)|innings]] per team, with no limit in the number of [[Over (cricket)|overs]].<ref>{{cite news |title=The difference between Test and one-day cricket |url=http://news.bbc.co.uk/sport1/hi/cricket/rules_and_equipment/4180708.stm |publisher=BBC Sport |accessdate=12 August 2009 |date=6 September 2005 |archive-url=https://web.archive.org/web/20090129132447/http://news.bbc.co.uk/sport1/hi/cricket/rules_and_equipment/4180708.stm |archive-date=29 January 2009 |url-status=live }}</ref> Test cricket is [[first-class cricket]], so statistics and records set in Test matches are also counted toward first-class records. The duration of Tests, currently limited to five days, has varied through Test history, ranging from three days to [[Timeless Test|timeless matches]].<ref>{{cite news |last=Martin-Jenkins |first=Christopher |title=Flintoff given go-ahead to make it even more difficult for opponents |url=http://www.timesonline.co.uk/tol/sport/cricket/article529303.ece |date=3 June 2005 |work=The Times |accessdate=12 August 2009}}{{subscription}}</ref><ref>{{cite web |last=Williamson |first=Martin |title=Calling time on eternity |url=http://www.cricinfo.com/magazine/content/story/395117.html |date=14 March 2009 |publisher=ESPN |work=Cricinfo |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20091003023442/http://www.cricinfo.com/magazine/content/story/395117.html |archive-date=3 October 2009 |url-status=live }}</ref> The earliest match now recognised as a Test was played between [[England cricket team|England]] and [[Australia national cricket team|Australia]] in March 1877;<ref>{{cite web |last=Williamson |first=Martin |title=The birth of Test cricket |url=http://www.cricinfo.com/magazine/content/current/story/75601.html |publisher=ESPN| work=Cricinfo |accessdate=12 August 2009}}</ref> since then there have been over 2,000 Tests played by 13 teams. The frequency of Tests has steadily increased partly because of the increase in the number of Test-playing countries, and partly as cricket boards seek to maximise their revenue.<ref>{{cite web |last=Martin-Jenkins |first=Christopher |title=Crying out for less |url=http://www.cricinfo.com/wisdenalmanack/content/story/154859.html |year=2003 |work=Wisden Cricketers' Almanack – online archive |publisher=John Wisden & Co |accessdate=12 August 2009}}</ref>
+
+Cricket is, by its nature, capable of generating large numbers of [[Cricket statistics|records and statistics]].<ref>{{cite web |title=Records – Test matches |url=http://stats.cricinfo.com/ci/engine/records/index.html?class=1 |publisher=ESPN |work=Cricinfo |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20090817180950/http://stats.cricinfo.com/ci/engine/records/index.html?class=1 |archive-date=17 August 2009 |url-status=live }}</ref> This list details the most significant team and individual records in Test cricket.
+
+As of January 2019, the most successful team in Test cricket, in terms of both [[Result (cricket)|wins]] and win percentage, is Australia, having won 385 of their 819 Tests (47.00%). Excluding teams who have only played a single Test (the ICC World XI, a rest of world team who played a single Test against Australia in 2005, and recent Test newcomers Ireland and Afghanistan) the least successful team are [[Bangladesh national cricket team|Bangladesh]] who have struggled since their introduction to Test cricket in 2000, leading to questioning of their Test status.<ref>{{cite news |last=Briggs |first=Simon |title=Twenty20 threatening Bangladesh Test status |url=https://www.telegraph.co.uk/sport/cricket/international/bangladesh/4075107/Twenty20-threatening-Bangladesh-Test-status.html |date=2 January 2009 |work=The Telegraph |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20121114203758/http://www.telegraph.co.uk/sport/cricket/international/bangladesh/4075107/Twenty20-threatening-Bangladesh-Test-status.html |archive-date=14 November 2012 |url-status=live }}</ref><ref>{{cite news |last=Marshallsea |first=Trevor |title=Ponting queries Bangladesh Test status |url=http://www.theage.com.au/news/cricket/ponting-queries-bangladesh-test-status/2006/02/16/1140064205704.html |date=17 February 2006 |work=The Age |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20070509165013/http://www.theage.com.au/news/cricket/ponting-queries-bangladesh-test-status/2006/02/16/1140064205704.html |archive-date=9 May 2007 |url-status=live }}</ref><ref>{{cite news |title=Lillee rubbishes Bangladesh series |url=http://www.abc.net.au/news/stories/2003/07/30/913358.htm |date=30 June 2003 |publisher=ABC News |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20110221094152/http://www.abc.net.au/news/stories/2003/07/30/913358.htm |archive-date=21 February 2011 |url-status=live }}</ref>
+
+Australian [[Donald Bradman]], widely considered the greatest batsman of all time,<ref>{{cite news |last=Beard |first=Matthew |title=Donald Bradman, world's greatest batsman, dies at 92 |url=https://www.independent.co.uk/sport/cricket/donald-bradman-worlds-greatest-batsman-dies-at-92-693198.html |date=26 February 2001 |work=The Independent |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20090323144634/http://www.independent.co.uk/sport/cricket/donald-bradman-worlds-greatest-batsman-dies-at-92-693198.html |archive-date=23 March 2009 |url-status=live }}</ref><ref>{{cite web |title=Player Profile: Sir Donald Bradman |url=http://www.cricinfo.com/australia/content/player/4188.html |publisher=ESPN |work=Cricinfo |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20090802071634/http://www.cricinfo.com/australia/content/player/4188.html |archive-date=2 August 2009 |url-status=live }}</ref> holds several personal and partnership records. He scored the most runs in a series, has the most [[Century (cricket)|double centuries]] and was a part of the record 5th wicket [[Partnership (cricket)|partnership]]. His most significant record is his [[Batting average (cricket)|batting average]] of 99.94. One of cricket's most famous statistics,<ref>{{cite news |last=Davis |first=Charles |title=Could this be the Don's missing four runs? |url=http://www.smh.com.au/articles/2008/08/22/1219262525317.html?feed=fairfaxdigitalxml |date=4 August 2007 |work=Sydney Morning Herald |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20121106150616/http://www.smh.com.au/articles/2008/08/22/1219262525317.html?feed=fairfaxdigitalxml |archive-date=6 November 2012 |url-status=live }}</ref><ref>{{cite news |last=Leggat |first=David |title=The tainted stat that divides a nation |url=http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=10455756 |date=23 August 2008 |work=New Zealand Herald |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20121023141935/http://www.nzherald.co.nz/sport/news/article.cfm?c_id=4&objectid=10455756 |archive-date=23 October 2012 |url-status=live }}</ref> it stands almost 40 [[Run (cricket)|runs]] higher than any other batsman's average. Don Bradman is the only player in the world to have scored 5000 runs against a single opposition: 5028 runs against England.<ref>
+{{Cite web |url=http://www.cricmatez.com/2013/06/09/all-records-of-sir-don-bradman/ |title=All Records of Sir Don Bradman |access-date=9 July 2013 |archive-url=https://web.archive.org/web/20130809001230/http://www.cricmatez.com/2013/06/09/all-records-of-sir-don-bradman/ |archive-date=9 August 2013 |url-status=dead  }} 
+</ref>
+
+In the Manchester Test of 1956, England [[Spin bowling|spin bowler]] [[Jim Laker]] took 19 [[Wicket (dismisal)|wickets]] for 90 runs (19–90) which set not only the Test record for best match figures but also the first-class one.<ref>{{cite web |title=Records – First-class matches – Bowling records – Best figures in a match |url=http://stats.cricinfo.com/ci/content/records/283212.html |publisher=ESPN |work=Cricinfo |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20091211201945/http://stats.cricinfo.com/ci/content/records/283212.html |archive-date=11 December 2009 |url-status=live }}</ref> In taking 10–53 in the second innings he became the first bowler to capture all ten wickets in a Test match innings, and his [[Bowling analysis|analysis]] remains the best innings figures. Indian [[Leg-spinner]] [[Anil Kumble]] is the only other bowler to have taken 10 wickets in an innings, claiming 10–74 against [[Pakistan cricket team|Pakistan]] in 1999.<ref>{{cite web |title=Pakistan tour of India, 1998/99 |url=http://www.cricinfo.com/ci/engine/match/63829.html |publisher=ESPN |work=Cricinfo |accessdate=23 July 2012 |archive-url=https://web.archive.org/web/20101111091826/http://www.cricinfo.com/ci/engine/match/63829.html |archive-date=11 November 2010 |url-status=live }}</ref> [[West Indies cricket team|West Indies]] batsman [[Brian Lara]] has the highest individual score in Test cricket: he scored 400 [[not out]] against England in 2004 to surpass the innings of 380 by [[Matthew Hayden]] six months earlier. Lara had held the record before Hayden, with a score of 375 against England 10 years earlier.<ref>{{cite news |last=Fraser |first=Angus |title=Lara smashes magical 400 to rewrite history |url=https://www.independent.co.uk/sport/cricket/lara-smashes-magical-400-to-rewrite-history-756362.html |date=13 April 2008 |work=The Independent |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20091206050153/http://www.independent.co.uk/sport/cricket/lara-smashes-magical-400-to-rewrite-history-756362.html |archive-date=6 December 2009 |url-status=live }}</ref> Pakistan's [[Misbah-ul-Haq]] holds the record of the fastest Test half century, scoring 50 runs from 21 balls. The record for the fastest Test century is held by New Zealand's [[Brendon McCullum]], who scored 100 runs from 54 balls in his final Test match.
+
+The trend of countries to increase the number of Test matches they play means that the aggregate lists are dominated by modern players. [[Sri Lanka national cricket team|Sri Lankan]] spinner [[Muttiah Muralitharan]] became the highest Test wicket-taker in December 2007, when he passed [[Shane Warne]]'s total of 708 wickets.<ref>{{cite news |title=Muralitharan breaks Test record |url=http://news.bbc.co.uk/sport1/hi/cricket/other_international/sri_lanka/7123499.stm |date=3 December 2007 |publisher=BBC Sport |accessdate=12 August 2009}}</ref> Within a year, the equivalent batting record of highest run-scorer had also changed hands: [[Sachin Tendulkar]] surpassed the tally of 11,953 runs by Brian Lara.<ref>{{cite news |title=India v Australia 2nd Test |url=http://news.bbc.co.uk/sport1/hi/cricket/7675435.stm |date=17 October 2008 |publisher=BBC Sport |accessdate=12 August 2009 |archive-url=https://web.archive.org/web/20081021234016/http://news.bbc.co.uk/sport1/hi/cricket/7675435.stm |archive-date=21 October 2008 |url-status=live }}</ref> The record for most [[Dismissal (cricket)|dismissals]] by a [[wicket-keeper]] is held by [[Mark Boucher]] of [[South Africa national cricket team|South Africa]]<ref>{{cite web|title=Eye injury ends Boucher's career|url=http://www.espncricinfo.com/england-v-south-africa-2012/content/story/571732.html|accessdate=23 July 2012|publisher=ESPN|work=Cricinfo|date=10 July 2012|archive-url=https://web.archive.org/web/20120713034800/http://www.espncricinfo.com/england-v-south-africa-2012/content/story/571732.html|archive-date=13 July 2012|url-status=live}}</ref> while the record for most [[Caught|catches]] by a [[Fielding (cricket)|fielder]] is held by [[Rahul Dravid]].<ref>{{cite news|title=Rahul Dravid announces retirement from international cricket|url=http://timesofindia.indiatimes.com/sports/cricket/top-stories/Rahul-Dravid-announces-retirement-from-international-cricket/articleshow/12195477.cms|accessdate=23 July 2012|work=The Times of India|publisher=Times Group|date=9 March 2012|archive-url=https://web.archive.org/web/20120309090436/http://timesofindia.indiatimes.com/sports/cricket/top-stories/Rahul-Dravid-announces-retirement-from-international-cricket/articleshow/12195477.cms|archive-date=9 March 2012|url-status=live}}</ref>
+
+== Listing criteria ==
+In general the top five are listed in each category (except when there is a tie for the last place among the five, when all the tied record holders are noted).
+
+== Listing notation ==
+;Team notation
+* (300–3) indicates that a team scored 300 [[run (cricket)|runs]] for three [[wicket]]s and the innings was closed, either due to a successful run chase or if no playing time remained
+* (300–3 d) indicates that a team scored 300 runs for three wickets, and declared its innings closed
+* (300) indicates that a team scored 300 runs and was [[End of an innings (cricket)|all out]]
+
+;Batting notation
+* (100) indicates that a batsman scored 100 runs and was [[dismissal (cricket)|out]]
+* (100*) indicates that a batsman scored 100 runs and was not out
+
+;Bowling notation
+* (5–100) indicates that a bowler has captured 5 wickets while conceding 100 runs
+
+;Currently playing
+* {{dagger}} indicates a current Test cricketer
+
+;Seasons
+* Domestic [[cricket season]]s in Australia, [[New Zealand]], South Africa, [[India]], [[Pakistan]], [[Sri Lanka]], [[Bangladesh]], [[Zimbabwe]] and the [[West Indies]] may span two calendar years, and are by convention said to be played in (''e.g.'') "2008–09". A cricket season in England is described as a single year. ''e.g.'' "2009". An international Test series may be for a much shorter duration, and [[Cricinfo]] treats this issue by stating "any series or matches which began between May and September of any given year will appear in the relevant single year season and any that began between October and April will appear in the relevant cross-year season".<ref>{{cite web|url=http://www.cricinfo.com/ci/engine/current/series/index.html|title=Match/series archive|publisher=ESPN|work=Cricinfo|accessdate=16 August 2009|archive-url=https://web.archive.org/web/20090814104556/http://www.cricinfo.com/ci/engine/current/series/index.html|archive-date=14 August 2009|url-status=live}}</ref> In the record tables, a two-year span generally indicates that the record was set within a domestic season in one of the above named countries.
+
+== Team records ==
+
+=== Team wins, losses and draws ===
+{| class="wikitable sortable plainrowheaders" style="width:100%;"
+|-
+! style="background:#9cf;"| Team
+! style="background:#9cf;"| First Test match
+! style="background:#9cf;"| Matches
+! style="background:#9cf;"| Won
+! style="background:#9cf;"| Lost
+! style="background:#9cf;"| Tied
+! style="background:#9cf;"| Drawn
+! style="background:#9cf;"| % Won
+|-
+| style="text-align:left;"|{{cr|AFG}} || {{dts|format=dmy|2018|6|14}} || 3 || 2 || 1 || 0 || 0|| 66.66
+|-
+| style="text-align:left;"|{{cr|AUS}} || {{dts|format=dmy|1877|3|15}} || 825 || 388 || 224 || 2 || 211 || 47.03
+|-
+| style="text-align:left;"|{{cr|BAN}} || {{dts|format=dmy|2000|11|10}} || 115 || 13 || 86 || 0 || 16 || 11.30
+|-
+| style="text-align:left;"|{{cr|ENG}} || {{dts|format=dmy|1877|3|15}} || 1016 || 368 || 302 || 0 || 346 || 36.22
+|-
+| style="text-align:left;"|{{cr|IND}} || {{dts|format=dmy|1932|6|25}} || 535 || 152 || 165 || 1 || 217 || 28.41
+|-
+| style="text-align:left;"|{{cr|IRE}} || {{dts|format=dmy|2018|5|11}} || 3 || 0 || 3 || 0 || 0 || 0.00
+|-
+| style="text-align:left;"|{{cr|NZL}} || {{dts|format=dmy|1930|1|10}} || 435 || 98 || 172 || 0 || 165 || 22.52
+|-
+| style="text-align:left;"|{{cr|PAK}} || {{dts|format=dmy|1952|10|16}} || 423 || 136 || 128 || 0 || 159 || 32.15
+|-
+| style="text-align:left;"|{{cr|RSA}} || {{dts|format=dmy|1889|3|12}} || 432 || 164 || 144 || 0 || 124 || 37.96
+|-
+| style="text-align:left;"|{{cr|SRI}} || {{dts|format=dmy|1982|2|17}} || 285 || 91 || 108 || 0 || 86 || 31.92
+|-
+| style="text-align:left;"|{{cr|WIN}} || {{dts|format=dmy|1928|6|23}} || 544 || 173 || 195 || 1 || 175 || 31.80
+|-
+| style="text-align:left;"|{{cr|ZIM}} || {{dts|format=dmy|1992|10|18}} || 107 || 12 || 68 || 0 || 27 || 11.21
+|-
+| style="text-align:left;"|[[List of World XI Test cricketers|ICC World XI]] || {{dts|format=dmy|2005|10|14}} || 1 || 0 || 1 || 0 || 0 || 0.00
+|- class="sortbottom"
+| colspan=9 | 
+<small>Last updated: 15 September 2019</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283877.html|title=Test matches – Team records – Results summary|publisher=ESPN|work=Cricinfo|accessdate=28 January 2019|archive-url=https://web.archive.org/web/20100619111558/http://stats.cricinfo.com/ci/content/records/283877.html|archive-date=19 June 2010|url-status=live}}</ref>
+|}
+
+=== Result records ===
+
+==== Greatest win margins (by innings) ====
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Margin
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! Innings and 579 runs
+| {{cr|ENG}} (903–7 d) beat {{cr|AUS}} (201 & 123) || [[The Oval]], [[London]] || 1938
+|-
+! Innings and 360 runs
+| {{cr|AUS}} (652–7 d) beat {{cr|RSA}} (159 & 133) || [[New Wanderers Stadium]], [[Johannesburg]] || 2001–02
+|-
+! Innings and 336 runs
+| {{cr|WIN}} (614–5 d) beat {{cr|IND}} (124 & 154) || [[Eden Gardens]], [[Kolkata]] || 1958–59
+|-
+! Innings and 332 runs
+| {{cr|AUS}} (645) beat {{cr|ENG}} (141 & 172) || [[Brisbane Cricket Ground]] || 1946–47
+|-
+! Innings and 324 runs
+| {{cr|PAK}} (643) beat {{cr|NZL}} (73 & 246) || [[Gaddafi Stadium]], [[Lahore]] || 2002
+|-
+| colspan=4 | 
+<small>Last updated: 12 December 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/210099.html|title=Test matches – Team records – Largest margin of victory (by an innings)|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100507141844/http://stats.cricinfo.com/ci/content/records/210099.html|archive-date=7 May 2010|url-status=live}}</ref>
+|}
+
+==== Greatest win margin (by runs) ====
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Margin
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! 675 runs 
+| {{cr|ENG}} (521 & 342–8 d) beat {{cr|AUS}} (122 & 66) || [[Brisbane Exhibition Ground]] || 1928–29
+|-
+! 562 runs 
+| {{cr|AUS}} (701 & 327) beat {{cr|ENG}} (321 & 145) || [[The Oval]], [[London]] || 1934
+|-
+! 530 runs 
+| {{cr|AUS}} (328 & 578) beat {{cr|RSA|1910}} (205 & 171) || [[Melbourne Cricket Ground]] || 1910–11
+|-
+! 492 runs 
+| {{cr|RSA}} (488 & 344-6 d) beat {{cr|AUS}} (221 & 119) || [[Wanderers Stadium]], [[Johannesburg, Gauteng|Johannesburg]] || 2018
+|-
+! 491 runs 
+| {{cr|AUS}} (381 & 361–5 d) beat {{cr|PAK}} (179 & 72) || [[WACA Ground]], [[Perth, Western Australia|Perth]] || 2004–05
+|-
+| colspan=4 | 
+<small>Last updated: 3 April 2018</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283901.html|title=Test matches – Team records – Largest margin of victory (by runs)|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100330151457/http://stats.cricinfo.com/ci/content/records/283901.html|archive-date=30 March 2010|url-status=live}}</ref>
+|}
+
+==== Matches that finished with scores level ====
+{{See also|Tied Test}}
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Result
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! Tie
+| {{cr|AUS}} (505 & 232) vs {{cr|WIN}} (453 & 284) || [[The Gabba]] || 1960–61
+|-
+! Tie
+| {{cr|IND}} (397 & 347) vs {{cr|AUS}} (574–7 d & 170–5 d) || [[MA Chidambaram Stadium]], [[Madras]] || 1986–87
+|-
+! Draw
+| {{cr|ZIM}} (376 & 234) vs {{cr|ENG}} (406 & 204–5) || [[Queens Sports Club]], [[Bulawayo]] || 1996–97
+|-
+! Draw
+| {{cr|IND}} (482 & 242–9) vs {{cr|WIN}} (590 & 134) || [[Wankhede Stadium]], [[Mumbai]] || 2011–12
+|-
+| colspan=4 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283891.html|title=Records / Test matches / Team records / Tied matches|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20181215225752/http://stats.espncricinfo.com/ci/content/records/283891.html|archive-date=15 December 2018|url-status=live}}</ref><ref>{{cite web|url=http://www.espncricinfo.com/ci/engine/match/63734.html|title=England tour of Zimbabwe, 1996/97|publisher=ESPN|work=Cricinfo|accessdate=30 December 2011|archive-url=https://web.archive.org/web/20120101024026/http://www.espncricinfo.com/ci/engine/match/63734.html|archive-date=1 January 2012|url-status=live}}</ref><ref>{{cite web|url=http://www.espncricinfo.com/ci/engine/match/535999.html|title=West Indies tour of India, 2011/12|publisher=ESPN|work=Cricinfo|accessdate=7 January 2012|archive-url=https://web.archive.org/web/20120106104714/http://www.espncricinfo.com/ci/engine/match/535999.html|archive-date=6 January 2012|url-status=live}}</ref>
+|}
+
+==== Narrowest win margin (by wickets) ====
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Margin
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! rowspan="14" style="vertical-align:middle;"| 1 wicket
+| {{cr|ENG}} (183 & 263–9) beat {{cr|AUS}} (324 & 121) || [[The Oval]], [[London]] || 1902
+|-
+| {{cr|RSA|1910}} (91 & 287–9) beat {{cr|ENG}} (184 & 190) || [[Old Wanderers]], [[Johannesburg]] || 1905–06
+|-
+| {{cr|ENG}} (382 & 282–9) beat {{cr|AUS}} (266 & 397) || [[Melbourne Cricket Ground]] || 1907–08
+|-
+| {{cr|ENG}} (183 & 173–9) beat {{cr|RSA|1912}} (113 & 242) || [[Newlands Cricket Ground]], [[Cape Town]] || 1922–23
+|-
+| {{cr|AUS}} (216 & 260–9) beat {{cr|WIN}} (272 & 203) || [[Melbourne Cricket Ground]] || 1951–52
+|-
+| {{cr|NZL}} (249 & 104–9) beat {{cr|WIN}} (140 & 212) || [[Carisbrook]], [[Dunedin]] || 1979–80
+|-
+| {{cr|PAK}} (256 & 315–9) beat {{cr|AUS}} (337 & 232) || [[National Stadium, Karachi|National Stadium]], [[Karachi]] || 1994–95
+|-
+| {{cr|WIN}} (329 & 311–9) beat {{cr|AUS}} (490 & 146) || [[Kensington Oval]], [[Bridgetown]] || 1998–99
+|-
+| {{cr|WIN}} (273 & 216–9) beat {{cr|PAK}} (269 & 219) || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 1999–00
+|-
+| {{cr|PAK}} (175 & 262–9) beat {{cr|BAN}} (281 & 154) || [[Ibn-e-Qasim Bagh Stadium]], [[Multan]] || 2003
+|-
+| {{cr|SRI}} (321 & 352–9) beat {{cr|RSA}} (361 & 311) || [[Paikiasothy Saravanamuttu Stadium]], [[Colombo]] || 2006
+|-
+| {{cr|IND}} (405 & 216–9) beat {{cr|AUS}} (428 & 192) || [[Punjab Cricket Association Stadium]], [[Mohali]] || 2010–11
+|-
+| {{cr|SRI}} 191 & 304-9) beat {{cr|RSA}} (235 & 259) || [[Kingsmead Cricket Ground]], [[Durban]] || 2018-19
+|-
+| {{cr|ENG}} 67 & 362-9) beat {{cr|AUS}} (179 & 246) || [[Headingley Cricket Ground|Headingley]], [[Leeds]] || 2019
+|-
+| colspan=4 | 
+<small>Last updated: 25 August 2019</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/255926.html|title=Test matches – Team records – Smallest margin of victory (by wickets)|publisher=ESPN|work=Cricinfo|accessdate=25 August 2019|archive-url=https://web.archive.org/web/20100421232907/http://stats.cricinfo.com/ci/content/records/255926.html|archive-date=21 April 2010|url-status=live}}</ref>
+|}
+
+==== Narrowest win margin (by runs) ====
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Margin
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! 1 run
+| {{cr|WIN}} (252 & 146) beat {{cr|AUS}} (213 & 184) || [[Adelaide Oval]] || 1992–93
+|-
+! 2 runs
+| {{cr|ENG}} (407 & 182) beat {{cr|AUS}} (308 & 279) || [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]] || 2005
+|-
+! rowspan="2" style="vertical-align:middle;"| 3 runs
+| {{cr|AUS}} (299 & 86) beat {{cr|ENG}} (262 & 120) || [[Old Trafford Cricket Ground|Old Trafford]], [[Manchester]] || 1902
+|-
+| {{cr|ENG}} (284 & 294) beat {{cr|AUS}} (287 & 288) || [[Melbourne Cricket Ground]] || 1982–83
+|-
+! 4 runs
+| {{cr|NZ}} (153 & 249) beat {{cr|PAK}} (227 & 171) || [[Sheikh Zayed Cricket Stadium]], [[Abu Dhabi]] || 2018–19
+|-
+| colspan=4 | 
+<small>Last updated: 19 November 2018</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/215342.html|title=Test matches – Team records – Smallest margin of victory (by runs)|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100420043804/http://stats.cricinfo.com/ci/content/records/215342.html|archive-date=20 April 2010|url-status=live}}</ref>
+|}
+
+==== Victory after following-on ====
+{{See also|Follow-on}}
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Margin
+! style="background:#9cf;"| Teams
+! style="background:#9cf;"| [[List of Test cricket grounds|Venue]]
+! style="background:#9cf;"| Season
+|-
+! 10 runs
+| {{cr|ENG}} (325 & 437) beat {{cr|AUS}} (586 & 166) || [[Sydney Cricket Ground]] || 1894–95
+|-
+! 18 runs
+| {{cr|ENG}} (174 & 356) beat {{cr|AUS}} (401–9 d & 111) || [[Headingley Cricket Ground|Headingley]], [[Leeds]] || 1981
+|-
+! 171 runs
+| {{cr|IND}} (171 & 657–7 d) beat {{cr|AUS}} (445 & 212) || [[Eden Gardens]], [[Kolkata]] || 2000–01
+|-
+| colspan="4" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283938.html|title=Test matches – Team records – Victory after a follow on|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100116105303/http://stats.cricinfo.com/ci/content/records/283938.html|archive-date=16 January 2010|url-status=live}}</ref>
+|}
+
+==== Most consecutive wins ====
+{| class="wikitable" style="width:100%;"
+|-
+! style="background:#9cf;"| Wins
+! style="background:#9cf;"| Team
+! style="background:#9cf;"| First win
+! style="background:#9cf;"| Last win
+|-
+! 16
+| {{cr|AUS}} || {{cr|ZIM}} at Harare, 14 October 1999 || {{cr|IND}} at Mumbai, 27 February 2001
+|-
+! 16
+| {{cr|AUS}} || {{cr|RSA}} at Melbourne, 26 December 2005 || {{cr|IND}} at Sydney, 2 January 2008
+|-
+! 11
+| {{cr|WIN}} || {{cr|AUS}} at Bridgetown, 30 March 1984 || {{cr|AUS}} at Adelaide, 7 December 1984
+|-
+! 9
+| {{cr|SRI}} || {{cr|IND}} at Colombo, 29 August 2001 || {{cr|PAK}} at Lahore, 6 March 2002
+|-
+! 9
+| {{cr|RSA}} || {{cr|AUS}} at Durban, 15 March 2002 || {{cr|BAN}} at Dhaka, 1 May 2003
+|-
+| colspan=4 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/105118.html|title=Test matches – Team records – Most consecutive wins|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20181012094355/http://stats.espncricinfo.com/ci/content/records/105118.html|archive-date=12 October 2018|url-status=live}}</ref>
+|}
+
+=== Team scoring records ===
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Most runs in an innings
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Teams'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 952-6 d 
+| {{cr|SRI}} (v {{cr|IND}}) || [[Ranasinghe Premadasa Stadium]], [[Colombo]] || 1997
+|-
+! 903-7 d
+| {{cr|ENG}} (v {{cr|AUS}}) || [[The Oval]], [[London]] || 1938
+|-
+! 849
+| {{cr|ENG}} (v {{cr|WIN}}) || [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1929–30
+|-
+! 790–3 d
+| {{cr|WIN}} (v {{cr|PAK}}) || [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1957–58
+|-
+! 765–6 d 
+| {{cr|PAK}} (v {{cr|SRI}}) || [[National Stadium, Karachi|National Stadium]], [[Karachi]] || 2008–09
+|-
+| colspan="4" | 
+<small>Last updated: 14 September 2017</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283966.html|title=Test matches – Team records – Highest innings totals|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100329214314/http://stats.cricinfo.com/ci/content/records/283966.html|archive-date=29 March 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Fewest runs in a completed innings
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Teams'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Date'''
+|-
+! 26
+| {{cr|NZL}} (v {{cr|ENG}}) || [[Eden Park]], [[Auckland]] || 25 March 1955
+|-
+! rowspan="2" style="vertical-align:middle;"| 30
+| {{cr|RSA|1910}} (v {{cr|ENG}}) || [[St George's Oval|St. George's Park]], [[Port Elizabeth]] || 13 February 1896
+|-
+| {{cr|RSA|1912}} (v {{cr|ENG}}) || [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]] || 14 June 1924
+|-
+! 35
+| {{cr|RSA|1910}} (v {{cr|ENG}}) || [[Newlands Cricket Ground]], [[Cape Town]] || 1 April 1899
+|-
+! rowspan="2" style="vertical-align:middle;"| 36
+| {{cr|AUS}} (v {{cr|ENG}}) || [[Edgbaston Cricket Ground|Edgbaston]], [[Birmingham]] || 29 May 1902
+|-
+| {{cr|RSA|1928}} (v {{cr|AUS}}) || [[Melbourne Cricket Ground]] || 12 February 1932
+|-
+| colspan="4" | 
+<small>Last updated: 26 July 2019</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/145832.html|title=Test matches – Team records – Lowest innings totals|publisher=ESPN|work=Cricinfo|accessdate=26 July 2019|archive-url=https://web.archive.org/web/20100523061340/http://stats.cricinfo.com/ci/content/records/145832.html|archive-date=23 May 2010|url-status=live}}</ref>
+|}
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Highest fourth-innings totals to win
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Teams'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 418–7
+| {{cr|WIN}} (v {{cr|AUS}}) || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 2002–03
+|-
+! 414–4
+| {{cr|RSA}} (v {{cr|AUS}}) || [[WACA Ground]], [[Perth, Western Australia|Perth]] ||2008–09
+|-
+! 406–4
+| {{cr|IND}} (v {{cr|WIN}}) || [[Queen's Park Oval]], [[Port of Spain]] || 1975–76
+|-
+! 404–3
+| {{cr|AUS}} (v {{cr|ENG}}) || [[Headingley Cricket Ground|Headingley]], [[Leeds]] || 1948
+|-
+! 391–6
+| {{cr|SL}} (v {{cr|ZIM}}) || [[Ranasinghe Premadasa Stadium]], [[Colombo]] || 2017
+|-
+| colspan="4" | 
+<small>Last updated: 14 September 2017</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;innings_number=4;orderby=team_score;result=1;template=results;type=team;view=innings|title=Test matches – Team records – Highest fourth innings totals in won match|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20140409121137/http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1%3Bfilter%3Dadvanced%3Binnings_number%3D4%3Borderby%3Dteam_score%3Bresult%3D1%3Btemplate%3Dresults%3Btype%3Dteam%3Bview%3Dinnings|archive-date=9 April 2014|url-status=live}}</ref>
+|}
+
+== Individual records ==
+
+=== Individual records (batting) ===
+
+==== Career runs ====
+{{Details|List of players who have scored 10,000 or more runs in Test cricket}}
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most career runs
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Period'''
+|-
+! 15,921 (329 innings)
+| {{cricon|IND}} [[Sachin Tendulkar]] || 1989–2013
+|-
+! 13,378 (287 innings)
+| {{cricon|AUS}} [[Ricky Ponting]] || 1995–2012
+|-
+! 13,289 (280 innings)
+| {{cricon|RSA}} [[Jacques Kallis]] || 1995–2013
+|- 
+! 13,288 (286 innings)
+| {{cricon|IND}} [[Rahul Dravid]] || 1996–2012
+|-
+! 12,472 (291 innings)
+| {{cricon|ENG}} [[Alastair Cook]] || 2006–2018
+|-
+| colspan="3" | 
+<small>Last updated: 11 September 2018</small><ref name=MostRuns>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/223646.html|title=Most runs in career|accessdate=8 January 2019|publisher=ESPN|work=Cricinfo|archive-url=https://web.archive.org/web/20181009085046/http://stats.espncricinfo.com/ci/content/records/223646.html|archive-date=9 October 2018|url-status=live}}</ref>
+|}
+{{Anchor|RunProgression}}
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most career runs – progression of record
+|- style="background:#9cf; text-align:center;"
+| '''Runs'''
+| '''Player'''
+| '''Record held until'''
+| '''Duration of record'''
+|-
+! 239
+| {{cricon|AUS}} [[Charles Bannerman]] || 4 January 1882 || 4 years, 295 days
+|-
+! 676
+| {{cricon|ENG}} [[George Ulyett]]{{ref|1a|[a]}} || 13 August 1884 || 2 years, 222 days
+|-
+! 860
+| {{cricon|AUS}} [[Billy Murdoch]]{{ref|1b|[b]}} || 14 August 1886 || 2 years, 1 day
+|-
+! 1,277
+| {{cricon|ENG}} [[Arthur Shrewsbury]] || 23 January 1902|| 15 years, 162 days
+|-
+! 1,293
+| {{cricon|AUS}} [[Joe Darling]]{{ref|1c|[c]}} || 18 February 1902 || 26 days
+|-
+! 1,366
+| {{cricon|AUS}} [[Syd Gregory]]{{ref|1d|[d]}} || 14 June 1902 || 116 days
+|-
+! 1,531
+| {{cricon|ENG}} [[Archie MacLaren]]{{ref|1e|[e]}} || 13 August 1902|| 60 days
+|-
+! 3,412
+| {{cricon|AUS}} [[Clem Hill]] || 27 December 1924 || 22 years, 136 days
+|-
+! 5,410
+| {{cricon|ENG}} [[Jack Hobbs]] || 29 June 1937 || 12 years, 184 days
+|-
+! 7,249
+| {{cricon|ENG}} [[Wally Hammond]] || 27 November 1970 || 33 years, 151 days
+|-
+! 7,459
+| {{cricon|ENG}} [[Colin Cowdrey]]{{ref|1f|[f]}} || 23 March 1972 || 1 year, 117 days
+|-
+! 8,032
+| {{cricon|WIN}} [[Garfield Sobers]] || 23 December 1981 || 9 years, 275 days
+|-
+! 8,114
+| {{cricon|ENG}} [[Geoffrey Boycott]] || 12 November 1983 || 1 year, 324 days
+|-
+! 10,122
+| {{cricon|IND}} [[Sunil Gavaskar]] || 25 February 1993 || 9 years, 105 days
+|-
+! 11,174
+| {{cricon|AUS}} [[Allan Border]] || 25 November 2005|| 12 years, 273 days
+|-
+! 11,953
+| {{cricon|WIN}} [[Brian Lara]] || 17 October 2008|| 2 years, 327 days
+|-
+! 15,921
+| {{cricon|IND}} [[Sachin Tendulkar]] || current|| {{Age in years and days|2008|10|17}}
+|-
+| colspan=4 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://blogs.espncricinfo.com/itfigures/archives/2008/10/record_holders_for_most_number.php|title=Record-holders for most number of Test runs|publisher=ESPN|work=Cricinfo Blogs|accessdate=20 March 2012|url-status=dead|archiveurl=https://web.archive.org/web/20120722032321/http://blogs.espncricinfo.com/itfigures/archives/2008/10/record_holders_for_most_number.php|archivedate=22 July 2012}}</ref>
+----
+'''Notes:'''
+<small>
+* {{note|1a|[a]}} Ulyett finished his career with 949 runs
+* {{note|1b|[b]}} Murdoch finished his career with 908 runs
+* {{note|1c|[c]}} Darling finished his career with 1,657 runs
+* {{note|1d|[d]}} Gregory finished his career with 2,282 runs
+* {{note|1e|[e]}} MacLaren finished his career with 1,931 runs
+* {{note|1f|[f]}} Cowdrey finished his career with 7,624 runs</small>
+|}
+
+====Most runs in each batting position====
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+| style="text-align:center;" | '''Batting position'''
+| style="text-align:center;" | '''Player'''
+| style="text-align:center;" | '''Runs'''
+| style="text-align:center;" | '''[[Batting average (cricket)|Average]] in the position'''
+|-
+| '''Opener''' || {{flagicon|ENG}} [[Alastair Cook]] || '''11,845''' || 44.87
+|-
+| '''Number 3''' || {{flagicon|SRI}} [[Kumar Sangakkara]] || '''11,679''' || 60.83
+|-
+| '''Number 4''' || {{flagicon|IND}} [[Sachin Tendulkar]] || '''13,492''' || 54.40
+|-
+| '''Number 5''' || {{flagicon|WIN}} [[Shivnarine Chanderpaul]] || '''6,883''' || 56.42
+|-
+| '''Number 6''' || {{flagicon|AUS}} [[Steve Waugh]] || '''3,165''' || 51.05
+|-
+| '''Number 7''' || {{flagicon|AUS}} [[Adam Gilchrist]] || '''3,948''' || 46.45
+|-
+| '''Number 8''' || {{flagicon|NZL}} [[Daniel Vettori]] || '''2,227''' || 39.77
+|-
+| '''Number 9''' || {{flagicon|ENG}} [[Stuart Broad]] {{dagger}} || '''1,295''' || 20.23
+|-
+| '''Number 10''' || {{flagicon|ENG}} [[Stuart Broad]] {{dagger}} || '''569''' || 12.93
+|-
+| '''Number 11''' || {{flagicon|SRI}} [[Muttiah Muralitharan]] || '''623''' || 11.33
+|-
+| colspan=6 | 
+<small>Last updated: 26 July 2019</small><ref>{{cite web|url=http://www.howstat.com/cricket/Statistics/Batting/BattingBestAggregateForPosition.asp|title=Most runs in each batting position|publisher=Howstat|work=Howstat Test Cricket|accessdate=28 January 2019|archive-url=https://web.archive.org/web/20150706033333/http://www.howstat.com/cricket/statistics/Batting/BattingBestAggregateForPosition.asp|archive-date=6 July 2015|url-status=live}}</ref>
+|}
+
+==== Highest career batting average ====
+{| class="wikitable" style="width:60%;"
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Batting average (cricket)|Average]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Period'''
+|-
+! 99.94 (80 innings)
+| {{cricon|AUS}} [[Donald Bradman]] || 1928–1948
+|-
+! 64.56 (124 innings)
+| {{cricon|AUS}} [[Steve Smith (cricketer)|Steve Smith]] {{dagger}} || 2010–Present
+|-
+! 61.87 (31 innings)
+| {{cricon|AUS}} [[Adam Voges]] || 2015–2016
+|-
+! 60.97 (41 innings)
+| {{cricon|RSA|1928}} [[Graeme Pollock]] || 1963–1970
+|-
+! 60.83 (40 innings)
+| {{cricon|WIN}} [[George Headley]] || 1930–1954
+|-
+| colspan="3" | 
+''Qualification: 20 innings''.<br>
+----
+'''Note:''' <small>If the qualification is removed, the record Test batting average is {{cricon|WIN}} [[Andy Ganteaume]]'s 112.00; Ganteaume was dismissed for 112 runs in his only Test innings.<ref>{{cite web|url=http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;orderby=batting_average;template=results;type=batting|title=Batting records|publisher=ESPN|work=Cricinfo|accessdate=21 December 2017|archive-url=https://web.archive.org/web/20181122112938/http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;orderby=batting_average;template=results;type=batting|archive-date=22 November 2018|url-status=live}}</ref> A very few [[one-Test wonder]]s have never been dismissed, leaving them without a defined Test batting average. Notable players who played only a single Test innings without a dismissal are {{cricon|AUS}} [[Stuart Law]] (54*, innings [[Declaration (cricket)|declared]]) and {{cricon|ENG}} [[Andy Lloyd (cricketer)|Andy Lloyd]] (10*, retired hurt).<ref>{{cite web|url=http://www.espncricinfo.com/ci/content/zones/insights?insights=player&player_id=2231&format=test&stats=batting|title=Stuart Law, batting statistics in Tests|publisher=ESPN|work=Cricinfo|accessdate=21 December 2017|archive-url=https://web.archive.org/web/20171222053848/http://www.espncricinfo.com/ci/content/zones/insights?insights=player&player_id=2231&format=test&stats=batting|archive-date=22 December 2017|url-status=live}}</ref><ref>{{cite web|url=http://www.espncricinfo.com/ci/content/zones/insights?insights=player&player_id=1757&format=test&stats=batting|title=Andy Lloyd, batting statistics in Tests|publisher=ESPN|work=Cricinfo|accessdate=21 December 2017|archive-url=https://web.archive.org/web/20171222053454/http://www.espncricinfo.com/ci/content/zones/insights?insights=player&player_id=1757&format=test&stats=batting|archive-date=22 December 2017|url-status=live}}</ref>
+----
+<small>Last updated: 15 September 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/282910.html|title=Test matches – Batting records – Highest career batting averages|publisher=ESPN|work=Cricinfo|accessdate=15 September 2019|url-status=live}}</ref>
+|}
+
+==== Innings or series ====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left;font-weight:normal" | '''Highest individual score''' (see also [[List of Test cricket triple centuries]])
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''[[List of Test cricket grounds|Venue]]'''
+| style="text-align:center;"| '''Season'''
+|-
+! 400*
+| {{cricon|WIN}} [[Brian Lara]] ||{{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 2003–04
+|-
+! 380
+| {{cricon|AUS}} [[Matthew Hayden]] ||{{cr|ZIM}}|| [[WACA Ground]], [[Perth, Western Australia|Perth]] || 2003–04
+|-
+! 375
+| {{cricon|WIN}} [[Brian Lara]] ||{{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 1993–94
+|-
+! 374
+| {{cricon|SRI}} [[Mahela Jayawardene]] ||{{cr|RSA}}||[[Sinhalese Sports Club Ground]], [[Colombo]]|| 2006
+|-
+! 365*
+| {{cricon|WIN}} [[Garfield Sobers]] ||{{cr|PAK}}|| [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1957–58
+|-
+| colspan="5" | 
+<small>Last updated: 15 June 2015</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/208504.html|title=Test matches – Batting records – Most runs in an innings|publisher=ESPN|work=Cricinfo|accessdate=9 January 2019|archive-url=https://web.archive.org/web/20100305135707/http://stats.cricinfo.com/ci/content/records/208504.html|archive-date=5 March 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Highest individual score – progression of record
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+| style="text-align:center;"| '''Test match Number'''
+|-
+! 165*
+| {{cricon|AUS}} [[Charles Bannerman]] ||{{cr|ENG}} || [[Melbourne Cricket Ground]] || 1876–77 ||[http://www.espncricinfo.com/ci/engine/current/match/62396.html Test No. 1]
+|-
+! 211
+| {{cricon|AUS}} [[Billy Murdoch]] ||{{cr|ENG}} || [[The Oval]], London || 1884||[http://www.espncricinfo.com/ci/engine/current/match/62411.html Test No. 16]
+|-
+! 287 
+| {{cricon|ENG}} [[R. E. Foster]] ||{{cr|AUS}} || [[Sydney Cricket Ground]] || 1903–04||[http://www.espncricinfo.com/ci/engine/current/match/62473.html Test No. 78]
+|-
+! 325 
+| {{cricon|ENG}} [[Andy Sandham]] ||{{cr|WIN}} || [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1929–30||[http://www.espncricinfo.com/ci/engine/current/match/62579.html Test No. 193]
+|-
+! 334 
+| {{cricon|AUS}} [[Don Bradman]] ||{{cr|ENG}} || [[Headingley Cricket Ground|Headingley]], [[Leeds]] || 1930||[http://www.espncricinfo.com/ci/engine/current/match/62582.html Test No. 196]
+|-
+! 336* 
+| {{cricon|ENG}} [[Wally Hammond]] ||{{cr|NZ}}|| [[Eden Park]], [[Auckland]] || 1932–33||[http://www.espncricinfo.com/ci/engine/current/match/62612.html Test No. 226]
+|-
+! 364 
+| {{cricon|ENG}} [[Len Hutton]] ||{{cr|AUS}}
+| [[The Oval]], London || 1938||[http://www.espncricinfo.com/ci/engine/current/match/62652.html Test No. 266]
+|-
+! 365* 
+| {{cricon|WIN}} [[Garfield Sobers]] ||{{cr|PAK}}|| [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1957–58||[http://www.espncricinfo.com/ci/engine/current/match/62837.html Test No. 452]
+|-
+! 375
+| {{cricon|WIN}} [[Brian Lara]] ||{{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 1993–94||[http://www.espncricinfo.com/ci/engine/current/match/63641.html Test No. 1259]
+|-
+! 380
+| {{cricon|AUS}} [[Matthew Hayden]] ||{{cr|ZIM}}|| [[WACA Ground]], [[Perth, Western Australia|Perth]] || 2003–04||[http://www.espncricinfo.com/ci/engine/current/match/64048.html Test No. 1661]
+|-
+! 400*
+| {{cricon|WIN}} [[Brian Lara]] ||{{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 2003–04||[http://www.espncricinfo.com/ci/engine/current/match/64080.html Test No. 1696]
+|-
+| colspan=6 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/284258.html|title=Test matches – Batting records – Most runs in an innings (progressive record holder)|publisher=ESPN|work=Cricinfo|accessdate=9 January 2019|archive-url=https://web.archive.org/web/20100311070202/http://stats.cricinfo.com/ci/content/records/284258.html|archive-date=11 March 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most runs in a match
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:left;"| '''Scores'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 456
+| 333 and 123
+| {{cricon|ENG}} [[Graham Gooch]] || {{cr|IND}} || [[Lord's]] || 1990
+|-
+! 426
+| 334* and 92
+| {{cricon|AUS}} [[Mark Taylor (cricketer)|Mark Taylor]] || {{cr|PAK}} || Peshawar || 1998–99
+|-
+! 424
+| 319 and 105
+| {{cricon|SRI}} [[Kumar Sangakkara]] || {{cr|BAN}} || Chittagong || 2013–14
+|-
+! 400
+| 400*
+| {{cricon|WIN}} [[Brian Lara]] || {{cr|ENG}} || St John's, Antigua || 2003–04
+|-
+! rowspan="2" style="vertical-align:middle;"| 380
+| 247* and 133
+| {{cricon|AUS}} [[Greg Chappell]] || {{cr|NZ}} || Wellington || 1973–74
+|-
+| 380
+| {{cricon|AUS}} [[Matthew Hayden]] || {{cr|ZIM}} || Perth || 2003–04
+|-
+| colspan="6" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/282847.html|title=Records – Test matches – Batting records – Most runs in a match|publisher=ESPN|work=Cricinfo|accessdate=9 January 2019|archive-url=https://web.archive.org/web/20190109062622/http://stats.espncricinfo.com/ci/content/records/282847.html|archive-date=9 January 2019|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most runs in a series
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Series'''
+|-
+! 974 (7 innings)
+| {{cricon|AUS}} [[Donald Bradman]] || v {{cr|ENG}}, 1930
+|-
+! 905 (9 innings)
+| {{cricon|ENG}} [[Wally Hammond]] || v {{cr|AUS}}, 1928–29
+|-
+! 839 (11 innings)
+| {{cricon|AUS}} [[Mark Taylor (cricketer)|Mark Taylor]] || v {{cr|ENG}}, 1989
+|-
+! 834 (9 innings)
+| {{cricon|AUS}} [[Neil Harvey]] || v {{cr|RSA|1928}}, 1952–53
+|-
+! 829 (7 innings)
+| {{cricon|WIN}} [[Viv Richards]] || v {{cr|ENG}}, 1976
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/282849.html|title=Test matches – Batting records – Most runs in a series|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100330161333/http://stats.cricinfo.com/ci/content/records/282849.html|archive-date=30 March 2010|url-status=live}}</ref>
+|}
+
+==== Calendar year and between dismissals ====
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most runs in a calendar year
+|-  style="background:#9cf; text-align:center;"
+| '''Runs'''
+| '''Player'''
+| '''Average'''
+| '''Year'''
+|-
+! 1788
+| {{cricon|PAK}} [[Mohammad Yousuf (cricketer, born 1974)|Mohammad Yousuf]]  || 99.33 || 2006
+|-
+! 1710
+| {{cricon|WIN}} [[Vivian Richards]] || 90.00 || 1976
+|-
+! 1656
+| {{cricon|SAF}} [[Graeme Smith]]  || 72.00 || 2008
+|-
+! 1595
+| {{cricon|AUS}} [[Michael Clarke (cricketer)|Michael Clarke]] || 106.33 || 2012
+|-
+! 1562
+| {{cricon|IND}} [[Sachin Tendulkar]] || 78.10 || 2010
+|-
+| colspan="5" | 
+<small>Last updated: 15 June 2015</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/284248.html|title=Test matches – Batting records – Most runs in a calendar year|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20181215201716/http://stats.espncricinfo.com/ci/content/records/284248.html|archive-date=15 December 2018|url-status=live}}</ref>
+|}
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most runs between successive dismissals
+|-  style="background:#9cf; text-align:center;"
+| '''Runs'''
+| '''Player'''
+| '''Innings'''
+| '''Scores'''
+| '''Season'''
+|-
+! 614
+| {{cricon|AUS}} [[Adam Voges]]  || 3 || 269*, 106*, 239 || 2015-16
+|-
+! 497
+| {{cricon|IND}} [[Sachin Tendulkar]] || 4 || 241*, 60*, 194*, 2 || 2003-04
+|-
+! 490
+| {{cricon|WIN}} [[Garfield Sobers]]  || 2 || 365*, 125 || 1957-58
+|-
+! 489
+| {{cricon|AUS}} [[Michael Clarke (cricketer)|Michael Clarke]] || 2 || 259*, 230 || 2012-13
+|-
+! 473
+| {{cricon|IND}} [[Rahul Dravid]] || 4 || 41*, 200*, 70*, 162 || 2000-01
+|-
+| colspan="5" | 
+<small>Last updated: 21 December 2017</small><ref>{{cite web|url=http://www.espncricinfo.com/magazine/content/story/343780.html|title=The worst batsmen, and the most runs between dismissals|publisher=ESPN|work=Cricinfo|accessdate=21 December 2017|archive-url=https://web.archive.org/web/20171219203902/http://www.espncricinfo.com/magazine/content/story/343780.html|archive-date=19 December 2017|url-status=live}}</ref><ref>{{cite web|url=https://www.bbc.com/sport/cricket/35568386|title=Adam Voges: Australia batsman takes Test average over 100 in New Zealand|publisher=BBC|accessdate=21 December 2017|archive-url=https://web.archive.org/web/20170710015543/http://www.bbc.com/sport/cricket/35568386|archive-date=10 July 2017|url-status=live}}</ref>
+|}
+
+====Highest scores at each batting position====
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+| '''Batting position'''
+| '''Player'''
+| '''Score'''
+| '''Opponent'''
+| '''Venue'''
+| '''Date'''
+|-
+| '''Opener''' || {{flagicon|AUS}} [[Matthew Hayden]] || 380 || {{cr|ZIM}} || [[WACA Ground]] || 9 October 2003
+|-
+| '''Number 3''' || {{flagicon|WIN}} [[Brian Lara]] || 400* || {{cr|ENG}} || [[Antigua Recreation Ground]] || 10 April 2004
+|-
+| '''Number 4''' || {{flagicon|SRI}} [[Mahela Jayawardene]] || 374 || {{cr|SAF}} || [[Sinhalese Sports Club Ground]] || 27 July 2006
+|-
+| '''Number 5''' || {{flagicon|AUS}} [[Michael Clarke (cricketer)|Michael Clarke]] || 329* || {{cr|IND}} || [[Sydney Cricket Ground]] || 3 January 2012
+|-
+| '''Number 6''' || {{flagicon|ENG}} [[Ben Stokes]] {{dagger}} || 258 || {{cr|SAF}} || [[Newlands Cricket Ground]] || 2 January 2016
+|-
+| '''Number 7''' || {{flagicon|AUS}} [[Donald Bradman]] || 270 || {{cr|ENG}} || [[Melbourne Cricket Ground]] || 1 January 1937
+|-
+| '''Number 8''' || {{flagicon|PAK}} [[Wasim Akram]] || 257* || {{cr|ZIM}} || [[Sheikhupura Stadium]] || 17 October 1996
+|-
+| '''Number 9''' || {{flagicon|NZL}} [[Ian Smith (New Zealand cricketer)|Ian Smith]] || 173 || {{cr|IND}} || [[Eden Park]] || 22 February 1990
+|-
+| '''Number 10''' || {{flagicon|ENG}} [[Walter Read]] || 117 || {{cr|AUS}} || [[Kennington Oval]] || 11 August 1884
+|-
+| '''Number 11''' || {{flagicon|AUS}} [[Ashton Agar]] {{dagger}} || 98 || {{cr|ENG}} || [[Trent Bridge]] || 10 July 2013
+|-
+| colspan=6 | 
+<small>Last updated: 18 November 2017</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/282860.html|title=Highest individual scores in each batting positions|publisher=ESPNcrcinfo|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20180814213638/http://stats.espncricinfo.com/ci/content/records/282860.html|archive-date=14 August 2018|url-status=live}}</ref>
+|}
+
+====Innings as captain====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left;font-weight:normal" | '''Highest individual score as captain''' 
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 400*
+| {{cricon|WIN}} [[Brian Lara]] ||{{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || 2003–04
+|-
+! 374
+| {{cricon|SRI}} [[Mahela Jayawardene]] ||{{cr|RSA}}||[[Sinhalese Sports Club Ground]], [[Colombo]]|| 2006
+|-
+! 334*
+| {{cricon|AUS}} [[Mark Taylor (cricketer)|Mark Taylor]] ||{{cr|PAK}} || [[Arbab Niaz Stadium]], [[Peshawar]] || 1998
+|-
+! 333
+| {{cricon|ENG}} [[Graham Gooch]] ||{{cr|IND}}|| [[Lord's]], [[London]]|| 1990
+|-
+! 329*
+| {{cricon|AUS}} [[Michael Clarke (cricketer)|Michael Clarke]] ||{{cr|IND}}|| [[Sydney Cricket Ground]], [[Sydney]] || 2012
+|-
+| colspan="5" | 
+<small>Last updated: 15 June 2015</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/284221.html|title=Test matches – Batting records – Most runs in an innings as captain|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20190109013406/http://stats.espncricinfo.com/ci/content/records/284221.html|archive-date=9 January 2019|url-status=live}}</ref>
+|}
+
+====Innings carrying the bat====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left;font-weight:normal" | '''Highest individual score''' (see also [[List of cricketers who have carried the bat in international cricket]])
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Score'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 264*
+| {{cricon|NZ}} [[Tom Latham (cricketer)|Tom Latham]] ||{{cr|SL}}|| [[Basin Reserve]], [[Wellington]] || 2018–19
+|-
+! 244*
+| {{cricon|ENG}} [[Alastair Cook]] ||{{cr|AUS}} || [[Melbourne Cricket Ground]], [[Melbourne]] || 2017–18
+|-
+! 223*
+| {{cricon|NZL}} [[Glenn Turner]] ||{{cr|WIN}}|| [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 1972
+|-
+! 216*
+| {{cricon|SRI}} [[Marvan Atapattu]] ||{{cr|ZIM}} || [[Queens Sports Club]], [[Bulawayo]] || 1999–00
+|-
+! 206*
+| {{cricon|AUS}} [[Bill Brown (cricketer)|Bill Brown]] ||{{cr|ENG}}|| [[Lord's]], [[London]]|| 1931
+|-
+| colspan="5" | 
+<small>Last updated: 8 January 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283149.html|title=Test matches - Batting records - Carrying bat through a completed innings|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20150219101950/http://stats.espncricinfo.com/ci/content/records/283149.html|archive-date=19 February 2015|url-status=live}}</ref>
+|}
+
+==== Most runs in an over ====
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Sequence'''
+| style="text-align:center;"| '''Batsman'''
+| style="text-align:center;"| '''Bowler'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! rowspan=2 | 28
+| 4–6–6–4–4–4 || {{cricon|WIN}} [[Brian Lara]] || {{cricon|RSA}} [[Robin Peterson]] || [[Wanderers Stadium]], [[Johannesburg]] || 2003–04
+|-
+| 4–6–2–4–6–6 || {{cricon|AUS}} [[George Bailey (cricketer)|George Bailey]] || {{cricon|ENG}} [[James Anderson (cricketer)|James Anderson]] {{dagger}} || [[WACA Ground|WACA]], [[Perth]] || 2013–14
+|-
+! style="vertical-align:middle;"| 27 
+| 6–6–6–6–2–1 || {{cricon|PAK}} [[Shahid Afridi]] || {{cricon|IND}} [[Harbhajan Singh]] || [[Gaddafi Stadium]], [[Lahore]] || 2005–06
+|-
+! rowspan=5 | 26 
+| 4–4–6–0–6–6 || {{cricon|AUS}} [[Mitchell Johnson (cricketer)|Mitchell Johnson]] || {{cricon|RSA}} [[Paul Harris (cricketer, born 1978)|Paul Harris]] || [[Wanderers Stadium]], [[Johannesburg]] || 2008–09
+|-
+| 4–0–6–6–6–4 || {{cricon|WIN}} [[Brian Lara]] || {{cricon|PAK}} [[Danish Kaneria]] || [[Multan Cricket Stadium]] || 2006–07
+|-
+| 4–4–4–4–6–4 || {{cricon|NZ}} [[Craig McMillan]] || {{cricon|PAK}} [[Younis Khan]] || [[Seddon Park]], [[Hamilton, New Zealand|Hamilton]] || 2000–01
+|-
+| 4–6–6–0–4–6 || {{cricon|NZ}} [[Brendon McCullum]] || {{cricon|SRI}} [[Suranga Lakmal]] || [[Hagley Oval]], [[Christchurch]] || 2014–15
+|-
+| 4–4–6–6–6–0 || {{cricon|IND}} [[Hardik Pandya]] {{dagger}} || {{cricon|SRI}} [[Malinda Pushpakumara]] {{dagger}} || [[Pallekele International Cricket Stadium]], [[Kandy]] || 2017
+|-
+| colspan=6 | 
+<small>Last updated: 14 August 2017</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/233006.html|title=Test matches – Batting records – Most runs off one over|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20101101185122/http://stats.cricinfo.com/ci/content/records/233006.html|archive-date=1 November 2010|url-status=live}}</ref>
+|}
+
+====Centuries====
+{| class="wikitable" style="width:70%;"
+|+ style="text-align:left;font-weight:normal" | '''Most Test centuries''' 
+|-
+! style="background:#9cf;"| '''Centuries'''
+! style="background:#9cf;"| '''Player'''
+! style="background:#9cf;"| '''Matches'''
+! style="background:#9cf;"| '''Innings'''
+! style="background:#9cf;"| '''Inns/Century'''
+|- 
+! 51
+| {{cricon|IND}} [[Sachin Tendulkar]] || 200 || 329 || 6.4
+|-
+! 45
+| {{cricon|RSA}} [[Jacques Kallis]] || 166 || 280 || 6.2
+|-
+! 41
+| {{cricon|AUS}} [[Ricky Ponting]] || 168 || 287 || 7.0
+|-
+! 38
+| {{cricon|SRI}} [[Kumar Sangakkara]] || 134 || 233 || 6.1
+|-
+! 36
+| {{cricon|IND}} [[Rahul Dravid]]|| 164 || 286 || 7.9
+|- class="sortbottom"
+| colspan="5" |
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/227046.html|title=Most hundreds in a career|accessdate=8 January 2019|publisher=ESPN|work=Cricinfo|archive-url=https://web.archive.org/web/20121215215132/http://stats.espncricinfo.com/ci/content/records/227046.html|archive-date=15 December 2012|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:80%;"
+|+ style="text-align:left" | '''Fastest Test centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''No. of balls'''
+| '''Player'''
+| '''Opponent'''
+| '''Venue'''
+| '''Season'''
+|-
+! 54
+| {{cricon|NZ}} [[Brendon McCullum]] || {{cr|AUS}} || [[Hagley Oval]], [[Christchurch]] || [[Australian cricket team in New Zealand in 2015–16|2015–16]]
+|-
+! rowspan=2| 56
+| {{cricon|WIN}} [[Viv Richards]] || {{cr|ENG}} || [[Antigua Recreation Ground]], [[St. John's, Antigua and Barbuda|St. John's]] || [[English cricket team in the West Indies in 1985-86|1985–86]]
+|-
+| {{cricon|PAK}} [[Misbah-ul-Haq]] || {{cr|AUS}} || [[Sheikh Zayed Cricket Stadium]], [[Abu Dhabi]] || [[Australian cricket team against Pakistan in the UAE in 2014–15#2nd Test|2014]]
+|-
+! 57
+| {{cricon|AUS}} [[Adam Gilchrist]] || {{cr|ENG}} || [[WACA Ground]], [[Perth, Western Australia|Perth]] || [[2006–07 Ashes series#Third Test: 14–18 December, Perth|2006–07]]
+|-
+! 67
+| {{cricon|AUS}} [[Jack Gregory (cricketer)|Jack Gregory]] || {{cr|SA|1912}} || [[Old Wanderers]], [[Johannesburg]] || [[Australian cricket team in South Africa in 1921–22|1921–22]]
+|-
+| colspan="5" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/210170.html|title=Test matches – Batting records – Fastest hundreds|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100528140031/http://stats.cricinfo.com/ci/content/records/210170.html|archive-date=28 May 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | '''Most Test double centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''Double centuries'''
+| '''Player'''
+| '''Matches'''
+|-
+! 12
+| {{cricon|AUS}} [[Donald Bradman]] || 52
+|-
+! 11
+| {{cricon|SRI}} [[Kumar Sangakkara]] || 130
+|-
+! 9
+| {{cricon|WIN}} [[Brian Lara]] || 131
+|-
+! rowspan="2" style="vertical-align:middle;"| 7
+| {{cricon|ENG}} [[Wally Hammond]] || 85
+|-
+| {{cricon|SRI}} [[Mahela Jayawardene]] || 149
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/230344.html|title=Test matches – Batting records – Most double hundreds in a career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100213230834/http://stats.cricinfo.com/ci/content/records/230344.html|archive-date=13 February 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:80%;"
+|+ style="text-align:left" | '''Fastest Test double centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''No. of balls'''
+| '''Player'''
+| '''Opponent'''
+| '''Venue'''
+| '''Season'''
+|-
+! 153
+| {{cricon|NZ}} [[Nathan Astle]] || {{cr|ENG}} || [[Jade Stadium]], [[Christchurch]] || [[English cricket team in New Zealand in 2001–02#1st Test|2001–02]]
+|- 
+!163
+| {{cricon|ENG}} [[Ben Stokes]] || {{cr|SA}} || [[Newlands Cricket Ground|Newlands]], [[Cape Town]] || [[English cricket team in South Africa in 2015-16#2nd Test|2016]]
+|-
+!168
+| {{cricon|IND}} [[Virender Sehwag]] || {{cr|SL}} || [[Brabourne Stadium]], [[Mumbai]] || [[Sri Lankan cricket team in India in 2009–10#3rd Test|2009]]
+|-
+!182
+| {{cricon|IND}} [[Virender Sehwag]] || {{cr|PAK}} || [[Gaddafi Stadium]], [[Lahore]] || [[Indian cricket team in Pakistan in 2005–06#First Test|2006]]
+|-
+! 186
+| {{cricon|NZ}} [[Brendon McCullum]] || {{cr|PAK}} || [[Sharjah Cricket Stadium]], [[Sharjah]] || [[New Zealand cricket team against Pakistan in the UAE in 2014–15#3rd Test|2014]]
+|-
+| colspan="5" | 
+<small>Last updated: 4 March 2019</small><ref>{{cite web | url=http://stats.espncricinfo.com/ci/content/records/284135.html | title=Records / Test matches / Batting records / Fastest double hundreds | publisher=ESPNcricinfo | accessdate=4 March 2019 | archive-url=https://web.archive.org/web/20190327140454/http://stats.espncricinfo.com/ci/content/records/284135.html | archive-date=27 March 2019 | url-status=live }}</ref><ref>{{cite web | url=https://www.totalsportek.com/cricket/fastest-double-hundreds-test-cricket-history/ | title=Ben Stokes Double-Hundred Video & Top 10 Fastest Double-Centuries of All Times | publisher=Total Sportek | date=3 January 2016 | accessdate=4 March 2019 | archive-url=https://web.archive.org/web/20190306044605/https://www.totalsportek.com/cricket/fastest-double-hundreds-test-cricket-history/ | archive-date=6 March 2019 | url-status=live }}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | '''Most Test triple centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''Triple centuries'''
+| '''Player'''
+| '''Matches'''
+|-
+! rowspan="4" style="vertical-align:middle;"| 2
+| {{cricon|AUS}} [[Donald Bradman]] || 52
+|-
+| {{cricon|IND}} [[Virender Sehwag]] || 104
+|-
+| {{cricon|WIN}} [[Chris Gayle]] || 103
+|-
+| {{cricon|WIN}} [[Brian Lara]] || 131
+|-
+!1
+| colspan="2" |
+22 players: see [[List of Test cricket triple centuries]] for more details.
+|-
+| colspan="3" | 
+<small>Last updated: 8 January 2019</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/282944.html|title=Test matches – Batting records – Most triple hundreds in a career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100225142528/http://stats.cricinfo.com/ci/content/records/282944.html|archive-date=25 February 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | '''Most Test quadruple centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''Quadruple centuries'''
+| '''Player'''
+| '''Matches'''
+|-
+! style="vertical-align:middle;"| 1
+| {{cricon|WIN}} [[Brian Lara]] || 131
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web |url=http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;orderby=batted_score;runsmin1=400;runsval1=runs;template=results;type=batting;view=innings |archive-url=https://archive.today/20130629031004/http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;orderby=batted_score;runsmin1=400;runsval1=runs;template=results;type=batting;view=innings |url-status=live |archive-date=29 June 2013 |title=Test matches – Batting records – View innings by innings list – Runs scored greater than or equal to 400 |publisher=ESPN |work=Cricinfo |accessdate=8 January 2019 }}</ref>
+|}
+
+====Half Centuries====
+{| class="sortable wikitable" style="width:70%;"
+|+ style="text-align:left" | '''Most Test 50+'''
+|-
+! style="background:#9cf;"| '''50+'''
+! style="background:#9cf;"| '''Player'''
+! style="background:#9cf;"| '''Matches'''
+! style="background:#9cf;"| '''Innings'''
+|- 
+! 119
+| {{cricon|IND}} [[Sachin Tendulkar]] || 200 || 329 
+|-
+! 103
+| {{cricon|RSA}} [[Jacques Kallis]] || 166 || 280 
+|-
+! 103
+| {{cricon|AUS}} [[Ricky Ponting]] || 168 || 287 
+|-
+! 99
+| {{cricon|IND}} [[Rahul Dravid]] || 164 || 286 
+|-
+! 96
+| {{cricon|WIN}} [[Shivnarine Chanderpaul]]|| 164 || 280 
+|- class="sortbottom"
+| colspan="4" |
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283032.html|title=Most fifties in a career|accessdate=8 January 2019|publisher=ESPN|work=Cricinfo|archive-url=https://web.archive.org/web/20181013105227/http://stats.espncricinfo.com/ci/content/records/283032.html|archive-date=13 October 2018|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | '''Fastest Test half-centuries'''
+|- style="background:#9cf; text-align:center;"
+| '''No. of balls'''
+| '''Player'''
+| '''Opponent'''
+| '''Venue'''
+| '''Season'''
+|-
+! 21
+| {{cricon|PAK}} [[Misbah-ul-Haq]] || {{cr|AUS}}|| [[Sheikh Zayed Stadium]], [[Abu Dhabi]] || 2014–15
+|-
+! 23
+| {{cricon|AUS}} [[David Warner (cricketer)|David Warner]] || {{cr|PAK}} || [[Sydney Cricket Ground]] || 2016–17
+|-
+! 24
+| {{cricon|SA}} [[Jacques Kallis]] || {{cr|ZIM}} || [[Newlands Cricket Ground]], [[Cape Town]] || 2004–05
+|-
+! 25
+| {{cricon|WIN}} [[Shane Shillingford]] || {{cr|NZ}} || [[Sabina Park]], [[Kingston, Jamaica|Kingston]] || 2014
+|-
+! rowspan=3 | 26
+| {{cricon|PAK}} [[Shahid Afridi]] || {{cr|IND}} || [[M Chinnaswamy Stadium]], [[Bangalore]] || 2004–05
+|-
+| {{cricon|BAN}} [[Mohammad Ashraful]] || {{cr|IND}} || [[Sher-e-Bangla National Cricket Stadium|Sher-e-Bangla Cricket Stadium]], [[Mirpur Model Thana|Mirpur]] || 2007
+|-
+| {{cricon|SA}} [[Dale Steyn]] {{dagger}} || {{cricon|WIN}} [[West Indies national cricket team|West Indies]] || [[St George's Park, Port Elizabeth|St. George's Park]], [[Port Elizabeth, South Africa|Port Elizabeth]] || 2014–15
+|-
+| colspan="5" | 
+<small>Last updated: 8 January 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/284096.html|title=Test matches – Batting records – Fastest fifties|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20181106113047/http://stats.espncricinfo.com/ci/content/records/284096.html|archive-date=6 November 2018|url-status=live}}</ref>
+|}
+
+====Most fours in career====
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+! style="background:#9cf;" scope="col"| '''Fours'''
+! style="background:#9cf;" scope="col"| '''Player'''
+! style="background:#9cf;" scope="col"| '''Innings'''
+|-
+| '''2058+''' || {{cricon|IND}} [[Sachin Tendulkar]] || 329
+|-
+| '''1654''' || {{cricon|IND}} [[Rahul Dravid]] || 286
+|-
+| '''1559''' || {{cricon|WIN}} [[Brian Lara]] || 232
+|-
+| '''1509''' || {{cricon|AUS}} [[Ricky Ponting]] || 287
+|-
+| '''1491''' || {{cricon|SRI}} [[Kumar Sangakkara]] || 233
+|-
+| colspan=3 |
+'''Key: +''' means the complete career records aren't known
+
+<small>Last updated: 8 January 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/284024.html|title=Records–Test Matches–Batting records–Most fours in a career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20180722182612/http://stats.espncricinfo.com/ci/content/records/284024.html|archive-date=22 July 2018|url-status=live}}</ref>
+|}
+
+==== Most sixes in career ====
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+! style="background:#9cf;" scope="col"| '''Sixes'''
+! style="background:#9cf;" scope="col"| '''Player'''
+! style="background:#9cf;" scope="col"| '''Innings'''
+|-
+| '''107''' || {{cricon|NZ}} [[Brendon McCullum]] || 176
+|-
+| '''100''' || {{cricon|AUS}} [[Adam Gilchrist]] || 137
+|-
+| '''98''' || {{cricon|WIN}} [[Chris Gayle]] || 182
+|-
+| '''97''' || {{cricon|SA}} [[Jacques Kallis]] || 280
+|-
+| '''91''' || {{cricon|IND}} [[Virender Sehwag]] || 180
+|-
+| colspan=3 |
+<small>Last updated: 4 March 2019</small><ref name="most sixes in Test cricket">{{cite web | url=http://stats.espncricinfo.com/ci/content/records/283122.html | title=Records / Test matches / Batting records / Most sixes in career | publisher=ESPNcricinfo | accessdate=4 March 2019 | archive-url=https://web.archive.org/web/20190327142018/http://stats.espncricinfo.com/ci/content/records/283122.html | archive-date=27 March 2019 | url-status=live }}</ref>
+|}
+
+=== Individual records (bowling) ===
+
+==== Career ====
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most wickets in a career
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Wickets'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+| style="text-align:center;"| '''[[Bowling average|Average]]'''
+|-
+! 800
+| style="text-align:left;"|{{cricon|SRI}} [[Muttiah Muralitharan]] || 133 || 22.72
+|-
+! 708
+| style="text-align:left;"|{{cricon|AUS}} [[Shane Warne]] || 145 || 25.41
+|-
+! 619
+| style="text-align:left;"|{{cricon|IND}} [[Anil Kumble]] || 132 || 29.65
+|-
+! 575
+| style="text-align:left;"|{{cricon|ENG}} [[James Anderson (cricketer)|James Anderson]] {{dagger}} || 148 || 26.93
+|-
+! 563
+| style="text-align:left;"|{{cricon|AUS}} [[Glenn McGrath]] || 124 || 21.64
+|-
+| colspan="4" | 
+<small>Last updated: 26 July 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/wi/content/records/93276.html|title=Test matches – Bowling records – Most wickets in career|publisher=ESPN|work=Cricinfo|accessdate=28 January 2019|archive-url=https://web.archive.org/web/20181120173025/http://stats.espncricinfo.com/wi/content/records/93276.html|archive-date=20 November 2018|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" |Most wickets in a career – Progression of record
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Wickets'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+| style="text-align:center;"| '''[[Bowling average|Average]]'''
+| style="text-align:center;"| '''Record held until'''
+| style="text-align:center;"| '''Duration of record'''
+|-
+! 8{{ref|2a|[a]}}
+| style="text-align:left;"|{{cricon|ENG}} [[Alfred Shaw]] || 1 || 10.75 || 31 March 1877 || 16 days
+|-
+! 14
+| style="text-align:left;"|{{cricon|AUS}} [[Tom Kendall]] || 2 || 15.35 || 4 January 1879 || 1 year, 279 days
+|-
+! 94{{ref|2b|[b]}}
+| style="text-align:left;"|{{cricon|AUS}} [[Fred Spofforth]] || 18 || 18.41 || 12 January 1895 || 16 years, 8 days
+|-
+! 100
+| style="text-align:left;"|{{cricon|ENG}} [[Johnny Briggs (cricketer)|Johnny Briggs]] || 25 || 13.51 || 4 February 1895 || 33 days
+|-
+! 101
+| style="text-align:left;"|{{cricon|AUS}}  [[Charles Turner (Australian cricketer)|Charles Turner]] || 17 || 16.53 || 2 March 1895 || 26 days
+|-
+! 103
+| style="text-align:left;"|{{cricon|ENG}} Johnny Briggs || 26 || 13.92 ||  21 March 1896 || 1 year, 19 days
+|-
+! 112{{ref|2c|[c]}}
+| style="text-align:left;"|{{cricon|ENG}} [[George Lohmann]] || 18 || 10.75 ||  14 January 1898 || 1 year, 299 days
+|-
+! 118
+| style="text-align:left;"|{{cricon|ENG}} Johnny Briggs || 33 || 17.75 || 2 January 1904 || 5 years, 353 days
+|-
+! 141
+| style="text-align:left;"|{{cricon|AUS}} [[Hugh Trumble]] || 32 || 21.78 || 13 December 1913 || 9 years, 345 days
+|-
+! 189
+| style="text-align:left;"|{{cricon|ENG}} [[Sydney Barnes]] || 27 || 16.43 || 4 January 1936 || 22 years, 22 days
+|-
+! 216
+| style="text-align:left;"|{{cricon|AUS}} [[Clarrie Grimmett]] || 37 || 24.21 || 24 July 1953 || 17 years, 201 days
+|-
+! 236
+| style="text-align:left;"|{{cricon|ENG}} [[Alec Bedser]] || 51 || 24.89 || 26 January 1963 || 9 years, 186 days
+|-
+! 242{{ref|2d|[d]}}
+| style="text-align:left;"|{{cricon|ENG}} [[Brian Statham]] || 67 || 24.27 || 15 March 1963 || 48 days
+|-
+! 307
+| style="text-align:left;"|{{cricon|ENG}} [[Fred Trueman]] || 67 || 21.57 || 1 February 1976 || 12 years, 323 days
+|-
+! 309
+| style="text-align:left;"|{{cricon|WIN}} [[Lance Gibbs]] || 79 || 29.09 || 27 December 1981 || 5 years, 329 days
+|-
+! 355
+| style="text-align:left;"|{{cricon|AUS}} [[Dennis Lillee]] || 70 || 23.92 || 21 August 1986 || 4 years, 237 days
+|-
+! 373{{ref|2e|[e]}}
+| style="text-align:left;"|{{cricon|ENG}} [[Ian Botham]] || 94 || 27.86 || 12 November 1988 || 2 years, 83 days
+|-
+! 431
+| style="text-align:left;"|{{cricon|NZ}} [[Richard Hadlee]] || 86 || 22.29 || 8 February 1994 || 5 years, 88 days
+|-
+! 434
+| style="text-align:left;"|{{cricon|IND}} [[Kapil Dev]] || 131 || 29.64 || 27 March 2000 || 6 years, 48 days
+|-
+! 519
+| style="text-align:left;"|{{cricon|WIN}} [[Courtney Walsh]] || 132 || 24.44 || 8 May 2004 || 4 years, 42 days
+|-
+! 532{{ref|2f|[f]}}
+| style="text-align:left;"|{{cricon|SRI}} [[Muttiah Muralitharan]] || 91 || 22.87 || 15 October 2004 || 160 days
+|-
+! 708
+| style="text-align:left;"|{{cricon|AUS}} [[Shane Warne]] || 145 || 25.41 || 3 December 2007 || 3 years, 49 days
+|-
+! 800
+| style="text-align:left;"|{{cricon|SRI}} Muttiah Muralitharan || 133 || 22.72 || Current || {{Age in years and days|2007|12|3}}
+|-
+| colspan=6 | 
+'''Notes'''<br>
+<small>{{note|2a|[a]}} [[Allen Hill]] took the first Test wicket, but only two in the First Test match. [[Alfred Shaw]] (3/51 & 5/35) and [[Tom Kendall]] (1/54 & 7/55) both took eight wickets, but as [[Australian national cricket team|Australia]] batted first Shaw was the first to take five wickets in an innings and the first to take eight Test wickets. Kendall overtook him in the Second Test and Shaw subsequently increased his total to 12 wickets (15.35) in seven Tests<ref>{{cite web|url=https://cricketarchive.com/Archive/Scorecards/2/2077.html|title=Australia v England in 1876/77|publisher=CricketArchive|accessdate=30 August 2009|archive-url=https://web.archive.org/web/20110629045126/http://www.cricketarchive.com/Archive/Scorecards/2/2077.html|archive-date=29 June 2011|url-status=live}}</ref></small>
+<br>
+<small>{{note|2b|[b]}} [[Johnny Briggs (cricketer)|Johnny Briggs]] equalled [[Fred Spofforth]]'s record of 94 Test wickets on 29 December 1894 in the Second Test at [[MCG|Melbourne]], as did [[Charles Turner (Australian cricketer)|Charles Turner]] two days later. Briggs overtook Turner and Spofforth in the Third Test at [[Adelaide Oval|Adelaide]], which Turner missed, and became the first man to claim 100 Test wickets on 1 February 1895 in the Fourth Test at [[Sydney Cricket Ground|Sydney]]. Turner became the second three days later and ended with a total of 101 wickets (16.53) in 17 Tests<ref>p44, Bill Frindall, ''The Guinness Book of Cricket Facts and Feats'', Guinness Publishing, 1996</ref><ref>{{Cite news|url=http://www.espncricinfo.com/ci/content/story/67804.html|title=Evolution of most Test wickets|work=Cricinfo|access-date=8 January 2019|language=en|archive-url=https://web.archive.org/web/20180905141126/http://www.espncricinfo.com/ci/content/story/67804.html|archive-date=5 September 2018|url-status=live}}</ref>
+</small>
+<br>
+<small>{{note|2c|[c]}} Johnny Briggs equalled [[George Lohmann]]'s record of 112 Test wickets on 3 January 1898 in the Second Test at [[MCG|Melbourne]] and overtook him in the next match at Adelaide.
+</small>
+<br>
+<small>{{note|2d|[d]}} [[Fred Trueman]] overtook [[Brian Statham]]'s then record of 242 Test wickets and Statham subsequently increased his total to 252 wickets (24.84) in 70 Tests</small>
+<br>
+<small>{{note|2e|[e]}} [[Richard Hadlee]] overtook [[Ian Botham]]'s then record of 373 Test wickets and Botham subsequently increased his total to 383 wickets (28.40) in 102 Tests</small>
+<br />
+<small>{{note|2f|[f]}} [[Shane Warne]] overtook [[Muttiah Muralitharan]]'s then record of 532 Test wickets and Muralitharan subsequently increased his total to 800 wickets (22.72) in 133 Tests<ref>{{cite web|url=https://cricketarchive.com/Archive/Articles/1/1994.html|title=A Graphical View of India vs Australia, 2nd Test match, Chennai, played 14–18 October 2004|publisher=CricketArchive|accessdate=30 August 2009|archive-url=https://web.archive.org/web/20111215072527/http://www.cricketarchive.com/Archive/Articles/1/1994.html|archive-date=15 December 2011|url-status=live}}</ref></small>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Best career average
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Bowling average|Average]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Balls'''
+| style="text-align:center;"| '''Wickets'''
+|-
+! 10.75
+| style="text-align:left;"|{{cricon|ENG}} [[George Lohmann]] || 3,830 || 112
+|-
+! 12.70
+| style="text-align:left;"|{{cricon|ENG}}/{{cricon|AUS}} [[John Ferris (cricketer)|John Ferris]]{{ref|2a|[a]}} || 2,302 || 61
+|-
+! 15.54
+| style="text-align:left;"|{{cricon|ENG}} [[Billy Barnes (cricketer)|Billy Barnes]] || 2,289 || 51
+|-
+! 16.42
+| style="text-align:left;"|{{cricon|ENG}} [[Billy Bates]] || 2,364 || 50
+|-
+! 16.43
+| style="text-align:left;"|{{cricon|ENG}} [[Sydney Barnes]] || 7,873 || 189
+|-
+| colspan="4" | 
+''Qualification: 2000 balls bowled''<br><small>Last updated: 8 January 2019</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283256.html|title=Test matches – Bowling records – Best career bowling average|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100421233007/http://stats.cricinfo.com/ci/content/records/283256.html|archive-date=21 April 2010|url-status=live}}</ref>
+----
+'''Note:''' <small>If the qualification is removed, the best career average record is at 0.00 runs per wicket (i.e. no runs were conceded). This record is shared by Englishmen [[A N Hornby]], [[Wilf Barber]] and New Zealander, [[Bruce Murray (cricketer)|Bruce Murray]] who took one wicket without conceding a run<ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283903.html|title=Test matches – Bowling records – Best career bowling average (without qualification)|publisher=ESPN|work=Cricinfo|accessdate=10 January 2015|archive-url=https://web.archive.org/web/20091215024908/http://stats.cricinfo.com/ci/content/records/283903.html|archive-date=15 December 2009|url-status=live}}</ref>
+----
+* {{note|2a|[a]}} John Ferris was one of a few cricketers to play [[Test cricket]] for more than one country. He played in eight Tests for Australia from 1886–87 and a single Test for England in South Africa in 1891–92.<ref>{{cite web|url=http://stats.cricinfo.com/ci/engine/player/5225.html?class=1;template=results;type=allround;view=match|title=Test matches played by JJ Ferris|publisher=ESPN|work=Cricinfo|accessdate=15 August 2009|url-status=dead|archiveurl=https://archive.today/20120716180433/http://stats.cricinfo.com/ci/engine/player/5225.html?class=1;template=results;type=allround;view=match|archivedate=16 July 2012}}</ref></small>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Best career strike rate
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Strike rate#Bowling strike rate|Strike rate]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Balls'''
+| style="text-align:center;"| '''Wickets'''
+|-
+! 34.1
+| style="text-align:left;"|{{cricon|ENG}} [[George Lohmann]] || 3,830 || 112
+|-
+! 37.7
+| style="text-align:left;"|{{cricon|AUS}} / {{cricon|ENG}} [[J. J. Ferris]] || 2,302 || 61
+|-
+! 38.4
+| style="text-align:left;"|{{cricon|RSA}} [[Kagiso Rabada]] {{dagger}} || 6,455 || 168
+|-
+! 38.7
+| style="text-align:left;"|{{cricon|NZ}} [[Shane Bond]] || 3,372 || 87
+|-
+! 41.6
+| style="text-align:left;"|{{cricon|ENG}} [[Sydney Barnes]] || 7,873 || 189
+|-
+| colspan="4" | 
+''Qualification: 2000 balls bowled''<br><small>Last updated: 28 January 2019</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283274.html|title=Test matches – Bowling records – Best career strike rate|publisher=ESPN|work=Cricinfo|accessdate=28 January 2019|archive-url=https://web.archive.org/web/20171129144143/http://stats.espncricinfo.com/ci/content/records/283274.html|archive-date=29 November 2017|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most 5 wickets in an innings
+|- style="background:#9cf;"
+| style="text-align:center;"| '''5 wickets in an innings'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+! 67
+| {{cricon|SRI}} [[Muttiah Muralitharan]] || 133
+|-
+! 37
+| {{cricon|AUS}} [[Shane Warne]] || 145
+|-
+! 36
+| {{cricon|NZ}} [[Richard Hadlee]] || 86
+|-
+! 35
+| {{cricon|IND}} [[Anil Kumble]] || 132
+|-
+! 34
+| {{cricon|SRI}} [[Rangana Herath]] || 93
+|-
+| colspan="3" | 
+<small>Last updated: 9 November 2018</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283354.html|title=Test matches – Bowling records – Most five-wickets-in-an-innings in a career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100824224123/http://stats.cricinfo.com/ci/content/records/283354.html|archive-date=24 August 2010|url-status=live}}</ref>
+|}
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most 10 wickets in a match
+|- style="background:#9cf;"
+| style="text-align:center;"| '''10 wickets in a match'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+! 22
+| {{cricon|SRI}} [[Muttiah Muralitharan]] || 133
+|-
+! 10
+| {{cricon|AUS}} [[Shane Warne]] || 145
+|-
+! rowspan="2" style="vertical-align:middle;" | 9
+| {{cricon|NZ}} [[Richard Hadlee]] || 86
+|-
+| {{cricon|SL}} [[Rangana Herath]] || 93
+|-
+! 8
+| {{cricon|IND}} [[Anil Kumble]] || 132
+|-
+| colspan="3" | 
+<small>Last updated: 9 November 2018</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283370.html|title=Test matches – Bowling records – Most ten-wickets-in-a-match in a career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100523063833/http://stats.cricinfo.com/ci/content/records/283370.html|archive-date=23 May 2010|url-status=live}}</ref>
+|}
+
+==== Series ====
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most wickets in a series
+|- style="background:#9cf; text-align:center;"
+| '''Wickets'''
+| '''Player'''
+| '''Series'''
+|-
+! 49 (4 Tests)
+| {{cricon|ENG}} [[Sydney Barnes]] || v {{cr|RSA|1912}} 1913–14
+|-
+! 46 (5 Tests)
+| {{cricon|ENG}} [[Jim Laker]] || v {{cr|AUS}}, 1956
+|-
+! 44 (5 Tests)
+| {{cricon|AUS}} [[Clarrie Grimmett]] || v {{cr|RSA|1928}} 1935–36
+|-
+! 42 (6 Tests)
+| {{cricon|AUS}} [[Terry Alderman]] || v {{cr|ENG}}, 1981
+|-
+! rowspan="2" style="vertical-align:middle;"| 41 (6 Tests)
+| {{cricon|AUS}} [[Terry Alderman]] || v {{cr|ENG}}, 1989
+|-
+| {{cricon|AUS}} [[Rodney Hogg]] || v {{cr|ENG}}, 1978–79
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/122207.html|title=Test matches – Bowling records – Most wickets in a series|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100420120846/http://stats.cricinfo.com/ci/content/records/122207.html|archive-date=20 April 2010|url-status=live}}</ref>
+|}
+
+==== Innings ====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Best figures in an innings
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Bowling figures'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|- 
+! 10–53
+| {{cricon|ENG}} [[Jim Laker]] || {{cr|AUS}} (2nd innings) || [[Old Trafford Cricket Ground|Old Trafford]], Manchester || 1956
+|-
+! 10–74
+| {{cricon|IND}} [[Anil Kumble]] ||{{cr|PAK}}|| [[Feroz Shah Kotla Ground]], [[Delhi]] || 1998–99
+|-
+! 9–28
+| {{cricon|ENG}} [[George Lohmann]] ||{{cr|RSA|1910}}|| [[Old Wanderers]], [[Johannesburg]] || 1895–96
+|-
+! 9–37
+| {{cricon|ENG}} [[Jim Laker]] || {{cr|AUS}} (1st innings) || [[Old Trafford Cricket Ground|Old Trafford]], Manchester || 1956
+|-
+! 9–51
+| {{cricon|SRI}} [[Muttiah Muralitharan]] ||{{cr|ZIM}}|| [[Asgiriya Stadium]], [[Kandy]] || 2001–02
+|-
+| colspan="5" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283203.html|title=Test matches – Bowling records – Best figures in an innings|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100420104952/http://stats.cricinfo.com/ci/content/records/283203.html|archive-date=20 April 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Best figures in an innings – progression of record
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Bowling figures'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 7–55
+| {{cricon|AUS}} [[Tom Kendall]] <br /><small>(in the inaugural Test match)</small>||{{cr|ENG}}||[[Melbourne Cricket Ground]] || 1876–77
+|-
+! 7–44
+| {{cricon|AUS}} [[Fred Spofforth]] ||{{cr|ENG}}|| [[The Oval]], London|| 1882
+|-
+! 7–28
+| {{cricon|ENG}} [[Billy Bates]] || {{cr|AUS}} || [[Melbourne Cricket Ground]] || 1882–83
+|-
+! 8–35
+| {{cricon|ENG}} [[George Lohmann]] || {{cr|AUS}} || [[Sydney Cricket Ground]] || 1886–87
+|-
+! 8–11
+| {{cricon|ENG}} [[Johnny Briggs (cricketer)|Johnny Briggs]] ||{{cr|RSA|1910}}|| [[Newlands Cricket Ground]], [[Cape Town]] || 1888–89
+|-
+! 8–7
+| {{cricon|ENG}} [[George Lohmann]] ||{{cr|RSA|1910}}|| [[St George's Oval|St. George's Park]], [[Port Elizabeth]] || 1895–96
+|-
+! 9–28
+| {{cricon|ENG}} [[George Lohmann]] ||{{cr|RSA|1910}}|| [[Old Wanderers]], [[Johannesburg]] || 1895–96
+|-
+! 10–53
+| {{cricon|ENG}} [[Jim Laker]] || {{cr|AUS}} || [[Old Trafford Cricket Ground|Old Trafford]], Manchester || 1956
+|-
+| colspan="5" | 
+''Calculated at the conclusion of each Test''<br>
+<small> Last updated: 15 June 2016</small>
+|}
+
+==== Match records ====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Best figures in a match
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Bowling'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 19–90
+| {{cricon|ENG}} [[Jim Laker]] || {{cr|AUS}} || [[Old Trafford Cricket Ground|Old Trafford]], Manchester || 1956
+|-
+! 17–159
+| {{cricon|ENG}} [[Sydney Barnes]] ||{{cr|RSA|1912}}|| [[Old Wanderers]], [[Johannesburg]] || 1913–14
+|-
+! 16–136
+| {{cricon|IND}} [[Narendra Hirwani]] ||{{cr|WIN}}|| [[M. A. Chidambaram Stadium]], [[Chennai]] || 1987–88
+|-
+! 16–137
+| {{cricon|AUS}} [[Bob Massie]] ||{{cr|ENG}}|| [[Lord's]], London || 1972 
+|- 
+! 16–220
+| {{cricon|SRI}} [[Muttiah Muralitharan]] ||{{cr|ENG}}|| [[The Oval]], London || 1998
+|- 
+| colspan="5" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283211.html|title=Test matches – Bowling records – Best figures in a match|publisher=ESPN|work=Cricinfo|accessdate=8 August 2009|archive-url=https://web.archive.org/web/20091212092620/http://stats.cricinfo.com/ci/content/records/283211.html|archive-date=12 December 2009|url-status=live}}</ref>
+|}
+
+==== Innings as captain ====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Best figures in an innings as captain
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Bowling figures'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|- 
+! 9–83
+| {{cricon|IND}} [[Kapil Dev]] || {{cr|WIN}}  || [[Sardar Patel Stadium]], [[Ahmedabad]] || 1983
+|-
+! 8–60
+| {{cricon|PAK}} [[Imran Khan]] ||{{cr|IND}}|| [[National Stadium, Karachi]], [[Karachi]] || 1982 
+|-
+! 8–63
+| {{cricon|SRI}} [[Rangana Herath]] ||{{cr|ZIM}}|| [[Harare Sports Club]], [[Harare]] || 2016
+|-
+! 8–106
+| {{cricon|IND}} [[Kapil Dev]] || {{cr|AUS}}  || [[Adelaide Oval]], [[Adelaide]] || 1985
+|-
+! 7–37
+| {{cricon|WIN}} [[Courtney Walsh]] ||{{cr|NZL}}|| [[Basin Reserve]], [[Wellington]] || 1995
+|-
+| colspan="5" | 
+<small>Last updated: 16 March 2017</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283939.html|title=Test matches – Bowling records – Best figures in an innings as captain|publisher=ESPN|work=Cricinfo|accessdate=16 March 2017|archive-url=https://web.archive.org/web/20170315020155/http://stats.espncricinfo.com/ci/content/records/283939.html|archive-date=15 March 2017|url-status=live}}</ref>
+|}
+
+==== Match records as captain ====
+{| class="wikitable" style="width:100%;"
+|+ style="text-align:left" | Best figures in a match as captain
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Bowling'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 13–55
+| {{cricon|WIN}} [[Courtney Walsh]] || {{cr|NZL}} || [[Basin Reserve]], [[Wellington]] || 1995
+|-
+! 13–135
+| {{cricon|PAK}} [[Waqar Younis]] || {{cr|ZIM}} || [[Southend Club Cricket Stadium]], [[Karachi]] || 1993
+|-
+! 13–152
+| {{cricon|SRI}} [[Rangana Herath]] ||{{cr|ZIM}}|| [[Harare Sports Club]], [[Harare]] || 2016
+|-
+! 12–100
+| {{cricon|PAK}} [[Fazal Mahmood]] ||{{cr|WIN}}|| [[Bangabandhu National Stadium]], [[Dhaka]] || 1959 
+|- 
+! 11–79
+| {{cricon|PAK}} [[Imran Khan]] ||{{cr|IND}}|| [[National Stadium, Karachi|National Stadium]], [[Karachi]] || 1982
+|- 
+| colspan="5" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283246.html|title=Test matches – Bowling records – Best figures in a match as captain|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20181215183916/http://stats.espncricinfo.com/ci/content/records/283246.html|archive-date=15 December 2018|url-status=live}}</ref>
+|}
+
+=== Individual records (fielding) ===
+
+==== Most catches in Test career ====
+{| class="wikitable" style="width:60%;"
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Caught|Catches]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+! 210
+| {{cricon|IND}} [[Rahul Dravid]] || style="text-align:center;"| 164 
+|-
+! 205
+| {{cricon|SRI}} [[Mahela Jayawardene]] || style="text-align:center;"| 149
+|-
+! 200 
+| {{cricon|RSA}} [[Jacques Kallis]] || style="text-align:center;"| 166
+|-
+! 196
+| {{cricon|AUS}} [[Ricky Ponting]] || style="text-align:center;"| 168 
+|-
+! 181 
+| {{cricon|AUS}} [[Mark Waugh]] || style="text-align:center;"| 128
+|-
+| colspan=3 | <small>'''Note:'''The list excludes catches made as wicket-keeper</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283548.html|title=Test matches – Fielding records – Most catches in career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100421233025/http://stats.cricinfo.com/ci/content/records/283548.html|archive-date=21 April 2010|url-status=live}}</ref><small> '''Last updated''': 15 June 2016</small>
+|}
+
+=== Individual records (wicket-keeping) ===
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most dismissals
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Dismissal (cricket)|Dismissals]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+| style="text-align:center;"|'''555''' (532 catches + 23 stumpings)
+| {{cricon|RSA}} [[Mark Boucher]] || style="text-align:center;"| 147
+|-
+| style="text-align:center;"|'''416''' (379 catches + 37 stumpings)
+| {{cricon|AUS}} [[Adam Gilchrist]] || style="text-align:center;"| 96
+|-
+| style="text-align:center;"|'''395''' (366 catches + 29 stumpings)
+| {{cricon|AUS}} [[Ian Healy]] || style="text-align:center;"| 119
+|-
+| style="text-align:center;"|'''355''' (343 catches + 12 stumpings)
+| {{cricon|AUS}} [[Rod Marsh]] || style="text-align:center;"| 96
+|-
+| style="text-align:center;"|'''294''' (256 catches + 38 stumpings)
+| {{cricon|IND}} [[MS Dhoni]] || style="text-align:center;"| 90
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283791.html|title=Test matches&nbsp;– Wicketkeeping records – Most dismissals in career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20070811193156/http://stats.cricinfo.com/ci/content/records/283791.html|archive-date=11 August 2007|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most catches
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Caught|Catches]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+! 532
+| {{cricon|RSA}} [[Mark Boucher]] || style="text-align:center;"|147
+|-
+! 379
+| {{cricon|AUS}} [[Adam Gilchrist]] || style="text-align:center;"|96
+|-
+! 366
+| {{cricon|AUS}} [[Ian Healy]] || style="text-align:center;"|119
+|-
+! 343
+| {{cricon|AUS}} [[Rod Marsh]] || style="text-align:center;"|96
+|-
+! 265
+| {{cricon|WIN}} [[Jeff Dujon]] || style="text-align:center;"|81
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283365.html|title=Test matches – Wicketkeeping records – Most catches in career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20101109203620/http://stats.cricinfo.com/ci/content/records/283365.html|archive-date=9 November 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most stumpings
+|- style="background:#9cf;"
+| style="text-align:center;"| '''[[Stumped|Stumpings]]'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Matches'''
+|-
+! 52
+| {{cricon|AUS}} [[Bert Oldfield]] || style="text-align:center;"|54 
+|-
+! 46
+| {{cricon|ENG}} [[Godfrey Evans]] || style="text-align:center;"|91
+|-
+! rowspan=2 | 38
+| {{cricon|IND}} [[Syed Kirmani]] || style="text-align:center;"|88
+|-
+| {{cricon|IND}} [[MS Dhoni]] || style="text-align:center;"|90
+|-
+! 37
+| {{cricon|AUS}} [[Adam Gilchrist]] || style="text-align:center;"|96
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283340.html|title=Test matches – Wicketkeeping records – Most stumpings in career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20170504100901/http://stats.espncricinfo.com/ci/content/records/283340.html|archive-date=4 May 2017|url-status=live}}</ref>
+|}
+
+=== Individual records (as an all-rounder) ===
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | 10 Wickets and a Century in a Test match
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Wickets'''
+| style="text-align:center;"| '''Date'''
+| style="text-align:center;"| '''Opponent'''
+| style="text-align:center;"| '''Venue'''
+|-
+| {{cricon|ENG}} [[Ian Botham]]<ref name=allround>{{Cite web |url=http://www.cricketcountry.com/articles/shakib-al-hasan-becomes-third-all-rounder-to-score-hundred-and-take-10-wickets-in-same-test-207619 |title=Archived copy |access-date=23 November 2014 |archive-url=https://web.archive.org/web/20141110091318/http://www.cricketcountry.com/articles/shakib-al-hasan-becomes-third-all-rounder-to-score-hundred-and-take-10-wickets-in-same-test-207619 |archive-date=10 November 2014 |url-status=live }}</ref>
+| 114
+| 13/109
+| 15 February 1980
+|{{cr|IND}}
+| [[Mumbai]], India
+|-
+| {{cricon|PAK}} [[Imran Khan]]<ref name=allround />
+| 117
+| 11/180
+| 3 January 1983
+|{{cr|IND}}
+| [[Faisalabad]], Pakistan
+|-
+| {{cricon|BAN}} [[Shakib Al Hasan]]<ref name=allround />
+| 137
+| 10/124
+| 3 November 2014
+|{{cr|ZIM}}
+| [[Khulna]], Bangladesh
+|-
+| colspan=6 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|title=Cricketers Who Have Taken 10 Wickets and a Century in a Test match|url=http://m.foxsports.com.au/cricket/shakib-al-hasan-joins-ian-botham-and-imran-khan-in-achieving-unique-test-feat/story-e6frf3g3-1227116687782?nk=b05fbbd2e015ed1cc1b7a1d625c76525|publisher=ESPN| work=Cricinfo|accessdate=24 November 2014}}</ref>
+|}
+
+=== Individual records (other) ===
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most matches played
+|- style="background:#9cf; text-align:center;"
+| '''Matches'''
+| '''Player'''
+| '''Period'''
+|- 
+! 200
+| {{cricon|IND}} [[Sachin Tendulkar]] || 1989–2013
+|- 
+! rowspan=2|168
+| {{cricon|AUS}} [[Steve Waugh]] || 1985–2004
+|-
+| {{cricon|AUS}} [[Ricky Ponting]] || 1995–2012
+|-
+! 166
+| {{cricon|RSA}} [[Jacques Kallis]] || 1995–2013
+|-
+! rowspan=2|164
+| {{cricon|IND}} [[Rahul Dravid]] || 1996–2012
+|-
+| {{cricon|WIN}} [[Shivnarine Chanderpaul]] || 1994–2015
+|-
+| colspan="3" | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283683.html|title=Test matches – Individual records (captains, players, umpires) – Most matches in career|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100824221421/http://stats.cricinfo.com/ci/content/records/283683.html|archive-date=24 August 2010|url-status=live}}</ref>
+|}
+
+{| class="wikitable" style="width:60%;"
+|+ style="text-align:left" | Most matches played as captain
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Matches'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Won'''
+| style="text-align:center;"| '''Lost'''
+| style="text-align:center;"| '''Drawn'''
+| style="text-align:center;"| '''Tied'''
+|-
+! 109
+| style="text-align:left;"| {{cricon|RSA}} [[Graeme Smith]] || 53 || 29 || 27 || 0
+|-
+! 93
+| style="text-align:left;"| {{cricon|AUS}} [[Allan Border]] || 32 || 22 || 38 || 1
+|-
+! 80
+| style="text-align:left;"| {{cricon|NZ}} [[Stephen Fleming]] || 28 || 27 || 25 || 0
+|-
+! 77
+| style="text-align:left;"| {{cricon|AUS}} [[Ricky Ponting]] || 48 || 16 || 13 || 0
+|-
+! 74
+| style="text-align:left;"| {{cricon|WIN}} [[Clive Lloyd]] || 36 || 12 || 26 || 0
+|-
+| colspan="6" | 
+<small>Last updated: 15 June 2016</small><ref name=MostAsCaptain>{{cite web|url=http://stats.espncricinfo.com/ci/content/records/283746.html|title=Test matches – Individual records (captains, players, umpires) – Most matches as captain|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20170601134648/http://stats.espncricinfo.com/ci/content/records/283746.html|archive-date=1 June 2017|url-status=live}}</ref>
+|}
+
+{| class="wikitable sortable" style="width:60%;"
+|+ style="text-align:left" | Most matches won as captain
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Won'''
+| style="text-align:center;"| '''Player'''
+| style="text-align:center;"| '''Lost'''
+| style="text-align:center;"| '''Drawn'''
+| style="text-align:center;"| '''Ties'''
+| style="text-align:center;"| '''Matches''' 
+|-
+! 53
+| style="text-align:left;"| {{cricon|RSA}} [[Graeme Smith]] || style="text-align:center;"| 26 || style="text-align:center;"| 26 || style="text-align:center;"| 0 || style="text-align:center;"| 109
+|-
+! 48
+| style="text-align:left;"| {{cricon|AUS}} [[Ricky Ponting]] || style="text-align:center;"| 16 || style="text-align:center;"| 13 || style="text-align:center;"| 0 || style="text-align:center;"| 77
+|-
+! 41
+| style="text-align:left;"| {{cricon|AUS}} [[Steve Waugh]] || style="text-align:center;"| 9 || style="text-align:center;"| 7 || style="text-align:center;"| 0 || style="text-align:center;"| 57
+|-
+! 36
+| style="text-align:left;"| {{cricon|WIN}} [[Clive Lloyd]] || style="text-align:center;"| 12 || style="text-align:center;"| 26 || style="text-align:center;"| 0 || style="text-align:center;"| 74
+|-
+! 32
+| style="text-align:left;"| {{cricon|AUS}} [[Allan Border]] || style="text-align:center;"| 22 || style="text-align:center;"| 38 || style="text-align:center;"| 1 || style="text-align:center;"| 93
+|-
+| colspan="6" | 
+<small>Last updated: 15 June 2016</small><ref name=MostMatchesWonAsCaptain>{{cite web|url=http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1;filter=advanced;groupby=captains;orderby=won;size=10;template=results;type=team|title=Test matches – Individual records (captains, players, umpires) – Most matches won as captain|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|url-status=live|archiveurl=https://web.archive.org/web/20160311005633/http://stats.espncricinfo.com/ci/engine/stats/index.html?class=1%3Bfilter%3Dadvanced%3Bgroupby%3Dcaptains%3Borderby%3Dwon%3Bsize%3D10%3Btemplate%3Dresults%3Btype%3Dteam|archivedate=11 March 2016}}</ref>
+|}
+
+== Partnership records ==
+
+=== Highest partnership for each wicket ===
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Partnership'''
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Team'''
+| colspan="2" style="text-align:center;"| '''Players'''
+| style="text-align:center;"| '''Opposition'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season''' 
+|-
+! 1st wicket
+| 415 ||{{cr|RSA}}|| [[Graeme Smith]] (232) || [[Neil McKenzie]] (226) ||{{cr|BAN}}|| [[Chittagong Divisional Stadium]] || [[South African cricket team in Bangladesh in 2007–08#2nd Test|2008]]
+|-
+! 2nd wicket 
+| 576 ||{{cr|SRI}}|| [[Sanath Jayasuriya]] (340) || [[Roshan Mahanama]] (225) ||{{cr|IND}}|| [[Ranasinghe Premadasa Stadium]], [[Colombo]] || [[Indian cricket team in Sri Lanka in 1997#First Test|1997–98]]
+|-
+! 3rd wicket
+| 624 ||{{cr|SRI}}|| [[Kumar Sangakkara]] (287) || [[Mahela Jayawardene]] (374) ||{{cr|RSA}}|| [[Sinhalese Sports Club Ground]], [[Colombo]] || [[South African cricket team in Sri Lanka in 2006#1st Test|2006]]
+|-
+! 4th wicket
+| 449 ||{{cr|AUS}}|| [[Adam Voges]] (269*) || [[Shaun Marsh]] {{dagger}} (182) ||{{cr|WIN}}|| [[Bellerive Oval]], [[Hobart]] || [[West Indian cricket team in Australia in 2015–16#1st Test|2015–16]]
+|-
+! 5th wicket
+| 405 ||{{cr|AUS}}|| [[Sid Barnes]] (234) || [[Donald Bradman]] (234) ||{{cr|ENG}} || [[Sydney Cricket Ground]] || [[English cricket team in Australia in 1946–47#Second Test – Sydney|1946–47]]
+|-
+! 6th wicket
+| 399 ||{{cr|ENG}}|| [[Ben Stokes]] {{dagger}} (258) || [[Jonny Bairstow]] {{dagger}} (150*) ||{{cr|RSA}}|| [[Newlands Cricket Ground]], [[Cape Town]] || [[English cricket team in South Africa in 2015–16#2nd Test|2015–16]]
+|-
+! 7th wicket
+| 347 ||{{cr|WIN}}|| [[Denis Atkinson]] (219) || [[Clairmonte Depeiaza]] (122) ||{{cr|AUS}}|| [[Kensington Oval]], [[Bridgetown]] || 1954–55
+|-
+! 8th wicket
+| 332 ||{{cr|ENG}}|| [[Jonathan Trott]] (184) || [[Stuart Broad]] {{dagger}} (169) || {{cr|PAK}} || [[Lord's]], London || 2010
+|-
+! 9th wicket
+| 195 ||{{cr|RSA}}|| [[Mark Boucher]] (78) || [[Pat Symcox]] (108) || {{cr|PAK}} || [[New Wanderers Stadium]], [[Johannesburg]] || 1997–98
+|-
+! 10th wicket 
+| 198 ||{{cr|ENG}} || [[Joe Root]] {{dagger}} (154*) || [[James Anderson (cricketer)|James Anderson]] {{dagger}} (81) ||{{cr|IND}}|| [[Trent Bridge]], [[Nottingham]] || 2014
+|-
+| colspan=8 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/254836.html|title=Test matches – Partnership records – Highest partnerships by wicket|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20100305120757/http://stats.cricinfo.com/ci/content/records/254836.html|archive-date=5 March 2010|url-status=live}}</ref>
+|}
+
+=== Highest partnerships ===
+{| class="wikitable" style="width:100%;"
+|- style="background:#9cf;"
+| style="text-align:center;"| '''Runs'''
+| style="text-align:center;"| '''Team'''
+| colspan="2" style="text-align:center;"| '''Players'''
+| style="text-align:center;"| '''Opposition'''
+| style="text-align:center;"| '''Venue'''
+| style="text-align:center;"| '''Season'''
+|-
+! 624&nbsp;(3rd&nbsp;wicket) 
+| {{cr|SRI}} || [[Kumar Sangakkara]] (287) || [[Mahela Jayawardene]] (374) ||{{cr|RSA}}|| [[Sinhalese Sports Club Ground]], [[Colombo]] || 2006
+|-
+! 576&nbsp;(2nd&nbsp;wicket) 
+| {{cr|SRI}} || [[Sanath Jayasuriya]] (340) || [[Roshan Mahanama]] (225) ||{{cr|IND}}|| [[Ranasinghe Premadasa Stadium]], [[Colombo]] || 1997–98
+|-
+! 467 (3rd wicket) 
+| {{cr|NZL}}|| [[Andrew Jones (cricketer, born 1959)|Andrew Jones]] (186) || [[Martin Crowe]] (299) ||{{cr|SRI}}|| [[Basin Reserve]], [[Wellington]] || 1990–91
+|-
+! 451 (2nd wicket) 
+| {{cr|AUS}} || [[Bill Ponsford]] (266) || [[Donald Bradman]] (244) ||{{cr|ENG}} || [[The Oval]], London || 1934
+|-
+! 451 (3rd wicket) 
+| {{cr|PAK}} || [[Mudassar Nazar]] (231) || [[Javed Miandad]] (280*) ||{{cr|IND}}|| [[Niaz Stadium]], [[Hyderabad, India|Hyderabad]] || 1982–83
+|-
+| colspan=7 | 
+<small>Last updated: 15 June 2016</small><ref>{{cite web|url=http://stats.cricinfo.com/ci/content/records/283573.html|title=Test matches – Partnership records – Highest partnerships for any wicket|publisher=ESPN|work=Cricinfo|accessdate=8 January 2019|archive-url=https://web.archive.org/web/20090208210947/http://stats.cricinfo.com/ci/content/records/283573.html|archive-date=8 February 2009|url-status=live}}</ref>
+|}
+
+== See also ==
+{{Portal|Cricket}}
+
+*[[List of Australia Test cricket records]]
+*[[List of Bangladesh Test cricket records]]
+*[[List of England Test cricket records]]
+*[[List of India Test cricket records]]
+*[[List of Ireland Test cricket records]]
+*[[List of New Zealand Test cricket records]]
+*[[List of Pakistan Test cricket records]]
+*[[List of South Africa Test cricket records]]
+*[[List of Sri Lanka Test cricket records]]
+*[[List of West Indies Test cricket records]]
+*[[List of Zimbabwe Test cricket records]]
+*[[List of Cricket records]]
+*[[List of One Day International cricket records]]
+*[[List of Twenty20 International records]]
+
+== References ==
+{{Reflist}}
+
+==External links ==
+* [http://stats.espncricinfo.com/ci/engine/records/index.html?class=1 Records – Test matches] ESPN Cricinfo
+* [http://www.howstat.com/cricket/home.asp HowSTAT!]
+* [http://cricket-records.com/pages/test_records.htm Test Records] Cricket-Records.com
+* [http://www.wisdenrecords.com/Records/Test/index.html Wisden Records in Test Matches] Wisden 
+{{Featured list}}
+{{Cricket records}}
+{{Records}}
+
+{{DEFAULTSORT:List Of Test Cricket Records}}
+[[Category:Test cricket records|*]]
+[[Category:Cricket-related lists|Test cricket records]]
