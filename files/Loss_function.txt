@@ -1,0 +1,153 @@
+In [[mathematical optimization]] and [[decision theory]], a '''loss function''' or '''cost function''' is a function that maps an [[event (probability theory)|event]] or values of one or more variables onto a [[real number]] intuitively representing some "cost" associated with the event. An [[optimization problem]] seeks to minimize a loss function. An '''objective function''' is either a loss function or its negative (in specific domains, variously called a [[reward function]], a [[profit function]], a [[utility function]], a [[fitness function]], etc.), in which case it is to be maximized.
+
+In statistics, typically a  loss function is used for [[parameter estimation]], and the event in question is some function of the difference between estimated and true values for an instance of data. The concept, as old as [[Pierre-Simon Laplace|Laplace]], was reintroduced in statistics by [[Abraham Wald]] in the middle of the 20th century.<ref>{{cite book |first=A. |last=Wald |title=Statistical Decision Functions |location= |publisher=Wiley |year=1950 |url=https://psycnet.apa.org/record/1951-01400-000}}</ref>  In the context of [[economics]], for example, this is usually [[economic cost]] or [[Regret (decision theory)|regret]].  In [[Statistical classification|classification]], it is the penalty for an incorrect classification of an example. In [[actuarial science]], it is used in an insurance context to model benefits paid over premiums, particularly since the works of [[Harald Cramér]] in the 1920s.<ref>{{cite book |last=Cramér |first=H. |year=1930 |title=On the mathematical theory of risk |work=Centraltryckeriet }}</ref> In [[optimal control]], the loss is the penalty for failing to achieve a desired value. In [[financial risk management]], the function is mapped to a monetary loss.
+
+In classical statistics (both frequentist and Bayesian), a loss function is typically treated as something of a background mathematical convention. Critics such as [[W. Edwards Deming]] and [[Nassim Nicholas Taleb]] have argued that loss functions require much greater attention than they have traditionally been given and that loss functions used in real world decision making need to reflect actual empirical experience. They argue that real-world loss functions are often very different from the smooth, symmetric ones used by classical convention, and are often highly asymmetric, nonlinear, and discontinuous.{{Citation needed|date=September 2019}}
+
+==Examples==
+
+===Regret===
+{{main|Regret (decision theory)}}
+[[Leonard J. Savage]] argued that using non-Bayesian methods such as [[minimax]], the loss function should be based on the idea of ''[[regret (decision theory)|regret]]'', i.e., the loss associated with a decision should be the difference between the consequences of the best decision that could have been made had the underlying circumstances been known and the decision that was in fact taken before they were known.
+
+===Quadratic loss function===
+
+The use of a [[quadratic function|quadratic]] loss function is common, for example when using [[least squares]] techniques. It is often more mathematically tractable than other loss functions because of the properties of [[variance]]s, as well as being symmetric: an error above the target causes the same loss as the same magnitude of error below the target.  If the target is ''t'', then a quadratic loss function is
+:<math>\lambda(x) = C (t-x)^2 \; </math>
+for some constant ''C''; the value of the constant makes no difference to a decision, and can be ignored by setting it equal to 1.
+
+Many common [[statistic]]s, including [[t-test]]s, [[Regression analysis|regression]] models, [[design of experiments]], and much else, use [[least squares]] methods applied using [[linear regression]] theory, which is based on the quadratric loss function.
+
+The quadratic loss function is also used in [[Linear-quadratic regulator|linear-quadratic optimal control problems]]. In these problems, even in the absence of uncertainty, it may not be possible to achieve the desired values of all target variables. Often loss is expressed as a [[quadratic form]] in the deviations of the variables of interest from their desired values; this approach is [[closed-form expression|tractable]] because it results in linear [[first-order condition]]s. In the context of [[stochastic control]], the expected value of the quadratic form is used.
+
+===0-1 loss function===
+
+In [[statistics]] and [[decision theory]], a frequently used loss function is the ''0-1 loss function''
+
+: <math>L(\hat{y}, y) = I(\hat{y} \ne y), \, </math>
+
+where <math>I</math> is the [[indicator function]].
+
+==Expected loss==
+In some contexts, the value of the loss function itself is a random quantity because it depends on the outcome of a random variable ''X''. 
+
+===Statistics===
+Both [[frequentist]] and [[Bayesian probability|Bayesian]] statistical theory involve making a decision based on the [[expected value]] of the loss function; however, this quantity is defined differently under the two paradigms.
+
+====Frequentist expected loss====
+We first define the expected loss in the frequentist context. It is obtained by taking the expected value with respect to the probability distribution, ''P''<sub>''θ''</sub>, of the observed data, ''X''. This is also referred to as the '''risk function'''<ref>{{SpringerEOM| title=Risk of a statistical procedure |id=R/r082490 |first=M.S. |last=Nikulin}}</ref><ref>
+{{cite book
+ |title=Statistical decision theory and Bayesian Analysis
+ |first=James O. |last=Berger |authorlink=James Berger (statistician)
+ |year=1985
+ |edition=2nd
+ |publisher=Springer-Verlag |location=New York
+ |isbn=978-0-387-96098-2 |mr=0804611
+|url=https://books.google.com/?id=oY_x7dE15_AC&printsec=frontcover&dq=isbn:9780387960982#v=onepage&q=loss%20function&f=false
+|bibcode=1985sdtb.book.....B }}</ref><ref>{{cite book
+ |first=Morris |last=DeGroot |authorlink=Morris H. DeGroot
+ |title=Optimal Statistical Decisions
+ |publisher=Wiley Classics Library |year=2004 |origyear=1970
+ |isbn=978-0-471-68029-1 |mr=2288194
+}}</ref><ref>{{cite book
+ |last=Robert |first=Christian P.
+ |title=The Bayesian Choice
+ |publisher=Springer |location=New York
+ |year=2007|edition=2nd
+ |doi=10.1007/0-387-71599-1 |isbn=978-0-387-95231-4 |mr=1835885
+|series=Springer Texts in Statistics
+ }}</ref> of the decision rule ''δ'' and the parameter ''θ''. Here the decision rule depends on the outcome of ''X''. The risk function is given by:
+
+: <math>R(\theta, \delta) = \operatorname{E}_\theta L\big( \theta, \delta(X) \big) = \int_X L\big( \theta, \delta(x) \big) \, \mathrm{d} P_\theta (x) .</math>
+
+Here, ''θ'' is a fixed but possibly unknown state of nature, ''X'' is a vector of observations stochastically drawn from a [[Statistical population|population]], <math>\operatorname{E}_\theta</math> is the expectation over all population values of ''X'', ''dP''<sub>''θ''</sub> is a [[probability measure]] over the event space of ''X'' (parametrized by&nbsp;''θ'') and the integral is evaluated over the entire [[Support (measure theory)|support]] of&nbsp;''X''.
+
+====Bayesian expected loss====
+In a Bayesian approach, the expectation is calculated using the [[posterior distribution]] {{pi}}<sup>*</sup> of the parameter&nbsp;''θ'':
+
+:<math>\rho(\pi^*,a) = \int_\Theta L(\theta, a) \, \mathrm{d} \pi^* (\theta).</math>
+
+One then should choose the action ''a<sup>*</sup>'' which minimises the expected loss. Although this will result in choosing the same action as would be chosen using the frequentist risk, the emphasis of the Bayesian approach is that one is only interested in choosing the optimal action under the actual observed data, whereas choosing the actual frequentist optimal decision rule, which is a function of all possible observations, is a much more difficult problem.
+
+====Examples in statistics====
+* For a scalar parameter ''θ'', a decision function whose output <math>\hat\theta</math> is an estimate of&nbsp;''θ'', and a quadratic loss function ([[squared error loss]])
+
+::<math>L(\theta,\hat\theta)=(\theta-\hat\theta)^2,</math>
+
+:the risk function becomes the [[mean squared error]] of the estimate,
+
+::<math>R(\theta,\hat\theta)= \operatorname{E}_\theta(\theta-\hat\theta)^2.</math>
+
+* In [[density estimation]], the unknown parameter is [[probability density function|probability density]] itself. The loss function is typically chosen to be a [[Norm (mathematics)|norm]] in an appropriate [[function space]]. For example, for [[L2 norm|''L''<sup>2</sup> norm]],
+
+::<math>L(f,\hat f)=\|f-\hat f\|_2^2\,,</math>
+
+:the risk function becomes the [[mean integrated squared error]]
+
+::<math>R(f,\hat f)=\operatorname{E} \|f-\hat f\|^2.\,</math>
+
+===Economic choice under uncertainty===
+
+In economics, decision-making under uncertainty is often modelled using the [[von Neumann-Morgenstern utility function]] of the uncertain variable of interest, such as end-of-period wealth. Since the value of this variable is uncertain, so is the value of the utility function; it is the expected value of utility that is maximized.
+
+==Decision rules==
+A [[decision rule]] makes a choice using an optimality criterion. Some commonly used criteria are:
+
+*'''[[Minimax]]''': Choose the decision rule with the lowest worst loss — that is, minimize the worst-case (maximum possible) loss:
+::<math> \underset{\delta} {\operatorname{arg\,min}} \ \max_{\theta \in \Theta} \ R(\theta,\delta). </math>
+*'''[[Invariant estimator|Invariance]]''': Choose the optimal decision rule which satisfies an invariance requirement.
+*Choose the decision rule with the lowest average loss (i.e. minimize the [[expected value]] of the loss function):
+::<math> \underset{\delta} {\operatorname{arg\,min}} \operatorname{E}_{\theta \in \Theta} [R(\theta,\delta)] = \underset{\delta} {\operatorname{arg\,min}} \ \int_{\theta \in \Theta} R(\theta,\delta) \, p(\theta) \,d\theta. </math>
+
+==Selecting a loss function==
+Sound statistical practice requires selecting an estimator consistent with the actual acceptable variation experienced in the context of a particular applied problem. Thus, in the applied use of loss functions, selecting which statistical method to use to model an applied problem depends on knowing the losses that will be experienced from being wrong under the problem's particular circumstances.<ref>{{cite book |last=Pfanzagl |first=J. |year=1994 |title=Parametric Statistical Theory |location=Berlin |publisher=Walter de Gruyter |isbn=978-3-11-013863-4 }}</ref>
+
+A common example involves estimating "[[location parameter|location]]". Under typical statistical assumptions, the [[mean]] or average is the statistic for estimating location that minimizes the expected loss experienced under the [[least squares|squared-error]] loss function, while the [[median]] is the estimator that minimizes expected loss experienced under the absolute-difference loss function. Still different estimators would be optimal under other, less common circumstances.
+
+In economics, when an agent is [[risk neutral]], the objective function is simply expressed as the expected value of a monetary quantity, such as profit, income, or end-of-period wealth.
+
+But for [[Risk aversion|risk-averse]] (or [[risk-loving]]) agents, loss is measured as the negative of a [[utility|utility function]], and the objective function to be optimized is the expected value of utility.
+
+Other measures of cost are possible, for example [[Mortality rate|mortality]] or [[morbidity]] in the field of [[public health]] or [[safety engineering]].
+
+For most [[optimization algorithm]]s, it is desirable to have a loss function that is globally [[Continuous function|continuous]] and [[Differentiable function|differentiable]].
+
+Two very commonly used loss functions are the [[mean squared error|squared loss]], <math>L(a) = a^2</math>, and the [[absolute deviation|absolute loss]], <math>L(a)=|a|</math>.  However the absolute loss has the disadvantage that it is not differentiable at <math>a=0</math>.  The squared loss has the disadvantage that it has the tendency to be dominated by [[outlier]]s—when summing over a set of <math>a</math>'s (as in <math>\sum_{i=1}^n L(a_i) </math> ), the final sum tends to be the result of a few particularly large ''a''-values, rather than an expression of the average ''a''-value.
+
+The choice of a loss function is not arbitrary. It is very restrictive and sometimes the loss function may be characterized by its desirable properties.<ref>Detailed information on mathematical principles of the loss function choice is given in Chapter 2 of the book {{cite book|title=Robust and Non-Robust Models in Statistics|first1=B.|last1=Klebanov|first2=Svetlozat T.|last2=Rachev|first3=Frank J.|last3=Fabozzi|publisher=Nova Scientific Publishers, Inc.|location=New York|year=2009}} (and references there).</ref> Among  the choice principles are, for example, the requirement of completeness of the class of symmetric statistics in the case of [[i.i.d.]] observations, the principle of complete information, and some others.
+
+[[W. Edwards Deming]] and [[Nassim Nicholas Taleb]] argue that empirical reality, not nice mathematical properties, should be the sole basis for selecting loss functions, and real losses often aren’t mathematically nice and aren’t differentiable, continuous, symmetric, etc. For example, a person who arrives before a plane gate closure can still make the plane, but a person who arrives after can not, a discontinuity and asymmetry which makes arriving slightly late much more costly than arriving slightly early. In drug dosing, the cost of too little drug may be lack of efficacy, while the cost of too much may be tolerable toxicity, another example of assymmetry. Traffic, pipes, beams, ecologies, climates, etc. may tolerate increased load or stress with little noticeable change up to a point, then become backed up or break catastrophically. These situations, Deming and Taleb argue, are common in real-life problems, perhaps more common than classical smooth, continuous, symmetric, differentials cases.<ref>{{Cite book|title=Out of the Crisis|last=Deming|first=W. Edwards|publisher=The MIT Press|year=2000|isbn=9780262541152}}</ref>
+
+==See also==
+*[[Bayesian regret]] 
+*[[Loss functions for classification]]
+*[[Discounted maximum loss]]
+*[[Hinge loss]]
+*[[Scoring rule]]
+*[[Statistical risk]]
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*{{cite journal |authorlink= |author2=Bartram, Söhnke M. |author3=Pope, Peter F. |date=April–June 2011 |title=Asymmetric Loss Functions and the Rationality of Expected Stock Returns |journal=International Journal of Forecasting |volume=27 |issue=2 |pages=413–437 |doi= 10.1016/j.ijforecast.2009.10.008|ssrn=889323 |accessdate= |quote= |last1= Aretz |first1=Kevin  }}
+* {{cite book
+ |title=Statistical decision theory and Bayesian Analysis
+ |first=James O. |last=Berger |authorlink=James Berger (statistician)
+ |year=1985
+ |edition=2nd
+ |publisher=Springer-Verlag |location=New York
+ |isbn=978-0-387-96098-2 |mr=0804611
+|bibcode=1985sdtb.book.....B }}
+
+*{{cite journal|url=https://www.researchgate.net/publication/5216117|doi=10.1093/oxrep/16.4.43|title=Making monetary policy: Objectives and rules|journal=Oxford Review of Economic Policy|volume=16|issue=4|pages=43–59|year=2000|last1=Cecchetti|first1=S.}}
+
+*{{cite journal|doi=10.1016/0164-0704(87)90016-4|title=Loss functions and public policy|journal=Journal of Macroeconomics|volume=9|issue=4|pages=489–504|year=1987|last1=Horowitz|first1=Ann R.}}
+
+*{{cite journal|jstor=1911380|title=Asymmetric Policymaker Utility Functions and Optimal Policy under Uncertainty|journal=Econometrica|volume=44|issue=1|pages=53–66|last1=Waud|first1=Roger N.|year=1976|doi=10.2307/1911380}}
+
+{{Statistics|inference|collapsed}}
+
+{{DEFAULTSORT:Loss Function}}
+[[Category:Optimal decisions]]
+[[Category:Loss functions|*]]
