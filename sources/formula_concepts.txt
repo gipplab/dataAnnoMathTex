@@ -1,1 +1,0 @@
-{"mass\u2013energy equivalence": {"TeXStrings": ["E = m c^2"], "Identifiers": {"E": "energy", "m": "mass", "c": "speed of light"}}}
