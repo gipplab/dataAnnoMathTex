@@ -1,0 +1,1 @@
+{"mass\u2013energy equivalence": {"TeXStrings": [" E = m c^2"], "Identifiers": {"E": {"name": "energy", "qid": "Q11379"}, "m": {"name": "mass", "qid": "Q11423"}, "c": {"name": "speed of light", "qid": "Q2111"}}, "qid": "Q35875"}}
