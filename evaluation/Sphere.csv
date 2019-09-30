@@ -1,3 +1,2 @@
 Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
-r,radius,-,-,-,-,-,-,global,5009,false
- (x - x_0 )^2 + (y - y_0 )^2 + ( z - z_0 )^2 = r^2.,sphere,-,-,-,-,-,-,global,1121,false
+r,radius,-,-,-,-,-,-,global,11115,false
