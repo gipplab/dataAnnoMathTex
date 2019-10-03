@@ -1,1 +1,1 @@
-{" \\foo{2} E ": [{"name": "fooform", "count": 1}], "n": [{"name": "problem-size point", "count": 1}], "A": [{"name": "amplitude", "count": 1}], "varphi": [{"name": "phase", "count": 1}], "\\Omega": [{"name": "coordinate", "count": 1}]}
+{" \\foo{2} E ": [{"name": "fooform", "count": 1}], "n": [{"name": "problem-size point", "count": 1}], "A": [{"name": "amplitude", "count": 1}], "varphi": [{"name": "phase", "count": 1}], "\\Omega": [{"name": "coordinate", "count": 2}], "\\kappa^{2} \\equiv \\frac{2 \\Omega}{R}\\frac{d}{dR}(R^2 \\Omega)": [{"name": "frequency", "count": 1}]}
