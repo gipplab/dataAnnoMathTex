@@ -1,0 +1,15 @@
+In [[astrophysics]], particularly the study of [[accretion disk]]s, the '''epicyclic frequency''' is the frequency at which a radially displaced fluid parcel will oscillate. It can be referred to as a "[[John Strutt, 3rd Baron Rayleigh|Rayleigh]] discriminant".  When considering an astrophysical disc with differential rotation <math>\Omega</math>, the epicyclic frequency <math>\kappa</math> is given by
+: <math>\kappa^{2} \equiv \frac{2 \Omega}{R}\frac{d}{dR}(R^2 \Omega)</math>, where R is the radial co-ordinate.<ref>p161, Astrophysical Flows, Pringle and King 2007</ref>
+
+This quantity can be used to examine the 'boundaries' of an accretion disc - when <math>\kappa^{2}</math> becomes negative then small perturbations to the (assumed circular) orbit of a fluid parcel will become unstable, and the disc will develop an 'edge' at that point.  For example, around a Schwarzschild black hole, the [[Innermost Stable Circular Orbit]] (ISCO) occurs at 3x the event horizon - at <math>6GM/c^{2}</math>.
+
+For a Keplerian disk, <math>\kappa = \Omega</math>.
+
+== References ==
+<references />
+
+[[Category:Fluid dynamics]]
+[[Category:Astrophysics]]
+
+
+{{Physics-stub}}
