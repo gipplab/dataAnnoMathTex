@@ -3,3 +3,6 @@ kappa,frequency,-,-,-,-,1,-,global,5703,-1000
 Omega,rotation,-,-,-,-,2,-,global,4625,-1000
 R,radius,1,3,-,-,-,-,global,3386,-1000
 c,speed of light,-,1,-,-,-,-,global,3838,-1000
+\Omega,rotation,-,-,-,-,2,-,global,4862,-1000
+\kappa,frequency,-,-,-,-,1,-,global,1947,-1000
+\kappa^{2} \equiv \frac{2 \Omega}{R}\frac{d}{dR}(R^2 \Omega),frequency,-,-,-,-,-,-,global,4118,5518
