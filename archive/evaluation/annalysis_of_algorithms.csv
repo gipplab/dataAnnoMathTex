@@ -1,0 +1,8 @@
+Identifier,Name,ArXiV,Wikipedia,Wikidata,WordWindow,type
+t,time,1,3,4,-,global
+n,problem-size point,-,-,-,-,global
+T,time,2,10,-,3,global
+i,index,1,-,-,-,global
+O,running time,-,5,-,-,global
+K,complexity,-,-,-,4,global
+k,number,3,-,-,-,global

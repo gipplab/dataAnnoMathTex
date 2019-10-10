@@ -1,0 +1,6 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+R,radius,1,3,-,-,-,-,global,1825,-1000
+Omega,rotation,-,-,-,-,2,-,global,1564,-1000
+kappa,frequency,-,-,-,-,1,-,global,1442,-1000
+c,speed of light,-,1,-,-,-,-,global,1314,-1000
+d,N/A,-,-,-,-,-,-,global,false,false
