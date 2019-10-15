@@ -1,0 +1,1 @@
+{"global": {"T": {"name": "tangent", "mathEnv": "\\lambda_\\text{max} T = b", "uniqueIDs": ["200---5", "204---11"], "qid": "Q131251", "time": "1585", "manualSelectionTime": "-1000", "sourcesWithNums": {"Wikipedia": "1"}, "type": "Identifier"}}, "local": {}}
