@@ -11,3 +11,4 @@ c,speed of light,-,1,-,-,-,-,global,2299,-1
 H,hubble constant,-,-,-,-,-,-,global,3408,-1
 d,distance,-,-,-,-,-,-,global,3813,-1
 z,redshift,7,-,-,-,1,-,global,2417,-1
+f,frequency,-,-,-,-,1,-,global,1557,-1
