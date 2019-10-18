@@ -12,3 +12,5 @@ H,hubble constant,-,-,-,-,-,-,global,3408,-1
 d,distance,-,-,-,-,-,-,global,3813,-1
 z,redshift,7,-,-,-,1,-,global,2417,-1
 f,frequency,-,-,-,-,1,-,global,1557,-1
+\lambda_\text{max} T = b,Wien's displacement law,-,-,1,-,-,1,global,2506,-1
+L= 4 \pi R^2 \sigma T^4,luminosity,-,-,-,-,3,1,global,2348,-1
