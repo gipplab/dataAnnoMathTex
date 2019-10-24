@@ -14,4 +14,4 @@ f,frequency,-,-,-,-,1,-,global,1557,-1
 \lambda_\text{max} T = b,Wien's displacement law,-,-,1,-,-,1,global,4695,-1
 L= 4 \pi R^2 \sigma T^4,luminosity,-,-,-,-,3,1,global,1107,-1
 \frac{\lambda-\lambda_0}{\lambda_0}=\frac{v_0}{c},blueshift,-,-,-,-,7,-,global,3461,-1
-v,velocity,3,7,-,-,-,-,global,6299,-1
+v = H_0 d,Hubble's law,-,-,-,-,-,1,global,1626,-1
