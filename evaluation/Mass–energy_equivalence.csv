@@ -13,6 +13,4 @@ p,probability,-,7,-,-,-,-,global,4911,-1
 m_0 = 0,N/A,-,-,-,-,-,-,global,2931,1919
 E_r = pc,N/A,-,-,-,-,-,-,global,2550,1338
 m_0,mass,-,-,-,-,1,-,global,907,-1
-E \approx m_0 c^2 + \frac{1}{2} m_0 v^2 . ,N/A,-,-,-,-,-,-,global,3851,1437
-e,charge,1,8,-,-,-,-,global,1931,-1
 "m_{L}=\frac{m_{0}}{\left(\sqrt{1-\frac{v^{2}}{c^{2}}}\right)^{3}},\quad m_{T}=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} ",N/A,-,-,-,-,-,-,global,3226,2187
