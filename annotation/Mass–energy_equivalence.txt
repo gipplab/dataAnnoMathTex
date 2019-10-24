@@ -1,1 +1,0 @@
-{"global": {"E = mc^2": {"name": "mass\u2013energy equivalence", "mathEnv": "E = mc^2", "uniqueIDs": ["65---28", "65---36", "65---103", "65---111", "67---17", "67---25", "75---58", "75---66"], "qid": "Q35875", "time": "2061", "manualSelectionTime": "-1", "sourcesWithNums": {"FormulaConceptDB": "2", "Wikidata1": "1"}, "type": "Formula"}}, "local": {}}
