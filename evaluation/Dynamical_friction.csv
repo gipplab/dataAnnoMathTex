@@ -1,0 +1,19 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+\frac{d\mathbf{v}_M}{dt} = -16 \pi^2 \ln \Lambda G^2 m (M+m) \frac{1}{v_M^3}\int_0^{v_M}v^2 f(v)  d v \mathbf{v}_M,Chandrasekhar dynamical friction formula,-,-,-,-,-,-,global,14647,2051
+G,gravitational constant,-,7,-,-,-,-,global,8177,-1
+M,mass,1,1,-,-,1,-,global,1112,-1
+m,mass,1,3,-,-,3,-,global,2390,-1
+v,velocity,3,7,-,-,7,-,global,3726,-1
+ {v_M} ,velocity of the object under consideration,-,-,-,-,-,-,global,11960,939
+ \mbox{ln}(\Lambda) ,Coulomb logarithm,-,-,-,-,-,-,global,7552,3202
+f(v),density distribution of the stars,-,-,-,-,-,-,global,11177,1784
+f,function,1,4,-,-,-,-,global,1210,-1
+d,derivative,-,-,-,-,-,-,global,6825,-1
+pi,constant,-,-,-,-,-,-,global,3525,-1
+f(v) = \frac{N}{(2\pi\sigma^2)^{3/2}}e^{-\frac{v^2}{2\sigma^2}},Maxwellian distribution,-,-,-,-,-,-,global,9134,3174
+N,number,2,-,-,-,7,-,global,2201,-1
+sigma,dispersion,-,-,-,-,5,-,global,4455,-1
+rho,density,1,1,-,-,3,-,global,1605,-1
+ \mathrm{erf}(X) ,error function,-,-,-,-,-,-,global,3458,2653
+F,force,-,9,-,-,3,-,global,3902,-1
+C,dimensionless numerical factor,-,-,-,-,-,-,global,1442,14296
