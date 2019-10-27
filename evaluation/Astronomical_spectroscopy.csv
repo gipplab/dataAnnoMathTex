@@ -20,3 +20,4 @@ v,velocity,3,7,-,-,-,-,global,3685,-1
 v_0,N/A,-,-,-,-,-,-,global,1385,-1
 \lambda,N/A,-,-,-,-,-,1,global,1530,-1
 H_0,N/A,-,-,-,-,-,-,global,1130,-1
+z = \frac{v_\text{Hubble}}{c},Doppler effect and Hubble's law,-,-,-,-,-,-,global,8550,1483
