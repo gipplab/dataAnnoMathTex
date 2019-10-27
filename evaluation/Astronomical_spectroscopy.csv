@@ -17,3 +17,6 @@ L= 4 \pi R^2 \sigma T^4,luminosity,-,-,-,-,3,1,global,1107,-1
 v = H_0 d,Hubble's law,-,-,-,-,-,1,global,1626,-1
 v,velocity,3,7,-,-,-,-,global,3685,-1
 \lambda_0,N/A,-,-,-,-,-,-,global,3064,-1
+v_0,N/A,-,-,-,-,-,-,global,1385,-1
+\lambda,N/A,-,-,-,-,-,1,global,1530,-1
+H_0,N/A,-,-,-,-,-,-,global,1130,-1
