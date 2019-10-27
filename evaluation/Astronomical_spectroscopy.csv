@@ -21,4 +21,4 @@ v_0,N/A,-,-,-,-,-,-,global,1385,-1
 \lambda,N/A,-,-,-,-,-,1,global,1530,-1
 H_0,N/A,-,-,-,-,-,-,global,1130,-1
 z = \frac{v_\text{Hubble}}{c},Doppler effect and Hubble's law,-,-,-,-,-,-,global,8550,1483
-v_\text{total} = H_0 d + v_\mathrm{pec},peculiar motion,-,-,-,-,-,-,global,3314,9910
+v_\text{total} = H_0 d + v_\mathrm{pec},peculiar motion,-,-,-,-,-,1,global,37014,-1
