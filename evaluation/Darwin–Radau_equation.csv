@@ -1,0 +1,12 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+\frac{C}{MR_{e}^{2}} = \frac{2}{3\lambda} = \frac{2}{3} \left( 1 - \frac{2}{5} \sqrt{1 + \eta} \right),Darwin-Radau equation,-,-,-,-,-,-,global,10079,5550
+M,mass,1,1,-,-,-,-,global,1396,-1
+R,mean equatorial radius,-,-,-,-,-,-,global,7706,6291
+C,moment of inertia,-,-,-,-,-,-,global,4378,12739
+lambda,d'Alembert parameter,-,-,-,-,-,-,global,6980,3079
+eta,Radau parameter,-,-,-,-,-,-,global,4446,4625
+epsilon,geometrical flattening,-,-,-,-,-,-,global,7755,2911
+\eta = \frac{5q}{2\epsilon} - 2,Radau parameter,-,-,-,-,-,-,global,3675,1417
+q,geodynamical constant,-,-,-,-,-,-,global,11946,1508
+q = \frac{\omega^{2} R_{e}^{3}}{GM},geodynamical constant,-,-,-,-,-,-,global,4080,1995
+\epsilon = \frac{R_{e} - R_{p}}{R_{e}},flattening,-,-,-,-,1,-,global,2521,-1
