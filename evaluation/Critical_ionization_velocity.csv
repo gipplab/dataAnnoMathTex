@@ -1,11 +1,11 @@
-Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
-\frac{1}{2} mv^2 = eV_{ion},Critical ionization velocity,-,-,1,-,-,-,global,1402,-1
-m,mass,1,3,-,-,-,-,global,1194,-1
-v,velocity,3,7,-,-,4,-,global,3834,-1
-e,ionization potential,-,-,-,-,-,-,global,15012,7457
-V,gas,-,-,-,-,7,-,global,3618,-1
-eV_{ion} = E_g = \frac{k M m}{r},ionization potential,-,-,-,-,-,-,global,9287,2962
-E,energy,1,4,-,-,-,-,global,1359,-1
-r,distance,5,1,-,-,1,-,global,1941,-1
-M,mass,1,1,-,-,-,-,global,2304,-1
-r_{i} = E_g = \frac{k M m}{eV_{ion}} = 6.9\cdot 10^{-20}M \frac{m'}{V_{ion}} = 13.5\cdot 10^{13} \frac{m'}{V_{ion}} cm,distance,-,-,-,-,1,-,global,4904,-1
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+\frac{1}{2} mv^2 = eV_{ion},Critical ionization velocity (Q5186734),-,-,-,1,-,-,-,global,1402,-1
+m,mass (Q11423),1,3,2,-,-,-,-,global,1194,-1
+v,velocity (Q11465),3,7,4,-,-,4,-,global,3834,-1
+e,ionization potential (N/A),-,-,-,-,-,-,-,global,15012,7457
+V,gas (Q11432),-,-,-,-,-,7,-,global,3618,-1
+eV_{ion} = E_g = \frac{k M m}{r},ionization potential (N/A),-,-,-,-,-,-,-,global,9287,2962
+E,energy (Q11379),1,4,2,-,-,-,-,global,1359,-1
+r,distance (Q126017),5,1,5,-,-,1,-,global,1941,-1
+M,mass (Q11423),1,1,-,-,-,-,-,global,2304,-1
+r_{i} = E_g = \frac{k M m}{eV_{ion}} = 6.9\cdot 10^{-20}M \frac{m'}{V_{ion}} = 13.5\cdot 10^{13} \frac{m'}{V_{ion}} cm,distance (Q126017),-,-,-,-,-,1,-,global,4904,-1
