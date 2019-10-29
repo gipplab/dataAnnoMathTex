@@ -17,3 +17,5 @@ rho,density (Q29539),1,1,-,-,-,3,-,global,1605,-1
  \mathrm{erf}(X) ,error function (Q579262),-,-,-,-,-,-,-,global,3458,2653
 F,force (Q11402),-,9,2,-,-,3,-,global,3902,-1
 C,dimensionless numerical factor (N/A),-,-,-,-,-,-,-,global,1442,14296
+F_{dyn} \approx C \frac{G^2 M^2 \rho}{v^2_M},force from dynamical friction (N/A),-,-,-,-,-,-,-,global,9949,1370
+ \rho= mN ,density of matter field (N/A),-,-,-,-,-,-,-,global,4027,1388
