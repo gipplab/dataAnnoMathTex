@@ -1,0 +1,135 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+T,temperature (P2076),1,3,4,-,-,5,-,global,2859,-1
+b,Wien 's displacement constant (N/A),-,-,-,-,-,-,-,global,17338,-1
+L,luminosity (N/A),-,10,-,-,-,3,-,global,4297,-1
+pi,constant (N/A),-,-,-,-,-,-,-,global,3568,14790
+R,radius (Q173817),1,3,1,-,-,-,-,global,1566,-1
+sigma,Stefan–Boltzmann constant (N/A),-,-,-,-,-,-,-,global,1752,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,2299,-1
+H,hubble constant (N/A),-,-,-,-,-,-,-,global,3408,-1
+d,distance (Q126017),-,-,3,-,-,-,-,global,3813,-1
+z,redshift (N/A),7,-,-,-,-,1,-,global,2417,-1
+f,frequency (Q11652),-,-,1,-,-,1,-,global,1557,-1
+\lambda_\text{max} T = b,Wien's displacement law (Q214336),-,-,-,1,-,-,1,global,4695,-1
+L= 4 \pi R^2 \sigma T^4,luminosity (N/A),-,-,-,-,-,3,1,global,1107,-1
+\frac{\lambda-\lambda_0}{\lambda_0}=\frac{v_0}{c},blueshift (Q845345),-,-,-,-,-,7,-,global,3461,-1
+v = H_0 d,Hubble's law (Q179916),-,-,-,-,-,-,1,global,1626,-1
+v,velocity (Q11465),3,7,4,-,-,-,-,global,3685,-1
+\lambda_0,N/A (N/A),-,-,-,-,-,-,-,global,3064,-1
+v_0,N/A (N/A),-,-,-,-,-,-,-,global,1385,-1
+\lambda,N/A (N/A),-,-,-,-,-,-,1,global,1530,-1
+H_0,N/A (N/A),-,-,-,-,-,-,-,global,1130,-1
+z = \frac{v_\text{Hubble}}{c},Doppler effect and Hubble's law (N/A),-,-,-,-,-,-,-,global,8550,1483
+v_\text{total} = H_0 d + v_\mathrm{pec},peculiar motion (N/A),-,-,-,-,-,-,1,global,37014,-1
+lambda,wavelength (Q41364),-,5,-,-,-,2,-,global,1778,-1
+1+z = \frac{f_{\mathrm{emit}}}{f_{\mathrm{obsv}}},redshift (N/A),-,-,-,-,-,6,-,global,1751,-1
+1+z = \frac{\lambda_{\mathrm{obsv}}}{\lambda_{\mathrm{emit}}},redshift (N/A),-,-,-,-,-,6,-,global,2541,-1
+z = \frac{f_{\mathrm{emit}} - f_{\mathrm{obsv}}}{f_{\mathrm{obsv}}},redshift (N/A),-,-,-,-,-,-,-,global,3242,1922
+z = \frac{\lambda_{\mathrm{obsv}} - \lambda_{\mathrm{emit}}}{\lambda_{\mathrm{emit}}},redshift (N/A),-,-,-,-,-,-,-,global,2758,1392
+theta,angle (Q11352),1,1,-,-,-,6,-,global,1621,-1
+h,planck constant (N/A),-,1,-,-,-,-,-,global,2595,-1
+m,mass (Q11423),1,3,2,-,-,1,-,global,1457,-1
+e,electron (N/A),-,9,-,-,-,3,-,global,7627,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,3540,-1
+E_\gamma = hc/\lambda,incident energy (N/A),-,-,-,-,-,-,-,global,4487,1906
+E,energy (Q11379),1,4,2,-,-,1,-,global,2498,-1
+E_{\gamma^\prime},final-state photon energy (N/A),-,-,-,-,-,-,-,global,6846,1692
+p=hf/c,momentum (Q41273),-,-,-,-,-,8,-,global,3071,-1
+E=mc^2,mass–energy equivalence (Q35875),-,-,-,1,-,-,1,global,1238,-1
+p,momentum (Q41273),5,-,-,-,-,-,-,global,3363,-1
+E_e = m_ec^2.\!,mass–energy equivalence (Q35875),-,-,-,1,-,-,1,global,1712,-1
+E_{e'} = \sqrt{(p_{e'}c)^2 + (m_ec^2)^2} ~.,energy-momentum relation (N/A),-,-,-,-,-,-,-,global,9789,3162
+hf + m_e c^2 = hf' + \sqrt{(p_{e'}c)^2 + (m_e c^2)^2}.,conservation of energy (N/A),-,-,-,-,-,-,-,global,6258,1575
+lambda,wavelength (Q41364),-,5,-,-,-,8,-,global,5208,-1
+gamma,photon (N/A),-,-,-,-,-,-,-,global,4576,8621
+E_{\gamma^\prime} = \frac{E_\gamma}{1 + (E_\gamma/m_e c^2)(1-\cos\theta)}.,outgoing final-state photon energy (N/A),-,-,-,-,-,-,-,global,8077,1435
+J,magnetic compton profile (N/A),-,-,-,-,-,-,-,global,9026,5635
+mu,number of spin-unpaired electrons (N/A),-,-,-,-,-,-,-,global,10664,11620
+n,three-dimensional electron momentum disctribution (N/A),-,-,-,-,-,-,-,global,6990,21994
+d,derivative (Q29175),-,-,-,-,-,-,-,global,1399,-1
+J_{\text{mag}}(\mathbf{p}_z) = \frac{1}{\mu}\iint_{-\infty}^\infty (n_{\uparrow} (\mathbf{p}) - n_{\downarrow}(\mathbf{p})) d\mathbf{p}_x d\mathbf{p}_y,one-dimensional projection of the electron spin density (N/A),-,-,-,-,-,-,-,global,13277,3846
+J_{\text{mag}}(\mathbf{p}_z),one-dimensional projection of the electron spin density (N/A),-,-,-,-,-,-,-,global,10851,1216
+\frac{1}{2} mv^2 = eV_{ion},Critical ionization velocity (Q5186734),-,-,-,1,-,-,-,global,1402,-1
+m,mass (Q11423),1,3,2,-,-,-,-,global,1194,-1
+v,velocity (Q11465),3,7,4,-,-,4,-,global,3834,-1
+e,ionization potential (N/A),-,-,-,-,-,-,-,global,15012,7457
+V,gas (Q11432),-,-,-,-,-,7,-,global,3618,-1
+eV_{ion} = E_g = \frac{k M m}{r},ionization potential (N/A),-,-,-,-,-,-,-,global,9287,2962
+E,energy (Q11379),1,4,2,-,-,-,-,global,1359,-1
+r,distance (Q126017),5,1,5,-,-,1,-,global,1941,-1
+M,mass (Q11423),1,1,-,-,-,-,-,global,2304,-1
+r_{i} = E_g = \frac{k M m}{eV_{ion}} = 6.9\cdot 10^{-20}M \frac{m'}{V_{ion}} = 13.5\cdot 10^{13} \frac{m'}{V_{ion}} cm,distance (Q126017),-,-,-,-,-,1,-,global,4904,-1
+g,gas (Q11432),-,-,-,-,-,2,-,global,2217,-1
+k,gravitational constant (N/A),-,-,-,-,-,-,-,global,8517,7257
+i,ion (N/A),-,-,-,-,-,-,-,global,2233,5087
+\frac{C}{MR_{e}^{2}} = \frac{2}{3\lambda} = \frac{2}{3} \left( 1 - \frac{2}{5} \sqrt{1 + \eta} \right),Darwin-Radau equation (N/A),-,-,-,-,-,-,-,global,10079,5550
+M,mass (Q11423),1,1,-,-,-,-,-,global,1396,-1
+R,mean equatorial radius (N/A),-,-,-,-,-,-,-,global,7706,6291
+C,moment of inertia (N/A),-,-,-,-,-,-,-,global,4378,12739
+lambda,d'Alembert parameter (N/A),-,-,-,-,-,-,-,global,6980,3079
+eta,Radau parameter (N/A),-,-,-,-,-,-,-,global,4446,4625
+epsilon,geometrical flattening (N/A),-,-,-,-,-,-,-,global,7755,2911
+\eta = \frac{5q}{2\epsilon} - 2,Radau parameter (N/A),-,-,-,-,-,-,-,global,3675,1417
+q,geodynamical constant (N/A),-,-,-,-,-,-,-,global,11946,1508
+q = \frac{\omega^{2} R_{e}^{3}}{GM},geodynamical constant (N/A),-,-,-,-,-,-,-,global,4080,1995
+\epsilon = \frac{R_{e} - R_{p}}{R_{e}},flattening (Q212750),-,-,-,-,-,1,-,global,2521,-1
+e,equatorial (N/A),-,-,-,-,-,-,-,global,4185,5364
+p,polar (N/A),-,-,-,-,-,-,-,global,1912,6677
+\frac{d\mathbf{v}_M}{dt} = -16 \pi^2 \ln \Lambda G^2 m (M+m) \frac{1}{v_M^3}\int_0^{v_M}v^2 f(v)  d v \mathbf{v}_M,Chandrasekhar dynamical friction formula (N/A),-,-,-,-,-,-,-,global,14647,2051
+G,gravitational constant (Q18373),-,7,-,-,-,-,-,global,8177,-1
+M,mass (Q11423),1,1,-,-,-,1,-,global,1112,-1
+m,mass (Q11423),1,3,2,-,-,3,-,global,2390,-1
+v,velocity (Q11465),3,7,4,-,-,7,-,global,3726,-1
+ {v_M} ,velocity of the object under consideration (N/A),-,-,-,-,-,-,-,global,11960,939
+ \mbox{ln}(\Lambda) ,Coulomb logarithm (N/A),-,-,-,-,-,-,-,global,7552,3202
+f(v),density distribution of the stars (N/A),-,-,-,-,-,-,-,global,11177,1784
+f,function (Q15810910),1,4,-,-,-,-,-,global,1210,-1
+d,derivative (Q29175),-,-,-,-,-,-,-,global,6825,-1
+pi,constant (Q188248),-,-,-,-,-,-,-,global,3525,-1
+f(v) = \frac{N}{(2\pi\sigma^2)^{3/2}}e^{-\frac{v^2}{2\sigma^2}},Maxwellian distribution (N/A),-,-,-,-,-,-,-,global,9134,3174
+N,number (N/A),2,-,-,-,-,7,-,global,2201,-1
+sigma,dispersion (Q182893),-,-,-,-,-,5,-,global,4455,-1
+rho,density (Q29539),1,1,-,-,-,3,-,global,1605,-1
+ \mathrm{erf}(X) ,error function (Q579262),-,-,-,-,-,-,-,global,3458,2653
+F,force (Q11402),-,9,2,-,-,3,-,global,3902,-1
+C,dimensionless numerical factor (N/A),-,-,-,-,-,-,-,global,1442,14296
+F_{dyn} \approx C \frac{G^2 M^2 \rho}{v^2_M},force from dynamical friction (N/A),-,-,-,-,-,-,-,global,9949,1370
+ \rho= mN ,density of matter field (N/A),-,-,-,-,-,-,-,global,4027,1388
+Omega,rotation (Q107617),-,-,-,-,-,2,-,global,2412,-1
+kappa,frequency (Q11652),-,-,-,-,-,1,-,global,1410,-1
+\kappa^{2} \equiv \frac{2 \Omega}{R}\frac{d}{dR}(R^2 \Omega),epicyclic frequency (N/A),-,-,-,-,-,-,2,global,1908,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,1946,-1
+d,derivative (Q29175),-,-,-,-,-,-,-,global,2074,-1
+R,radial coordinate (N/A),-,-,-,-,-,-,-,global,4408,9504
+\kappa = \Omega,Keplerian disk (N/A),-,-,-,-,-,-,-,global,3653,1071
+pi,parity (N/A),-,-,-,-,-,5,-,global,8676,-1
+J,nuclear spin (N/A),-,-,-,-,-,-,-,global,4289,7534
+L,L-value (N/A),-,-,-,-,-,-,-,global,4941,5650
+"\Delta J = L-1, L, L+1; \Delta \pi = (-1)^L, ",selection rules for forbidden transitions (N/A),-,-,-,-,-,-,-,global,11113,1233
+Delta,changes (N/A),-,-,-,-,-,7,-,global,3358,-1
+E,energy (Q11379),1,4,2,-,-,7,-,global,1765,-1
+M,mass (Q11423),1,1,-,-,-,-,-,global,1299,-1
+sigma,effective surface temperature (N/A),-,1,-,-,-,-,-,global,10434,-1
+\frac{M}{10^8M_\odot} \approx 3.1\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^4.,M-sigma relation (N/A),-,-,-,-,-,-,-,global,12142,1854
+\frac{M}{10^8M_\odot} \approx 1.9\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^{5.1}.,M-sigma relation (N/A),-,-,-,-,-,-,-,global,3774,953
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,1143,-1
+G,gravitational constant (Q18373),-,7,-,-,-,-,-,global,4112,-1
+m,mass (Q11423),1,3,2,-,-,-,-,global,1394,-1
+\Delta r_s\Delta r\ge\ell^2_{P},uncertainty principle (N/A),-,-,-,-,-,-,-,global,5361,3212
+r,radius (Q173817),2,2,1,-,-,-,-,global,1449,-1
+E,energy (Q11379),1,4,2,-,-,-,-,global,1019,-1
+\ell_\mathrm{P} =\sqrt\frac{\hbar G}{c^3} ,Planck length (Q207387),-,-,-,1,-,-,-,global,2467,-1
+P,planck (N/A),-,-,-,-,-,2,-,global,4139,-1
+r_s,gravitional radius (N/A),-,-,-,-,-,-,-,global,1973,6919
+\ell_P,Planck length (Q207387),-,-,-,-,-,-,-,global,3633,1361
+\Delta(mc)\Delta r\ge\hbar /2,Heisenberg's uncertainty principle (N/A),-,-,-,-,-,-,-,global,8855,4161
+dS,invariant interval (N/A),-,-,-,-,-,-,-,global,3699,1861
+\Delta g,metric tensor (N/A),-,-,-,-,-,-,-,global,3772,2609
+l,number (N/A),2,-,-,-,-,-,-,global,1547,-1
+zeta,deviation (N/A),-,-,-,-,-,9,-,global,1426,-1
+varphi,gravitational potential (N/A),-,-,-,-,-,-,-,global,5729,3191
+\varphi=Gm/l,gravitational potential (N/A),-,-,-,-,-,-,-,global,5153,1265
+\ell_P=\sqrt{G\hbar/c^3}\approx 10^{-35}\mathrm{m},Planck length (Q207387),-,-,-,-,-,-,-,global,3215,1289
+\Delta\Gamma,Christoffel symbols (N/A),-,-,-,-,-,-,-,global,4527,1033
+Delta,Cristoffel symbol (N/A),-,-,-,-,-,-,-,global,5737,1343
+Gamma,Christoffel symbol (N/A),-,-,-,-,-,-,-,global,4488,1117
