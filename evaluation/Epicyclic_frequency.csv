@@ -1,7 +1,7 @@
-Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
-Omega,rotation,-,-,-,-,2,-,global,2412,-1
-kappa,frequency,-,-,-,-,1,-,global,1410,-1
-\kappa^{2} \equiv \frac{2 \Omega}{R}\frac{d}{dR}(R^2 \Omega),epicyclic frequency,-,-,-,-,-,2,global,1908,-1
-c,speed of light,-,1,-,-,-,-,global,1946,-1
-d,derivative,-,-,-,-,-,-,global,2074,-1
-R,radial coordinate,-,-,-,-,-,-,global,4408,9504
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+Omega,rotation (Q107617),-,-,-,-,-,2,-,global,2412,-1
+kappa,frequency (Q11652),-,-,-,-,-,1,-,global,1410,-1
+\kappa^{2} \equiv \frac{2 \Omega}{R}\frac{d}{dR}(R^2 \Omega),epicyclic frequency (N/A),-,-,-,-,-,-,2,global,1908,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,1946,-1
+d,derivative (Q29175),-,-,-,-,-,-,-,global,2074,-1
+R,radial coordinate (N/A),-,-,-,-,-,-,-,global,4408,9504
