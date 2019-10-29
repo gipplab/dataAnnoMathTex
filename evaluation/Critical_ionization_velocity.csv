@@ -9,3 +9,6 @@ E,energy (Q11379),1,4,2,-,-,-,-,global,1359,-1
 r,distance (Q126017),5,1,5,-,-,1,-,global,1941,-1
 M,mass (Q11423),1,1,-,-,-,-,-,global,2304,-1
 r_{i} = E_g = \frac{k M m}{eV_{ion}} = 6.9\cdot 10^{-20}M \frac{m'}{V_{ion}} = 13.5\cdot 10^{13} \frac{m'}{V_{ion}} cm,distance (Q126017),-,-,-,-,-,1,-,global,4904,-1
+g,gas (Q11432),-,-,-,-,-,2,-,global,2217,-1
+k,gravitational constant (N/A),-,-,-,-,-,-,-,global,8517,7257
+i,ion (N/A),-,-,-,-,-,-,-,global,2233,5087
