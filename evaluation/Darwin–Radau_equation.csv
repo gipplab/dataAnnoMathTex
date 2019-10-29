@@ -10,3 +10,5 @@ epsilon,geometrical flattening (N/A),-,-,-,-,-,-,-,global,7755,2911
 q,geodynamical constant (N/A),-,-,-,-,-,-,-,global,11946,1508
 q = \frac{\omega^{2} R_{e}^{3}}{GM},geodynamical constant (N/A),-,-,-,-,-,-,-,global,4080,1995
 \epsilon = \frac{R_{e} - R_{p}}{R_{e}},flattening (Q212750),-,-,-,-,-,1,-,global,2521,-1
+e,equatorial (N/A),-,-,-,-,-,-,-,global,4185,5364
+p,polar (N/A),-,-,-,-,-,-,-,global,1912,6677
