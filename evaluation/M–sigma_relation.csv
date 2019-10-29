@@ -1,3 +1,5 @@
 Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
 M,mass (Q11423),1,1,-,-,-,-,-,global,1299,-1
 sigma,effective surface temperature (N/A),-,1,-,-,-,-,-,global,10434,-1
+\frac{M}{10^8M_\odot} \approx 3.1\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^4.,M-sigma relation (N/A),-,-,-,-,-,-,-,global,12142,1854
+\frac{M}{10^8M_\odot} \approx 1.9\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^{5.1}.,M-sigma relation (N/A),-,-,-,-,-,-,-,global,3774,953
