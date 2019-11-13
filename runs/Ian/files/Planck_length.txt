@@ -1,0 +1,113 @@
+{{short description|Very small scale unit of length}}
+{{multiple issues|{{cleanup|reason=it focuses too much on unaccepted theoretical physics.|date=March 2018}}
+{{More citations needed|date=March 2018}}
+{{technical|date=November 2018}}}}
+{{Infobox unit
+| symbol   = {{math|<var>ℓ</var><sub>P</sub>}}
+| standard = [[Planck units]]
+| quantity = [[length]]
+| units1   = [[SI units]]
+| inunits1 = {{physconst|lP|ref=no}}
+| units2   = [[natural units]]
+| inunits2 = 11.706&nbsp;[[Stoney units|{{math|<var>ℓ</var><sub>S</sub>}}]]<br /><!--
+      -->&emsp;{{val|3.0542|e=-25}}&nbsp;[[Bohr radius|''a''<sub>0</sub>]]
+| units3   = [[imperial units|imperial]]/[[US customary units|US]]&nbsp;units
+| inunits3 = {{convert|1.616229e-35|m|in|disp=out|lk=on|sigfig=5|comma=gaps}}
+}}
+
+In [[physics]], the '''Planck length''', denoted {{math|<var>ℓ</var><sub>P</sub>}}, is a unit of [[length]] that is the distance light travels in one unit of [[Planck time]]. It is equal to {{physconst|lP|after=.}} It is a [[Base unit (measurement)|base unit]] in the system of [[Planck units]], developed by physicist [[Max Planck]]. The Planck length can be defined from three [[physical constant|fundamental physical constants]]: the [[speed of light]] in a [[vacuum]], the [[Planck constant]], and the [[gravitational constant]].
+
+==Value==
+The Planck length {{math|<var>ℓ</var><sub>P</sub>}} is defined as:
+
+:<math>\ell_\mathrm{P} =\sqrt\frac{\hbar G}{c^3} </math>
+
+Solving the above will show the approximate equivalent value of this unit with respect to the meter:
+
+:<math> 1 \ \ell_\mathrm{P} \approx 1.616\;229 (38) \times 10^{-35}\ \mathrm{m}</math>
+
+where <math>c</math> is the [[speed of light]] in a vacuum, {{mvar|G}} is the [[gravitational constant]], and {{mvar|ħ}} is the [[reduced Planck constant]]. The two digits enclosed by [[Bracket|parentheses]] are the estimated [[standard error (statistics)|standard error]] associated with the reported numerical value.<ref>[[John Baez]], [http://math.ucr.edu/home/baez/planck/node2.html The Planck Length]</ref><ref>{{cite web|url=http://physics.nist.gov/cgi-bin/cuu/Value?plkl|title=Planck length|website=[[NIST]]|archiveurl=https://web.archive.org/web/20181122140121/https://physics.nist.gov/cgi-bin/cuu/Value?plkl|archivedate=22 November 2018|accessdate=7 January 2019}}</ref>
+
+The Planck length is about 10<sup>−20</sup> times the diameter of a [[proton]].<ref>{{Cite web|url=http://www.math.ucr.edu/home/baez/planck/node2.html|title=The Planck Length|website=www.math.ucr.edu|access-date=2018-12-16}}</ref> It can be defined using the radius of the hypothesized [[Planck particle]].
+
+==History==
+In 1899 [[Max Planck]] suggested that there existed some fundamental natural units for length, mass, time and energy.<ref>M. Planck. Naturlische Masseinheiten. Der Koniglich Preussischen Akademie Der Wissenschaften, p. 479, 1899</ref><ref>{{cite web|url=http://people.bu.edu/gorelik/cGh_FirstSteps92_MPB_36/cGh_FirstSteps92_text.htm|title=First Steps of Quantum Gravity and the Planck Values|last=Gorelik|first=Gennady|authorlink=Gennady Gorelik|year=1992|website=[[Boston University]]|accessdate=7 January 2019}}</ref> These he derived using [[dimensional analysis]], using only the Newton gravitational constant, the speed of light and the "unit of action", which later became the Planck constant. The natural units he further derived became known as the "Planck length", the "Planck mass", the "Planck time" and the "Planck energy".
+
+==Theoretical significance==
+The Planck length is the scale at which [[quantum gravity|quantum gravitational]] effects are believed to begin to be apparent, where interactions require a working theory of quantum gravity to be analyzed.<ref name=physicsforums>{{cite web|url= https://www.physicsforums.com/insights/hand-wavy-discussion-planck-length/ |title= A Hand-Wavy Discussion of the Planck Length |last=Klotz |first=Alex |date=2015-09-09 |website=Physics Forums Insights |access-date=2018-03-23}}</ref> The Planck area is the area by which the surface of a spherical [[black hole]] increases when the black hole swallows one bit of [[Physical information|information]].{{doubtful|date=December 2018}}<ref>{{cite journal|doi=10.1103/PhysRevD.7.2333|title=Black Holes and Entropy|journal=Physical Review D|volume=7|issue=8|pages=2333–2346|year=1973|last1=Bekenstein|first1=Jacob D|bibcode=1973PhRvD...7.2333B}}</ref> To measure anything the size of Planck length, the photon momentum needs to be very large due to Heisenberg's uncertainty principle and so much energy in such a small space would create a tiny black hole with the diameter of its event horizon equal to a Planck length.
+
+The main role in quantum gravity will be played by the uncertainty principle <math>\Delta r_s\Delta r\ge\ell^2_{P}</math>, where <math>r_s</math> is the [[Schwarzschild radius|gravitational radius]], <math>r</math> is the [[polar coordinate system|radial coordinate]], <math>\ell_P</math> is the Planck length. This uncertainty principle is another form of [[uncertainty principle|Heisenberg's uncertainty principle]] between momentum and coordinate as applied to the [[Planck scale]]. Indeed, this ratio can be written as follows: <math>\Delta (2Gm/c^2)\Delta r\ge G\hbar/c^3</math>, where <math>G</math> is the [[gravitational constant]], <math>m</math> is body mass, <math>c</math> is the [[speed of light]], <math>\hbar</math> is the [[reduced Planck constant]]. Reducing identical constants from two sides, we get  [[Heisenberg's uncertainty principle]] <math>\Delta(mc)\Delta r\ge\hbar /2</math>. The uncertainty principle <math>\Delta r_s\Delta r\ge\ell^2_{P}</math> predicts the appearance of [[virtual black hole]]s and [[wormhole]]s ([[quantum foam]]) on the [[Planck scale]].<ref>[https://www.pdf-archive.com/2016/03/21/gravitation-misner-thorne-wheeler/ Charles W. Misner, Kip S. Thorne, John Archibald Wheeler "Gravitation", Publisher W. H. Freeman, Princeton University Press, (pp.1190-1194,1198-1201)]</ref><ref>[https://philpapers.org/archive/ALXOTF.pdf Klimets AP, Philosophy Documentation Center, Western University-Canada, 2017, pp.25-28]</ref>
+
+{{Hider|
+  title = Proof |
+  content = 
+<!------------------------------------------------------------------------------------->
+
+The equation for the [[invariant interval]] <math>dS</math> in the [[Schwarzschild solution]] has the form 
+:<center><math>dS^2=\left(1-\frac{r_s}{r}\right)c^2dt^2-\frac{dr^2}{1-{r_s}/{r}}-r^2(d\Omega^2+\sin^2\Omega d\varphi^2)</math></center> 
+Substitute according to the uncertainty relations <math>r_s\approx\ell^2_P/r</math>. We obtain 
+:<center><math>dS^2\approx\left(1-\frac{\ell^2_{P}}{r^2}\right)c^2dt^2-\frac{dr^2}{1-{\ell^2_{P}}/{r^2}}-r^2(d\Omega^2+\sin^2\Omega d\varphi^2)</math></center>
+It is seen that at the Planck scale <math>r=\ell_P</math> [[spacetime metric]] is bounded below by the Planck length (division by zero appears), and on this scale, there are real and [[virtual black holes]].
+
+The spacetime metric <math>g_{00}= 1-\Delta g\approx 1-\ell^2_P/(\Delta r)^2</math> fluctuates and generates a [[quantum foam]]. These [[Quantum fluctuation|fluctuations]] <math>\Delta g\sim\ell^2_P/(\Delta r)^2</math> in the macroworld and in the world of atoms are very small in comparison with <math>1</math> and become noticeable only on the Planck scale. Lorentz-invariance is violated at the Planck scale. The formula for the fluctuations of the gravitational potential <math>\Delta g\sim\ell^2_P/(\Delta r)^2</math> agrees with the [[Niels Bohr|Bohr]]-[[Leon Rosenfeld|Rosenfeld]] uncertainty relation <math>\Delta g\,(\Delta r)^2\ge 2\ell^2_P</math>.<ref>{{cite book|url=https://books.google.com/?id=fPXwCAAAQBAJ&pg=PA33&lpg=PA33&dq=Bohr-Rosenfeld+uncertainty+relations#v=onepage&q=Bohr-Rosenfeld+uncertainty+relations&f=false|title=The Meaning of Quantum Gravity|first1=Horst-Heino|last1=Borzeszkowski|first2=H. J.|last2=Treder|date=6 December 2012|publisher=Springer Science & Business Media|isbn=9789400938939}}</ref>
+
+<!------------------------------------------------------------------------------------->
+  |frame-style = border: 1px solid rgb(200,200,200); |
+  title-style = color: black; background-color: rgb(255,255,221); font-weight: bold; text-align: left;| 
+  content-style = color: black; background-color: white; text-align: left; |
+  hidden=1
+}}
+
+Any attempt to investigate the possible existence of shorter distances, by performing higher-energy collisions, would inevitably result in black hole production. Higher-energy collisions, rather than splitting matter into finer pieces, would simply produce bigger black holes.<ref>[https://pdfs.semanticscholar.org/c2fe/378fdddf98b3726b1ac12788e9cae03b884a.pdf Bernard J. Carr and Steven B. Giddings "Quantum Black Holes",  Scientific American, Vol. 292, No. 5, MAY 2005, (pp. 48-55)]</ref> A decrease in <math>\Delta r</math> will result in an increase in <math>\Delta r_s</math> and vice versa.
+
+The Planck length is sometimes misconceived as the [[Quantization (physics)|minimum length]] of space-time, but this is not accepted by conventional physics, as this would require violation or modification of [[Lorentz symmetry]].<ref name=physicsforums /> However, certain theories of [[loop quantum gravity]] do attempt to establish a minimum length on the scale of the Planck length, though not necessarily the Planck length itself,<ref name=physicsforums /> or attempt to establish the Planck length as observer-invariant, known as [[doubly special relativity]].
+
+The strings of [[string theory]] are modeled to be on the order of the Planck length.<ref name=physicsforums /><ref name="Burgess_and_Quevedo">{{cite news | author=[[Cliff Burgess]] |author2=[[Fernando Quevedo]]  | title=The Great Cosmic Roller-Coaster Ride | url= | type=print | work=[[Scientific American]] | publisher=Scientific American, Inc. | page=55 | date=November 2007 }}</ref> In theories of [[large extra dimension]]s, the Planck length has no fundamental physical significance, and quantum gravitational effects appear at other scales.{{citation needed|date=March 2018}}
+
+==Planck length and Euclidean geometry==
+
+The Planck length is the length at which quantum zero oscillations of the gravitational field completely distort Euclidean geometry.<ref>[https://vk.com/doc264717166_391605654 Migdal A.B., The quantum physics, Nauka, pp. 116-117, (1989)]</ref> The gravitational field performs zero-point oscillations, and the geometry associated with it also oscillates. The ratio of the circumference to the radius varies near the Euclidean value. The smaller the scale, the greater the deviations from the [[Euclidean geometry]]. Let us estimate the order of the wavelength of zero gravitational oscillations, at which the geometry becomes completely unlike the Euclidean geometry. The degree of deviation <math>\zeta</math> of geometry from Euclidean geometry  in the gravitational field is determined by the ratio of the gravitational potential <math>\varphi</math> and the square of the speed of light <math>c</math>: <math>\zeta=\varphi/c^2</math>. When <math>\zeta\ll 1</math>, the geometry is close to Euclidean geometry; for <math>\zeta\sim 1</math>, all similarities disappear. The energy of the oscillation of scale <math>l</math> is equal to <math>E=\hbar\nu\sim \hbar c/l</math> (where <math>c/l</math> is the order of the oscillation frequency). The [[gravitational potential]] created by the mass <math>m</math>, at this length is <math>\varphi=Gm/l</math>, where <math>G</math> is the [[Gravitational constant|constant of universal gravitation]]. Instead of <math>m</math>, we must substitute a mass, which, according to [[Mass–energy equivalence|Einstein's formula]], corresponds to the energy <math>E</math> (where <math>m=E/c^2</math>). We get <math>\varphi=GE/l\,c^2=G\hbar/l^2c</math>. Dividing this expression by <math>c^2</math>, we obtain the value of the deviation <math>\zeta=G\hbar/c^3l^2=\ell^2_P/l^2</math>. Equating <math>\zeta=1</math>, we find the length at which the Euclidean geometry is completely distorted. It is equal to Planck length <math display="inline">\ell_P=\sqrt{G\hbar/c^3}\approx 10^{-35}\mathrm{m}</math>.<ref>{{Cite journal|last=Migdal|first=A B|date=1985-10-31|title=Niels Bohr and quantum physics|journal=Soviet Physics Uspekhi|volume=28|issue=10|pages=910–934|doi=10.1070/pu1985v028n10abeh003951|issn=0038-5670}}</ref> {{Technical statement|date=November 2018}}
+
+As noted in Regge (1958) "for the space-time region with dimensions <math>l</math> the uncertainty of the [[Christoffel symbols]] <math>\Delta\Gamma</math> be of the order of <math>\ell^2_P/l^3</math>, and the uncertainty of the [[metric tensor]] <math>\Delta g</math> is of the order of <math>\ell^2_P/l^2</math>. If <math>l</math> is a macroscopic length, the quantum constraints are fantastically small and can be neglected even on atomic scales. If the value <math>l</math> is comparable to <math>\ell_P</math>, then the maintenance of the former (usual) concept of space becomes more and more difficult and the influence of micro curvature becomes obvious".<ref>[[Tullio Regge|T. Regge]]. "Gravitational fields and quantum mechanics". ''Nuovo Cim.'' 7, 215 (1958). {{doi|10.1007/BF02744199}}.</ref> Conjecturally, this could imply that space-time becomes a [[quantum foam]] at the Planck scale.<ref>{{cite journal | title=Geons | bibcode=1955PhRv...97..511W | last=Wheeler | first=J. A. | journal=[[Physical Review]] |date=January 1955 | volume=97 | issue=2 | pages=511–536 | doi=10.1103/PhysRev.97.511}}</ref>
+
+==See also==
+{{Portal|Physics}}
+{{col-list|colwidth=30em|
+* [[Fock–Lorentz symmetry]]
+* [[Orders of magnitude (length)]]
+* [[Planck energy]]
+* [[Planck mass]]
+* [[Planck epoch]]
+* [[Planck temperature]]
+* [[Planck time]]
+}}
+
+== References ==
+=== Citations ===
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+* {{cite journal
+|last=Garay |first=Luis J.
+|date=January 1995
+|title=Quantum gravity and minimum length
+|journal=[[International Journal of Modern Physics A]]
+|volume=10 |issue= 2|pages=145–165
+|arxiv=gr-qc/9403008v2
+|bibcode= 1995IJMPA..10..145G
+|doi=10.1142/S0217751X95000085
+}}
+{{refend}}
+
+==External links==
+* {{cite web|last=Bowley|first=Roger|title=Planck Length|url=http://www.sixtysymbols.com/videos/plancklength.htm|work=Sixty Symbols|publisher=[[Brady Haran]] for the [[University of Nottingham]]|author2=Eaves, Laurence |authorlink2=Laurence Eaves |year=2010}}
+
+{{Planck's natural units}}
+{{Quantum gravity}}
+{{Scientists whose names are used in physical constants}}
+
+[[Category:Units of length]]
+[[Category:Planck units]]
+
+[[de:Planck-Einheiten#Definitionen]]
