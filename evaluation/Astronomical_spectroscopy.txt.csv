@@ -1,0 +1,5 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+T,temperature (P2076),1,3,4,-,-,5,-,global,2076,-1
+b,Wien 's displacement constant (N/A),-,-,-,-,-,-,-,global,1797,-1
+lambda,wavelength (Q41364),-,5,-,-,-,2,-,global,1656,-1
+\lambda_\text{max} T = b,Wien's displacement law (Q214336),-,-,-,1,-,-,1,global,1152,-1
