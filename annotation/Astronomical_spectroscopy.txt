@@ -1,1 +1,1 @@
-{"global": {"T": {"name": "temperature", "mathEnv": "\\lambda_\\text{max} T = b", "uniqueIDs": ["200---5", "204---11"], "qid": "Q11466", "time": 42182, "manualSelectionTime": -1, "sourcesWithNums": {"ArXiv": 1, "Wikipedia": 3, "Wikidata": 4, "WordWindow": 5}, "type": "Identifier"}}, "local": {}}
+{"global": {}, "local": {}}
