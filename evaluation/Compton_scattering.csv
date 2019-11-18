@@ -27,3 +27,27 @@ hf + m_e c^2 = hf' + \sqrt{(p_{e'}c)^2 + (m_e c^2)^2}.,conservation of energy (Q
 \frac{1}{c}\sqrt{(hf - hf' + m_{e}c^2)^2-m_{e}^2c^4} gt; \frac{hf - hf'}{c}~. ,conservation of momentum (N/A),-,-,-,-,-,-,-,global,7103,3666
 g,N/A (N/A),-,-,-,-,-,-,-,global,False,False
 \mathbf{p}_{e'} = \mathbf{p}_\gamma - \mathbf{p}_{\gamma'}.,momentum of electron (N/A),-,-,-,-,-,-,-,global,12563,2209
+"p_{e'}^{\, 2} = \mathbf{p}_{e'}\cdot\mathbf{p}_{e'} = (\mathbf{p}_\gamma - \mathbf{p}_{\gamma'}) \cdot (\mathbf{p}_\gamma - \mathbf{p}_{\gamma'}) \\ = p_{\gamma}^{\, 2} + p_{\gamma'}^{\, 2} - 2 p_{\gamma}\, p_{\gamma'} \cos\theta. ",conservation of momentum (N/A),-,-,-,-,-,-,-,global,7196,3324
+p_{\gamma}c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+c^2,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+"p_{e'}^{\, 2}c^2 = p_{\gamma}^{\, 2}c^2 + p_{\gamma'}^{\, 2}c^2 - 2c^2 p_{\gamma}\, p_{\gamma'} \cos\theta.",photon momentum (N/A),-,-,-,-,-,-,-,global,5812,1522
+h f/c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+"p_{e'}^{\, 2}c^2 = (h f)^2 + (h f')^2 - 2(hf)(h f')\cos{\theta}~. \qquad\qquad (2) ",conservation of energy (Q11382),-,-,-,-,-,-,1,global,2365,-1
+" (hf - hf' + m_e c^2)^2 - m_e^{\, 2}c^4 = \left(h f\right)^2 + \left(h f'\right)^2 - 2h^2 ff'\cos{\theta},",conservation of energy (N/A),-,-,-,-,-,-,-,global,5226,2006
+ 2 h f m_e c^2-2 h f' m_e c^2   = 2 h^2 f f' \left( 1 - \cos \theta \right).  ,Conservation of energy (N/A),-,-,-,-,-,-,-,global,6275,1577
+2 h f f' m_e c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+ \frac{c}{f'} - \frac{c}{f} = \frac{h}{m_ec}\left(1-\cos \theta \right).   ,Compton scattering (N/A),-,-,-,-,-,-,-,global,6095,1437
+\lambda'-\lambda = \frac{h}{m_ec}(1-\cos{\theta})~. \qquad\qquad (3),Compton scattering (N/A),-,-,-,-,-,-,-,global,7499,1792
+varphi,angle (N/A),-,-,-,-,-,-,-,global,2631,5402
+ \cot \varphi = \left ( 1+\frac{hf}{m_e c^2} \right ) \tan (\theta/2)~.\qquad\qquad (4),Magnetic compton profile (N/A),-,-,-,-,-,-,-,global,6259,2041
+J,electron spin density (N/A),-,-,-,-,-,-,-,global,5493,5246
+J_{\text{mag}}(\mathbf{p}_z),N/A (N/A),-,-,-,-,-,-,-,global,False,False
+z,coordinate (Q12753000),1,-,-,-,-,-,-,global,2550,-1
+mu,number of spin-unpaired electrons (N/A),-,-,-,-,-,-,-,global,2165,-1
+n, electron momentum distribution (N/A),-,-,-,-,-,-,-,global,2171,1259
+d,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+x,coordinate (Q12753000),5,-,-,-,-,-,-,global,6353,-1
+y,coordinate (Q12753000),1,-,-,-,-,-,-,global,2853,-1
+J_{\text{mag}}(\mathbf{p}_z) = \frac{1}{\mu}\iint_{-\infty}^\infty (n_{\uparrow} (\mathbf{p}) - n_{\downarrow}(\mathbf{p})) d\mathbf{p}_x d\mathbf{p}_y,electron spin density (N/A),-,-,-,-,-,-,-,global,13415,1720
+\mu,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+n_\uparrow(\mathbf{p}),N/A (N/A),-,-,-,-,-,-,-,global,False,False
