@@ -1,4 +1,4 @@
 Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
-m,mass (Q11423),1,3,2,-,-,4,-,global,2246,-1
-p,proton (N/A),-,-,-,-,-,-,-,global,830,-1
-"m_p,",mass (Q11423),-,-,-,-,-,4,1,global,3216,-1
+m,mass (Q11423),1,3,2,-,-,1,-,global,2428,-1
+N,number (N/A),2,-,-,-,-,-,-,global,3029,-1
+N=1,number (N/A),-,-,-,-,-,-,-,global,3194,6367
