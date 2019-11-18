@@ -1,0 +1,461 @@
+[[File:Star-Spectroscope.jpg|thumb|upright=1.35|The Star-Spectroscope of the [[Lick Observatory]] in 1898. Designed by [[James Keeler]] and constructed by [[John Brashear]].]]
+
+'''Astronomical spectroscopy''' is the study of [[astronomy]] using the techniques of [[spectroscopy]] to measure the [[electromagnetic spectrum|spectrum]] of [[electromagnetic radiation]], including visible light and radio, which [[radiant energy|radiates]] from [[star]]s and other celestial objects.  A '''stellar spectrum''' can reveal many properties of stars, such as their chemical composition, temperature, density, mass, distance, luminosity, and relative motion using [[Doppler effect|Doppler shift]] measurements. Spectroscopy is also used to study the physical properties of many other types of celestial objects such as [[planet]]s, [[nebula]]e, [[Galaxy|galaxies]], and [[Active galactic nucleus|active galactic nuclei]].
+
+==Background==
+[[File:Atmospheric electromagnetic opacity.svg|thumb|Electromagnetic transmittance, or opacity, of the Earth's atmosphere]]
+Astronomical spectroscopy is used to measure three major bands of radiation: [[visible spectrum]], [[radio wave|radio]], and [[X-ray]].  While all spectroscopy looks at specific areas of the spectrum, different methods are required to acquire the signal depending on the frequency.  [[Ozone]] (O<sub>3</sub>) and molecular oxygen (O<sub>2</sub>) absorb light with wavelengths under 300&nbsp;nm, meaning that X-ray and [[ultraviolet]] spectroscopy require the use of a satellite telescope or [[X-ray astronomy#Sounding rocket flights|rocket mounted detectors]].<ref name=Foukal />{{rp|27}}  Radio signals have much longer wavelengths than optical signals, and require the use of [[Radio telescope#Types|antennas or radio dishes]]. [[Infrared]] light is absorbed by atmospheric water and carbon dioxide, so while the equipment is similar to that used in optical spectroscopy, satellites are required to record much of the infrared spectrum.<ref>{{cite web|title=Cool Cosmos - Infrared Astronomy|url=http://coolcosmos.ipac.caltech.edu/cosmic_classroom/ir_tutorial/irwindows.html|publisher=California Institute of Technology|accessdate=23 October 2013}}</ref>
+
+===Optical spectroscopy===
+[[Image:Blazedgrating.jpg|thumb|Incident light reflects at the same angle (black lines), but a small portion of the light is refracted as coloured light (red and blue lines).]]
+Physicists have been looking at the solar spectrum since [[Isaac Newton]] first used a simple prism to observe the refractive properties of light.<ref name=Opticks /> In the early 1800s [[Joseph von Fraunhofer]] used his skills as a glass maker to create very pure prisms, which allowed him to observe 574 dark lines in a seemingly continuous spectrum.<ref name=Fraunhofer /> Soon after this, he combined telescope and prism to observe the spectrum of [[Venus]], the [[Moon]], [[Mars]], and various stars such as [[Betelgeuse]]; his company continued to manufacture and sell high-quality refracting telescopes based on his original designs until its closure in 1884.<ref name=Hearnshaw />{{rp|28–29}}
+
+The resolution of a prism is limited by its size; a larger prism will provide a more detailed spectrum, but the increase in mass makes it unsuitable for highly detailed work.<ref name=Kitchin /> This issue was resolved in the early 1900s with the development of high-quality reflection gratings by [[John Stanley Plaskett|J.S. Plaskett]] at the [[Dominion Observatory]] in Ottawa, Canada.<ref name=Hearnshaw />{{rp|11}} Light striking a mirror will reflect at the same angle, however a small portion of the light will be refracted at a different angle; this is dependent upon the indices of refraction of the materials and the wavelength of the light.<ref name=Ball /> By creating a [[blazed grating|"blazed" grating]] which utilizes a large number of parallel mirrors, the small portion of light can be focused and visualized. These new spectroscopes were more detailed than a prism, required less light, and could be focused on a specific region of the spectrum by tilting the grating.<ref name=Kitchin />
+
+The limitation to a blazed grating is the width of the mirrors, which can only be ground a finite amount before focus is lost; the maximum is around 1000 lines/mm. In order to overcome this limitation holographic gratings were developed.  Volume phase holographic gratings use a thin film of dichromated gelatin on a glass surface, which is subsequently exposed to a [[Interference (wave propagation)|wave pattern]] created by an [[interferometer]]. This wave pattern sets up a reflection pattern similar to the blazed gratings but utilizing [[Bragg's law|Bragg diffraction]], a process where the angle of reflection is dependent on the arrangement of the atoms in the gelatin. The holographic gratings can have up to 6000 lines/mm and can be up to twice as efficient in collecting light as blazed gratings. Because they are sealed between two sheets of glass, the holographic gratings are very versatile, potentially lasting decades before needing replacement.<ref>{{cite journal|last=Barden|first=S.C.|first2=J.A.|last2=Arns|first3=W.S.|last3=Colburn|title=Volume-phase holographic gratings and their potential for astronomical applications|journal=Proc. SPIE|date=July 1998|volume=3355|pages=866–876|doi=10.1117/12.316806|series=Optical Astronomical Instrumentation|editor1-last=d'Odorico|editor1-first=Sandro|url=http://www.noao.edu/ets/vpgratings/papers/spiepaper.pdf}}</ref>
+
+Light [[Dispersion (optics)|dispersed]] by the grating or prism in a [[spectrograph]] can be recorded by a detector. Historically, [[photographic plate]]s were widely used to record spectra until electronic detectors were developed, and today optical spectrographs most often employ [[charge-coupled device]]s (CCDs). The wavelength scale of a spectrum can be [[Calibration|calibrated]] by observing the spectrum of [[emission line]]s of known wavelength from a [[gas-discharge lamp]]. The [[Spectral flux density|flux]] scale of a spectrum can be calibrated as a function of wavelength by comparison with an observation of a standard star with corrections for atmospheric absorption of light; this is known as [[spectrophotometry]].<ref>{{cite journal|last1=Oke|first1=J. B.|last2=Gunn|first2=J. E.|title=Secondary standard stars for absolute spectrophotometry|journal=The Astrophysical Journal|date=1983|volume=266|page=713|doi=10.1086/160817|bibcode=1983ApJ...266..713O}}</ref>
+
+===Radio spectroscopy<!-- [[Radio spectroscopy]] redirects to this heading. -->===
+[[Radio astronomy]] was founded with the work of [[Karl Guthe Jansky|Karl Jansky]] in the early 1930s, while working for [[Bell Labs]]. He built a radio antenna to look at potential sources of interference for transatlantic radio transmissions. One of the sources of noise discovered came not from Earth, but from the center of the [[Milky Way]], in the constellation [[Sagittarius A|Sagittarius]].<ref>{{cite web|last=Ghigo|first=F|title=Karl Jansky|url=http://www.nrao.edu/whatisra/hist_jansky.shtml|work=National Radio Astronomy Observatory|publisher=Associated Universities, Inc.|accessdate=24 October 2013}}</ref> In 1942, [[James Stanley Hey|JS Hey]] captured the sun's radio frequency using military radar receivers.<ref name=Foukal />{{rp|26}} Radio spectroscopy started with the discovery of the [[Hydrogen line|21-centimeter H&nbsp;I line]] in 1951.
+
+[[astronomical interferometer|Radio interferometry]] was pioneered in 1946, when [[Joseph Lade Pawsey]], [[Ruby Payne-Scott]] and [[Lindsay McCready]] used a [[sea interferometry|single antenna atop a sea cliff]] to observe 200&nbsp;MHz solar radiation. Two incident beams, one directly from the sun and the other reflected from the sea surface, generated the necessary interference.<ref>{{cite journal |last=Pawsey|first=Joseph |last2=Payne-Scott|first2=Ruby |last3=McCready|first3=Lindsay |date=1946|journal=[[Nature (journal)|Nature]]|title=Radio-Frequency Energy from the Sun|volume=157|pages=158–159|doi=10.1038/157158a0|issue=3980|bibcode = 1946Natur.157..158P }}</ref> The first multi-receiver interferometer was built in the same year by [[Martin Ryle]] and Vonberg.<ref>{{cite journal|last=Ryle|first=M. |last2=Vonberg|first2=D. D. |date=1946|title=Solar Radiation on 175 Mc./s|journal=Nature|doi=10.1038/158339b0|volume=158|pages=339–340|issue=4010|bibcode=1946Natur.158..339R }}</ref><ref name="Robertson">{{Cite book
+  | last = Robertson
+  | first = Peter
+  | title = Beyond southern skies: radio astronomy and the Parkes telescope
+  | publisher = University of Cambridge
+  | date = 1992
+  | pages = 42, 43
+  | url = https://books.google.com/books?id=QgQ-SFKIMdoC&pg=PA42
+  | isbn = 0-521-41408-3}}</ref> In 1960, Ryle and [[Antony Hewish]] published the technique of [[aperture synthesis]] to analyze interferometer data.<ref>{{cite web |url=http://www.nrao.edu/library/Memos/Misc/Howard_Chronological_History_0674.pdf |archive-url=https://wayback.archive-it.org/all/20120714053420/http://www.nrao.edu/library/Memos/Misc/Howard_Chronological_History_0674.pdf |url-status=dead |archive-date=2012-07-14 |title=A Chronological History of Radio Astronomy |accessdate=2 December 2013 |author=W. E. Howard }}</ref> The aperture synthesis process, which involves [[autocorrelation|autocorrelating]] and [[discrete Fourier transform]]ing the incoming signal, recovers both the spatial and frequency variation in flux.<ref>{{cite web|url=http://www.nrao.edu/index.php/learn/radioastronomy/radiotelescopes |title=How Radio Telescopes Work |accessdate=2 December 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20131203010554/http://www.nrao.edu/index.php/learn/radioastronomy/radiotelescopes |archivedate=3 December 2013 }}</ref> The result is a [[data cube|3D image]] whose third axis is frequency. For this work, Ryle and Hewish were jointly awarded the 1974 [[Nobel Prize in Physics]].<ref>{{cite web|url=https://www.nobelprize.org/nobel_prizes/physics/laureates/1974/press.html|title=Press Release: The 1974 Nobel Prize in Physics|accessdate=2 December 2013}}</ref>
+
+===X-ray spectroscopy===
+{{main|X-ray astronomy}}
+
+==Stars and their properties==
+{{anchor|stellar spectrum}}
+{{multiple image
+| direction         = vertical
+| width             = 320
+| image1            = Spectral-lines-continuous.svg
+| alt1              = Continuous spectrum
+| caption1          = Continuous spectrum
+| image2            = Spectral-lines-emission.svg
+| alt2              = Emission lines
+| caption2          = [[Emission spectrum|Emission lines]] ([[discrete spectrum]])
+| image3            = Spectral-lines-absorption.svg
+| alt3              = Absorption lines
+| caption3          = [[Absorption spectroscopy#Absorption spectrum|Absorption lines]] (discrete spectrum)
+}}
+
+===Chemical properties===
+Newton used a prism to split white light into a spectrum of color, and Fraunhofer's high-quality prisms allowed scientists to see dark lines of an unknown origin. In the 1850s, [[Gustav Kirchhoff]] and [[Robert Bunsen]] described the phenomena behind these dark lines. Hot solid objects produce light with a [[continuous spectrum]], hot gases emit light at specific wavelengths, and hot solid objects surrounded by cooler gases show a near-continuous spectrum with dark lines corresponding to the emission lines of the gases.<ref name=Hearnshaw />{{rp|42–44}}<ref name=Jenkins /> By comparing the [[absorption spectroscopy|absorption lines]] of the Sun with [[Emission spectrum|emission spectra]] of known gases, the chemical composition of stars can be determined.
+
+The major [[Fraunhofer lines]], and the elements with which they are associated, appear in the following table.  Designations from the early [[Balmer series|Balmer Series]] are shown in parentheses.
+
+{| <!-- Start nested table -->
+| valign="top" |
+{| class="wikitable"
+!Designation
+!Element
+!Wavelength ([[nanometer|nm]])
+|- 
+|y
+|[[Oxygen|O<sub>2</sub>]]
+|898.765
+|-
+|Z
+|O<sub>2</sub>
+|822.696
+|-
+|A
+|O<sub>2</sub>
+|759.370
+|-
+|B
+|O<sub>2</sub>
+|686.719
+|-
+|C (Hα)
+|[[Hydrogen|H]]
+|656.281
+|-
+|a 
+|O<sub>2</sub>
+|627.661
+|-
+|D<sub>1</sub>
+|[[Sodium|Na]]
+|589.592
+|-
+|D<sub>2</sub>
+|Na
+|588.995
+|-
+|D<sub>3</sub> or d
+|[[Helium|He]]
+|587.5618
+|-
+|e
+|[[Mercury (element)|Hg]]
+|546.073
+|-
+|E<sub>2</sub>
+|[[Iron|Fe]]
+|527.039
+|-
+|b<sub>1</sub>
+|[[Magnesium|Mg]]
+|518.362
+|-
+|b<sub>2</sub>
+|Mg
+|517.270
+|-
+|b<sub>3</sub>
+|Fe
+|516.891
+|-
+|b<sub>4</sub>
+|Mg
+|516.733
+|}
+| valign="top" | <!-- Start second half of the nested table -->
+{| class="wikitable"
+!Designation
+!Element
+!Wavelength ([[nanometer|nm]])
+|- 
+|c
+|Fe
+|495.761
+|-
+|F (Hβ)
+|H
+|486.134
+|-
+|d
+|Fe
+|466.814
+|-
+|e
+|Fe
+|438.355
+|-
+|G' (Hγ)
+|H
+|434.047
+|-
+|G
+|Fe
+|430.790
+|-
+|G
+|[[Calcium|Ca]]
+|430.774
+|-
+|h (Hδ)
+|H
+|410.175
+|-
+|H
+|Ca<sup>+</sup>
+|396.847
+|-
+|K
+|Ca<sup>+</sup>
+|393.368
+|-
+|L
+|Fe
+|382.044
+|-
+|N
+|Fe
+|358.121
+|-
+|P
+|[[Titanium|Ti]]<sup>+</sup>
+|336.112
+|-
+|T
+|Fe
+|302.108
+|-
+|t
+|[[Nickel|Ni]]
+|299.444
+|}
+|} <!-- End of nested table -->
+
+Not all of the elements in the Sun were immediately identified.  Two examples are listed below.
+*In 1868 [[Norman Lockyer]] and [[Pierre Janssen]] independently observed a line next to the sodium doublet (D<sub>1</sub> and D<sub>2</sub>) which Lockyer determined to be a new element. He named it [[Helium]], but it wasn't until 1895 the element was found on Earth.<ref name=Hearnshaw />{{rp|84–85}}
+*In 1869 the astronomers [[Charles Augustus Young]] and [[William Harkness]] independently observed a novel green emission line in the Sun's [[corona]] during an eclipse. This "new" element was incorrectly named [[coronium]], as it was only found in the corona. It was not until the 1930s that [[Walter Grotrian]] and [[Bengt Edlén]] discovered that the spectral line at 530.3&nbsp;nm was due to [[highly charged ion|highly ionized]] iron (Fe<sup>13+</sup>).<ref name=Morison /> Other unusual lines in the coronal spectrum are also caused by highly charged ions, such as [[nickel]] and [[calcium]], the high ionization being due to the extreme temperature of the [[corona|solar corona]].<ref name=Foukal />{{rp|87,297}}
+To date more than 20 000 absorption lines have been listed for the [[Sun]] between 293.5 and 877.0&nbsp;nm, yet only approximately 75% of these lines have been linked to elemental absorption.<ref name=Foukal />{{rp|69}}
+
+By analyzing the width of each spectral line in an emission spectrum, both the elements present in a star and their relative abundances can be determined.<ref name=Ball />  Using this information stars can be categorized into [[Metallicity#Stellar populations|stellar populations]]; Population I stars are the youngest stars and have the highest metal content (our Sun is a Pop I star), while Population III stars are the oldest stars with a very low metal content.<ref name=Gregory>{{cite book|author=Gregory, Stephen A.|author2=Michael Zeilik|title=Introductory astronomy & astrophysics|date=1998|publisher=Saunders College Publ.|location=Fort Worth [u.a.]|isbn=0-03-006228-4|page=322|edition=4.}}</ref><ref name=PopIII>{{cite journal|last=Pan|first=Liubin|author2=Scannapieco, Evan|author3= Scalo, Jon|title=MODELING THE POLLUTION OF PRISTINE GAS IN THE EARLY UNIVERSE|journal=The Astrophysical Journal|date=1 October 2013|volume=775|issue=2|page=111|doi=10.1088/0004-637X/775/2/111|arxiv = 1306.4663 |bibcode = 2013ApJ...775..111P }}</ref>
+
+===Temperature and size===
+[[File:Black body.svg|thumb|Black body curves for various temperatures.]]
+In 1860 [[Gustav Kirchhoff]] proposed the idea of a [[black body]], a material that emits electromagnetic radiation at all wavelengths.<ref name=Kirchhoff /><ref name=Pradhan />  In 1894 [[Wilhelm Wien]] derived an expression relating the temperature (T) of a black body to its peak emission wavelength (λ<sub>max</sub>).<ref name=Massoud />
+:<math>\lambda_\text{max} T = b</math>
+''b'' is a [[proportionality constant|constant of proportionality]] called ''Wien's displacement constant'', equal to {{physconst|bwien|after=.}}  This equation is called [[Wien's displacement law|Wien's Law]]. By measuring the peak wavelength of a star, the surface temperature can be determined.<ref name=Jenkins />  For example, if the peak wavelength of a star is 502&nbsp;nm the corresponding temperature will be 5778 [[kelvin]]s.
+
+The [[luminosity]] of a star is a measure of the [[radiant energy|electromagnetic energy]] output in a given amount of time.<ref name=Australia />  Luminosity (L) can be related to the temperature (T) of a star by
+:<math>L= 4 \pi R^2 \sigma T^4</math> ,
+
+where R is the radius of the star and σ is the [[Stefan–Boltzmann]] constant, with a value of {{physconst|sigma|after=.}}  Thus, when both luminosity and temperature are known (via direct measurement and calculation) the radius of a star can be determined.
+
+{{See also|Luminosity|Magnitude (astronomy)}}
+
+==Galaxies==
+The spectra of [[galaxy|galaxies]] look similar to stellar spectra, as they consist of the combined light of billions of stars.
+
+Doppler shift studies of [[galaxy cluster]]s by [[Fritz Zwicky]] in 1937 found that the galaxies in a cluster were moving much faster than seemed to be possible from the mass of the cluster inferred from the visible light. Zwicky hypothesized that there must be a great deal of non-luminous matter in the galaxy clusters, which became known as [[dark matter]].<ref name=Zwicky /> Since his discovery, astronomers have determined that a large portion of galaxies (and most of the universe) is made up of dark matter. In 2003, however, four galaxies (NGC 821, [[Messier 105|NGC 3379]], NGC 4494, and [[NGC 4697]]) were found to have little to no dark matter influencing the motion of the stars contained within them; the reason behind the lack of dark matter is unknown.<ref name=Romanowsky />
+
+In the 1950s, strong radio sources were found to be associated with very dim, very red objects.  When the first spectrum of one of these objects was taken there were absorption lines at wavelengths where none were expected.  It was soon realised that what was observed was a normal galactic spectrum, but highly red shifted.<ref name=Matthews /><ref name=Wallace />  These were named ''quasi-stellar radio sources'', or [[quasars]], by  [[Hong-Yee Chiu]] in 1964.<ref name=Chiu />  Quasars are now thought to be galaxies formed in the early years of our universe, with their extreme energy output powered by super-massive [[black hole]]s.<ref name= Wallace />
+
+The properties of a galaxy can also be determined by analyzing the stars found within them.  [[NGC 4550]], a galaxy in the Virgo Cluster, has a large portion of its stars rotating in the opposite direction as the other portion. It is believed that the galaxy is the combination of two smaller galaxies that were rotating in opposite directions to each other.<ref name=Rubin /> Bright stars in galaxies can also help determine the distance to a galaxy, which may be a more accurate method than [[parallax]] or [[Cosmic distance ladder#Standard candles|standard candles]].<ref name=Kudritzki />
+
+==Interstellar medium==
+{{main|Interstellar medium}}
+The interstellar medium is matter that occupies the space between [[star systems]] in a galaxy. 99% of this matter is gaseous - [[hydrogen]], [[helium]], and smaller quantities of other ionized elements such as [[oxygen]]. The other 1% is dust particles, thought to be mainly [[graphite]], [[silicate]]s, and ices.<ref name=KitchinGas /> Clouds of the dust and gas are referred to as [[nebula]]e.
+
+There are three main types of nebula: [[dark nebula|absorption]], [[reflection nebula|reflection]], and [[emission nebula|emission]] nebulae. Absorption (or dark) nebulae are made of dust and gas in such quantities that they obscure the starlight behind them, making [[Photometry (astronomy)|photometry]] difficult.  Reflection nebulae, as their name suggest, reflect the light of nearby stars. Their spectra are the same as the stars surrounding them, though the light is bluer; shorter wavelengths scatter better than longer wavelengths. Emission nebulae emit light at specific wavelengths depending on their chemical composition.<ref name=KitchinGas />
+
+===Gaseous emission nebulae===
+In the early years of astronomical spectroscopy, scientists were puzzled by the spectrum of gaseous nebulae. In 1864 [[William Huggins]] noticed that many nebulae showed only emission lines rather than a full spectrum like stars. From the work of Kirchhoff, he concluded that nebulae must contain "enormous masses of luminous gas or vapour."<ref name=Huggins /> However, there were several emission lines that could not be linked to any terrestrial element, brightest among them lines at 495.9&nbsp;nm and 500.7&nbsp;nm.<ref name=Tennyson /> These lines were attributed to a new element, [[nebulium]], until [[Ira Sprague Bowen|Ira Bowen]] determined in 1927 that the emission lines were from highly ionised oxygen (O<sup>+2</sup>).<ref name=Hirsh /><ref name=Bowen /> These emission lines could not be replicated in a laboratory because they are [[forbidden mechanism|forbidden lines]]; the low density of a nebula (one atom per cubic centimetre)<ref name=KitchinGas /> allows for [[Metastability|metastable]] ions to decay via forbidden line emission rather than collisions with other atoms.<ref name=Tennyson />
+
+Not all emission nebulae are found around or near stars where solar heating causes ionisation. The majority of gaseous emission nebulae are formed of neutral hydrogen. In the [[ground state]] neutral hydrogen has two possible [[spin (physics)|spin states]]: the [[electron]] has either the same spin or the opposite spin of the [[proton]]. When the atom transitions between these two states, it releases an emission or absorption line of 21&nbsp;cm.<ref name=KitchinGas /> This line is within the radio range and allows for very precise measurements:<ref name=Tennyson />
+*Velocity of the cloud can be measured via [[Astronomical spectroscopy#Doppler Shift|Doppler shift]]
+*The intensity of the 21&nbsp;cm line gives the density and number of atoms in the cloud
+*The temperature of the cloud can be calculated
+Using this information the shape of the Milky Way has been determined to be a [[spiral galaxy]], though the exact number and position of the spiral arms is the subject of ongoing research.<ref name=Efremov />
+
+===Complex molecules===
+{{main|List of interstellar and circumstellar molecules}}
+Dust and molecules in the interstellar medium not only obscures photometry, but also causes absorption lines in spectroscopy. Their spectral features are generated by transitions of component electrons between different energy levels, or by rotational or vibrational spectra. Detection usually occurs in radio, microwave, or infrared portions of the spectrum.<ref name=Shu /> The chemical reactions that form these molecules can happen in cold, diffuse clouds<ref name=GoddardISM /> or in the hot ejecta around a [[white dwarf]] star from a [[nova]] or [[supernova]].<ref name=Buckyball /> [[Polycyclic aromatic hydrocarbon]]s such as [[acetylene]] (C<sub>2</sub>H<sub>2</sub>) generally group together to form graphites or other sooty material,<ref name=DustChemistry /> but other [[organic compound|organic molecules]] such as [[acetone]] ((CH<sub>3</sub>)<sub>2</sub>CO)<ref name=Acetone /> and [[buckminsterfullerene]]s (C<sub>60</sub> and C<sub>70</sub>) have been discovered.<ref name=Buckyball />
+
+==Motion in the universe==
+[[File:Redshift blueshift.svg|thumb|Redshift and blueshift]]
+Stars and interstellar gas are bound by gravity to form galaxies, and groups of galaxies can be bound by gravity in [[galaxy clusters]].<ref name=Hubble /> With the exception of stars in the [[Milky Way]] and the galaxies in the [[Local Group]], almost all galaxies are moving away from us due to the [[Metric expansion of space|expansion of the universe]].<ref name=Morison />
+
+===Doppler effect and redshift===
+The motion of stellar objects can be determined by looking at their spectrum. Because of the [[Doppler effect]], objects moving towards us are [[blueshift]]ed, and objects moving away are [[redshift]]ed. The wavelength of redshifted light is longer, appearing redder than the source.  Conversely, the wavelength of blueshifted light is shorter, appearing bluer than the source light:
+:<math>\frac{\lambda-\lambda_0}{\lambda_0}=\frac{v_0}{c}</math>
+where <math>\lambda_0</math> is the emitted wavelength, <math>v_0</math> is the velocity of the object, and <math>\lambda</math> is the observed wavelength. Note that v<0 corresponds to &lambda;<&lambda;<sub>0</sub>, a blueshifted wavelength. A redshifted absorption or emission line will appear more towards the red end of the spectrum than a stationary line. In 1913 [[Vesto Slipher]] determined the [[Andromeda Galaxy]] was blueshifted, meaning it was moving towards the Milky Way.  He recorded the spectra of 20 other galaxies &mdash; all but 4 of which were redshifted &mdash; and was able to calculate their velocities relative to the Earth. [[Edwin Hubble]] would later use this information, as well as his own observations, to define [[Hubble's law]]: The further a galaxy is from the Earth, the faster it is moving away from us.<ref name=Morison /><ref name=HubbleLaw /> Hubble's law can be generalised to
+:<math>v = H_0 d</math>
+where <math>v</math> is the velocity (or Hubble Flow), <math>H_0</math> is the [[hubble's law#Observed values|Hubble Constant]], and <math>d</math> is the distance from Earth.
+
+Redshift (z) can be expressed by the following equations:<ref name=redshift />
+{| class="wikitable" style="margin:auto;"
+|+ '''Calculation of redshift, <math>z</math>'''
+! '''Based on wavelength''' !! '''Based on frequency'''
+|- align=center
+| <math>z = \frac{\lambda_{\mathrm{obsv}} - \lambda_{\mathrm{emit}}}{\lambda_{\mathrm{emit}}}</math>
+| <math>z = \frac{f_{\mathrm{emit}} - f_{\mathrm{obsv}}}{f_{\mathrm{obsv}}}</math>
+|- align=center
+| <math>1+z = \frac{\lambda_{\mathrm{obsv}}}{\lambda_{\mathrm{emit}}}</math>
+| <math>1+z = \frac{f_{\mathrm{emit}}}{f_{\mathrm{obsv}}}</math>
+|}
+
+In these equations, frequency is denoted by <math>f</math> and wavelength by <math>\lambda</math>. The larger the value of z, the more redshifted the light and the farther away the object is from the Earth. As of January 2013, the largest galaxy redshift of z~12 was found using the [[Hubble Ultra-Deep Field]], corresponding to an age of over 13 billion years (the universe is approximately 13.82 billion years old).<ref name=Ellis /><ref name=EllisRef /><ref name=PlanckHubble />
+
+The Doppler effect and Hubble's law can be combined to form the equation
+<math>z = \frac{v_\text{Hubble}}{c}</math>,
+where c is the speed of light.
+
+===Peculiar motion===
+Objects that are gravitationally bound will rotate around a common center of mass. For stellar bodies, this motion is known as [[peculiar velocity]], and can alter the Hubble Flow.  Thus, an extra term for the peculiar motion needs to be added to Hubble's law:<ref name=PeculiarMotion />
+:<math>v_\text{total} = H_0 d + v_\mathrm{pec}</math>
+This motion can cause confusion when looking at a solar or galactic spectrum, because the expected redshift based on the simple Hubble law will be obscured by the peculiar motion.  For example, the shape and size of the [[Virgo Cluster]] has been a matter of great scientific scrutiny due to the very large peculiar velocities of the galaxies in the cluster.<ref name=VirgoCluster />
+
+===Binary stars===
+[[File:Wiki Spect Binaries v2.gif|thumb|right|Two stars of different size orbiting the center of mass. The spectrum can be seen to split depending on the position and velocity of the stars.]]
+Just as planets can be gravitationally bound to stars, pairs of stars can orbit each other. Some [[binary star]]s are visual binaries, meaning they can be observed orbiting each other through a telescope.  Some binary stars, however, are too close together to be [[angular resolution|resolved]].<ref name=BinaryStars /> These two stars, when viewed through a spectrometer, will show a composite spectrum: the spectrum of each star will be added together. This composite spectrum becomes easier to detect when the stars are of similar luminosity and of different [[Stellar classification|spectral class]].<ref name=GrayCorbally />
+
+[[Binary star#Spectroscopic binaries|Spectroscopic binaries]] can be also detected due to their [[radial velocity]]; as they orbit around each other one star may be moving towards the Earth whilst the other moves away, causing a Doppler shift in the composite spectrum. The [[Orbital plane (astronomy)|orbital plane]] of the system determines the magnitude of the observed shift: if the observer is looking perpendicular to the orbital plane there will be no observed radial velocity.<ref name=BinaryStars /><ref name=GrayCorbally />  For example, if you look at a [[carousel]] from the side, you will see the animals moving toward and away from you, whereas if you look from directly above they will only be moving in the horizontal plane.
+
+== Planets, asteroids, and comets==
+[[Planet]]s, [[asteroid]]s, and [[comets]] all reflect light from their parent stars and emit their own light.  For cooler objects, including [[solar-system]] planets and asteroids, most of the emission is at infrared wavelengths we cannot see, but that are routinely measured with [[spectrometer]]s.  For objects surrounded by gas, such as comets and planets with atmospheres, further emission and absorption happens at specific wavelengths in the gas, imprinting the spectrum of the gas on that of the solid object.  In the case of worlds with thick atmospheres or complete cloud cover (such as the [[gas giants]], [[Venus]], and [[Saturn]]'s satellite [[Titan (moon)]]), the spectrum is mostly or completely due to the atmosphere alone.<ref name=GoodyYung />
+
+===Planets===
+The reflected light of a planet contains absorption bands due to [[mineral]]s in the rocks present for rocky bodies, or due to the elements and molecules present in the atmosphere. To date over 3,500 [[exoplanets]] have been discovered.  These include so-called [[Hot Jupiter]]s, as well as Earth-like planets. Using spectroscopy, compounds such as alkali metals, water vapor, carbon monoxide, carbon dioxide, and methane have all been discovered.<ref name=Tessenyi />
+
+===Asteroids===
+Asteroids can be classified into three major types according to their spectra.  The original categories were created by Clark R. Chapman, David Morrison, and Ben Zellner in 1975, and further expanded by [[David J. Tholen]] in 1984. In what is now known as the [[Asteroid spectral types#Tholen classification|Tholen classification]], the [[C-type asteroid|C-types]] are made of carbonaceous material, [[S-type asteroid|S-types]] consist mainly of [[silicates]], and [[X-type asteroid|X-types]] are 'metallic'.  There are other classifications for unusual asteroids.  C- and S-type asteroids are the most common asteroids. In 2002 the Tholen classification was further "evolved" into the [[Asteroid spectral types#SMASS classification|SMASS classification]], expanding the number of categories from 14 to 26 to account for more precise spectroscopic analysis of the asteroids.<ref name=Bus /><ref name=Chapman />
+
+===Comets===
+[[File:Spectrum of Comet Hyakutake.gif|thumb|300px|right|Optical spectrum of [[Comet Hyakutake]].]]
+The spectra of comets consist of a reflected solar spectrum from the dusty clouds surrounding the comet, as well as emission lines from gaseous atoms and molecules excited to [[fluorescence]] by sunlight and/or chemical reactions. For example, the chemical composition of [[C/2012 S1|Comet ISON]]<ref name="ARXIV-20140508" /> was determined by spectroscopy due to the prominent emission lines of cyanogen (CN), as well as two- and three-carbon atoms (C<sub>2</sub> and C<sub>3</sub>).<ref name=CIOC /> Nearby comets can even be seen in X-ray as solar wind ions flying to the [[Coma (cometary)|coma]] are neutralized. The cometary X-ray spectra therefore reflect the state of the solar wind rather than that of the comet.<ref name=Lisse />
+
+== See also ==
+{{cmn|colwidth=30em|
+* [[Atomic and molecular astrophysics]]
+* [[Emission spectrum]]
+* [[Gunn-Peterson trough]]
+* [[Lyman-alpha forest]]
+* [[Photometry (astronomy)]]
+* [[Prism]]
+* [[Spectrometer]]
+}}
+
+==References==
+{{reflist|2|refs=
+<ref name=Acetone>
+{{cite journal|last=Johansson|first=LE|author2=Andersson, C|author3=Ellder, J|author4=Friberg, P|author5=Hjalmarson, A|author6=Hoglund, B|author7=Irvine, WM|author8=Olofsson, H|author9= Rydbeck, G|title=Spectral scan of Orion A and IRC+10216 from 72 to 91 GHz|journal=Astronomy and Astrophysics|date=1984|volume=130|pages=227–56|pmid=11541988|bibcode=1984A&A...130..227J}}</ref>
+
+<ref name=Australia>
+{{cite web|title=Luminosity of Stars |publisher=[[Australia Telescope National Facility]] |url=http://outreach.atnf.csiro.au/education/senior/astrophysics/photometry_luminosity.html |date=12 July 2004 |accessdate=2 July 2012 |url-status=dead |archiveurl=https://web.archive.org/web/20140809120004/http://www.atnf.csiro.au/outreach//education/senior/astrophysics/photometry_specparallax.html |archivedate=9 August 2014 }}</ref>
+
+<ref name=Ball>
+{{cite book|last=Ball|first=David W.|title=Basics of Spectroscopy|date=2001|publisher=Society of Photo-Optical Instrumentation Engineers|location=Bellingham, Washington|isbn=0-8194-4104-X|pages=24, 28}}</ref>
+
+<ref name=BinaryStars>
+{{cite web|title=Types of Binary Stars|url=http://outreach.atnf.csiro.au/education/senior/astrophysics/binary_types.html|work=Australia Telescope Outreach and Education|publisher=Australia Telescope National Facility|accessdate=26 November 2013}}</ref>
+
+<ref name=Bowen>
+{{cite journal|last=Bowen|first=I. S.|title=The Origin of the Nebulium Spectrum|journal=Nature|date=1 October 1927|volume=120|issue=3022|pages=473–473|doi=10.1038/120473a0|bibcode = 1927Natur.120..473B }}</ref>
+
+<ref name=Buckyball>{{cite journal|last=Cami|first=J.|author2=Bernard-Salas, J.|author3= Peeters, E.|author4= Malek, S. E.|title=Detection of C60 and C70 in a Young Planetary Nebula|journal=Science|date=22 July 2010|volume=329|issue=5996|pages=1180–1182|doi=10.1126/science.1192035|pmid=20651118|bibcode = 2010Sci...329.1180C }}</ref>
+
+<ref name=Bus>
+{{cite journal|last=Bus|first=S|title=Phase II of the Small Main-Belt Asteroid Spectroscopic Survey A Feature-Based Taxonomy|journal=Icarus|date=July 2002|volume=158|issue=1|pages=146–177|doi=10.1006/icar.2002.6856|bibcode = 2002Icar..158..146B }}</ref>
+
+<ref name=Chapman>
+{{cite journal|last=Chapman|first=Clark R.|author2=Morrison, David|author3= Zellner, Ben|title=Surface properties of asteroids: A synthesis of polarimetry, radiometry, and spectrophotometry|journal=Icarus|date=May 1975|volume=25|issue=1|pages=104–130|doi=10.1016/0019-1035(75)90191-8|bibcode = 1975Icar...25..104C }}</ref>
+
+<ref name=Chiu>
+{{cite journal|last=Chiu|first=Hong-Yee|title=GRAVITATIONAL COLLAPSE|journal=Physics Today|date=1964|volume=17|issue=5|pages=21|doi=10.1063/1.3051610|bibcode = 1964PhT....17e..21C }}</ref>
+
+<ref name=CIOC>
+{{cite web|last=Knight|first=Matthew|title=Why does ISON look green?|url=http://www.isoncampaign.org/why-does-ison-look-green|publisher=Comet ISON Observing Campaign|accessdate=26 November 2013}}</ref>
+
+<ref name=DustChemistry>
+{{cite book|last=Millar|first=TJ|title=Dust and chemistry in astronomy|date=1993|publisher=Inst. of Physics|location=Bristol [u.a.]|isbn=0-7503-0271-2|page=116|author2=DA Williams}}</ref>
+
+<ref name=Efremov>
+{{cite journal|last=Efremov|first=Yu. N.|title=On the spiral structure of the Milky Way Galaxy|journal=Astronomy Reports|date=22 February 2011|volume=55|issue=2|pages=108–122|doi=10.1134/S1063772911020016|arxiv = 1011.4576 |bibcode = 2011ARep...55..108E }}</ref>
+
+<ref name=Ellis>
+{{cite journal|author=Ellis, Richard S.|author2=McLure, Ross J.|author3=Dunlop, James S.|author4=Robertson, Brant E.|author5=Ono, Yoshiaki|author6=Schenker, Matthew A.|author7=Koekemoer, Anton|author8=Bowler, Rebecca A. A.|author9=Ouchi, Masami|author10=Rogers, Alexander B.|author11=Curtis-Lake, Emma|author12=Schneider, Evan|author13=Charlot, Stephane|author14=Stark, Daniel P.|author15=Furlanetto, Steven R.|author16=Cirasuolo, Michele|title=THE ABUNDANCE OF STAR-FORMING GALAXIES IN THE REDSHIFT RANGE 8.5-12: NEW RESULTS FROM THE 2012 HUBBLE ULTRA DEEP FIELD CAMPAIGN|journal=The Astrophysical Journal|date=20 January 2013|volume=763|issue=1|pages=L7|doi=10.1088/2041-8205/763/1/L7|arxiv = 1211.6804 |bibcode = 2013ApJ...763L...7E }}</ref>
+
+<ref name=EllisRef>
+{{cite web|title=Hubble census finds galaxies at redshifts 9 to 12|url=http://www.spacetelescope.org/news/heic1219/|publisher=NASA/ESA|accessdate=26 November 2013}}</ref>
+
+<ref name=Foukal>
+{{cite book|last=Foukal|first=Peter V.|title=Solar Astrophysics|date=2004|publisher=Wiley VCH|location=Weinheim|isbn=3-527-40374-4|page=69}}</ref>
+
+<ref name=Fraunhofer>
+{{cite journal|last=Fraunhofer|first=Joseph|title=Bestimmung des Brechungs- und des Farben-Zerstreuungs - Vermögens verschiedener Glasarten, in Bezug auf die Vervollkommnung achromatischer Fernröhre|journal=Annalen der Physik|date=1817|volume=56|pages=282–287|url=https://books.google.com/?id=2-AAAAAAYAAJ&pg=PA203#v=onepage&q&f=false|doi=10.1002/andp.18170560706|issue=7|bibcode = 1817AnP....56..264F }}</ref>
+
+<ref name=GrayCorbally>
+{{cite book|last=Gray|first=Richard O.|title=Stellar spectral classification|date=2009|publisher=Princeton University Press|location=Princeton, N.J.|isbn=978-0-691-12510-7|pages=507–513|author2=Christopher J. Corbally}}</ref>
+
+<ref name=GoddardISM>{{cite web|last=Hudson |first=Reggie L. |title=The Interstellar Medium |url=http://wind.gsfc.nasa.gov/mfi/lepedu/terms/ism.htm |publisher=Goddard Space Flight Center Astrochemistry Laboratory |accessdate=19 November 2013 |url-status=dead |archiveurl=https://web.archive.org/web/20130713115423/http://wind.gsfc.nasa.gov/mfi/lepedu/terms/ism.htm |archivedate=13 July 2013 }}</ref>
+
+<ref name=GoodyYung>
+{{cite book|last=Goody|first=Richard M.|author2=Yung, Yuk Ling|title=Atmospheric Radiation: Theoretical Basis|date=1989|publisher=Oxford University Press|location=New York, New York, USA|isbn=0-19-505134-3}}</ref>
+
+<ref name=Hearnshaw>
+{{cite book|last=Hearnshaw|first=J.B.|title=The analysis of starlight|date=1986|publisher=Cambridge University Press|location=Cambridge|isbn=0-521-39916-5}}</ref>
+
+<ref name=Hirsh>
+{{cite journal|last=Hirsh|first=Richard F|title=The Riddle of the Gaseous Nebulae|journal=Isis|date=June 1979|volume=70|pages=162–212|jstor=230787|bibcode=1979Isis...70..197H|doi=10.1086/352195|issue=2}}</ref>
+
+<ref name=Hubble>
+{{cite news|title=Hubble Pinpoints Furthest Protocluster of Galaxies Ever Seen|url=http://www.spacetelescope.org/news/heic1201/|accessdate=13 January 2012|newspaper=ESA/Hubble Press Release}}</ref>
+
+<ref name=HubbleLaw>
+{{cite web|last=Haynes|first=Martha|title=Hubble's Law|url=http://www.astro.cornell.edu/academics/courses/astro201/hubbles_law.htm|publisher=Cornell University|accessdate=26 November 2013}}</ref>
+
+<ref name=Huggins>
+{{cite book|last=Huggins|first=Sir William|title=The Scientific Papers of Sir William Huggins|date=1899|publisher=William Wesley and Son|location=London|pages=114–115}}</ref>
+
+<ref name=Jenkins>
+{{cite book|last=Jenkins|first=Francis A.|title=Fundamentals of Optics|date=1957|publisher=McGraw-Hill|location=New York|isbn=0-07-085346-0|pages=430–437|edition=4th|author2=Harvey E. White}}</ref>
+
+<ref name=Kirchhoff>
+{{cite journal |url=https://books.google.com/books?id=RVYEAAAAYAAJ&pg=PA1&lpg=PA1 |journal=The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science |publisher=Taylor & Francis |title=On the relation between the radiating and absorbing powers of different bodies for light and heat |author=G. Kirchhoff |volume=20 |issue=130 |date=July 1860}}
+</ref>
+
+<ref name=Kitchin>
+{{cite book|last=Kitchin|first=C.R.|title=Optical Astronomical Spectroscopy|date=1995|publisher=Institute of Physics Publishing|location=Bristol|isbn=0-7503-0346-8|pages=127, 143}}</ref>
+
+<ref name=KitchinGas>
+{{cite book|last=Kitchin|first=C.R.|title=Stars, nebulae, and the interstellar medium : observational physics and astrophysics|date=1987|publisher=A. Hilger|location=Bristol|pages=265–277|isbn=0-85274-580-X}}</ref>
+
+<ref name=Kudritzki>
+{{cite journal|last=Kudritzki|first=R.-P.|title=Dissecting galaxies with quantitative spectroscopy of the brightest stars in the Universe|journal=Astronomische Nachrichten|date=May 2010|volume=331|issue=5|pages=459–473|doi=10.1002/asna.200911342|arxiv = 1002.5039 |bibcode = 2010AN....331..459K }}</ref>
+
+<ref name=Lisse>
+{{cite journal|author=Lisse, C. M.|author2=Dennerl, K.|author3=Englhauser, J.|author4=Harden, M.|author5=Marshall, F. E.|author6=Mumma, M. J.|author7=Petre, R.|author8=Pye, J. P.|author9=Ricketts, M. J.|author10=Schmitt, J.|author11=Trumper, J.|author12=West, R. G.|title=Discovery of X-ray and Extreme Ultraviolet Emission from Comet C/Hyakutake 1996 B2|journal=Science|date=11 October 1996|volume=274|issue=5285|pages=205–209|doi=10.1126/science.274.5285.205|bibcode = 1996Sci...274..205L }}</ref>
+
+<ref name=Massoud>
+{{cite book |url=https://books.google.com/books?id=9KIp_fmC9A0C&pg=PA568 |page=568 |author=Mahmoud Massoud |title=Engineering thermofluids: thermodynamics, fluid mechanics, and heat transfer |chapter=§2.1 Blackbody radiation |isbn=3-540-22292-8 |publisher=Springer |date=2005}}
+</ref>
+
+<ref name=Matthews>
+{{cite journal|last=Matthews|first=Thomas A.|author2=Sandage, Allan R.|title=Optical Identification of 3c 48, 3c 196, and 3c 286 with Stellar Objects|journal=The Astrophysical Journal|date=July 1963|volume=138|pages=30|doi=10.1086/147615|bibcode = 1963ApJ...138...30M |url=http://www.dtic.mil/get-tr-doc/pdf?AD=AD0404060}}</ref>
+
+<ref name=Morison>
+{{cite book|last=Morison|first=Ian|title=Introduction to Astronomy and Cosmology|date=2008|publisher=Wiley-Blackwell|isbn=0-470-03333-9|page=61|url=http://astro.ustc.edu.cn/ycb/doc/Introduction_to_Astronomy_and_Cosmology.pdf|url-status=dead|archiveurl=https://web.archive.org/web/20131029202626/http://astro.ustc.edu.cn/ycb/doc/Introduction_to_Astronomy_and_Cosmology.pdf|archivedate=2013-10-29}}</ref>
+
+<ref name=Opticks>
+{{cite book|last=Newton|first=Isaac|title=Opticks: Or, A Treatise of the Reflections, Refractions, Inflections and Colours of Light|date=1705|publisher=Royal Society|location=London|pages=13–19|url=http://gallica.bnf.fr/ark:/12148/bpt6k3362k}}</ref>
+
+<ref name=PeculiarMotion>
+{{cite web|title=Peculiar Velocity|url=http://astronomy.swin.edu.au/cosmos/P/Peculiar+Velocity|publisher=Swinburne University of Technology|accessdate=26 November 2013}}</ref>
+
+<ref name=PlanckHubble>
+{{cite web|date=21 March 2013|title=Planck reveals an almost perfect universe|url=http://www.esa.int/Our_Activities/Space_Science/Planck/Planck_reveals_an_almost_perfect_Universe|publisher=[[European Space Agency|ESA]]|accessdate=26 November 2013}}</ref>
+
+<ref name=Pradhan>
+{{cite book|last=Nahar|first=Anil K. Pradhan, Sultana N.|title=Atomic astrophysics and spectroscopy|date=2010|publisher=Cambridge University Press|location=Cambridge|isbn=978-0-521-82536-8|pages=7,221}}</ref>
+
+<ref name=redshift>
+{{cite web|last=Huchra|first=John|title=Extragalactic Redshifts|url=http://ned.ipac.caltech.edu/help/zdef.html|publisher=California Institute of Technology|accessdate=26 November 2013}}</ref>
+
+<ref name=Romanowsky>
+{{cite journal
+|last=Romanowsky |first=Aaron J.
+|last2=Douglas |first2=Nigel G.
+|last3=Arnaboldi |first3=Magda
+|last4=Kuijken |first4=Konrad
+|last5=Merrifield |first5=Michael R.
+|last6=Napolitano |first6=Nicola R.
+|last7=Capaccioli |first7=Massimo
+|last8=Freeman |first8=Kenneth C.
+|title=A Dearth of Dark Matter in Ordinary Elliptical Galaxies|journal=Science|date=19 September 2003|volume=301|issue=5640|pages=1696–1698|doi=10.1126/science.1087441|pmid=12947033|arxiv = astro-ph/0308518 |bibcode = 2003Sci...301.1696R }}</ref>
+
+<ref name=Rubin>
+{{cite journal|last=Rubin|first=Vera C.|author2=Graham, J. A.|author3= Kenney, Jeffrey D. P.|title=Cospatial counterrotating stellar disks in the Virgo E7/S0 galaxy NGC 4550|journal=The Astrophysical Journal|date=July 1992|volume=394|pages=L9|doi=10.1086/186460|bibcode = 1992ApJ...394L...9R }}</ref>
+
+<ref name=Shu>
+{{cite book|last=Shu|first=Frank H.|title=The physical universe : an introduction to astronomy|date=1982|publisher=Univ. Science Books|location=Sausalito, Calif.|isbn=0-935702-05-9|pages=232–234|edition=12. [Dr.].|url-access=registration|url=https://archive.org/details/physicaluniverse00shuf}}</ref>
+
+<ref name=Tennyson>
+{{cite book|last=Tennyson|first=Jonathan|title=Astronomical spectroscopy : an introduction to the atomic and molecular physics of astronomical spectra|date=2005|publisher=Imperial College Press|location=London|isbn=1-86094-513-9|pages=46–47, 99–100|edition=[Online-Ausg.].}}</ref>
+
+<ref name=Tessenyi>
+{{cite journal|last=Tessenyi|first=M.|author2=Tinetti, G.|author3= Savini, G.|author4= Pascale, E.|title=Molecular detectability in exoplanetary emission spectra|journal=Icarus|date=November 2013|volume=226|issue=2|pages=1654–1672|doi=10.1016/j.icarus.2013.08.022|arxiv = 1308.4986 |bibcode = 2013Icar..226.1654T }}</ref>
+
+<ref name=VirgoCluster>
+{{cite journal|last=Yasuda|first=Naoki|author2=Fukugita, Masataka|author3= Okamura, Sadanori|title=Study of the Virgo Cluster Using the B‐Band Tully‐Fisher Relation|journal=The Astrophysical Journal Supplement Series|date=February 1997|volume=108|issue=2|pages=417–448|doi=10.1086/312960|bibcode = 1997ApJS..108..417Y }}</ref>
+
+<ref name=Wallace>
+{{cite book|last=Wallace|first=P.R.|title=Physics : imagination and reality|date=1991|publisher=World Scientific|location=Singapore|isbn=997150930X|pages=235–246}}</ref>
+
+<ref name=Zwicky>
+{{cite journal|last=Zwicky|first=F.|title=On the Masses of Nebulae and of Clusters of Nebulae|journal=The Astrophysical Journal|date=October 1937|volume=86|pages=217|doi=10.1086/143864|bibcode = 1937ApJ....86..217Z }}</ref>
+
+<ref name="ARXIV-20140508">{{cite arXiv|last=Sekanina |first=Zdenek |last2=Kracht |first2=Rainer |title=Disintegration of Comet C/2012 S1 (ISON) Shortly Before Perihelion: Evidence From Independent Data Sets |date=3 Jun 2015 |arxiv=1404.5968v6  |class=astro-ph.EP}}</ref>
+}}
+
+{{Commons category|Astronomical spectroscopy}}
+
+{{BranchesofSpectroscopy}}
+
+[[Category:Spectroscopy]]
+[[Category:Astronomical spectroscopy| ]]
+[[Category:Observational astronomy]]
