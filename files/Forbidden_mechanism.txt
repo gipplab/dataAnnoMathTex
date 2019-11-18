@@ -1,0 +1,74 @@
+In [[spectroscopy]], a '''forbidden mechanism''' ('''forbidden transition''' or  '''forbidden line''') is a [[spectral line]] associated with absorption or emission of light by [[atomic nuclei]], [[atom]]s, or [[molecule]]s which undergo a transition that is not allowed by a particular [[selection rule]] but is allowed if the approximation associated with that rule is not made.<ref name="BunkerJensen2006">{{cite book|author1=Philip R. Bunker|author2=Per Jensen|title=Molecular Symmetry and Spectroscopy|url=https://books.google.com/books?id=FZEI7VmjNyMC&pg=PA414|year=2006|publisher=NRC Research Press|isbn=978-0-660-19628-2|page=414}}</ref> For example, in a situation where, according to usual approximations (such as the [[electric dipole moment|electric dipole approximation]] for the interaction with light), the process cannot happen, but at a higher level of approximation (e.g. [[magnetic dipole moment|magnetic dipole]], or electric [[quadrupole]]) the process is allowed but at a much lower rate.
+
+An example is [[phosphorescence|phosphorescent]] glow in the dark materials,<ref name="LisenskyPatel1996">{{cite journal|last1=Lisensky|first1=George C.|last2=Patel|first2=Manish N.|last3=Reich|first3=Megan L.|title=Experiments with Glow-in-the-Dark Toys: Kinetics of Doped ZnS Phosphorescence|journal=Journal of Chemical Education|volume=73|issue=11|year=1996|pages=1048|issn=0021-9584|doi=10.1021/ed073p1048|bibcode=1996JChEd..73.1048L}}</ref> which absorb light and form an excited state whose decay involves a spin flip, and is therefore forbidden by electric dipole transitions. The result is emission of light slowly over minutes or hours.
+
+Although the transitions are nominally forbidden, there is a small probability of their spontaneous occurrence, should an [[atomic nucleus]], [[atom]] or [[molecule]] be raised to an excited state. More precisely, there is a certain probability that such an excited entity will make a forbidden transition to a lower energy state per unit time; by definition, this probability is much lower than that for any transition permitted or allowed by the selection rules. Therefore, if a state can de-excite via a permitted transition (or otherwise, e.g. via collisions) it will almost certainly do so before any transition occurs via a forbidden route. Nevertheless, most forbidden transitions are only relatively unlikely: states that can only decay in this way (so-called [[metastability|meta-stable]] states) usually have lifetimes on the order milliseconds to seconds, compared to less than a microsecond for decay via permitted transitions. In some radioactive decay systems, multiple levels of forbiddenness can stretch life times by many orders of magnitude for each additional unit by which the system changes beyond what is most allowed under the selection rules.{{citation needed|date=April 2015}} Such excited states can last years, or even for many billions of years (too long to have been measured).
+
+== In radioactive decay ==
+
+=== Gamma decay ===
+The most common mechanism for suppression of the rate of gamma decay of excited atomic nuclei, and thus make possible the existence of a [[metastable isomer]] for the nucleus, is lack of a decay route for the excited state that will change nuclear angular momentum (along any given direction) by the most common (allowed) amount of 1 quantum unit <math>\hbar</math> of [[spin (physics)|spin]] [[angular momentum]]. Such a change is necessary to emit a gamma-ray photon, which has a spin of 1 unit in this system. Integral changes of 2, 3, 4, and more units in angular momentum are possible (the emitted photons carry off the additional angular momentum), but changes of more than 1 unit are known as forbidden transitions. Each degree of forbiddenness (additional unit of spin change larger than 1, that the emitted gamma ray must carry) inhibits decay rate by about 5 orders of magnitude.<ref>{{cite web|url=http://www.eng.fsu.edu/~dommelen/quantum/style_a/ntgd.html|title=14.20 Gamma Decay|publisher=}}</ref> The highest known spin change of 8 units occurs in the decay of [[Isotopes of tantalum|Ta-180m]], which suppresses its decay by a factor of 10<sup>35</sup> from that associated with 1 unit, so that instead of a natural gamma decay half life of 10<sup>−12</sup> seconds, it has a half life of more than 10<sup>23</sup> seconds, or at least 3 x 10<sup>15</sup> years, and thus has yet to be observed to decay.
+
+Although gamma decays with nuclear angular momentum changes of 2, 3, 4, etc., are forbidden, they are only relatively forbidden, and do proceed, but with a slower rate than the normal allowed change of 1 unit. However, gamma emission is absolutely forbidden when the nucleus begins in a zero-spin state, as such an emission would not conserve angular momentum. These transitions cannot occur by gamma decay, but must proceed by another route, such as [[beta decay]] in some cases, or [[internal conversion]] where beta decay is not favored.
+
+=== Beta decay ===
+Beta decay is classified according to the [[Angular momentum operator|{{mvar|L}}-value]] of the emitted radiation. Unlike gamma decay, beta decay may proceed from a nucleus with a spin of zero and even parity to a nucleus also with a spin of zero and even parity (Fermi transition). This is possible because the electron and neutrino emitted may be of opposing spin (giving a radiation total angular momentum of zero), thus preserving angular momentum of the initial state even if the nucleus remains at spin-zero before and after emission. This type of emission is super-allowed meaning that it is the most rapid type of beta decay in nuclei that are susceptible to a change in proton/neutron ratios that accompanies a beta decay process.
+
+The next possible total angular momentum of the electron and neutrino emitted in beta decay is a combined spin of 1 (electron and neutrino spinning in the same direction), and is allowed. This type of emission ([[Gamow-Teller transition]]) changes nuclear spin by 1 to compensate. States involving higher angular momenta of the emitted radiation (2, 3, 4, etc.) are forbidden and are ranked in degree of forbiddenness by their increasing angular momentum.
+
+Specifically, when {{math|''L'' > 0}} the decay is referred to as forbidden. Nuclear [[selection rules]] require L-values greater than two to be accompanied by changes in both [[nuclear spin]]&nbsp;({{mvar|J}}) and [[Parity (physics)|parity]]&nbsp;(π). The selection rules for the {{mvar|L}}th forbidden transitions are
+
+:<math>\Delta J = L-1, L, L+1; \Delta \pi = (-1)^L, </math>
+
+where {{math|1=Δπ = 1}} or {{math|−1}} corresponds to no parity change or parity change, respectively. As noted, the special case of a Fermi 0<sup>+</sup> → 0<sup>+</sup> transition (which in gamma decay is absolutely forbidden) is referred to as super-allowed for beta decay, and proceeds very quickly if beta decay is possible. The following table lists the Δ{{mvar|J}} and Δπ values for the first few values of&nbsp;{{mvar|L}}:
+
+{| class="wikitable"
+|-
+! Forbiddenness !! Δ{{mvar|J}} !! Δπ
+|-
+| Superallowed || 0<sup>+</sup> → 0<sup>+</sup> || no
+|-
+| Allowed || 0, 1 || no
+|-
+| First forbidden || 0, 1, 2 || yes
+|-
+| Second forbidden || 1, 2, 3 || no
+|-
+| Third forbidden || 2, 3, 4 || yes
+|}
+
+As with gamma decay, each degree of increasing forbiddenness increases the half life of the beta decay process involved by a factor of about 4 to 5 orders of magnitude.<ref>{{Cite web|url=http://oregonstate.edu/instruct/ch374/ch418518/Chapter%208%20Beta%20Decay-rev.pdf|title=Beta decay types}}</ref>
+
+[[Double beta decay]] has been observed in the laboratory, e.g. in {{SimpleNuclide2|link=yes|Selenium|82}}.<ref>{{Cite journal | last = Elliott | first = S. R. | last2 = Hahn | first2 = A. A. | last3 = Moe | last4 = M. K. | date = 1987 | title = Direct evidence for two-neutrino double-beta decay in <sup>82</sup>Se | url = http://link.aps.org/doi/10.1103/PhysRevLett.59.2020 | journal = Physical Review Letters | volume = 59 | issue = 18 | pages = 2020–2023 | doi = 10.1103/PhysRevLett.59.2020 |bibcode = 1987PhRvL..59.2020E }}</ref> Geochemical experiments have also found this rare type of forbidden decay in several  isotopes.<ref name="Barabash2011">{{Cite journal | year = 2011 | title = Experiment double beta decay: Historical review of 75 years of research | journal = Physics of Atomic Nuclei | volume = 74 | issue = 4 | pages = 603–613 | arxiv = 1104.2714 | bibcode = 2011PAN....74..603B | doi = 10.1134/S1063778811030070 | pmc = | pmid = | last1 = Barabash | first1 = A. S. }}</ref> with mean half lives over 10<sup>18</sup>&nbsp;yr .
+
+== In solid-state physics ==
+{{Unreferenced section|date=April 2016}}
+Forbidden transitions in rare earth atoms such as [[erbium]] and [[neodymium]] make them useful as [[dopants]] for solid-state lasing media <ref>Kolesov, R., et al. "Optical detection of a single rare-earth ion in a crystal." Nature Communications 3 (2012): 1029.
+</ref>. In such media, the atoms are held in a matrix which keeps them from de-exciting by collision, and the long half life of their excited states makes them easy to optically pump to create a large population of excited atoms. Neodymium doped glass derives its unusual coloration from forbidden ''f''-''f'' transitions within the neodymium atom, and is used in extremely high power [[solid state laser]]s. Bulk [[semiconductor]] transitions can also be forbidden by symmetry, which change the functional form of the absorption spectrum, as can be shown in a [[Tauc plot]].
+
+== In astrophysics and atomic physics ==
+Forbidden emission lines have been observed in extremely low-[[density]] gases and [[plasma (physics)|plasma]]s, either in [[outer space]] or in the extreme [[upper atmosphere]] of the [[Earth]].<ref name=EDoA_161/> In space environments, densities may be only a few atoms per [[cubic centimetre]], making atomic collisions unlikely. Under such conditions, once an atom or molecule has been excited for any reason into a meta-stable state, then it is almost certain to decay by emitting a forbidden-line photon. Since meta-stable states are rather common, forbidden transitions account for a significant percentage of the photons emitted by the ultra-low density gas in space. Forbidden transitions in [[highly charged ion]]s resulting in the emission of visible, vacuum-ultraviolet, soft x-ray and x-ray photons are routinely observed in certain laboratory devices such as [[electron beam ion trap]]s 
+<ref name="Maeckel2011">{{Cite journal |  title = Laser Spectroscopy on Forbidden Transitions in Trapped Highly Charged Ar<sup>13+</sup> Ions |  journal = Physical Review Letters |  volume = 107 |  issue = 14 |  pages = 143002 |  year = 2011 |  publisher = American Physical Society |  doi = 10.1103/PhysRevLett.107.143002 |  url = http://link.aps.org/doi/10.1103/PhysRevLett.107.143002 |  authors = Mäckel, V. and Klawitter, R. and Brenner, G. and Crespo López-Urrutia, J. R. and Ullrich, J. |bibcode = 2011PhRvL.107n3002M }}</ref> and ion [[storage ring]]s, where in both cases residual gas densities are sufficiently low for forbidden line emission to occur before atoms are [[collision]]ally de-excited. Using [[laser spectroscopy]] techniques, forbidden transitions are used to stabilize [[atomic clock]]s and [[quantum clock]]s that have the highest accuracies currently available.
+
+Forbidden lines of [[nitrogen]] ([N II] at 654.8 and 658.4 [[nanometer|nm]]), [[sulfur]] ([S II] at 671.6 and 673.1&nbsp;nm), and [[oxygen]] ([O II] at 372.7&nbsp;nm, and [O III] at 495.9 and 500.7&nbsp;nm) are commonly observed in [[astrophysical plasma]]s. These lines are important to the [[energy economics|energy balance]] of [[planetary nebula]]e and [[H II region]]s.  The forbidden [[Hydrogen line|21-cm hydrogen line]] is particularly important for [[radio astronomy]] as it allows very cold neutral hydrogen gas to be seen. Also, the presence of [O I] and [S II] forbidden lines in the spectra of T-tauri stars implies low gas density. 
+
+=== Notation ===
+Forbidden line transitions are noted by placing square brackets around the atomic or molecular species in question, e.g. [O III] or [S II].<ref name=EDoA_161/>
+
+==References==
+{{Reflist|refs=
+<ref name=EDoA_161>{{Encyclopedic Dictionary of Astronomy|Заборонені лінії|161|z1}}</ref>
+}}
+
+==Further reading==
+{{refbegin}}
+*[[Donald Edward Osterbrock|Osterbrock, D.E.]], ''Astrophysics of gaseous nebulae and active galactic nuclei'', University Science Books, [[1989 in literature|1989]], {{ISBN|0-935702-22-9}}.
+* Heinrich Beyer, Heinrich F. Beyer, H.-Jürgen Kluge, H.-J. Kluge, Viatcheslav Petrovich Shevelʹko, ''X-Ray Radiation of Highly Charged Ions'', Springer Science & Business Media, 1997, {{ISBN|978-3-540-63185-9}}.
+*Gillaspy, John, editor, ''Trapping Highly Charged Ions: Fundamentals and Applications'',  Edited by John Gillaspy. Published by [[Nova Science Publishers, Inc.]], Huntington, NY, 1999, {{ISBN|1-56072-725-X}}. 
+*Wolfgang Quint, Manuel Vogel, editors, ''Fundamental Physics in Particle Traps'', Springer Tracts in Modern Physics, Volume 256 2014, {{ISBN|978-3-642-45200-0}}.
+{{refend}}
+
+[[Category:Astronomical spectroscopy]]
+[[Category:Quantum chemistry]]
+[[Category:Spectroscopy]]
+[[Category:Nuclear physics]]
