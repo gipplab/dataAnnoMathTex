@@ -1,0 +1,98 @@
+In [[astrophysics]], '''dynamical friction''' or '''Chandrasekhar friction''', sometimes called ''gravitational drag'', is loss of [[momentum]] and [[kinetic energy]] of moving bodies through [[gravitation]]al interactions with surrounding [[matter]] in space. It was first discussed in detail by [[Subrahmanyan Chandrasekhar]] in 1943.<ref>{{Citation | first = S. | last = Chandrasekhar | authorlink = Subrahmanyan Chandrasekhar | date = 1943 | bibcode = 1943ApJ....97..255C | title = Dynamical Friction. I. General Considerations: the Coefficient of Dynamical Friction | journal = Astrophysical Journal | volume = 97 | pages = 255&ndash;262 | doi = 10.1086/144517 | url = http://repository.ias.ac.in/21144/1/326.pdf }}</ref><ref>{{Citation | first = S. | last = Chandrasekhar | authorlink = Subrahmanyan Chandrasekhar | date = 1943 | bibcode = 1943ApJ....97..263C | title = Dynamical Friction. II. The Rate of Escape of Stars from Clusters and the Evidence for the Operation of Dynamical Friction | journal = Astrophysical Journal | volume = 97 | pages = 263&ndash;273 | doi = 10.1086/144518 }}</ref><ref>{{Citation | first = S. | last = Chandrasekhar | authorlink = Subrahmanyan Chandrasekhar | date = 1943 | bibcode = 1943ApJ....98...54C | title = Dynamical Friction. III. a More Exact Theory of the Rate of Escape of Stars from Clusters | journal = Astrophysical Journal | volume = 98 | pages = 54&ndash;60 | doi = 10.1086/144544 | url = http://repository.ias.ac.in/70616/1/70616.pdf }}</ref>
+{{Astrodynamics}}
+==Intuitive account==
+
+An intuition for the effect can be obtained by thinking of a massive object moving through a cloud of smaller lighter bodies. The effect of gravity causes the light bodies to accelerate and gain momentum and kinetic energy (see [[slingshot effect]]). By conservation of energy and momentum, we may conclude that the heavier body will be slowed by an amount to compensate. Since there is a loss of momentum and kinetic energy for the body under consideration, the effect is called ''dynamical friction''.
+
+Another equivalent way of thinking about this process is that as a large object moves through a cloud of smaller objects, the gravitational effect of the larger object pulls the smaller objects towards it. There then exists a concentration of smaller objects behind the larger body (a ''gravitational wake''), as it has already moved past its previous position. This concentration of small objects behind the larger body exerts a collective gravitational force on the large object, slowing it down.
+
+Of course, the mechanism works the same for all masses of interacting bodies and for any relative velocities between them. However, while the most probable outcome for an object moving through a cloud is a loss of momentum and energy, as described intuitively above, in the general case it might be either loss or gain. When the body under consideration is gaining momentum and energy the same physical mechanism is called [[slingshot effect]], or ''gravity assist''. This technique is sometimes used by interplanetary probes to obtain a boost in velocity by passing close by a planet.
+
+==Chandrasekhar dynamical friction formula==
+The full Chandrasekhar dynamical friction formula for the change in velocity of the object involves integrating over the [[phase space]] density of the field of matter and is far from transparent. The Chandrasekhar dynamical friction formula reads as
+
+:<math>\frac{d\mathbf{v}_M}{dt} = -16 \pi^2 \ln \Lambda G^2 m (M+m) \frac{1}{v_M^3}\int_0^{v_M}v^2 f(v)  d v \mathbf{v}_M</math>
+
+where
+* <math>G</math> is the [[gravitational constant]]
+* <math>M</math> is the mass under consideration
+*<math>m</math> is the mass of each star in the star distribution
+* <math> {v_M} </math> is the velocity of the object under consideration, in a frame where the center of gravity of the matter field is initially at rest
+* <math> \mbox{ln}(\Lambda) </math> is the "[[Coulomb collision|Coulomb logarithm]]"
+*<math>f(v)</math> is the number density distribution of the stars
+
+The result of the equation is the gravitational acceleration produced on the object under consideration by the stars or celestial bodies, as acceleration is the ratio of velocity and time.
+
+===Maxwell's distribution===
+
+A commonly used special case is where there is a uniform density in the field of matter, with matter particles significantly lighter than the major particle under consideration i.e., <math>M\gg m</math> and with a [[Maxwell–Boltzmann distribution|Maxwellian distribution]] for the velocity of matter particles i.e.,
+
+:<math>f(v) = \frac{N}{(2\pi\sigma^2)^{3/2}}e^{-\frac{v^2}{2\sigma^2}}</math>
+
+where <math>N</math> is the total number of stars and <math>\sigma</math> is the dispersion. In this case, the dynamical friction formula is as follows:<ref>{{Citation
+  | last = Merritt
+  | first = David
+  | author-link = David Merritt
+  | title = Dynamics and Evolution of Galactic Nuclei
+  | publisher = [[Princeton University Press]]
+  | date = 2013
+  | isbn = 9781400846122
+  | url = http://openlibrary.org/works/OL16802359W/Dynamics_and_Evolution_of_Galactic_Nuclei 
+ }}</ref>
+
+<math> \frac{d\mathbf{v}_M}{dt} = -\frac{4\pi \ln (\Lambda) G^2  \rho M}{v_M^3}\left[\mathrm{erf}(X)-\frac{2X}{\sqrt{\pi}}e^{-X^2}\right]\mathbf{v}_M</math>
+
+where
+* <math> X = v_M/(\sqrt{2} \sigma) </math> is the ratio of the velocity of the object under consideration to the modal velocity of the Maxwellian distribution. 
+* <math> \mathrm{erf}(X) </math> is the [[error function]].
+* <math> \rho= mN </math> is the density of the matter field.
+
+In general, a simplified equation for the force from dynamical friction has the form
+
+<math>F_{dyn} \approx C \frac{G^2 M^2 \rho}{v^2_M}</math>
+
+where the [[dimensionless]] numerical factor <math> C </math> depends on how <math>v_M</math> compares to the velocity dispersion of the surrounding matter.<ref>{{Citation
+  | last = Carroll | first = Bradley W. 
+  | last2 = Ostlie | first2 = Dale A. 
+  | title = An Introduction to Modern Astrophysics
+  | publisher = [[Weber State University]]
+  | date = 1996
+  | isbn = 0-201-54730-9 }}</ref>
+But note that this simplified expression diverges when <math> v_M \to 0 </math>; caution should therefore be exercised when using it.
+
+==Density of the surrounding medium==
+The greater the density of the surrounding medium, the stronger the force from dynamical friction.  Similarly, the force is proportional to the square of the mass of the object.  One of these terms is from the gravitational force between the object and the wake.  The second term is because the more massive the object, the more matter will be pulled into the wake.  The force is also proportional to the inverse square of the velocity.  This means the fractional rate of energy loss drops rapidly at high velocities. Dynamical friction is, therefore, unimportant for objects that move relativistically, such as photons.  This can be rationalized by realizing that the faster the object moves though the media, the less time there is for a wake to build up behind it.
+
+==Applications==
+Dynamical friction is particularly important in the formation of planetary systems and interactions between galaxies.
+
+===Protoplanets===
+During the formation of planetary systems, dynamical friction between the [[protoplanet]] and the [[protoplanetary disk]] causes energy to be transferred from the protoplanet to the disk.  This results in the inward migration of the protoplanet.
+
+===Galaxies===
+When galaxies interact through collisions, dynamical friction between stars causes matter to sink toward the center of the galaxy and for the orbits of stars to be randomized.  This process is called violent relaxation and can change two [[spiral galaxies]] into one larger [[elliptical galaxy]].
+
+===Galaxy Clusters===
+The effect of dynamical friction explains why the brightest (more massive) galaxy tends to be found near the center of a galaxy cluster. The effect of the two body collisions slows down the galaxy, and the drag effect is greater the larger the galaxy mass. When the galaxy loses kinetic energy, it moves towards the center of the cluster.
+However the observed velocity dispersion of galaxies within a galaxy cluster does not depend on the mass of the galaxies. The explanation is that a galaxy cluster relaxes by violent relaxation, which sets the velocity dispersion to a value independent of the galaxy's mass.
+
+===Photons===
+
+[[Fritz Zwicky]] proposed in 1929 that a gravitational drag effect on photons could be used to explain [[cosmological redshift]] as a form of [[tired light]].<ref name=Zwicky1929>{{Citation | title = ON THE REDSHIFT OF SPECTRAL LINES THROUGH INTERSTELLAR SPACE
+| first = F. | last = Zwicky | authorlink = Fritz Zwicky
+| journal = Proceedings of the National Academy of Sciences
+| volume = 15
+|date=October 1929 | issue = 10 
+| pages = 773&ndash;779
+| bibcode = 1929PNAS...15..773Z | doi = 10.1073/pnas.15.10.773 | pmc = 522555 | pmid=16577237
+}}.</ref> However, his analysis had a mathematical error, and his approximation to the magnitude of the effect should actually have been zero, as pointed out in the same year by [[Arthur Stanley Eddington]]. Zwicky promptly acknowledged the correction,<ref name=Zwicky1929B>{{Citation | title = On the Possibilities of a Gravitational Drag of Light | bibcode = 1929PhRv...34.1623Z | journal = Physical Review | volume = 34 | issue = 12 | pages = 1623&ndash;1624| date = 1929 | first = F. | last = Zwicky | authorlink = Fritz Zwicky | doi = 10.1103/PhysRev.34.1623.2 | postscript = . | url = https://authors.library.caltech.edu/5559/1/ZWIpr29.pdf }}</ref> although he continued to hope that a full treatment would be able to show the effect.
+
+It is now known that the effect of dynamical friction on photons or other particles moving at relativistic speeds is negligible, since the magnitude of the drag is inversely proportional to the square of velocity. Cosmological redshift is conventionally understood to be a consequence of the [[metric expansion of space]].
+
+==Notes and references==
+{{Reflist}}
+
+{{DEFAULTSORT:Dynamical Friction}}
+[[Category:Astrophysics]]
+[[Category:Effects of gravitation]]
+[[Category:Stellar dynamics]]

@@ -1,0 +1,96 @@
+[[Image:msigma.jpg|thumb|right|250px|Black-hole mass plotted against velocity dispersion of stars in a galaxy bulge. Points are labelled by galaxy name; all points in this diagram are for galaxies that have a clear, [[Kepler's laws of planetary motion|Keplerian]] rise in velocity near the center, indicative of the presence of a central mass. The ''M–σ'' relation is shown in blue.]]
+
+The '''M–sigma''' (or '''''M''–''σ''''') '''relation''' is an empirical correlation between the stellar [[velocity dispersion]] ''σ'' of a [[galaxy]] [[bulge (astronomy)|bulge]] and the mass M of the [[supermassive black hole]] at its center.
+
+The M–σ relation was first presented in 1999 during a conference at the [[Institut d'astrophysique de Paris]] in [[France]]. The proposed form of the relation, which was called the "Faber–Jackson law for black holes", was<ref>{{cite book
+ | first = David | last = Merritt | authorlink = David Merritt
+ | editor1-first = F. | editor1-last = Combes
+ | editor2-first =  G. A. | editor2-last = Mamon
+ | editor3-first = V. | editor3-last = Charmandaris  
+ | title = Black holes and galaxy evolution
+ | journal = Dynamics of Galaxies: From the Early Universe to the Present | volume = 197 | booktitle = Dynamics of Galaxies: from the Early Universe to the Present
+ | publisher = [[Astronomical Society of the Pacific]]
+ | pages = 221–232 | date = 1999 | isbn = 978-1-58381-024-8
+ | bibcode = 2000ASPC..197..221M| arxiv = astro-ph/9910546}}</ref>
+:<math>
+\frac{M}{10^8M_\odot} \approx 3.1\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^4.
+</math>
+where <math>M_\odot</math> is the [[solar mass]]. Publication of the relation in a refereed journal, by two groups, took place the following [[2000 in science|year]].<ref>Ferrarese, F. and [[David Merritt|Merritt, D.]] (2000), [http://adsabs.harvard.edu/abs/2000ApJ...539L...9F A Fundamental Relation between Supermassive Black Holes and Their Host Galaxies], ''The Astrophysical Journal'', '''539''', L9-L12</ref>
+<ref>Gebhardt, K. et al. (2000), [http://adsabs.harvard.edu/abs/2000ApJ...539L..13G A Relationship between Nuclear Black Hole Mass and Galaxy Velocity Dispersion], ''The Astrophysical Journal'', '''539''', L13–L16</ref> 
+One of many recent studies,<ref>Kormendy, John; Ho, Luis C. (2013) [http://adsabs.harvard.edu/abs/2013ARA%26A..51..511K Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies]</ref><ref>Davis, B.L., et al. (2017), [http://adsabs.harvard.edu/abs/2017MNRAS.471.2187D Updating the (supermassive black hole mass)-(spiral arm pitch angle) relation: a strong correlation for galaxies with pseudobulges]</ref> based on the growing sample of published black hole masses in nearby galaxies, gives<ref name=mcc2011>McConnell, N. J. et al. (2011), [http://adsabs.harvard.edu/abs/2011Natur.480..215M  Two ten-billion-solar-mass black holes at the centres of giant elliptical galaxies], ''Nature'', '''480''', 215–218</ref>
+:<math>
+\frac{M}{10^8M_\odot} \approx 1.9\left(\frac{\sigma}{200~{\rm km}~{\rm s}^{-1}}\right)^{5.1}.
+</math>
+
+Earlier work demonstrated a relationship between galaxy luminosity and black hole mass,<ref name="magorrian1998">
+{{cite journal
+   | last1 = [[John Magorrian|Magorrian]] | first1 = J.
+   | last2 = Tremaine | first2 = S.
+   | last3 = Richstone | first3 = D.
+   | last4 = Bender | first4 = R.
+   | last5 = Bower | first5 = G.
+   | last6 = Dressler | first6 = A.
+   | last7 = Faber | first7 = S. M.
+   | last8 = Gebhardt | first8 = K.
+   | last9 = Green | first9 = R.
+   | last10 = Grillmair | first10 = C.
+   | last11 = Kormendy | first11 = J.
+   | last12 = Lauer | first12 = T.
+   | title = The Demography of Massive Dark Objects in Galaxy Centers
+   | year = 1998
+   | journal = [[The Astronomical Journal]]
+   | volume = 115
+   | issue = 6
+   | pages = 2285–2305
+   | doi = 10.1086/300353
+   | arxiv = astro-ph/9708072
+   | url = http://esoads.eso.org/abs/1998AJ....115.2285M
+   | bibcode = 1998AJ....115.2285M
+}}
+</ref> which nowadays has a comparable level of scatter.<ref>Savorgnan, Giulia A. D.; Graham, Alister W. (2015), [http://adsabs.harvard.edu/abs/2015MNRAS.446.2330S Overmassive black holes in the MBH-σ diagram do not belong to over (dry) merged galaxies]</ref><ref>Giulia A.D. Savorgnan, et al. (2016), [http://adsabs.harvard.edu/abs/2016ApJ...817...21S Supermassive Black Holes and Their Host Spheroids. II. The Red and Blue Sequence in the MBH-M*,sph Diagram]</ref>  The ''M''–''σ'' relation is generally interpreted as implying some source of mechanical [[feedback]] between the growth of supermassive black holes and the growth of galaxy bulges, although the source of this feedback is still uncertain.
+
+Discovery of the M–σ relation was taken by many astronomers to imply that supermassive black holes are fundamental components of galaxies. Prior to about 2000, the main concern had been the simple detection of black holes, while afterward the interest changed to understanding the role of supermassive black holes as a critical component of galaxies. This led to the main uses of the relation to estimate black hole masses in galaxies that are too distant for direct mass measurements to be made, and to assay the overall black hole content of the Universe.
+
+==Origin==
+The tightness of the M–σ relation suggests that some kind of feedback acts to maintain the connection between black hole mass and stellar velocity dispersion, in spite of processes like [[galaxy merger]]s and [[accretion (astronomy)|gas accretion]] that might be expected to increase the scatter over time.
+One such mechanism was suggested by [[Joseph Silk]] and [[Martin Rees]] in 1998.<ref>Silk, J. and Rees, M. (1998), [http://adsabs.harvard.edu/abs/1998A%26A...331L...1S  Quasars and galaxy formation], ''Astronomy and Astrophysics'', '''331''', L1–L4</ref> These authors proposed a model in which supermassive black holes first form via collapse of giant 
+gas clouds before most of the bulge mass has turned into stars. The black holes created in this way would then accrete and radiate, driving a wind which acts back on the accretion flow.
+The flow would stall if the rate of deposition of mechanical energy into the infalling gas was large enough to unbind the protogalaxy in one [[crossing time]]. The Silk and Rees model predicts 
+a slope for the M–σ relation of α=5, which is approximately correct. However, the predicted normalization of the relation is too small by about a factor of one thousand. The reason is that there is far more energy released in the formation of a supermassive black hole than is needed to completely unbind the stellar bulge.
+
+A more successful feedback model was first presented by [[Andrew King (astronomer)|Andrew King]] at the [[University of Leicester]] in 2003.<ref name=AKing>{{cite journal|last=King|first=Andrew|title=Black Holes, Galaxy Formation, and the MBH-σ Relation|journal=The Astrophysical Journal|date=2003|volume=596|issue=1|pages=L27–L29|doi=10.1086/379143|arxiv = astro-ph/0308342 |bibcode = 2003ApJ...596L..27K }}</ref> In King's model, feedback occurs through momentum transfer, rather than energy transfer as in the case of Silk & Rees's model.  A "momentum-driven flow" is one in which the gas cooling time is so short that essentially all the energy in the flow is in the form of bulk motion. In such a flow, most of the energy released by the black hole is lost to radiation, and only a few percent is left to affect the gas mechanically. King's model predicts a slope of α=4 for the M–σ relation, and the normalization is exactly correct; it is roughly a factor c/σ ≈ 10<sup>3</sup> times larger than in Silk & Rees's relation.
+
+==Importance==
+Before the M–σ relation was discovered in 2000, a large discrepancy existed between black hole masses derived using three techniques.<ref name=MF01>Merritt, D. and Ferrarese, L. (2001), Relationship of Black Holes to Bulges [http://nedwww.ipac.caltech.edu/level5/March01/Merritt3/frames.html]</ref>
+''Direct,'' or dynamical, measurements based on the motion of stars or gas near the black hole seemed to give masses that averaged ~1% of the bulge mass (the "Magorrian relation"). Two other techniques—[[reverberation mapping]] in [[active galactic nuclei]], and the [[Soltan argument]], which computes the cosmological density in black holes needed to explain the [[quasar]] light—both gave a mean value of M/M<sub>bulge</sub> that was a factor ~10 smaller than implied by the Magorrian relation. The M–σ relation resolved this discrepancy by showing that most of the direct black hole masses published prior to 2000 were significantly in error, presumably because the data on which they were based were of insufficient quality to resolve the black hole's dynamical [[sphere of influence (black hole)|sphere of influence]].<ref name=DEGN>{{cite book|last=Merritt|first=David|title=Dynamics and Evolution of Galactic Nuclei|date=2013|publisher=Princeton University Press|location=Princeton, NJ|isbn=9781400846122|url=http://openlibrary.org/works/OL16802359W/Dynamics_and_Evolution_of_Galactic_Nuclei}}</ref> The mean ratio of black hole mass to bulge mass in big early-type galaxies is now believed to be approximately 1:200, and increasingly smaller as one moves to less massive galaxies.
+
+A common use of the ''M''–''σ'' relation is to estimate black hole masses in distant galaxies using the easily  measured quantity σ. Black hole masses in thousands of galaxies have been estimated in this way. The M–σ relation is also used to calibrate so-called secondary and tertiary mass estimators, which relate the black hole mass to the strength of emission lines from hot gas in the nucleus or to the velocity dispersion of gas in the bulge.<ref>Peterson, B. (2008), [http://adsabs.harvard.edu/abs/2008NewAR..52..240P  The central black hole and relationships with the host galaxy], ''New Astronomy Reviews'', '''52''', 240–252</ref>
+
+The tightness of the ''M''–''σ'' relation has led to suggestions that ''every'' bulge must contain a supermassive black hole. However, the number of galaxies in which the effect of the black hole's gravity on the motion of stars or gas is unambiguously seen is still quite small.<ref>{{Citation
+  | last = [[Daniel Batcheldor|Batcheldor, D.]]
+  | title = The ''M''–''σ'' Relation Derived from Sphere of Influence Arguments
+  | journal = The Astrophysical Journal
+  | volume = 711
+  | issue = 2
+  | pages = L108–L112
+  | date = 2010
+  |bibcode = 2010ApJ...711L.108B |doi = 10.1088/2041-8205/711/2/L108 |arxiv = 1002.1705 }}
+</ref>  It is unclear whether the lack of black hole detections in many galaxies implies that these galaxies do not contain black holes; or that their masses are significantly below the value implied by the M–σ relation; or that the data are simply too poor to reveal the presence of the black hole.<ref>Valluri, M. et al. (2004), [http://adsabs.harvard.edu/abs/2004ApJ...602...66V  Difficulties with Recovering the Masses of Supermassive Black Holes from Stellar Kinematical Data], ''The Astrophysical Journal'', '''602''', 66–92</ref>
+
+The smallest supermassive black hole with a well-determined mass has {{Solar mass|M<sub>bh</sub>≈10<sup>6</sup>}}.<ref name=DEGN/> The existence of black holes in the mass range {{Solar mass|10<sup>2</sup>&nbsp;−&nbsp;10<sup>5</sup>}} ("[[intermediate-mass black hole]]s") is predicted by the M–σ relation in low-mass galaxies, and the existence of intermediate-mass black holes has been reasonably well established in a number of galaxies that contain [[active galactic nuclei]], although the values of M<sub>bh</sub> in these galaxies are very uncertain.<ref>Ho, L. (2008), [http://adsabs.harvard.edu/abs/2008arXiv0803.2268H  Nuclear activity in nearby galaxies], ''Annual Review of Astronomy & Astrophysics'', '''46''', 475–539</ref>
+No clear evidence has been found for ultra-massive black holes with masses above {{Solar mass|10<sup>10</sup>}}, although this may be an expected consequence of the observed upper limit to σ.<ref>[[Daniel Batcheldor|Batcheldor, D.]] et al. (2007), [http://adsabs.harvard.edu/abs/2007ApJ...663L..85B  How Special Are Brightest Cluster Galaxies?], ''The Astrophysical Journal'', '''663''', L85–L88</ref>
+
+==See also==
+*[[Faber–Jackson relation]]
+*[[Galaxy formation and evolution]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+{{Black holes}}
+
+{{DEFAULTSORT:M-sigma relation}}
+[[Category:Astrophysics]]
+[[Category:Galaxies]]
+[[Category:Supermassive black holes]]
+[[Category:Unsolved problems in astronomy]]
