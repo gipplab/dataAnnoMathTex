@@ -1,1 +1,0 @@
-{"global": {"c": {"name": "speed of light", "mathEnv": "\\begin{equation}\\frac{\\hbar c}{Gm_p^2} \\sim 2 \\times 10^{38}\\end{equation}", "uniqueIDs": ["51---5", "52---8"], "qid": "Q2111", "time": 1395, "manualSelectionTime": -1, "sourcesWithNums": {"Wikipedia": 1, "Wikidata": 2}, "type": "Identifier"}}, "local": {}}
