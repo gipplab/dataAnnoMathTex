@@ -1,0 +1,19 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+C,moment of inertia (Q165618),-,-,-,-,-,-,-,global,6183,-1
+lambda,d'Alembert parameter (N/A),-,-,-,-,-,-,-,global,1912,-1
+M,mass (Q11423),1,1,-,-,-,-,-,global,1950,-1
+R,radius (Q173817),1,3,1,-,-,-,-,global,2458,-1
+e,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+eta,parameter (Q1413083),3,-,-,-,-,1,-,global,2231,-1
+\frac{C}{MR_{e}^{2}} = \frac{2}{3\lambda} = \frac{2}{3} \left( 1 - \frac{2}{5} \sqrt{1 + \eta} \right),Darwin-Radau equation (N/A),-,-,-,-,-,-,-,global,10290,4894
+\eta = \frac{5q}{2\epsilon} - 2,Radau parameter (N/A),-,-,-,-,-,-,1,global,2594,-1
+epsilon,geometrical flattening (N/A),-,-,-,-,-,-,-,global,1639,-1
+q,geodynamical constant (N/A),-,-,-,-,-,-,-,global,1315,-1
+omega,frequency (Q11652),3,2,-,-,-,-,-,global,2178,-1
+G,gravitational constant (Q18373),-,7,-,-,-,-,-,global,5185,-1
+p,N/A (N/A),-,-,-,-,-,-,-,global,577,-1
+q \approx 3.461391 \times 10^{-3},geodynamical constant (N/A),-,-,-,-,-,-,-,global,1735,10332
+\epsilon \approx 1/298.257,geometrical flattening (N/A),-,-,-,-,-,-,-,global,1775,3481
+q = \frac{\omega^{2} R_{e}^{3}}{GM},geodynamical constant (N/A),-,-,-,-,-,-,1,global,1349,-1
+\epsilon = \frac{R_{e} - R_{p}}{R_{e}},flattening (Q212750),-,-,-,-,-,1,1,global,12992,-1
+\frac{C}{MR_{e}^{2}} \approx 0.3313,moment of inertia (Q165618),-,-,-,-,-,-,-,global,6062,1466

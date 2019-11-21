@@ -1,0 +1,7 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+J,number (N/A),-,-,-,-,-,-,-,global,2698,14117
+L,number (N/A),-,-,-,-,-,-,-,global,6484,2594
+pi,constant (Q188248),-,-,-,-,-,-,-,global,2354,-1
+Delta,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+"\Delta J = L-1, L, L+1; \Delta \pi = (-1)^L, ",selection rules for forbidden transitions (N/A),-,-,-,-,-,-,1,global,2025,-1
+\hbar,Planck constant (N/A),-,-,-,-,-,-,-,global,1663,-1

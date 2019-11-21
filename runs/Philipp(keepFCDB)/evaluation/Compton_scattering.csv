@@ -1,0 +1,53 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+t,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+\mathbf{p}_{e'} = \mathbf{p}_\gamma - \mathbf{p}_{\gamma'}.,momentum of electron (N/A),-,-,-,-,-,-,-,local,16825,16825
+lambda,wavelength (Q41364),-,5,-,-,-,7,-,global,5682,-1
+\lambda,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+theta,angle (Q11352),1,1,-,-,-,6,-,global,1933,-1
+h,Planck constant (N/A),-,-,-,-,-,-,-,global,5626,3540
+m,mass (Q11423),1,3,2,-,-,-,-,global,1335,-1
+e,electron (N/A),-,9,-,-,-,5,-,global,766,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,2761,-1
+E,energy (Q11379),1,4,2,-,-,1,-,global,1712,-1
+gamma,constant (Q188248),1,-,-,-,-,-,-,global,3172,-1
+f,frequency (Q11652),-,-,1,-,-,-,-,global,3002,-1
+h f,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+mc^2 = hf,Photon energy (N/A),-,-,-,-,-,-,-,global,5798,11455
+p,momentum (Q41273),5,-,-,-,-,8,-,global,4390,-1
+p=hf/c,Photon momentum (N/A),-,-,-,-,-,-,-,global,8508,1052
+E_\gamma + E_e = E_{\gamma'} + E_{e'}.\!,Conservation of energy (N/A),-,-,-,-,-,-,-,global,12073,2871
+"\mathbf{p}_\gamma = \mathbf{p}_{\gamma'} + \mathbf{p}_{e'},",Momentum conservation (N/A),-,-,-,-,-,-,-,global,13988,5864
+{p_e},N/A (N/A),-,-,-,-,-,-,-,global,False,False
+E_{\gamma} = hf\!,Photon energy (N/A),-,-,-,-,-,-,-,global,6271,5884
+E_{\gamma'} = hf'\!,Photon energy (N/A),-,-,-,-,-,-,-,global,7611,7001
+E_e = m_ec^2.\!,mass–energy equivalence (Q35875),-,-,-,1,-,-,1,global,1622,-1
+E_{e'} = \sqrt{(p_{e'}c)^2 + (m_ec^2)^2} ~.,energy-momentum relation (N/A),-,-,-,-,-,-,2,global,2193,-1
+hf + m_e c^2 = hf' + \sqrt{(p_{e'}c)^2 + (m_e c^2)^2}.,conservation of energy (Q11382),-,-,-,-,-,-,2,global,1491,-1
+"p_{e'}^{\, 2}c^2 = (hf - hf' + m_{e}c^2)^2-m_{e}^2c^4. \qquad\qquad (1) \!",conservation of energy (Q11382),-,-,-,-,-,-,1,global,1296,-1
+\frac{1}{c}\sqrt{(hf - hf' + m_{e}c^2)^2-m_{e}^2c^4} gt; \frac{hf - hf'}{c}~. ,conservation of momentum (N/A),-,-,-,-,-,-,-,global,7103,3666
+g,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+\mathbf{p}_{e'} = \mathbf{p}_\gamma - \mathbf{p}_{\gamma'}.,momentum of electron (N/A),-,-,-,-,-,-,-,global,12563,2209
+"p_{e'}^{\, 2} = \mathbf{p}_{e'}\cdot\mathbf{p}_{e'} = (\mathbf{p}_\gamma - \mathbf{p}_{\gamma'}) \cdot (\mathbf{p}_\gamma - \mathbf{p}_{\gamma'}) \\ = p_{\gamma}^{\, 2} + p_{\gamma'}^{\, 2} - 2 p_{\gamma}\, p_{\gamma'} \cos\theta. ",conservation of momentum (N/A),-,-,-,-,-,-,-,global,7196,3324
+p_{\gamma}c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+c^2,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+"p_{e'}^{\, 2}c^2 = p_{\gamma}^{\, 2}c^2 + p_{\gamma'}^{\, 2}c^2 - 2c^2 p_{\gamma}\, p_{\gamma'} \cos\theta.",photon momentum (N/A),-,-,-,-,-,-,-,global,5812,1522
+h f/c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+"p_{e'}^{\, 2}c^2 = (h f)^2 + (h f')^2 - 2(hf)(h f')\cos{\theta}~. \qquad\qquad (2) ",conservation of energy (Q11382),-,-,-,-,-,-,1,global,2365,-1
+" (hf - hf' + m_e c^2)^2 - m_e^{\, 2}c^4 = \left(h f\right)^2 + \left(h f'\right)^2 - 2h^2 ff'\cos{\theta},",conservation of energy (N/A),-,-,-,-,-,-,-,global,5226,2006
+ 2 h f m_e c^2-2 h f' m_e c^2   = 2 h^2 f f' \left( 1 - \cos \theta \right).  ,Conservation of energy (N/A),-,-,-,-,-,-,-,global,6275,1577
+2 h f f' m_e c,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+ \frac{c}{f'} - \frac{c}{f} = \frac{h}{m_ec}\left(1-\cos \theta \right).   ,Compton scattering (N/A),-,-,-,-,-,-,-,global,6095,1437
+\lambda'-\lambda = \frac{h}{m_ec}(1-\cos{\theta})~. \qquad\qquad (3),Compton scattering (N/A),-,-,-,-,-,-,-,global,7499,1792
+varphi,angle (N/A),-,-,-,-,-,-,-,global,2631,5402
+ \cot \varphi = \left ( 1+\frac{hf}{m_e c^2} \right ) \tan (\theta/2)~.\qquad\qquad (4),Magnetic compton profile (N/A),-,-,-,-,-,-,-,global,6259,2041
+J,electron spin density (N/A),-,-,-,-,-,-,-,global,5493,5246
+J_{\text{mag}}(\mathbf{p}_z),N/A (N/A),-,-,-,-,-,-,-,global,False,False
+z,coordinate (Q12753000),1,-,-,-,-,-,-,global,2550,-1
+mu,number of spin-unpaired electrons (N/A),-,-,-,-,-,-,-,global,2165,-1
+n, electron momentum distribution (N/A),-,-,-,-,-,-,-,global,2171,1259
+d,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+x,coordinate (Q12753000),5,-,-,-,-,-,-,global,6353,-1
+y,coordinate (Q12753000),1,-,-,-,-,-,-,global,2853,-1
+J_{\text{mag}}(\mathbf{p}_z) = \frac{1}{\mu}\iint_{-\infty}^\infty (n_{\uparrow} (\mathbf{p}) - n_{\downarrow}(\mathbf{p})) d\mathbf{p}_x d\mathbf{p}_y,electron spin density (N/A),-,-,-,-,-,-,-,global,13415,1720
+\mu,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+n_\uparrow(\mathbf{p}),N/A (N/A),-,-,-,-,-,-,-,global,False,False
