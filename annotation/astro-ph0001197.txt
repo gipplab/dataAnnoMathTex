@@ -1,1 +1,0 @@
-{"global": {"e": {"name": "values", "mathEnv": "e \\sim 0.016", "uniqueIDs": ["111---10", "115---0", "115---2", "115---4", "208---6"], "qid": "N/A", "time": 2591, "manualSelectionTime": -1, "sourcesWithNums": {"WordWindow": 1}, "type": "Identifier"}}, "local": {}}
