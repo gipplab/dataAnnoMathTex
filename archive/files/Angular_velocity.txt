@@ -1,3 +1,4 @@
+{{short description|Physical quantity}}
 {{See also|Angular frequency}}
 {{Technical|date=July 2017}}
 {{Infobox physical quantity
@@ -15,7 +16,7 @@
 }}
 {{Classical mechanics|rotational}}
 
-In [[physics]], '''angular velocity''' refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a rigid body's centre of rotation revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] ('''ω''', sometimes '''Ω'''). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
+In [[physics]], '''angular velocity''' refers to how fast an object rotates or revolves relative to another point, i.e. how fast the angular position or orientation of an object changes with time. There are two types of angular velocity: orbital angular velocity and spin angular velocity. Spin angular velocity refers to how fast a rigid body rotates with respect to its centre of rotation. Orbital angular velocity refers to how fast a point object revolves about a fixed origin, i.e. the time rate of change of its angular position relative to the origin. In general, angular velocity is measured in angle per unit time, e.g. [[radians per second]]. The  [[SI]] unit of angular velocity is expressed as radians/sec with the radian having a dimensionless value of unity, thus the SI units of angular velocity are listed as ''1/sec''. Angular velocity is usually represented by the symbol [[omega]] ('''ω''', sometimes '''Ω'''). By convention, positive angular velocity indicates counter-clockwise rotation, while negative is clockwise.
 
 For example, a [[Geosynchronous orbit|geostationary]] satellite completes one orbit per day above the equator, or 360 degrees per 24 hours, and has angular velocity ''&omega;'' = 360 / 24 = 15 degrees per hour, or 2&pi; / 24 &asymp; 0.26 radians per hour. If angle is measured in [[radians]], the linear velocity is the radius times the angular velocity, <math>v = r\omega</math>. With orbital radius 42,000 km from the earth's center, the satellite's speed through space is thus ''v'' = 42,000 &times; 0.26 &asymp; 11,000 km/hr. The angular velocity is positive since the satellite travels eastward with the Earth's rotation (counter-clockwise from above the north pole.)
 
@@ -77,13 +78,13 @@ If a point rotates with orbital angular velocity <math>\omega_1</math> about its
 
 The only non-obvious property of the above addition is [[Commutative property|commutativity]]. This can be proven from the fact that the velocity tensor ''W'' (see below) is skew-symmetric, so that <math>R=e^{Wt}</math> is a rotation matrix which can be expanded as <math>R = I + W\cdot dt + \tfrac 12 (W \cdot dt)^2 + \ldots</math>. The composition of rotations is not commutative, but <math>(I+W_1\cdot dt)(I+W_2 \cdot dt)=(I+W_2 \cdot dt)(I+W_1\cdot dt)</math> is commutative to first order, and therefore <math>\omega_1 + \omega_2 = \omega_2 + \omega_1</math>.
 
-Notice that this also defines the substraction as the addition of a negative vector.
+Notice that this also defines the subtraction as the addition of a negative vector.
 
 == Spin angular velocity vector for a frame ==
 
 Given a rotating frame of three unit coordinate vectors, all the three must have the same angular speed at each instant. In such a frame, each vector may be considered as a moving particle with constant scalar radius.
 
-The rotating frame appears in the context of [[rigid body|rigid bodies]], and special tools have been developed for it: the spin angular velocity may be described as a vector or equivalently as a [[Tensor|tensor]]. 
+The rotating frame appears in the context of [[rigid body|rigid bodies]], and special tools have been developed for it: the spin angular velocity may be described as a vector or equivalently as a [[tensor]]. 
 
 Consistent with the general definition, the spin angular velocity of a frame is defined as the orbital angular velocity of any of the three vectors (same for all) with respect to its own centre of rotation. The addition of angular velocity vectors for frames is also defined by the usual vector addition (composition of linear movements), and can be useful to decompose the rotation as in a [[gimbal]]. Components of the vector can be calculated as derivatives of the parameters defining the moving frames (Euler angles or rotation matrices). As in the general case, addition is commutative: <math>\omega_1 + \omega_2 = \omega_2 + \omega_1</math>.
 
@@ -234,7 +235,11 @@ Because <math>\mathbf{s}</math> is an arbitrary vector, from nondegeneracy of [[
 : <math> W\mathbf{r} = \omega \times \mathbf{r}</math>
 
 === Angular velocity as a vector field ===
-Since the spin angular velocity tensor of a rigid body (in its rest frame) is a linear transformation that maps positions to velocities (within the rigid body), it can be regarded as a constant [[vector field]]. In particular, the spin angular velocity is a [[Killing vector field]] belonging to an element of the [[Lie algebra]] SO(3) of the 3-dimensional [[rotation group SO(3)]]. Also, it can be shown that the spin angular velocity vector field is exactly half of the [[curl (mathematics)|curl]] of the linear velocity vector field '''v'''('''r''') of the rigid body.
+Since the spin angular velocity tensor of a rigid body (in its rest frame) is a linear transformation that maps positions to velocities (within the rigid body), it can be regarded as a constant [[vector field]]. In particular, the spin angular velocity is a [[Killing vector field]] belonging to an element of the [[Lie algebra]] SO(3) of the 3-dimensional [[rotation group SO(3)]].
+
+Also, it can be shown that the spin angular velocity vector field is exactly half of the [[curl (mathematics)|curl]] of the linear velocity vector field '''v'''('''r''') of the rigid body. In symbols,
+
+: <math> \boldsymbol{\omega} = \frac{1}{2} \nabla\times\mathbf{v}</math>
 
 == Rigid body considerations ==
 {{see also|axes conventions}}
@@ -294,7 +299,7 @@ See the graph to the right: The origin of lab frame is ''O'', while ''O''<sub>1<
 
 The above two yields that
 
-: <math> (\boldsymbol{\omega}_1-\boldsymbol{\omega}_2) \times \mathbf{r}_2=0 </math>
+: <math> (\boldsymbol{\omega}_2-\boldsymbol{\omega}_1) \times \mathbf{r}_2=0 </math>
 
 Since the point ''P'' (and thus <math> \mathbf{r}_2 </math>) is arbitrary, it follows that
 
@@ -315,7 +320,7 @@ If the reference point is the [[instantaneous axis of rotation]] the expression 
 == References ==
 {{Reflist}}
 * {{note_label|Symon1971||}}{{cite book|last=Symon | first=Keith |title=Mechanics|publisher=Addison-Wesley, Reading, MA|year=1971|isbn = 978-0-201-07392-8 }}
-* {{note_label|LL||}}{{cite book |last=Landau |first=L.D. |authorlink=Lev Landau |author2=[[Evgeny Lifshitz|Lifshitz, E.M.]] |title= Mechanics|year=1997 |publisher=Butterworth-Heinemann |isbn=978-0-7506-2896-9 }}
+* {{note_label|LL||}}{{cite book |last=Landau |first=L.D. |authorlink=Lev Landau |author2=Lifshitz, E.M. |title= Mechanics|year=1997 |publisher=Butterworth-Heinemann |isbn=978-0-7506-2896-9 |author2-link=Evgeny Lifshitz }}
 
 == External links ==
 {{Wiktionary}}
@@ -328,5 +333,6 @@ If the reference point is the [[instantaneous axis of rotation]] the expression 
 [[Category:Angle]]
 [[Category:Physical quantities]]
 [[Category:Rotational symmetry]]
+[[Category:Temporal rates]]
 [[Category:Tensors]]
 [[Category:Velocity]]
