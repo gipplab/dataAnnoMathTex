@@ -1,0 +1,50 @@
+{{multiple|
+{{refimprove|date=September 2018}}
+{{no footnotes|date=September 2018}}
+}}
+In [[mathematics]], the '''Chern–Simons forms''' are certain secondary [[characteristic class]]es. They have been found to be of interest in [[gauge theory]], and they (especially the 3-form) define the action of [[Chern–Simons theory]].  The theory is named for [[Shiing-Shen Chern]] and [[James Harris Simons]], co-authors of a 1974 paper entitled "Characteristic Forms and Geometric Invariants," from which the theory arose. See {{harvs|txt=yes|last1=Chern|last2=Simons|year=1974}}
+
+==Definition==
+Given a [[manifold]] and a [[Lie algebra]] valued [[p-form|1-form]], <math>\mathbf{A}</math> over it, we can define a family of [[p-form|''p''-forms]]:
+
+In one dimension, the '''Chern–Simons''' [[p-form|1-form]] is given by 
+:<math>\operatorname{Tr} [ \mathbf{A} ].</math>
+
+In three dimensions, the '''Chern–Simons 3-form''' is given by 
+:<math>\operatorname{Tr} \left[ \mathbf{F} \wedge \mathbf{A}-\frac{1}{3} \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A} \right] = \operatorname{Tr} \left[ d\mathbf{A} \wedge \mathbf{A} + \frac{2}{3} \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A}\right].</math>
+
+In five dimensions, the '''Chern–Simons 5-form''' is given by 
+:<math>
+\begin{align}
+& \operatorname{Tr} \left[ \mathbf{F}\wedge\mathbf{F} \wedge \mathbf{A}-\frac{1}{2} \mathbf{F} \wedge\mathbf{A}\wedge\mathbf{A}\wedge\mathbf{A} +\frac{1}{10} \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A} \wedge\mathbf{A} \right] \\[6pt]
+= {} & \operatorname{Tr} \left[ d\mathbf{A}\wedge d\mathbf{A} \wedge \mathbf{A} + \frac{3}{2} d\mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A} +\frac{3}{5} \mathbf{A} \wedge \mathbf{A} \wedge \mathbf{A}\wedge\mathbf{A}\wedge\mathbf{A} \right]
+\end{align}
+</math>
+
+where the curvature '''F''' is defined as 
+:<math>\mathbf{F} = d\mathbf{A}+\mathbf{A}\wedge\mathbf{A}.</math>
+
+The general Chern–Simons form <math>\omega_{2k-1}</math> is defined in such a way that 
+:<math>d\omega_{2k-1}= \operatorname{Tr}(F^k),</math>
+
+where the [[wedge product]] is used to define ''F<sup>k</sup>''. The right-hand side of this equation is proportional to the ''k''-th [[Chern character]] of the connection <math>\mathbf{A}</math>.
+
+In general, the Chern–Simons [[p-form|''p''-form]] is defined for any odd ''p''. See also [[gauge theory]] for the definitions. Its [[Differential form|integral]] over a ''p''-dimensional [[manifold]] is a global  geometric invariant, and is typically [[gauge invariant]] modulo addition of an  integer.
+
+==See also==
+*[[Chern–Weil homomorphism]]
+*[[Chiral anomaly]]
+*[[Topological quantum field theory]]
+*[[Jones polynomial]]
+
+==References==
+* {{cite journal |last1=Chern |first1=S.-S. |authorlink1=Shiing-Shen Chern |last2=Simons |first2=J. |authorlink2=James Harris Simons |title=Characteristic forms and geometric invariants |journal=[[Annals of Mathematics]] |series=Second Series |volume=99 |number=1 |year=1974 |pages=48–69 |jstor=1971013 |doi=10.2307/1971013 }}
+* {{cite book |first=Reinhold A. |last=Bertlmann |chapter=Chern–Simons form, homotopy operator and anomaly |title=Anomalies in Quantum Field Theory |location= |publisher=[[Clarendon Press]] |year=2001 |edition=Revised |pages=321–341 |isbn=0-19-850762-3 |chapterurl=https://books.google.com/books?id=FC_DRRUHFXEC&pg=PA321 }}
+
+{{String theory topics |state=collapsed}}
+
+{{DEFAULTSORT:Chern-Simons form}}
+[[Category:Homology theory]]
+[[Category:Algebraic topology]]
+[[Category:Differential geometry]]
+[[Category:String theory]]
