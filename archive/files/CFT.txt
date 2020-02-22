@@ -1,0 +1,33 @@
+'''CFT''' may refer to:
+
+{{TOC right}}
+==Chemistry==
+*[[(-)-2β-Carbomethoxy-3β-(4-fluorophenyl)tropane]]
+*[[Cefatrizine]], a cephalosporin antibiotic
+*[[Crystal field theory]], describes the breaking of degeneracies of electron orbital states
+
+==Mathematics and physics==
+* [[Class field theory]], a branch of algebraic number theory
+* [[Classical field theory]], electromagnetism and gravitation
+* [[Conformal field theory]], a quantum field theory that is invariant under conformal transformations
+* [[Continuous Fourier transform]]
+
+==Military==
+* Cadet Field Training, part of [[United States Military Academy#Cadet life]]
+* Combat Fitness Test, a British Army test of a soldier's lower and upper body strength, the [[Annual Fitness Test]]
+* [[Combat Fitness Test]], a US Marine Corps test that assesses the Marine's field readiness
+* [[Contract Field Teams]], a United States Air Force program designed to supplement maintenance of military assets
+* [[United States Army Futures Command#Cross-functional teams (CFTs)|United States Army Futures Command]], a team of teams, led by a requirements leader, program manager, sustainer, tester
+* [[Secretary of Defense-Empowered Cross-Functional Teams]], specialized organizations within the DOD designed to assist it in addressing complex, cross-cutting problems and facilitating reforms
+
+==Others==
+* Combating the Financing of Terrorism, related to [[Anti-money laundering]]
+* ''[[Comhairle Fo-Thuinn]]'', the national body in Ireland for recreational diving and underwater sports
+* [[Compassion-focused therapy]], a system of psychotherapy developed by Paul Gilbert
+* ''Confédération française du travail'' (National Confederation of Labour), former name of the [[:fr: Confédération des syndicats libres|Confédération des syndicats libres]] a French right-wing union dissolved in 2002
+* [[Conformal fuel tank]]s, additional fuel tanks fitted to an aircraft
+* [[Cross File Transfer]], a secure computer file transfer program
+* [[Cross-functional team]], a group of people with different expertise working toward a common goal
+* [[Greenlee County Airport]], in Clifton, Arizona, United States (FAA code)
+
+{{disambiguation}}

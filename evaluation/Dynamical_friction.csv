@@ -1,9 +1,0 @@
-Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
-G,gravitational constant (Q18373),-,7,-,-,-,-,-,global,5911,-1
-M,mass (Q11423),1,1,-,-,-,1,-,global,2208,-1
-m,mass (Q11423),1,3,2,-,-,3,-,global,2115,-1
-v,velocity (Q11465),-,-,-,-,-,7,-,global,1878,-1
-\frac{d\mathbf{v}_M}{dt} = -16 \pi^2 \ln \Lambda G^2 m (M+m) \frac{1}{v_M^3}\int_0^{v_M}v^2 f(v)  d v \mathbf{v}_M,Chandrasekhar dynamical friction formula (N/A),-,-,-,-,-,-,1,global,3822,-1
-f,frequency (Q11652),-,-,1,-,-,-,-,global,2176,-1
-f(v) = \frac{N}{(2\pi\sigma^2)^{3/2}}e^{-\frac{v^2}{2\sigma^2}},Maxwellian distribution (N/A),-,-,-,-,-,-,1,global,7380,-1
-N,number (N/A),2,-,-,-,-,-,-,global,45225,-1

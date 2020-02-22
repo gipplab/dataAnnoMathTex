@@ -1,0 +1,22 @@
+{{Multiple issues|
+{{expert needed|Physics|date=September 2016}}
+{{notability|date=June 2015}}
+{{confusing|date=June 2015}}
+{{Orphan|date=August 2016}}
+}}
+
+There is a kind of non-[[Doppler redshift]], the theory of redshift<ref>Zhiping Li, Ran Li. The cosmological redshift originated from running inertia[OL]. [ 9 May 2014] http://en.paper.edu.cn/en_releasepaper/content/4595519</ref> shows a new redshift mechanism, in which the redshift is proportional to distances between the galaxies. This principle of redshift arises from both of the running inertia deviated from the local [[equivalence principle]] at cosmological distances and the [[De Broglie]]'s basic equation related the [[wavelength]] to the [[momentum]] of [[elementary particle]]. According to this principle, the [[Hubble's law]] could be explained without Doppler redshift. This is a kind of steady state redshift and performs a large-scale nonlinear effect, which has nothing to do with the hypotheses of [[cosmic expansion]] and [[accelerated expansion]]. The cosmological redshift formula is
+
+Z = ln(1+HD/C),
+
+where, Z is redshift determination; H is [[Hubble constant]]; C is velocity of light, D is redshift distance.
+
+This cosmological redshift formula would not only describe the universe beyond the boundary of Hubble's Law, but also evolve back to Hubble's Law in low-redshift scale.
+
+By this method, using the theory and formula of cosmological redshift as the validation technique in determining distances to high-redshift supernovae, the results of 43 high-redshift (Z = 0.172 - 1.755) [[type Ia supernovae]] show that the redshift distances determined by the cosmological redshift formula and the [[Luminosity distance]] have a good match within the measurement uncertainties.<ref>Zhiping Li, Ran Li, The cross confirmation in determining astronomical distances to high-redshift type Ia supernovae, Sciencepaper Online: 2014.09.18， http://en.paper.edu.cn/en_releasepaper/content/4607137</ref>
+
+==References==
+{{reflist}}
+
+[[Category:Astronomical spectroscopy]]
+[[Category:Physical cosmology]]

@@ -1,0 +1,180 @@
+A '''chiral''' phenomenon is one that is not identical to its [[mirror image]] (see the article on [[Chirality (mathematics)|mathematical chirality]]). The [[Spin (physics)|spin]] of a [[Elementary particle|particle]] may be used to define a '''handedness''', or helicity, for that particle, which, in the case of a massless particle, is the same as chirality. A [[symmetry transformation]] between the two is called [[parity (physics)|parity]] transformation. Invariance under parity transformation by a [[Dirac fermion]] is called '''chiral symmetry'''.
+
+==Chirality and helicity==
+{{see also|Helicity (particle physics)}}
+The helicity of a particle is positive (“right-handed”) if the direction of its [[spin (physics)|spin]] is the same as the direction of its motion. It is negative (
+“left-handed”) if the directions of spin and motion are opposite. So a standard [[clock]], with its spin vector defined by the rotation of its hands, has left-handed helicity if tossed with its face directed forwards.
+
+Mathematically, ''helicity'' is the sign of the projection of the [[spin (physics)|spin]] [[vector (geometric)|vector]] onto the [[momentum]] [[vector (geometric)|vector]]: “left” is negative, “right” is positive.
+
+[[Image:Right left helicity.svg|center]]
+The ''chirality'' of a particle is more abstract: It is determined by whether the particle transforms in a right- or left-handed [[Group representation|representation]] of the [[Poincaré group]].{{efn|Note, however, that representations such as [[Dirac spinor]]s and others, necessarily have both right- and left-handed components. In cases like this, we can define [[projection operator]]s that remove (set to zero) either the right- or left-hand components, and discuss the left- or right-handed portions of the representation that remain.}}
+
+For massless particles – [[photon]]s, [[gluon]]s, and (hypothetical) [[graviton]]s – chirality is the same as [[helicity (particle physics)|helicity]]; a given massless particle appears to spin in the same direction along its axis of motion regardless of point of view of the observer.
+
+For massive particles – such as [[electron]]s, [[quark]]s, and [[neutrino]]s – chirality and helicity must be distinguished: In the case of these particles, it is possible for an observer to change to a [[Frame of reference|reference frame]] moving faster than the spinning particle, in which case the particle will then appear to move backwards, and its helicity (which may be thought of as “apparent chirality”) will be reversed.
+
+A ''massless'' particle moves with the [[speed of light]], so no real observer (who must always travel at less than the [[speed of light]]) can be in any reference frame where the particle appears to reverse its relative direction of spin, meaning that all real observers see the same helicity. Because of this, the direction of spin of massless particles is not affected by a change of viewpoint ([[Lorentz boost]]) in the direction of motion of the particle, and the sign of the projection (helicity) is fixed for all reference frames: The helicity of massless particles is a ''relativistic invariant'' (a quantity whose value is the same in all inertial reference frames) which always matches the massless particles' chirality.
+
+The discovery of [[neutrino oscillation]] implies [[neutrino#Mass|that neutrinos have mass]], so the [[photon]] is the only known massless particle. [[Gluon]]s are also expected to be massless, although the assumption that they are has not been conclusively tested.{{efn|[[Graviton]]s are also assumed massless, but so-far are merely hypothetical.}} Hence, these are the only two particles now known for which helicity could be identical to chirality, and only the [[photon]] has been confirmed by measurement. All other observed particles have mass and thus may have different helicities in different reference frames.{{efn|It is still possible that as-yet unobserved particles, like the [[graviton]], might be massless, and hence have invariant helicity that matches their chirality, like the [[photon]].}}
+
+==Chiral theories==
+Particle physicists have only observed or inferred left-handed [[fermion]]s and right-handed antifermions engaging in the [[weak force|charged weak interaction]].<ref>{{cite book |author1=Povh, Bogdan |author2=Rith, Klaus |author3=Scholz, Christoph |author4=Zetsche, Frank |title=Particles and Nuclei: An introduction to the physical concepts |publisher=Springer |year=2006 |page=145 |isbn=978-3-540-36683-6}}</ref> Even in the case of the electrically neutral weak interaction, which can engage with both left- and right-chiral fermions, in most circumstances two left-handed [[fermion]]s interact more strongly than right-handed or opposite-handed [[fermions]], implying that the universe has a preference for left-handed chirality. This preferential treatment of one chirality over another violates a symmetry that holds for all other forces of nature.
+
+Chirality for a [[Fermionic field#Dirac fields|Dirac fermion]] {{mvar|ψ}} is defined through the operator [[Gamma matrices#The fifth gamma matrix, γ5|{{math|''γ''<sup>5</sup>}}]], which has [[eigenvalue, eigenvector, and eigenspace|eigenvalue]]s ±1.  Any Dirac field can thus be projected into its left- or right-handed component by acting with the [[Projection (linear algebra)|projection operators]] {{math|½(1 − ''γ''<sup>5</sup>)}} or {{math|½(1 + ''γ''<sup>5</sup>)}} on {{mvar|ψ}}.
+
+The coupling of the charged weak interaction to fermions is proportional to the first projection operator, which is responsible for this interaction's [[parity (physics)|parity symmetry]] violation.
+
+A common source of confusion is due to conflating this operator with the [[helicity (particle physics)|helicity]] operator. Since the helicity of massive particles is frame-dependent, it might seem that the same particle would interact with the weak force according to one frame of reference, but not another.  The resolution to this false paradox is that ''the chirality operator is equivalent to helicity for massless fields only'', for which helicity is not frame-dependent.  By contrast, for massive particles, ''chirality is not the same as helicity'', so there is no frame dependence of the weak interaction: a particle that couples to the weak force in one frame does so in every frame.
+
+A theory that is asymmetric with respect to chiralities is called a ''chiral theory'', while a non-chiral (i.e., parity-symmetric) theory is sometimes called a ''vector theory''.  Many pieces of the [[Standard Model]] of physics are non-chiral, which is traceable to  [[Anomaly (physics)|anomaly cancellation]] in chiral theories.  [[Quantum chromodynamics]] is an example of a ''vector theory'', since both chiralities of all quarks appear in the theory, and couple to gluons in the same way.
+
+The [[electroweak theory]], developed in the mid 20th century, is an example of a ''chiral theory''. Originally, it assumed that [[neutrino#Mass|neutrinos were massless]], and only assumed the existence of left-handed [[neutrino]]s (along with their complementary right-handed antineutrinos). After the observation of [[neutrino oscillation]]s, which imply that [[neutrino#Mass|neutrinos are massive]] like all other [[fermion]]s, the revised [[electroweak theory|theories of the electroweak interaction]] now include both right- and left-handed [[neutrino]]s.  However, it is still a chiral theory, as it does not respect parity symmetry.
+
+The exact nature of the [[neutrino]] is still unsettled and so the [[electroweak theory|electroweak theories]] that have been proposed are somewhat different, but most accommodate the chirality of [[neutrino]]s in the same way as was already done for all other [[fermions]].
+
+==Chiral symmetry==
+Vector [[gauge theory|gauge theories]] with massless Dirac fermion fields  {{mvar|ψ}}  exhibit chiral symmetry, i.e., rotating the left-handed and the right-handed components independently makes no difference to the theory. We can write this as the action of rotation on the fields:
+:<math>\psi_L\rightarrow e^{i\theta_L}\psi_L</math>&nbsp;&nbsp;and&nbsp;&nbsp;<math>\psi_R\rightarrow \psi_R</math>
+or
+:<math>\psi_L\rightarrow \psi_L</math>&nbsp;&nbsp;and&nbsp;&nbsp; <math>\psi_R\rightarrow e^{i\theta_R}\psi_R.</math>
+
+With {{mvar|N}} [[Flavor (particle physics)|flavors]], we have unitary rotations instead: {{math|''U''(''N'')<sub>L</sub>&times;''U''(''N'')<sub>R</sub>}}.
+
+More generally, we write the right-handed and left-handed states as a projection operator acting on a spinor. The right-handed and left-handed projection operators are
+:<math> P_R = \frac{1 + \gamma^5}{2}</math>
+and
+:<math> P_L = \frac{1 - \gamma^5}{2}</math>
+
+Massive fermions do not exhibit chiral symmetry, as the mass term in the [[Lagrangian (field theory)|Lagrangian]],    {{math|  ''m''{{overset|&mdash;|''ψ''}}''ψ''}},  breaks chiral symmetry explicitly.
+
+[[Chiral symmetry breaking|Spontaneous chiral symmetry breaking]] may also occur in some theories, as it most notably does in [[quantum chromodynamics]].
+
+The chiral symmetry transformation can be divided into a component that treats the left-handed and the right-handed parts equally, known as '''vector symmetry''', and a component that actually treats them differently, known as '''axial symmetry'''.<ref>Ta-Pei Cheng and Ling-Fong Li, ''Gauge Theory of Elementary Particle Physics'',  (Oxford 1984) {{ISBN|978-0198519614}}</ref> (cf. [[Current algebra]].) A scalar field model encoding chiral symmetry and its [[chiral symmetry breaking|breaking]] is the [[chiral model]].
+
+The most common application is expressed as equal treatment of clockwise and counter-clockwise rotations from a fixed frame of reference.
+
+The general principle is often referred to by the name '''chiral symmetry'''. The rule is absolutely valid in the [[classical mechanics]] of [[Isaac Newton|Newton]] and [[Albert Einstein|Einstein]], but results from [[quantum mechanics|quantum mechanical]] experiments show a difference in the behavior of left-chiral versus right-chiral [[subatomic particles]].
+
+===Example: ''u'' and ''d'' quarks in QCD===
+Consider [[quantum chromodynamics]] (QCD) with two ''massless'' [[quarks]] {{mvar|u}} and {{mvar|d}} (massive fermions do not exhibit chiral symmetry). The Lagrangian reads
+:<math>\mathcal{L} = \overline{u}\,i\displaystyle{\not}D \,u + \overline{d}\,i\displaystyle{\not}D\, d + \mathcal{L}_\mathrm{gluons}~.</math>
+
+In terms of left-handed and right-handed spinors, it reads
+:<math>\mathcal{L} = \overline{u}_L\,i\displaystyle{\not}D \,u_L + \overline{u}_R\,i\displaystyle{\not}D \,u_R + \overline{d}_L\,i\displaystyle{\not}D \,d_L  + \overline{d}_R\,i\displaystyle{\not}D \,d_R + \mathcal{L}_\mathrm{gluons} ~.</math>
+(Here, {{mvar|i}} is the imaginary unit and <math>\displaystyle{\not}D</math> the [[Dirac operator]].)
+
+Defining
+:<math>q = \begin{bmatrix} u \\ d \end{bmatrix} ,</math>
+it can be written as
+:<math>\mathcal{L} = \overline{q}_L\,i\displaystyle{\not}D \,q_L + \overline{q}_R\,i\displaystyle{\not}D\, q_R + \mathcal{L}_\mathrm{gluons} ~.</math>
+
+The Lagrangian is unchanged under a rotation of ''q<sub>L</sub>'' by any 2×2 unitary matrix  {{mvar|L}}, and ''q<sub>R</sub>'' by any 2×2 unitary matrix {{mvar|R}}.
+
+This symmetry of the Lagrangian is called ''flavor chiral symmetry'', and denoted as {{math|''U(2)<sub>L</sub>×U(2)<sub>R</sub>''}}.   It decomposes into
+:<math>SU(2)_L \times SU(2)_R \times U(1)_V \times U(1)_A ~.</math>
+
+The singlet vector symmetry, {{math|''U''(1)<sub>''V''</sub>}},  acts as
+:<math>
+q_L \rightarrow e^{i\theta} q_L \qquad
+q_R \rightarrow e^{i\theta} q_R ~,
+</math>
+and corresponds to [[baryon number]] conservation.
+
+The singlet axial group  {{math|''U''(1)<sub>''A''</sub>}}  acts as
+:<math>
+q_L \rightarrow e^{i\theta} q_L \qquad
+q_R \rightarrow e^{-i\theta} q_R ~,
+</math>
+and it does not correspond to a conserved quantity, because it is explicitly violated by a [[anomaly (physics)|quantum anomaly]].
+
+The remaining chiral symmetry {{math|SU(2)<sub>''L''</sub>×SU(2)<sub>''R''</sub>}} turns out to be [[spontaneous symmetry breaking|spontaneously broken]] by a [[quark condensate]] 
+<math>\textstyle \langle \bar{q}^a_R q^b_L \rangle = v \delta^{ab}</math> formed through nonperturbative action of QCD gluons, into the diagonal vector subgroup SU(2)<sub>''V''</sub> known as [[isospin]]. The [[Goldstone bosons]] corresponding to the three broken generators are the three [[pions]]. 
+As a consequence, the effective theory of QCD bound states like the baryons, must now include mass terms for them, ostensibly disallowed by unbroken chiral symmetry. Thus, this [[chiral symmetry breaking]] induces the bulk of hadron masses, such as those for the [[nucleon]]s &mdash; in effect, the bulk of the mass of all visible matter.
+
+In the real world, because of the nonvanishing and differing masses of the quarks, SU(2)<sub>''L''</sub>&nbsp;×&nbsp;SU(2)<sub>''R''</sub> is only an approximate symmetry<ref>{{Cite journal | last1 = Gell-Mann | first1 = M. | last2 = Renner | first2 = B. | doi = 10.1103/PhysRev.175.2195 | title = Behavior of Current Divergences under SU_{3}×SU_{3} | journal = Physical Review | volume = 175 | issue = 5 | pages = 2195 | year = 1968 | pmid =  | pmc = |bibcode = 1968PhRv..175.2195G | url = https://authors.library.caltech.edu/3634/1/GELpr68.pdf }}</ref> to begin with, and therefore the pions are not massless, but have small masses: they are [[Chiral symmetry breaking|pseudo-Goldstone boson]]s.<ref>{{Cite book |last1=Peskin |first1=Michael |last2=Schroeder |first2=Daniel | title = An Introduction to Quantum Field Theory | publisher = Westview Press | year = 1995 | pages = 670 | isbn = 0-201-50397-2}}</ref>
+
+===More flavors===
+For more  "light" quark species, {{mvar|N}}  [[Flavour (particle physics)|flavors]]  in general, the corresponding chiral symmetries are ''U''(''N'')<sub>''L''</sub>&nbsp;×&nbsp;''U''(''N'')<sub>''R''</sub>,  decomposing into
+:<math>SU(N)_L \times SU(N)_R \times U(1)_V \times U(1)_A ~,</math>
+and exhibiting a very analogous [[chiral symmetry breaking]] pattern.
+
+Most usually, {{mvar|N}}&nbsp;=&nbsp;3 is taken, the ''u, d'', and ''s'' quarks taken to be light (the [[Eightfold way (physics)]]), so then approximately massless for the symmetry to be meaningful to a lowest order, while the other three quarks are sufficiently heavy to barely have a residual chiral symmetry be visible for practical purposes.
+
+===An application in particle physics===
+In [[theoretical physics]], the [[electroweak]] model breaks [[parity (physics)|parity]] maximally. All its [[fermion]]s are chiral [[Weyl fermion]]s, which means that the charged [[W and Z bosons|weak gauge bosons W{{sup|+}} and W{{sup|−}}]] only couple to left-handed quarks and leptons.<ref group=lower-alpha>Unlike the W{{sup|+}} and W{{sup|−}} bosons, the neutral electroweak [[W and Z bosons|Z{{sup|0}}&nbsp;boson]] couples to both left ''and'' right-handed fermions, although not equally.</ref>
+
+Some theorists found this objectionable, and so conjectured a [[Grand unification theory|GUT]] extension of the [[weak force]] which has new, high energy [[W' and Z' bosons]], which ''do'' couple with right handed quarks and leptons:
+
+:<math>\frac{ \,SU(2)_W\times U(1)_Y\, }{ \mathbb{Z}_2 }</math>
+to
+:<math>\frac{ \,SU(2)_L\times SU(2)_R\times U(1)_{B-L}\, }{ \mathbb{Z}_2 }.\,</math>
+
+Here, SU(2){{sub|L}} (pronounced “SU(2) left”) is none other than SU(2){{sub|W}} from above, while [[B−L]] is the [[baryon number]] minus the [[lepton number]]. The electric charge formula in this model is given by
+
+:<math>Q = I_{3L} + I_{3R} + \frac{B-L}{2}\,;</math>
+
+where <math>\,I_{3L}\,</math> and <math>\,I_{3R}\,</math> are the left and right [[weak isospin]] values of the fields in the theory.
+
+There is also the [[chromodynamic]] SU(3){{sub|C}}. The idea was to restore parity by introducing a '''left-right symmetry'''. This is a [[group extension]] of <math>\mathbb{Z}_2</math> (the left-right symmetry) by
+
+:<math>\frac{ SU(3)_C\times SU(2)_L \times SU(2)_R \times U(1)_{B-L} }{ \mathbb{Z}_6}</math>
+
+to the [[semidirect product]]
+
+:<math>\frac{ \,SU(3)_C \times SU(2)_L \times SU(2)_R \times U(1)_{B-L}\, }{ \mathbb{Z}_6 } \rtimes \mathbb{Z}_2.\,</math>
+
+This has two [[connected space|connected component]]s where <math>\mathbb{Z}_2</math> acts as an [[automorphism]], which is the composition of an [[Involution (mathematics)|involutive]] [[outer automorphism]] of SU(3){{sub|C}} with the interchange of the left and right copies of SU(2) with the reversal of U(1){{sub|B−L}}&nbsp;. It was shown by Rabindra N. Mohapatra and [[Goran Senjanovic]] in 1975 that [[left-right symmetry]] can be [[spontaneous symmetry breaking|spontaneously broken]] to give a chiral low energy theory, which is the Standard Model of Glashow, Weinberg, and Salam, and also connects the small observed neutrino masses to the breaking of left-right symmetry via the [[seesaw mechanism]].
+
+In this setting, the chiral [[quark]]s
+:<math>(3,2,1)_{+{1 \over 3}}</math>
+and
+:<math>\left(\bar{3},1,2\right)_{-{1 \over 3}}</math>
+
+are unified into an [[irreducible representation]] (“irrep”)
+:<math>(3,2,1)_{+{1 \over 3}} \oplus \left(\bar{3},1,2\right)_{-{1 \over 3}}.\,</math>
+
+The [[lepton]]s are also unified into an [[irreducible representation]]
+:<math>(1,2,1)_{-1} \oplus (1,1,2)_{+1}.\,</math>
+
+The [[Higgs boson]]s needed to implement the breaking of left-right symmetry down to the Standard Model are
+:<math>(1,3,1)_2 \oplus (1,1,3)_2.\,</math>
+
+This then provides three [[sterile neutrino]]s which are perfectly consistent with {{As of|2005|alt=current}} [[neutrino oscillation]] data. Within the seesaw mechanism, the sterile neutrinos become superheavy without affecting physics at low energies.
+
+Because the left-right symmetry is spontaneously broken, left-right models predict [[Domain wall (string theory)|domain wall]]s. This left-right symmetry idea first appeared in the [[Pati–Salam model]] (1974), Mohapatra–Pati models (1975).
+
+==See also==
+*[[Electroweak theory]]
+*[[Chirality (chemistry)]]
+*[[Chirality (mathematics)]]
+*[[Chiral symmetry breaking]]
+*[[Handedness]]
+*[[Spinors]] and [[Fermionic field#Dirac fields|Dirac field]]s
+*[[Sigma model]]
+*[[Chiral model]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|25em}}
+*{{cite book |authors=Walter Greiner and Berndt Müller |title=Gauge Theory of Weak Interactions |publisher=Springer |year=2000 |isbn=3-540-67672-4}}
+*{{cite book | author=Gordon L. Kane |title=Modern Elementary Particle Physics |publisher=Perseus Books |year=1987 |isbn=0-201-11749-5}}
+*{{cite journal|first=Dilip K. |last=Kondepudi |first2=Roger A. |last2=Hegstrom |title=The Handedness of the Universe |journal=Scientific American |volume=262 |number=1 |date=January 1990 |pages=108&ndash;115|doi=10.1038/scientificamerican0190-108 }}
+*{{cite journal |first=Jeffrey |last=Winters |title=Looking for the Right Hand |journal=Discover|date=November 1995 |url=http://discovermagazine.com/1995/nov/lookingfortherig591|accessdate=12 September 2015}}
+
+==External links==
+*To see a summary of the differences and similarities between chirality and helicity (those covered here and more) in chart form, one may go to [http://www.quantumfieldtheory.info Pedagogic Aids to Quantum Field Theory] and click on the link near the bottom of the page entitled "Chirality and Helicity Summary".  To see an in depth discussion of the two with examples, which also shows how chirality and helicity approach the same thing as speed approaches that of light, click the link entitled "Chirality and Helicity in Depth" on the same page.
+*[https://web.archive.org/web/20050403125400/http://ccreweb.org/documents/parity/parity.html History of science: parity violation]
+*[http://www.quantumdiaries.org/2011/06/19/helicity-chirality-mass-and-the-higgs/ Helicity, Chirality, Mass, and the Higgs] (Quantum Diaries blog)
+*[http://www.quantumfieldtheory.info/Chiralityvshelicitychart.htm Chirality vs helicity chart] (Robert D. Klauber)
+
+{{C, P and T}}
+
+{{DEFAULTSORT:Chirality (Physics)}}
+[[Category:Quantum field theory]]
+[[Category:Particle physics]]
+[[Category:Quantum chromodynamics]]
+[[Category:Symmetry]]
+[[Category:Chirality]]
