@@ -1,0 +1,62 @@
+{{Infobox company
+ | name   = Impuls Flugdrachen GmbH
+ | logo   = Impuls Flugdrachen GmbH Logo.png
+ | logo_size = 220px
+ | caption         = 
+ | type   = [[Private company]]
+ | fate           = No longer producing aircraft
+ | Predecessor    = 
+ | successor      = 
+ | foundation     = 
+ | defunct        = 
+ | location       = [[Munich]], [[Germany]]
+ | industry       = [[Aerospace]]
+ | products       = [[Hang glider]]s
+ | key_people     = 
+ | num_employees  = 
+ | parent         = 
+ | subsid         = 
+}}
+
+'''Impuls Flugdrachen GmbH''' ({{lang-en|Impulse Kites Limited}}), usually just called '''Impuls''', was a [[Germany|German]] aircraft manufacturer that specialized in beginner and [[flight training]] [[hang glider]]s. The company was headquartered in [[Munich]].<ref name="WDLA04">Bertrand, Noel; Rene Coulon; et al: ''World Directory of Leisure Aviation 2003-04'', page 46. Pagefast Ltd, Lancaster OK, 2003. ISSN 1368-485X</ref>
+
+In February 2012 the company website carried an announcement that said: "Impuls Kites GmbH has stopped production of aircraft."<ref name="Impuls">{{cite web|url = http://impuls-flug.com/|title = Die Impuls Flugdrachen GmbH hat die Produktion von Fluggeräten eingestellt. (German language)|accessdate = 26 February 2012|last = Impuls|date = n.d.}}</ref>
+
+== Aircraft ==
+
+{| class="wikitable" align=center style="font-size:90%;"
+|-
+|+ align=center style="background:#BFD7FF"| '''Summary of aircraft built by Impuls'''
+|- style="background:#efefef;"
+! Model name
+! First flight
+! Number built
+! Type
+
+|-
+|align=left| '''[[Impuls 14]]'''
+|align=center| 
+|align=center| 
+|align=left| training hang glider
+|-
+|align=left| '''[[Impuls 17]]'''
+|align=center| 
+|align=center| 
+|align=left| training hang glider
+|-
+|align=left| '''[[Impuls IC]]'''
+|align=center| 
+|align=center| 
+|align=left| intermediate hang glider
+|-
+
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|http://impuls-flug.com/}}
+
+[[Category:Defunct aircraft manufacturers of Germany]]
+[[Category:Hang gliders]]
