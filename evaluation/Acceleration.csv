@@ -1,0 +1,56 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+m,meter (N/A),-,-,-,-,-,-,-,local,3176,3176
+s,second (N/A),-,-,-,-,-,-,-,local,2770,2770
+{\tfrac\operatorname{m}{\operatorname{s}^2}},unit (Q118084),-,-,-,-,-,4,-,local,6180,6180
+Delta,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+n,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+g,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+g,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+c,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+c,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+c,N/A (N/A),-,-,-,-,-,-,-,local,False,False
+a,acceleration (Q11376),-,-,4,-,-,-,-,global,4044,-1
+d,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+v,velocity (Q11465),3,7,4,-,-,-,-,global,3821,-1
+t,time (Q11471),1,3,4,-,-,-,-,global,1469,-1
+x,position (N/A),-,2,-,-,-,-,-,global,4531,-1
+\mathbf{a} =  \frac{d\mathbf{v}}{dt} = \frac{d^2\mathbf{x}}{dt^2},acceleration (N/A),-,-,-,-,-,-,-,global,5134,6603
+( \Delta \mathbf{v}),change (N/A),-,-,-,-,-,4,-,global,7263,-1
+( \Delta t),change (N/A),-,-,-,-,-,4,-,global,4574,-1
+\bar{\mathbf{a}} = \frac{\Delta \mathbf{v}}{\Delta t}.,acceleration (Q11376),-,-,-,-,-,6,-,global,2872,-1
+o,N/A (N/A),-,-,-,-,-,-,-,global,False,False
+\mathbf{a} = \lim_{{\Delta t}\to 0} \frac{\Delta \mathbf{v}}{\Delta t} = \frac{d\mathbf{v}}{dt},acceleration (Q11376),-,-,-,-,-,2,-,global,2242,-1
+\mathbf{v} =  \int \mathbf{a} \  dt,velocity (Q11465),-,-,-,-,-,1,-,global,1763,-1
+\mathbf{a} =  \int \mathbf{j} \  dt,acceleration (Q11376),-,-,-,-,-,2,-,global,2194,-1
+j,jerk (N/A),-,-,-,-,-,6,-,global,5415,-1
+F,force (Q11402),-,9,2,-,-,7,-,global,2870,-1
+m,mass (Q11423),1,3,2,-,-,8,-,global,2138,-1
+\mathbf{F} = m\mathbf{a} \quad \to \quad \mathbf{a} = \frac{\mathbf{F}}{m},Newton' s second law (N/A),-,-,-,-,-,-,-,global,25534,8865
+"\mathbf{v} (t) =v(t) \frac {\mathbf{v}(t)}{v(t)} = v(t) \mathbf{u}_\mathrm{t}(t) , ",Circular motion velocity (N/A),-,-,-,-,-,-,-,global,7700,2694
+u,velocity (Q11465),-,2,1,-,-,6,-,global,4522,-1
+"\mathbf{u}_\mathrm{t} = \frac {\mathbf{v}(t)}{v(t)} \ , ",Tangential velocity (N/A),-,-,-,-,-,-,-,global,6386,1448
+"\begin{alignat}{3}\mathbf{a}  = \frac{\mathrm{d} \mathbf{v}}{\mathrm{d}t} \\            =  \frac{\mathrm{d}v }{\mathrm{d}t} \mathbf{u}_\mathrm{t} +v(t)\frac{d \mathbf{u}_\mathrm{t}}{dt} \\            = \frac{\mathrm{d}v }{\mathrm{d}t} \mathbf{u}_\mathrm{t}+ \frac{v^2}{r}\mathbf{u}_\mathrm{n}\ , \\\end{alignat}",Circular acceleration (N/A),-,-,-,-,-,-,-,global,7315,1632
+r,radius (Q173817),2,2,1,-,-,-,-,global,3332,-1
+g,gravitational constant (N/A),-,-,-,-,-,-,-,global,6113,58838
+s,displacement (Q190291),-,4,-,-,-,2,-,global,2605,-1
+ \mathbf{F_g} = m  \mathbf{g},Newton's second law (N/A),-,-,-,-,-,-,-,global,7496,4623
+ \mathbf{s}(t) = \mathbf{s}_0 + \mathbf{v}_0 t+ \tfrac{1}{2} \mathbf{a}t^2 = \mathbf{s}_0 + \frac{\mathbf{v}_0+\mathbf{v}(t)}{2}t ,Circular displacement (N/A),-,-,-,-,-,-,-,global,10596,1628
+ \mathbf{v}(t) = \mathbf{v}_0 + \mathbf{a} t ,Circular velocity (N/A),-,-,-,-,-,-,-,global,7720,932
+ a_c = \frac {v^2} {r}\;.,Centripetal acceleration (N/A),-,-,-,-,-,-,-,global,7677,5199
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,1918,-1
+ v = \omega r.,velocity (Q11465),-,-,-,-,-,2,-,global,4822,-1
+\omega = \frac {v}{r}.,angular velocity (Q161635),-,-,-,-,-,-,-,global,6431,3165
+alpha,angular acceleration (N/A),-,-,-,-,-,-,-,global,5242,6078
+ {v^2}(t) = {v_0}^2 + 2\mathbf{a \cdot}[\mathbf{s}(t)-\mathbf{s}_0] ,velocity (Q11465),-,-,-,-,-,-,-,global,4737,5684
+\mathbf{s}_0,displacement (Q190291),-,-,-,-,-,2,-,global,2534,-1
+\mathbf{s}(t),displacement (Q190291),-,-,-,-,-,3,-,global,1898,-1
+\mathbf{v}_0,velocity (Q11465),-,-,-,-,-,1,-,global,3201,-1
+\mathbf{v}(t),velocity (Q11465),-,-,-,-,-,2,-,global,1850,-1
+\mathbf{a},acceleration (Q11376),-,-,-,-,-,1,-,global,1654,-1
+\omega,angular velocity (Q161635),-,-,-,-,-,-,-,global,5585,10364
+\mathbf{r} ,distance (Q126017),-,-,-,-,-,4,-,global,7213,-1
+ \mathbf {a_c}= -\frac{v^2}{|\mathbf {r}|}\cdot \frac{\mathbf {r}}{|\mathbf {r}|}\;. ,acceleration (Q11376),-,-,-,-,-,2,-,global,6616,-1
+ \mathbf {a_c}= -\omega^2  \mathbf {r}\;. ,acceleration (N/A),-,-,-,-,-,-,-,global,4323,13185
+\alpha,acceleration (Q11376),-,-,-,-,-,5,-,global,4446,-1
+\alpha = \dot\omega,acceleration (Q11376),-,-,-,-,-,5,-,global,3685,-1
+ a_t = r \alpha.,acceleration (Q11376),-,-,-,-,-,5,-,global,4328,-1
