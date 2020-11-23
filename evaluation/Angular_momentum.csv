@@ -1,0 +1,38 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+L,lagrangian (N/A),9,-,-,-,-,1,-,local,2229,2229
+p,momentum (Q41273),5,-,-,-,-,3,-,global,6334,-1
+m,mass (Q11423),1,3,2,-,-,2,-,global,1423,-1
+v,velocity (Q11465),3,7,4,-,-,-,-,global,2612,-1
+"p = mv,",momentum (Q41273),-,-,-,-,-,3,-,global,5022,-1
+L,angular momentum (N/A),-,-,-,-,-,-,-,global,4940,6187
+I,moment of inertia (N/A),-,-,-,-,-,-,-,global,11501,8366
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,2323,-1
+r,radius (Q173817),2,2,1,-,-,-,-,global,1445,-1
+L = I\omega.,angular momentum (N/A),-,-,-,-,-,-,-,global,4804,2265
+I = r^2m,inertia (N/A),-,-,-,-,-,-,-,global,4291,6012
+\omega = \frac{v}{r},angular frequency (Q834020),-,-,-,-,-,-,2,global,2635,-1
+"L = r^2 m \cdot \frac{v}{r},",moment of inertia (Q165618),-,-,-,-,-,-,-,global,6418,5567
+"L = rmv,",moment of inertia (Q165618),-,-,-,-,-,-,-,global,5415,1950
+p = mv,momentum (Q41273),-,-,-,-,-,6,-,global,2848,-1
+theta,angle (Q11352),1,1,-,-,-,-,-,global,1946,-1
+"L = rmv\sin(\theta),",angular momentum (N/A),-,-,-,-,-,-,-,global,6839,2991
+"L = r\sin(\theta)mv,",angular momentum (N/A),-,-,-,-,-,-,-,global,4313,1477
+"L = rmv_\perp,",angular momentum (N/A),-,-,-,-,-,-,-,global,7240,2573
+v_\perp = v\sin(\theta),velocity (Q11465),-,-,-,-,-,-,-,global,4502,1833
+"L = r_\perp mv,",angular momentum (N/A),-,-,-,-,-,-,-,global,4805,1343
+r_\perp = r\sin(\theta),length (Q36253),-,-,-,-,-,6,-,global,2953,-1
+phi,angle (N/A),-,-,-,-,-,-,-,global,3146,6523
+a,radius (Q173817),-,-,-,-,-,-,-,global,3615,8437
+\phi,angle (N/A),-,-,-,-,-,-,-,global,2929,3314
+T,energy (Q11379),8,-,-,-,-,2,-,global,4061,-1
+U,energy (Q11379),-,-,-,-,-,1,-,global,1934,-1
+T = \frac{1}{2}ma^2 \omega^2 = \frac{1}{2}ma^2 \dot{\phi}^2.,kinetic energy (Q46276),-,-,-,-,-,-,-,global,5029,6815
+U = 0.,potential energy (N/A),-,-,-,-,-,-,-,global,4231,1795
+p_\phi = \frac{\partial \mathcal{L}}{\partial \dot{\phi}} = ma^2 \dot{\phi} = I\omega = L.,generalized momentum (N/A),-,-,-,-,-,-,-,global,6585,2170
+"\mathcal{L}\left(\phi, \dot{\phi}\right) = T - U = \frac{1}{2}ma^2 \dot{\phi}^2.",lagrangian (N/A),-,-,-,-,-,1,-,global,1962,-1
+"\mathbf{L} = I\boldsymbol{\omega},",angular momentum (N/A),-,-,-,-,-,-,-,global,2700,-1
+\boldsymbol{\omega}=\frac{\mathbf{r}\times\mathbf{v}}{r^2},angular velocity (Q161635),-,-,-,-,-,-,-,global,1964,-1
+\mathbf{r},position (N/A),-,-,-,-,-,5,4,global,3419,-1
+\mathbf{v},velocity (Q11465),-,-,-,-,-,4,1,global,1713,-1
+u,vector (N/A),8,-,-,-,-,5,-,global,4895,-1
+r=\left\vert\mathbf{r}\right\vert,position (N/A),-,-,-,-,-,5,-,global,3098,-1
