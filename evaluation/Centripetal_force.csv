@@ -1,0 +1,44 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+F,force (Q11402),-,9,2,-,-,7,-,global,2214,-1
+m,mass (Q11423),1,3,2,-,-,-,-,global,2122,-1
+r,radius (Q173817),2,2,1,-,-,-,-,global,1746,-1
+v,velocity (Q11465),3,7,4,-,-,-,-,global,3052,-1
+a,acceleration (Q11376),-,-,4,-,-,1,-,global,1440,-1
+c,index (N/A),-,-,-,-,-,-,-,global,3752,5365
+t,time (Q11471),1,3,4,-,-,-,-,global,1329,-1
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,1237,-1
+F_c = ma_c = \frac{m v^2}{r},centripetal force (N/A),-,-,-,-,-,-,-,global,12576,1265
+a_c = \frac{v}{t}\hat{r} = \frac{r\omega}{t}\hat{r} = v\omega = \frac{v^2}{r},centripetal acceleration (N/A),-,-,-,-,-,-,-,global,6760,3643
+v = \omega r,tangential velocity (N/A),-,-,-,-,-,-,-,global,8057,2694
+"F_c = m r \omega^2 \,.",centripetal force (N/A),-,-,-,-,-,-,-,global,5920,1032
+pi,constant (Q188248),-,-,-,-,-,-,-,global,1728,-1
+T,period (Q2642727),-,-,2,-,-,3,-,global,5075,-1
+"\omega = \frac{2\pi}{T} \,",angular velocity (Q161635),-,-,-,6,-,-,2,global,2639,-1
+F_c = m r \left(\frac{2\pi}{T}\right)^2.,centripetal force (N/A),-,-,-,-,-,-,-,global,5041,1838
+gamma,Lorentz factor (N/A),-,-,-,-,-,-,-,global,5928,1378
+\gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}},Lorentz factor (N/A),-,-,-,-,-,-,-,global,6464,4584
+F_c = \frac{\gamma m v^2}{r},centripetal force (N/A),-,-,-,-,-,-,-,global,5184,6642
+F_c = \gamma m v \omega,centripetal force (N/A),-,-,-,-,-,-,-,global,6000,4270
+theta,angle (Q11352),1,1,-,-,-,-,-,global,1385,-1
+x,coordinate (Q12753000),5,-,-,-,-,-,-,global,4557,-1
+y,coordinate (Q12753000),1,-,-,-,-,-,-,global,2291,-1
+ \textbf{r} = r \cos(\theta) \hat{x} + r \sin(\theta) \hat{y}. ,position (N/A),-,-,-,-,-,-,-,global,5440,3664
+ \textbf{r} = r \cos(\omega t) \hat{x} + r \sin(\omega t) \hat{y} ,position (N/A),-,-,-,-,-,3,-,global,2077,-1
+ \dot{\textbf{r}} = \textbf{v} = - r \omega \sin(\omega t) \hat{x} + r \omega \cos(\omega t) \hat{y} ,velocity (Q11465),-,-,-,-,-,7,-,global,2313,-1
+ \ddot{\textbf{r}} = \textbf{a} = - r \omega^2 \cos(\omega t) \hat{x} - r \omega^2 \sin(\omega t) \hat{y} ,acceleration (N/A),-,-,-,-,-,-,-,global,4945,4608
+ \textbf{a} = - \omega^2 (r \cos(\omega t) \hat{x} + r \sin(\omega t) \hat{y}) ,acceleration (N/A),-,-,-,-,-,-,-,global,5664,3240
+ \textbf{a} = - \omega^2 \textbf{r}. ,acceleration (Q11376),-,-,-,-,-,9,-,global,4407,-1
+Omega,angular velocity (N/A),-,-,-,-,-,-,-,global,6667,5346
+" |\mathbf{\Omega}| = \frac {\mathrm{d} \theta } {\mathrm{d}t} = \omega \ , ",angular velocity (Q161635),-,-,-,-,-,-,-,global,6537,6009
+ \mathbf{v}\ \stackrel{\mathrm{def}}{ = }\ \frac {\mathrm{d} \mathbf{r}}{\mathrm{d}t} = \frac {\mathrm{d}\mathbf{\boldsymbol{\ell}}}{\mathrm{d}t} = \mathbf {\Omega} \times \mathbf{r}(t)\ . ,velocity (Q11465),-,-,-,-,-,-,-,global,4866,4009
+ \mathbf{a}\ \stackrel{\mathrm{def}}{ = }\ \frac {\mathrm{d} \mathbf{v}} {d\mathrm{t}} = \mathbf {\Omega} \times \frac{\mathrm{d} \mathbf{r}(t)}{\mathrm{d}t} = \mathbf{\Omega} \times \left[ \mathbf {\Omega} \times \mathbf{r}(t)\right] \ .,Circular acceleration (N/A),-,-,-,-,-,-,1,global,5238,-1
+ |\mathbf{a}| = |\mathbf{r}(t)| \left ( \frac {\mathrm{d} \theta}{\mathrm{d}t} \right) ^2 = r {\omega}^2\ ,acceleration (Q11376),-,-,-,-,-,4,-,global,3409,-1
+g,gravitational constant (Q18373),-,-,-,-,-,-,-,global,2155,-1
+ |\mathbf{F}_\mathrm{h}| = m |\mathbf{g}| \frac { \mathrm{sin}\ \theta}{ \mathrm {cos}\ \theta} = m|\mathbf{g}| \mathrm{tan}\ \theta \ . ,force (Q11402),-,-,-,-,-,1,-,global,2184,-1
+|\mathbf{F}_\mathrm{c}| = m |\mathbf{a}_\mathrm{c}| = \frac{m|\mathbf{v}|^2}{r} \ . ,force (Q11402),-,-,-,-,-,2,-,global,2610,-1
+} \mathbf{,velocity (Q11465),-,-,-,-,-,1,-,global,1818,-1
+\mathbf{v} = r \frac {\mathrm{d} \mathbf{u}_\mathrm{r}}{\mathrm{d}t} = r \frac {\mathrm{d}}{\mathrm{d}t} \left( \mathrm{cos}\ \theta \ \mathbf{i} + \mathrm{sin}\ \theta \ \mathbf{j}\right),velocity (Q11465),-,-,-,-,-,1,-,global,1630,-1
+\mathbf{a} = r \left( \frac {\mathrm{d}\omega}{\mathrm{d}t} \mathbf{u}_\mathrm{\theta} - \omega^2 \mathbf{u}_\mathrm{r} \right) \ . ,acceleration (Q11376),-,-,-,-,-,1,-,global,1834,-1
+\mathbf{a}_{\mathrm{r}} = - \omega^{2} r \ \mathbf{u}_\mathrm{r} = - \frac{|\mathbf{v}|^{2}}{r} \ \mathbf{u}_\mathrm{r} \ ,acceleration (Q11376),-,-,-,-,-,1,-,global,1959,-1
+rho,distance (Q126017),-,-,-,-,-,-,-,global,4164,6917
+u,angle (N/A),-,-,-,-,-,-,-,global,5146,7799
