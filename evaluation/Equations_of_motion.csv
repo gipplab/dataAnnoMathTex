@@ -1,0 +1,20 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+M,continuous function (Q5165476),-,10,-,-,-,-,-,global,3883,-1
+r,position (N/A),-,-,-,-,-,-,-,global,4306,12611
+t,time (Q11471),1,3,4,-,-,7,-,global,2624,-1
+"M\left[\mathbf{r}(t),\mathbf{\dot{r}}(t),\mathbf{\ddot{r}}(t),t\right]=0\,,",differential equation (N/A),-,-,-,-,-,-,-,global,7191,6089
+" \mathbf{r}(0) \,, \quad \mathbf{\dot{r}}(0) \,. ",initial conditions (N/A),-,-,-,-,-,-,-,global,7174,11486
+v,velocity (Q11465),3,7,4,-,-,8,-,global,2771,-1
+a,acceleration (Q11376),-,-,4,-,-,7,-,global,5135,-1
+" \mathbf{v} = \frac{d \mathbf{r}}{d t} \,, \quad \mathbf{a} = \frac{d \mathbf{v}}{d t} = \frac{d^2 \mathbf{r}}{d t^2} \,\!",definitions (N/A),-,-,-,-,-,6,-,global,2932,-1
+theta,angle (Q11352),1,1,-,-,-,8,-,global,1780,-1
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,2091,-1
+alpha,angular acceleration (Q186300),-,-,-,-,-,-,-,global,1826,-1
+"\boldsymbol{\theta} = \theta \hat{\mathbf{n}} \,,\quad  \boldsymbol{\omega} = \frac{d \boldsymbol{\theta}}{d t} \,, \quad \boldsymbol{\alpha}= \frac{d \boldsymbol{\omega}}{d t} \,,",rotation (Q107617),-,-,-,-,-,9,-,global,2690,-1
+" \mathbf{v} = \boldsymbol{\omega}\times \mathbf{r} \,\!",velocity (Q11465),-,-,-,-,-,-,-,global,5077,7120
+v  = at+v_0 \quad [1]\\,velocity (Q11465),-,-,-,-,-,8,-,global,4067,-1
+r  = r_0 + v_0 t + \tfrac12 {a}t^2 \quad [2]\\,position (N/A),-,-,-,-,-,9,-,global,2609,-1
+r  = r_0 + \tfrac12 \left( v+v_0 \right )t \quad [3]\\v^2  = v_0^2 + 2a\left( r - r_0 \right) \quad [4]\\r  = r_0 + vt - \tfrac12 {a}t^2 \quad [5]\\,equations of motion (N/A),-,-,-,-,-,-,-,global,6936,3669
+"\mathbf{v}  = \int \mathbf{a} dt = \mathbf{a}t+\mathbf{v}_0 \,, \quad [1] \\ \mathbf{r}  = \int (\mathbf{a}t+\mathbf{v}_0) dt = \frac{\mathbf{a}t^2}{2}+\mathbf{v}_0t +\mathbf{r}_0 \,, \quad [2] \\",equations of motion (N/A),-,-,-,-,-,-,-,global,7334,4967
+"v  = at+v_0 \,, \quad [1] \\ r  = \frac{{a}t^2}{2}+v_0t +r_0 \,. \quad [2] \\",velocity (Q11465),-,-,-,-,-,5,-,global,3004,-1
+ \mathbf{a} = \frac{(\mathbf{v} - \mathbf{v}_0)}{t} ,acceleration (N/A),-,-,-,-,-,-,-,global,4664,8034
