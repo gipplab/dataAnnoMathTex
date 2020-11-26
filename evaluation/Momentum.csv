@@ -1,0 +1,66 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+p,momentum (Q41273),5,-,-,-,-,8,-,global,3658,-1
+m,mass (Q11423),1,3,2,-,-,4,-,global,1999,-1
+v,velocity (Q11465),3,7,4,-,-,2,-,global,2918,-1
+p = m v. ,momentum (Q41273),-,-,-,-,-,8,2,global,1762,-1
+"  p = p_1 + p_2 \\= m_1 v_1 + m_2 v_2\,.  ",momentum (Q41273),-,-,-,-,-,1,-,global,1709,-1
+ p = \sum_{i} m_i v_i .,momentum (Q41273),-,-,-,-,-,-,-,global,3578,3385
+r,center of mass (N/A),-,-,-,-,-,-,-,global,4538,7833
+p= mv_\text{cm}.,momentum (Q41273),-,-,-,-,-,2,-,global,2209,-1
+F,force (Q11402),-,9,2,-,-,6,-,global,2103,-1
+t,time (Q11471),1,3,4,-,-,-,-,global,2380,-1
+Delta,changes (N/A),-,-,-,-,-,2,-,global,3459,-1
+"\Delta p = F \Delta t\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,13920,1676
+F = \frac{dp }{d t}. ,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,7692,4738
+J,impulse (N/A),-,-,-,-,-,3,-,global,2701,-1
+" \Delta p = J = \int_{t_1}^{t_2} F(t)\, dt\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9059,3656
+"F = \frac{d(mv)}{d t} = m\frac{dv}{d t} = m a,",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,8178,2347
+a,acceleration (Q11376),-,-,4,-,-,3,-,global,3999,-1
+" \frac{d p_1}{d t} = - \frac{d p_2}{d t}, ",Newton's third law of motion (N/A),-,-,-,-,-,-,-,global,8538,1942
+ \frac{d}{d t} \left(p_1+ p_2\right)= 0. ,Newton's laws of motion (N/A),-,-,-,-,-,-,-,global,8062,4442
+m_1 u_{1} + m_2 u_{2} = m_1 v_{1} + m_2 v_{2}.,momentum conservation (N/A),-,-,-,-,-,-,-,global,5950,2404
+u,velocity (Q11465),-,2,1,-,-,-,-,global,1850,-1
+x,coordinate (Q12753000),5,-,-,-,-,2,-,global,1803,-1
+" x' = x - ut\,.",Galileian transformation (N/A),-,-,-,-,-,-,-,global,10085,4428
+" v' = \frac{dx'}{dt} = v-u\,.",Galilean transformation (N/A),-,-,-,-,-,-,-,global,9976,6884
+" a' = \frac{dv'}{dt} = a\,.",Galilean transformation (N/A),-,-,-,-,-,-,-,global,6030,1785
+\mathbf{p}= m \mathbf{v},momentum (Q41273),-,-,-,1,-,-,2,global,1745,-1
+ F = m(t) \frac{dv}{dt} + v(t) \frac{dm}{dt}.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,7838,3110
+" F = m(t) \frac{dv}{dt} - u \frac{dm}{dt},",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9163,1848
+ P(t+dt) = ( m - dm ) ( v + dv ) + dm ( v - u ) = mv+m dv - u dm = P(t) +m dv - u dm ,momentum (Q41273),-,-,-,-,-,1,-,global,2810,-1
+  t' = t  \\  x' = x - v t,Galilean transformation (N/A),-,-,-,-,-,-,-,global,6377,2115
+"  t' = \gamma \left( t - \frac{v x}{c^2} \right)  \\  x' = \gamma \left( x - v t \right)\,",Lorentz transformation (N/A),-,-,-,-,-,-,-,global,6808,4256
+gamma,Lorentz factor (N/A),-,-,-,-,-,-,-,global,4328,4769
+\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}. ,Lorentz factor (N/A),-,-,-,-,-,-,-,global,4816,1785
+" \mathbf{p} = \gamma m_0 \mathbf{v}\,,",momentum (Q41273),-,-,-,1,-,1,1,global,1614,-1
+" \mathbf{F} = \frac{d \mathbf{p}}{dt}\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,8027,1416
+P,momentum (Q41273),8,-,-,-,-,-,-,global,4991,-1
+U,velocity (Q11465),-,-,-,-,-,-,-,global,3430,6063
+" \mathbf{U} \equiv \frac{d \mathbf{R}}{d \tau} = \gamma \frac{d \mathbf{R}}{dt}\,,",four-velocity (N/A),-,-,-,-,-,-,-,global,7079,1698
+"\mathbf{P} = m_0\mathbf{U}\,,",four-momentum (Q1068463),-,-,-,-,-,-,-,global,4854,2082
+"\mathbf{P} = \gamma m_0 \left(c,\mathbf{v}\right) = (m c,\mathbf{p})\,.",four-momentum (Q1068463),-,-,-,-,-,-,-,global,4843,4713
+E,energy (Q11379),1,4,2,-,-,3,-,global,3128,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,2368,-1
+"\mathbf{P} = \left(\frac{E}{c}, \mathbf{p}\right)\,.",four-momentum (Q1068463),-,-,-,-,-,-,-,global,15570,1718
+"E = pc\,.",relativistic energy-momentum relationship (N/A),-,-,-,-,-,-,-,global,17632,1366
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,3031,-1
+K,wavevector (N/A),-,-,-,-,-,-,-,global,4573,5452
+k,wavenumber (Q192510),-,5,1,-,-,-,-,global,1633,-1
+"\mathbf{P} = \left(\frac{E}{c},\vec{\mathbf{p}}\right) = \hbar \mathbf{K} = \hbar \left(\frac{\omega}{c},\vec{\mathbf{k}}\right)",energy-momentum relationship (N/A),-,-,-,-,-,-,-,global,7765,2146
+ \mathcal{,lagrange (N/A),-,-,-,-,-,4,-,global,2783,-1
+T,kinetic energy (Q46276),-,6,-,-,-,-,-,global,3441,-1
+V,potential (Q12559031),3,-,-,-,-,-,-,global,2294,-1
+" \mathcal{L}  = T-V\,.",lagrange (N/A),-,-,-,-,-,4,-,global,4610,-1
+q,coordinates (N/A),-,-,-,-,-,9,-,global,4846,-1
+" \frac{d}{d t}\left(\frac{\partial \mathcal{L} }{\partial\dot{q}_j}\right) - \frac{\partial \mathcal{L}}{\partial q_j} = 0\,.",Euler-Lagrange equation (N/A),-,-,-,-,-,-,-,global,7287,7098
+H,hamiltonian (N/A),1,-,-,-,-,7,-,global,2342,-1
+" \mathcal{H}\left(\mathbf{q},\mathbf{p},t\right) = \mathbf{p}\cdot\dot{\mathbf{q}} - \mathcal{L}\left(\mathbf{q},\dot{\mathbf{q}},t\right)\,,",hamiltonian (N/A),-,-,-,-,-,7,-,global,3884,-1
+" \dot{q}_i = \frac{\partial\mathcal{H}}{\partial p_i}\\-\dot{p}_i = \frac{\partial\mathcal{H}}{\partial q_i}\\-\frac{\partial \mathcal{L}}{\partial t} = \frac{d \mathcal{H}}{d t}\,.",momentum (Q41273),-,-,-,-,-,3,-,global,2682,-1
+B,magnetic field (N/A),-,-,-,-,-,-,-,global,1625,-1
+\mathbf{F} = q(\mathbf{E} + \mathbf{v} \times \mathbf{B}).,electromagnetic force (N/A),-,-,-,-,-,-,-,global,6300,9772
+"\mathbf{P} = m\mathbf{\mathbf{v}} + q\mathbf{A}, ",momentum of electron (N/A),-,-,-,-,-,-,3,global,4120,-1
+A,gauge (Q2330873),6,-,-,-,-,-,-,global,5079,-1
+\mathbf{P} = \gamma m\mathbf{\mathbf{v}} + q\mathbf{A}. ,momentum of electron (N/A),-,-,-,-,-,-,2,global,2541,-1
+" \mathbf{g} = \frac{1}{\mu_0 c^2}\mathbf{E}\times\mathbf{B}\,,",momentum (Q41273),-,-,-,-,-,3,-,global,3636,-1
+S,Poynting vector (N/A),-,-,-,-,-,-,-,global,7615,6352
+g,momentum (Q41273),-,-,-,-,-,3,-,global,2459,-1
