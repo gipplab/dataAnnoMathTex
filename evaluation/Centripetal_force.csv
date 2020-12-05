@@ -7,26 +7,26 @@ a,acceleration (Q11376),-,-,4,-,-,1,-,global,1440,-1
 c,index (N/A),-,-,-,-,-,-,-,global,3752,5365
 t,time (Q11471),1,3,4,-,-,-,-,global,1329,-1
 omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,1237,-1
-F_c = ma_c = \frac{m v^2}{r},centripetal force (N/A),-,-,-,-,-,-,-,global,12576,1265
-a_c = \frac{v}{t}\hat{r} = \frac{r\omega}{t}\hat{r} = v\omega = \frac{v^2}{r},centripetal acceleration (N/A),-,-,-,-,-,-,-,global,6760,3643
+F_c = ma_c = \frac{m v^2}{r},centripetal force (Q172881),-,-,-,-,-,-,-,global,12576,1265
+a_c = \frac{v}{t}\hat{r} = \frac{r\omega}{t}\hat{r} = v\omega = \frac{v^2}{r},centripetal acceleration (Q2248131),-,-,-,-,-,-,-,global,6760,3643
 v = \omega r,tangential velocity (N/A),-,-,-,-,-,-,-,global,8057,2694
-"F_c = m r \omega^2 \,.",centripetal force (N/A),-,-,-,-,-,-,-,global,5920,1032
+"F_c = m r \omega^2 \,.",centripetal force (Q172881),-,-,-,-,-,-,-,global,5920,1032
 pi,constant (Q188248),-,-,-,-,-,-,-,global,1728,-1
 T,period (Q2642727),-,-,2,-,-,3,-,global,5075,-1
 "\omega = \frac{2\pi}{T} \,",angular velocity (Q161635),-,-,-,6,-,-,2,global,2639,-1
-F_c = m r \left(\frac{2\pi}{T}\right)^2.,centripetal force (N/A),-,-,-,-,-,-,-,global,5041,1838
-gamma,Lorentz factor (N/A),-,-,-,-,-,-,-,global,5928,1378
-\gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}},Lorentz factor (N/A),-,-,-,-,-,-,-,global,6464,4584
-F_c = \frac{\gamma m v^2}{r},centripetal force (N/A),-,-,-,-,-,-,-,global,5184,6642
-F_c = \gamma m v \omega,centripetal force (N/A),-,-,-,-,-,-,-,global,6000,4270
+F_c = m r \left(\frac{2\pi}{T}\right)^2.,centripetal force (Q172881),-,-,-,-,-,-,-,global,5041,1838
+gamma,Lorentz factor (Q599404),-,-,-,-,-,-,-,global,5928,1378
+\gamma = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}},Lorentz factor (Q599404),-,-,-,-,-,-,-,global,6464,4584
+F_c = \frac{\gamma m v^2}{r},centripetal force (Q172881),-,-,-,-,-,-,-,global,5184,6642
+F_c = \gamma m v \omega,centripetal force (Q172881),-,-,-,-,-,-,-,global,6000,4270
 theta,angle (Q11352),1,1,-,-,-,-,-,global,1385,-1
 x,coordinate (Q12753000),5,-,-,-,-,-,-,global,4557,-1
 y,coordinate (Q12753000),1,-,-,-,-,-,-,global,2291,-1
  \textbf{r} = r \cos(\theta) \hat{x} + r \sin(\theta) \hat{y}. ,position (N/A),-,-,-,-,-,-,-,global,5440,3664
  \textbf{r} = r \cos(\omega t) \hat{x} + r \sin(\omega t) \hat{y} ,position (N/A),-,-,-,-,-,3,-,global,2077,-1
  \dot{\textbf{r}} = \textbf{v} = - r \omega \sin(\omega t) \hat{x} + r \omega \cos(\omega t) \hat{y} ,velocity (Q11465),-,-,-,-,-,7,-,global,2313,-1
- \ddot{\textbf{r}} = \textbf{a} = - r \omega^2 \cos(\omega t) \hat{x} - r \omega^2 \sin(\omega t) \hat{y} ,acceleration (N/A),-,-,-,-,-,-,-,global,4945,4608
- \textbf{a} = - \omega^2 (r \cos(\omega t) \hat{x} + r \sin(\omega t) \hat{y}) ,acceleration (N/A),-,-,-,-,-,-,-,global,5664,3240
+ \ddot{\textbf{r}} = \textbf{a} = - r \omega^2 \cos(\omega t) \hat{x} - r \omega^2 \sin(\omega t) \hat{y} ,acceleration (Q11376),-,-,-,-,-,-,-,global,4945,4608
+ \textbf{a} = - \omega^2 (r \cos(\omega t) \hat{x} + r \sin(\omega t) \hat{y}) ,acceleration (Q11376),-,-,-,-,-,-,-,global,5664,3240
  \textbf{a} = - \omega^2 \textbf{r}. ,acceleration (Q11376),-,-,-,-,-,9,-,global,4407,-1
 Omega,angular velocity (N/A),-,-,-,-,-,-,-,global,6667,5346
 " |\mathbf{\Omega}| = \frac {\mathrm{d} \theta } {\mathrm{d}t} = \omega \ , ",angular velocity (Q161635),-,-,-,-,-,-,-,global,6537,6009

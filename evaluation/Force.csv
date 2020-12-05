@@ -3,12 +3,12 @@ P,power (Q25342),-,-,3,-,-,8,-,local,779,779
 F,force (Q11402),-,9,2,-,-,-,-,global,1519,-1
 p,momentum (Q41273),5,-,-,-,-,-,-,global,6757,-1
 t,time (Q11471),1,3,4,-,-,-,-,global,2106,-1
-"\vec{F} = \frac{\mathrm{d}\vec{p}}{\mathrm{d}t},",newton's second law (N/A),-,-,-,-,-,-,-,global,9059,4004
+"\vec{F} = \frac{\mathrm{d}\vec{p}}{\mathrm{d}t},",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9059,4004
 v,velocity (Q11465),3,7,4,-,-,4,-,global,2562,-1
 m,mass (Q11423),1,3,2,-,-,5,-,global,1754,-1
-"\vec{F} = \frac{\mathrm{d}\vec{p}}{\mathrm{d}t} = \frac{\mathrm{d}\left(m\vec{v}\right)}{\mathrm{d}t},",newton's second law (N/A),-,-,-,-,-,-,-,global,8133,5329
+"\vec{F} = \frac{\mathrm{d}\vec{p}}{\mathrm{d}t} = \frac{\mathrm{d}\left(m\vec{v}\right)}{\mathrm{d}t},",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,8133,5329
 a,acceleration (Q11376),-,-,4,-,-,4,-,global,5553,-1
-\vec{F} = m\frac{\mathrm{d}\vec{v}}{\mathrm{d}t}.,newton's second law of motion (N/A),-,-,-,-,-,-,-,global,12029,6536
+\vec{F} = m\frac{\mathrm{d}\vec{v}}{\mathrm{d}t}.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,12029,6536
 \vec{F} =m\vec{a}.,Newton's second law of motion (Q3268014),-,-,-,1,-,-,-,global,2335,-1
 "\vec{F}_{1,2}=-\vec{F}_{2,1}.",newton's third law of motion (N/A),-,-,-,-,-,-,-,global,11061,1574
 "\vec{F}_{1,2}+\vec{F}_{\mathrm{2,1}}=0.",newton's third law of motion (N/A),-,-,-,-,-,-,-,global,9099,4204
@@ -19,25 +19,25 @@ c,speed of light (Q2111),-,1,2,-,-,-,-,global,2213,-1
 x,coordinate (Q12753000),5,-,-,-,-,-,-,global,2721,-1
 y,coordinate (Q12753000),1,-,-,-,-,-,-,global,4341,-1
 z,coordinate (Q12753000),1,-,-,-,-,-,-,global,5564,-1
-gamma,lorentz factor (N/A),-,8,-,-,-,-,-,global,5825,-1
- \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}.,Lorentz factor (N/A),-,-,-,-,-,-,1,global,5243,-1
+gamma,Lorentz factor (Q599404),-,8,-,-,-,-,-,global,5825,-1
+ \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}.,Lorentz factor (Q599404),-,-,-,-,-,-,1,global,5243,-1
 "\vec{F} = \left(\gamma^3 m a_x, \gamma m a_y, \gamma m a_z\right),",relativistic force (N/A),-,-,-,-,-,-,-,global,5889,1627
 F = m a,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9963,4860
 mu,index (N/A),-,-,-,-,-,-,-,global,3288,8592
 A,matrix (Q44337),2,-,-,-,-,-,-,global,3826,-1
 "F^\mu = mA^\mu \,",relativistic force (N/A),-,-,-,-,-,-,-,global,6771,3230
 g,gravitational constant (Q18373),-,-,-,-,-,-,-,global,3374,-1
-\vec{F} = m\vec{g},gravitational force (N/A),-,-,-,-,-,-,-,global,7250,3018
+\vec{F} = m\vec{g},gravitational force (Q11412),-,-,-,-,-,-,-,global,7250,3018
 G,gravitational constant (Q18373),-,7,-,-,-,-,-,global,5560,-1
 R,mean equatorial radius (N/A),-,-,-,-,-,-,-,global,3051,-1
 r,radius (Q173817),2,2,1,-,-,-,-,global,1925,-1
-\vec{g}=-\frac{Gm_\oplus}{{R_\oplus}^2} \hat{r},gravitational acceleration (N/A),-,-,-,-,-,-,-,global,8572,2592
-\vec{F}=-\frac{Gm_{1}m_{2}}{r^2} \hat{r},gravitational force (N/A),-,-,-,-,-,-,-,global,10791,2251
+\vec{g}=-\frac{Gm_\oplus}{{R_\oplus}^2} \hat{r},gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,8572,2592
+\vec{F}=-\frac{Gm_{1}m_{2}}{r^2} \hat{r},gravitational force (Q11412),-,-,-,-,-,-,-,global,10791,2251
 E,electric field (N/A),-,-,-,-,-,-,-,global,5698,7782
 q,electric charge (Q1111),-,4,1,-,-,-,-,global,2986,-1
 B,Magnetic field (N/A),-,-,-,-,-,-,-,global,6085,1989
 I,electric current (N/A),-,-,-,-,-,-,-,global,5758,2454
-\vec{F} = q(\vec{E} + \vec{v} \times \vec{B}),electromagnetic force (N/A),-,-,-,-,-,-,-,global,6242,6431
+\vec{F} = q(\vec{E} + \vec{v} \times \vec{B}),electromagnetic force (Q849919),-,-,-,-,-,-,-,global,6242,6431
 B = {F \over{I \ell}},magnitude (Q2028919),-,-,-,-,-,2,-,global,2941,-1
 0 \le F_{\mathrm{sf}} \le \mu_{\mathrm{sf}} F_\mathrm{N}.,friction (N/A),-,-,-,-,-,3,-,global,2291,-1
 "F_{\mathrm{kf}} = \mu_{\mathrm{kf}} F_\mathrm{N},",friction (N/A),-,-,-,-,-,7,-,global,3296,-1
@@ -50,21 +50,21 @@ P,pressure (Q39552),-,2,4,-,-,2,-,global,2591,-1
 \frac{\vec{F}}{V} = - \vec{\nabla} P,gradient (N/A),-,-,-,-,-,1,-,global,1880,-1
 b,constant (Q188248),1,-,-,-,-,-,-,global,3289,-1
 "\vec{F}_\mathrm{d} = - b \vec{v} \,",Stokes' law (Q824561),-,-,-,-,-,-,-,global,6801,4915
-sigma,stress (N/A),-,-,-,-,-,-,-,global,3864,9455
-\sigma = \frac{F}{A},stress (N/A),-,-,-,-,-,-,-,global,7295,8336
+sigma,stress (Q206175),-,-,-,-,-,-,-,global,3864,9455
+\sigma = \frac{F}{A},stress (Q206175),-,-,-,-,-,-,-,global,7295,8336
 tau,torque (Q48103),-,-,-,-,-,4,-,global,3650,-1
 alpha,angular acceleration (Q186300),-,-,-,-,-,-,-,global,1998,-1
 \vec{\tau} = I\vec{\alpha},torque (Q48103),-,-,-,-,-,8,-,global,3020,-1
 \vec{\tau} = \vec{r} \times \vec{F},torque (Q48103),-,-,-,-,-,4,-,global,2217,-1
 "\vec{\tau} = \frac{\mathrm{d}\vec{L}}{\mathrm{dt}},",torque (N/A),-,-,-,-,-,-,-,global,6436,5106
-\vec{F} = - \frac{mv^2 \hat{r}}{r},centripetal force (N/A),-,-,-,-,-,-,-,global,5524,3685
+\vec{F} = - \frac{mv^2 \hat{r}}{r},centripetal force (Q172881),-,-,-,-,-,-,-,global,5524,3685
 J,impulse (N/A),-,-,-,-,-,-,-,global,4390,6350
 W,work (Q42213),-,4,-,-,-,3,-,global,2050,-1
 "W=\int_{\vec{x}_1}^{\vec{x}_2}{\vec{F} \cdot{\mathrm{d}\vec{x}}},",work (Q42213),-,-,-,-,-,3,-,global,2891,-1
 {\vec{v}\text{ }=\text{ d}\vec{x}/\text{d}t},velocity (Q11465),-,-,-,-,-,1,-,global,3723,-1
 \vec{F}=-\vec{\nabla} U.,gradient (N/A),-,-,-,-,-,3,-,global,2565,-1
 U,potential energy (N/A),-,-,-,-,-,-,-,global,1747,-1
-\vec{F}_g = - \frac{G m_1 m_2}{r^2} \hat{r},gravitational force (N/A),-,-,-,-,-,-,-,global,6051,3962
-\vec{F}_e = \frac{q_1 q_2}{4 \pi \epsilon_{0} r^2} \hat{r},electrostatic force (N/A),-,-,-,-,-,-,-,global,6100,3910
+\vec{F}_g = - \frac{G m_1 m_2}{r^2} \hat{r},gravitational force (Q11412),-,-,-,-,-,-,-,global,6051,3962
+\vec{F}_e = \frac{q_1 q_2}{4 \pi \epsilon_{0} r^2} \hat{r},electrostatic force (Q103438301),-,-,-,-,-,-,-,global,6100,3910
 epsilon,permittivity (Q211569),-,-,-,-,-,3,-,global,2554,-1
 \vec{F}_s = - k r \hat{r},Hooke's law (Q170282),-,-,-,-,-,-,-,global,9692,1802

@@ -20,15 +20,15 @@ c,constant (Q188248),1,-,-,-,-,-,-,global,2021,-1
 " F = - kx - c\frac{\mathrm{d}x}{\mathrm{d}t} = m \frac{\mathrm{d}^2x}{\mathrm{d}t^2},",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9535,2773
 zeta,damping (N/A),-,-,-,-,-,3,-,global,4725,-1
 \omega_0 = \sqrt{\frac k m},angular frequency (Q834020),-,-,-,-,-,-,2,global,3072,-1
-\zeta = \frac{c}{2\sqrt{mk}},damping (N/A),-,-,-,-,-,2,-,global,2607,-1
+\zeta = \frac{c}{2\sqrt{mk}},damping (Q1127660),-,-,-,-,-,2,-,global,2607,-1
 Q,damping (N/A),-,-,-,-,-,5,-,global,3436,-1
-F(t)-kx-c\frac{\mathrm{d}x}{\mathrm{d}t}=m\frac{\mathrm{d}^2x}{\mathrm{d}t^2}. ,newton's second law (N/A),-,-,-,-,-,-,4,global,2832,-1
+F(t)-kx-c\frac{\mathrm{d}x}{\mathrm{d}t}=m\frac{\mathrm{d}^2x}{\mathrm{d}t^2}. ,Newton's second law of motion (Q3268014),-,-,-,-,-,-,4,global,2832,-1
 "z(t) = A \mathrm{e}^{-\zeta \omega_0 t} \sin \left( \sqrt{1 - \zeta^2} \omega_0 t + \varphi \right), ",oscillations (N/A),-,-,-,-,-,1,-,global,2794,-1
 z,coordinate (Q12753000),1,-,-,-,-,-,-,global,1860,-1
 e,constant (Q188248),2,-,-,-,-,-,-,global,3346,-1
 " x(t) = 1 - \mathrm{e}^{-\zeta \omega_0 t} \frac{\sin \left( \sqrt{1 - \zeta^2} \omega_0 t + \varphi \right)}{\sin(\varphi)},",phase (N/A),-,-,-,-,-,1,-,global,3627,-1
-Z,mechanical impedance (N/A),-,-,-,-,-,-,-,global,7324,2203
- Z_m = \sqrt{\left(2\omega_0\zeta\right)^2 + \frac{1}{\omega^2} (\omega_0^2 - \omega^2)^2},mechanical impedance (N/A),-,-,-,-,-,-,-,global,7485,2194
+Z,mechanical impedance (Q6421317),-,-,-,-,-,-,-,global,7324,2203
+ Z_m = \sqrt{\left(2\omega_0\zeta\right)^2 + \frac{1}{\omega^2} (\omega_0^2 - \omega^2)^2},mechanical impedance (Q6421317),-,-,-,-,-,-,-,global,7485,2194
 tau,time (Q11471),1,-,-,-,-,-,-,global,1789,-1
 q,coordinate (N/A),-,-,-,-,-,-,-,global,3900,3738
 \frac{\mathrm{d}^2q}{\mathrm{d} \tau^2} + 2 \zeta \frac{\mathrm{d}q}{\mathrm{d}\tau} + q = 0,equation of motion (N/A),-,-,-,-,-,-,-,global,5552,2193
@@ -37,7 +37,7 @@ q_t (\tau) = \begin{cases} \mathrm{e}^{-\zeta\tau} \left( c_1 \mathrm{e}^{\tau \
 -\omega^2 A + 2 \zeta \mathrm{i} \omega A + A = \mathrm{e}^{-\mathrm{i} \varphi} = \cos\varphi - \mathrm{i} \sin\varphi.,amplitude (N/A),-,-,-,-,-,-,-,global,3558,4818
 V,potential (Q12559031),3,-,-,-,-,-,-,global,4084,-1
 theta,angle (Q11352),1,1,-,-,-,-,-,global,1589,-1
-\frac{d^2\theta}{dt^2} + \frac{g}{l}\sin\theta = 0.,pendulum (N/A),-,-,-,-,-,-,-,global,3714,5292
+\frac{d^2\theta}{dt^2} + \frac{g}{l}\sin\theta = 0.,pendulum (Q20702),-,-,-,-,-,-,-,global,3714,5292
 g,gravitational constant (Q18373),-,-,-,-,-,-,-,global,1783,-1
 "\theta(t) = \theta_0 \cos\left(\sqrt{\frac{g}{l}} t\right),",period (Q3382125),-,-,-,-,-,-,-,global,3423,7000
 l,length (Q36253),1,-,1,-,-,-,-,global,893,-1

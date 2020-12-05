@@ -18,4 +18,4 @@ c,speed of light (Q2111),-,1,2,-,-,-,-,global,2406,-1
 lambda,wavelength (Q41364),-,5,-,-,-,2,-,global,1757,-1
 f = \frac{v}{\lambda}.,frequency (Q11652),-,-,-,-,-,7,-,global,4969,-1
 f = \frac{c}{\lambda}.,frequency (Q11652),-,-,-,-,-,-,-,global,5711,7472
-\displaystyle c=f\lambda,speed of light (N/A),-,-,-,-,-,-,-,global,5346,4738
+\displaystyle c=f\lambda,speed of light (Q2111),-,-,-,-,-,-,-,global,5346,4738

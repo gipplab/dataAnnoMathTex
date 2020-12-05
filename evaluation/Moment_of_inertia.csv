@@ -7,5 +7,5 @@ E,energy (Q11379),1,4,2,-,-,5,-,global,1482,-1
 r,distance (Q126017),5,1,5,-,-,-,-,global,2728,-1
 alpha,angular acceleration (Q186300),-,-,-,-,-,-,-,global,1534,-1
 tau,torque (Q48103),-,-,-,-,-,-,-,global,2551,-1
-\tau = I \alpha.,torque (N/A),-,-,-,-,-,-,-,global,6592,2343
+\tau = I \alpha.,torque (Q48103),-,-,-,-,-,-,-,global,6592,2343
 I = mr^2.,moment of inertia (Q165618),-,-,-,-,-,-,2,global,1919,-1

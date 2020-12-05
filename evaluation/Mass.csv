@@ -4,32 +4,32 @@ M,mass (Q11423),1,1,-,-,-,-,-,global,1145,-1
 m,mass (Q11423),1,3,2,-,-,10,-,global,2598,-1
 a,acceleration (Q11376),-,-,4,-,-,1,-,global,3388,-1
 g,gravitational constant (Q18373),-,-,-,-,-,-,-,global,1436,-1
-F = M g.,gravitational force (N/A),-,-,-,-,-,-,-,global,5550,2428
+F = M g.,gravitational force (Q11412),-,-,-,-,-,-,-,global,5550,2428
 F = m a.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,1,global,4271,-1
-a=\frac{M}{m}g.,gravitational acceleration (N/A),-,-,-,-,-,-,-,global,9060,6474
+a=\frac{M}{m}g.,gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,9060,6474
 mu,distance (Q126017),-,-,-,-,-,4,-,global,5002,-1
 pi,constant (Q188248),-,-,-,-,-,-,-,global,1783,-1
 \mu=4\pi^2\frac{\text{distance}^3}{\text{time}^2}\propto\text{gravitational mass},free fall (Q140028),-,-,-,-,-,-,-,global,3032,2585
 1.2\pi^2\cdot10^{-5}\frac{\text{AU}^3}{\text{y}^2}=3.986\cdot10^{14}\frac{\text{m}^3}{\text{s}^2},acceleration (Q11376),-,-,-,-,-,3,-,global,3648,-1
 R,radius (Q173817),1,3,1,-,-,-,-,global,2336,-1
-\mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^2},gravitational acceleration (N/A),-,-,-,-,-,-,-,global,10424,2603
-\mathbf{F}_{\text{AB}}=-GM_{\text{A}}M_{\text{B}}\frac{\hat{\mathbf{R}}_{\text{AB}}}{|\mathbf{R}_{\text{AB}}|^2}\ ,gravitational force (N/A),-,-,-,-,-,-,-,global,5663,1555
+\mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^2},gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,10424,2603
+\mathbf{F}_{\text{AB}}=-GM_{\text{A}}M_{\text{B}}\frac{\hat{\mathbf{R}}_{\text{AB}}}{|\mathbf{R}_{\text{AB}}|^2}\ ,gravitational force (Q11412),-,-,-,-,-,-,-,global,5663,1555
 F=Mg,Newton's second law of motion (Q3268014),-,-,-,-,-,-,1,global,3566,-1
 "\mathbf{F}=m \mathbf{a},",Newton's second law (N/A),-,-,-,-,-,-,2,global,3006,-1
 "\mathbf{F_{12}}  =m_1\mathbf{a}_1,\\\mathbf{F_{21}}  =m_2\mathbf{a}_2,",Newton' s second law (N/A),-,-,-,-,-,-,1,global,2296,-1
-\mathbf{F}_{12}=-\mathbf{F}_{21};,Newton's third law of motion (N/A),-,-,-,-,-,-,-,global,8512,1279
+\mathbf{F}_{12}=-\mathbf{F}_{21};,Newton's third law of motion (Q3235565),-,-,-,-,-,-,-,global,8512,1279
 p,momentum (Q41273),5,-,-,-,-,-,-,global,3962,-1
 v,velocity (Q11465),3,7,4,-,-,1,-,global,2440,-1
 \mathbf{p}=m\mathbf{v},momentum (Q41273),-,-,-,1,-,-,-,global,4369,-1
 K,kinetic energy (N/A),-,-,-,-,-,-,-,global,5689,5289
 K=\dfrac{1}{2}m|\mathbf{v}|^2,kinetic energy (Q46276),-,-,-,4,-,-,-,global,4838,-1
-gamma,lorentz factor (N/A),-,8,-,-,-,-,-,global,7708,-1
+gamma,lorentz factor (Q599404),-,8,-,-,-,-,-,global,7708,-1
 c,speed of light (Q2111),-,1,2,-,-,-,-,global,2495,-1
-\gamma = \frac{1}{\sqrt{1 - v^2/c^2}},Lorentz factor (N/A),-,-,-,-,-,-,1,global,6360,-1
+\gamma = \frac{1}{\sqrt{1 - v^2/c^2}},Lorentz factor (Q599404),-,-,-,-,-,-,1,global,6360,-1
 E,energy (Q11379),1,4,2,-,-,-,-,global,1636,-1
-(m_\mathrm{rest})c^2=\sqrt{E_\mathrm{total}^2-(|\mathbf{p}|c)^2}.\!,rest mass (N/A),-,-,-,-,-,-,-,global,3741,5103
-E_\mathrm{rest}=(m_\mathrm{rest})c^2\!,rest energy (N/A),-,-,-,-,-,-,-,global,4120,1735
- E_\mathrm{total}=(m_\mathrm{relative})c^2\!,mass-energy equivalence (N/A),-,-,-,-,-,-,-,global,6734,3451
+(m_\mathrm{rest})c^2=\sqrt{E_\mathrm{total}^2-(|\mathbf{p}|c)^2}.\!,rest mass (Q96941619),-,-,-,-,-,-,-,global,3741,5103
+E_\mathrm{rest}=(m_\mathrm{rest})c^2\!,rest energy (Q11663629),-,-,-,-,-,-,-,global,4120,1735
+ E_\mathrm{total}=(m_\mathrm{relative})c^2\!,mass-energy equivalence (Q35875),-,-,-,-,-,-,-,global,6734,3451
 t,time (Q11471),1,3,4,-,-,-,-,global,2486,-1
 L,Lagrangian (N/A),-,-,-,-,-,-,-,global,4623,2293
 Psi,wavefunction (N/A),-,1,-,-,-,-,-,global,3132,-1
