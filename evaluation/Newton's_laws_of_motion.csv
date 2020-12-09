@@ -2,9 +2,9 @@ Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindo
 F,force (Q11402),-,9,2,-,-,1,-,global,1499,-1
 v,velocity (Q11465),3,7,4,-,-,-,-,global,3337,-1
 t,time (Q11471),1,3,4,-,-,-,-,global,1623,-1
-\sum \mathbf{F} = 0\; \Leftrightarrow\; \frac{\mathrm{d} \mathbf{v} }{\mathrm{d}t} = 0.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,4,global,2763,-1
+\sum \mathbf{F} = 0\; \Leftrightarrow\; \frac{\mathrm{d} \mathbf{v} }{\mathrm{d}t} = 0.,Newton's second law of motion (Q2397319),-,-,-,-,-,-,4,global,2763,-1
 p,momentum (Q41273),5,-,-,-,-,-,-,global,1564,-1
 m,mass (Q11423),1,3,2,-,-,5,-,global,1603,-1
-\mathbf{F} = \frac{\mathrm{d}\mathbf{p}}{\mathrm{d}t} = \frac{\mathrm{d}(m\mathbf v)}{\mathrm{d}t}.,Newton' s second law of motion (Q3268014),-,-,-,-,-,-,3,global,2893,-1
+\mathbf{F} = \frac{\mathrm{d}\mathbf{p}}{\mathrm{d}t} = \frac{\mathrm{d}(m\mathbf v)}{\mathrm{d}t}.,Newton' s second law of motion (Q2397319),-,-,-,-,-,-,3,global,2893,-1
 J,impulse (N/A),-,-,-,-,-,-,-,global,5878,2553
 " \mathbf{J} = \int_{\Delta t} \mathbf F \,\mathrm{d}t~.",impulse (N/A),-,-,-,-,-,-,-,global,10417,1815

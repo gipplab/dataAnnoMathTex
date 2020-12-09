@@ -5,7 +5,7 @@ m,mass (Q11423),1,3,2,-,-,10,-,global,2598,-1
 a,acceleration (Q11376),-,-,4,-,-,1,-,global,3388,-1
 g,gravitational constant (Q18373),-,-,-,-,-,-,-,global,1436,-1
 F = M g.,gravitational force (Q11412),-,-,-,-,-,-,-,global,5550,2428
-F = m a.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,1,global,4271,-1
+F = m a.,Newton's second law of motion (Q2397319),-,-,-,-,-,-,1,global,4271,-1
 a=\frac{M}{m}g.,gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,9060,6474
 mu,distance (Q126017),-,-,-,-,-,4,-,global,5002,-1
 pi,constant (Q188248),-,-,-,-,-,-,-,global,1783,-1
@@ -14,7 +14,7 @@ pi,constant (Q188248),-,-,-,-,-,-,-,global,1783,-1
 R,radius (Q173817),1,3,1,-,-,-,-,global,2336,-1
 \mathbf{g}=-\mu\frac{\hat{\mathbf{R}}}{|\mathbf{R}|^2},gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,10424,2603
 \mathbf{F}_{\text{AB}}=-GM_{\text{A}}M_{\text{B}}\frac{\hat{\mathbf{R}}_{\text{AB}}}{|\mathbf{R}_{\text{AB}}|^2}\ ,gravitational force (Q11412),-,-,-,-,-,-,-,global,5663,1555
-F=Mg,Newton's second law of motion (Q3268014),-,-,-,-,-,-,1,global,3566,-1
+F=Mg,Newton's second law of motion (Q2397319),-,-,-,-,-,-,1,global,3566,-1
 "\mathbf{F}=m \mathbf{a},",Newton's second law (N/A),-,-,-,-,-,-,2,global,3006,-1
 "\mathbf{F_{12}}  =m_1\mathbf{a}_1,\\\mathbf{F_{21}}  =m_2\mathbf{a}_2,",Newton' s second law (N/A),-,-,-,-,-,-,1,global,2296,-1
 \mathbf{F}_{12}=-\mathbf{F}_{21};,Newton's third law of motion (Q3235565),-,-,-,-,-,-,-,global,8512,1279
