@@ -10,11 +10,11 @@ p= mv_\text{cm}.,momentum (Q41273),-,-,-,-,-,2,-,global,2209,-1
 F,force (Q11402),-,9,2,-,-,6,-,global,2103,-1
 t,time (Q11471),1,3,4,-,-,-,-,global,2380,-1
 Delta,changes (N/A),-,-,-,-,-,2,-,global,3459,-1
-"\Delta p = F \Delta t\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,13920,1676
-F = \frac{dp }{d t}. ,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,7692,4738
+"\Delta p = F \Delta t\,.",Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,13920,1676
+F = \frac{dp }{d t}. ,Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,7692,4738
 J,impulse (N/A),-,-,-,-,-,3,-,global,2701,-1
-" \Delta p = J = \int_{t_1}^{t_2} F(t)\, dt\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9059,3656
-"F = \frac{d(mv)}{d t} = m\frac{dv}{d t} = m a,",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,8178,2347
+" \Delta p = J = \int_{t_1}^{t_2} F(t)\, dt\,.",Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,9059,3656
+"F = \frac{d(mv)}{d t} = m\frac{dv}{d t} = m a,",Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,8178,2347
 a,acceleration (Q11376),-,-,4,-,-,3,-,global,3999,-1
 " \frac{d p_1}{d t} = - \frac{d p_2}{d t}, ",Newton's third law of motion (N/A),-,-,-,-,-,-,-,global,8538,1942
  \frac{d}{d t} \left(p_1+ p_2\right)= 0. ,Newton's laws of motion (N/A),-,-,-,-,-,-,-,global,8062,4442
@@ -25,15 +25,15 @@ x,coordinate (Q12753000),5,-,-,-,-,2,-,global,1803,-1
 " v' = \frac{dx'}{dt} = v-u\,.",Galilean transformation (N/A),-,-,-,-,-,-,-,global,9976,6884
 " a' = \frac{dv'}{dt} = a\,.",Galilean transformation (N/A),-,-,-,-,-,-,-,global,6030,1785
 \mathbf{p}= m \mathbf{v},momentum (Q41273),-,-,-,1,-,-,2,global,1745,-1
- F = m(t) \frac{dv}{dt} + v(t) \frac{dm}{dt}.,Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,7838,3110
-" F = m(t) \frac{dv}{dt} - u \frac{dm}{dt},",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,9163,1848
+ F = m(t) \frac{dv}{dt} + v(t) \frac{dm}{dt}.,Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,7838,3110
+" F = m(t) \frac{dv}{dt} - u \frac{dm}{dt},",Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,9163,1848
  P(t+dt) = ( m - dm ) ( v + dv ) + dm ( v - u ) = mv+m dv - u dm = P(t) +m dv - u dm ,momentum (Q41273),-,-,-,-,-,1,-,global,2810,-1
   t' = t  \\  x' = x - v t,Galilean transformation (N/A),-,-,-,-,-,-,-,global,6377,2115
 "  t' = \gamma \left( t - \frac{v x}{c^2} \right)  \\  x' = \gamma \left( x - v t \right)\,",Lorentz transformation (Q217255),-,-,-,-,-,-,-,global,6808,4256
 gamma,Lorentz factor (Q599404),-,-,-,-,-,-,-,global,4328,4769
 \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}. ,Lorentz factor (Q599404),-,-,-,-,-,-,-,global,4816,1785
 " \mathbf{p} = \gamma m_0 \mathbf{v}\,,",momentum (Q41273),-,-,-,1,-,1,1,global,1614,-1
-" \mathbf{F} = \frac{d \mathbf{p}}{dt}\,.",Newton's second law of motion (Q3268014),-,-,-,-,-,-,-,global,8027,1416
+" \mathbf{F} = \frac{d \mathbf{p}}{dt}\,.",Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,8027,1416
 P,momentum (Q41273),8,-,-,-,-,-,-,global,4991,-1
 U,velocity (Q11465),-,-,-,-,-,-,-,global,3430,6063
 " \mathbf{U} \equiv \frac{d \mathbf{R}}{d \tau} = \gamma \frac{d \mathbf{R}}{dt}\,,",four-velocity (N/A),-,-,-,-,-,-,-,global,7079,1698
