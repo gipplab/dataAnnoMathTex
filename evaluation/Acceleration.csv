@@ -14,7 +14,7 @@ d,N/A (N/A),-,-,-,-,-,-,-,global,False,False
 v,velocity (Q11465),3,7,4,-,-,-,-,global,3821,-1
 t,time (Q11471),1,3,4,-,-,-,-,global,1469,-1
 x,position (N/A),-,2,-,-,-,-,-,global,4531,-1
-\mathbf{a} =  \frac{d\mathbf{v}}{dt} = \frac{d^2\mathbf{x}}{dt^2},acceleration (Q11376),-,-,-,-,-,-,-,global,5134,6603
+\mathbf{a} =  \frac{d\mathbf{v}}{dt} = \frac{d^2\mathbf{x}}{dt^2},acceleration (N/A),-,-,-,-,-,-,-,global,5134,6603
 ( \Delta \mathbf{v}),change (N/A),-,-,-,-,-,4,-,global,7263,-1
 ( \Delta t),change (N/A),-,-,-,-,-,4,-,global,4574,-1
 \bar{\mathbf{a}} = \frac{\Delta \mathbf{v}}{\Delta t}.,acceleration (Q11376),-,-,-,-,-,6,-,global,2872,-1
@@ -25,7 +25,7 @@ o,N/A (N/A),-,-,-,-,-,-,-,global,False,False
 j,jerk (N/A),-,-,-,-,-,6,-,global,5415,-1
 F,force (Q11402),-,9,2,-,-,7,-,global,2870,-1
 m,mass (Q11423),1,3,2,-,-,8,-,global,2138,-1
-\mathbf{F} = m\mathbf{a} \quad \to \quad \mathbf{a} = \frac{\mathbf{F}}{m},Newton' s second law of motion (Q2397319),-,-,-,-,-,-,-,global,25534,8865
+\mathbf{F} = m\mathbf{a} \quad \to \quad \mathbf{a} = \frac{\mathbf{F}}{m},Newton' s second law (N/A),-,-,-,-,-,-,-,global,25534,8865
 "\mathbf{v} (t) =v(t) \frac {\mathbf{v}(t)}{v(t)} = v(t) \mathbf{u}_\mathrm{t}(t) , ",Circular motion velocity (N/A),-,-,-,-,-,-,-,global,7700,2694
 u,velocity (Q11465),-,2,1,-,-,6,-,global,4522,-1
 "\mathbf{u}_\mathrm{t} = \frac {\mathbf{v}(t)}{v(t)} \ , ",Tangential velocity (N/A),-,-,-,-,-,-,-,global,6386,1448
@@ -33,10 +33,10 @@ u,velocity (Q11465),-,2,1,-,-,6,-,global,4522,-1
 r,radius (Q173817),2,2,1,-,-,-,-,global,3332,-1
 g,gravitational constant (N/A),-,-,-,-,-,-,-,global,6113,58838
 s,displacement (Q190291),-,4,-,-,-,2,-,global,2605,-1
- \mathbf{F_g} = m  \mathbf{g},Newton's second law of motion (Q2397319),-,-,-,-,-,-,-,global,7496,4623
+ \mathbf{F_g} = m  \mathbf{g},Newton's second law (N/A),-,-,-,-,-,-,-,global,7496,4623
  \mathbf{s}(t) = \mathbf{s}_0 + \mathbf{v}_0 t+ \tfrac{1}{2} \mathbf{a}t^2 = \mathbf{s}_0 + \frac{\mathbf{v}_0+\mathbf{v}(t)}{2}t ,Circular displacement (N/A),-,-,-,-,-,-,-,global,10596,1628
  \mathbf{v}(t) = \mathbf{v}_0 + \mathbf{a} t ,Circular velocity (N/A),-,-,-,-,-,-,-,global,7720,932
- a_c = \frac {v^2} {r}\;.,Centripetal acceleration (Q2248131),-,-,-,-,-,-,-,global,7677,5199
+ a_c = \frac {v^2} {r}\;.,Centripetal acceleration (N/A),-,-,-,-,-,-,-,global,7677,5199
 omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,1918,-1
  v = \omega r.,velocity (Q11465),-,-,-,-,-,2,-,global,4822,-1
 \omega = \frac {v}{r}.,angular velocity (Q161635),-,-,-,-,-,-,-,global,6431,3165
@@ -50,7 +50,7 @@ alpha,angular acceleration (N/A),-,-,-,-,-,-,-,global,5242,6078
 \omega,angular velocity (Q161635),-,-,-,-,-,-,-,global,5585,10364
 \mathbf{r} ,distance (Q126017),-,-,-,-,-,4,-,global,7213,-1
  \mathbf {a_c}= -\frac{v^2}{|\mathbf {r}|}\cdot \frac{\mathbf {r}}{|\mathbf {r}|}\;. ,acceleration (Q11376),-,-,-,-,-,2,-,global,6616,-1
- \mathbf {a_c}= -\omega^2  \mathbf {r}\;. ,acceleration (Q11376),-,-,-,-,-,-,-,global,4323,13185
+ \mathbf {a_c}= -\omega^2  \mathbf {r}\;. ,acceleration (N/A),-,-,-,-,-,-,-,global,4323,13185
 \alpha,acceleration (Q11376),-,-,-,-,-,5,-,global,4446,-1
 \alpha = \dot\omega,acceleration (Q11376),-,-,-,-,-,5,-,global,3685,-1
  a_t = r \alpha.,acceleration (Q11376),-,-,-,-,-,5,-,global,4328,-1
