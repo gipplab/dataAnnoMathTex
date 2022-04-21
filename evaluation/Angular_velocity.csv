@@ -7,7 +7,7 @@ r,radius (Q173817),2,2,1,-,-,10,-,global,2197,-1
 v = r\omega,linear velocity (N/A),-,-,-,-,-,-,-,global,7705,1757
 phi,angle (Q11352),-,3,-,-,-,-,-,global,2908,-1
 t,time (Q11471),1,3,4,-,-,2,-,global,1135,-1
-\omega = \frac{d\phi}{dt} = \frac{v_\perp}{r}.,radial velocity (Q240105),-,-,-,-,-,-,-,global,2880,-1
+\omega = \frac{d\phi}{dt} = \frac{v_\perp}{r}.,radial velocity (N/A),-,-,-,-,-,-,-,global,2880,-1
 theta,angle (Q11352),1,1,-,-,-,-,-,global,1795,-1
 \omega = \frac{v\sin(\theta)}{r}.,angular velocity (Q161635),-,-,-,1,-,-,-,global,1929,-1
 u,vector (N/A),8,-,-,-,-,1,-,global,2648,-1
