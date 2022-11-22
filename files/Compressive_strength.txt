@@ -1,0 +1,174 @@
+{{short description|Capacity of a material or structure to withstand loads tending to reduce size}}
+{{more citations needed|date=May 2014}}
+[[File:US military drum compression test.jpg|thumb|200 px|Measuring the compressive strength of a steel [[Drum (container)|drum]]]]
+
+In [[mechanics]], '''compressive strength''' or '''compression strength''' is the capacity of a material or [[Structural system|structure]] to withstand [[Structural load|load]]s tending to reduce size (as opposed to [[tensile strength]] which withstands loads tending to elongate). In other words, compressive strength resists [[Compression (physics)|compression]] (being pushed together), whereas tensile strength resists [[Tension (physics)|tension]] (being pulled apart). In the study of [[strength of materials]], tensile strength, compressive strength, and [[shear strength]] can be analyzed independently.
+
+Some materials [[fracture]] at their compressive strength limit; others [[Plasticity (physics)|deform irreversibly]], so a given amount of [[Deformation (engineering)|deformation]] may be considered as the limit for compressive load. Compressive strength is a key value for [[Structural engineering|design of structures]].
+
+Compressive strength is often measured on a [[universal testing machine]]. Measurements of compressive strength are affected by the specific [[test method]] and conditions of measurement. Compressive strengths are usually reported in relationship to a specific [[technical standard]].
+
+== Introduction ==
+{{multiple image
+|align=right
+|direction= horizontal<!-- horizontal (default), vertical -->
+|image1=Tension applied.svg
+|width1=75
+|caption1=[[Tension (physics)|Tension]]
+|alt1=
+|image2=Compression applied.svg
+|width2=75
+|caption2=[[Compression (physics)|Compression]]
+|alt2=
+}}
+
+When a specimen of material is loaded in such a way that it extends it is said to be in ''tension''. On the other hand, if the material [[compression (physical)|compresses]] and shortens it is said to be in ''compression''.
+
+On an atomic level, the molecules or [[atoms]] are forced apart when in tension whereas in compression they are forced together. Since atoms in solids always try to find an equilibrium position, and distance between other atoms, forces arise throughout the entire material which oppose both tension or compression. The phenomena prevailing on an atomic level are therefore similar.
+
+The "strain" is the relative change in length under applied stress; positive strain characterizes an object under tension load which tends to lengthen it, and a compressive stress that shortens an object gives negative strain. Tension tends to pull small sideways deflections back into alignment, while compression tends to amplify such deflection into [[buckling]].
+
+Compressive strength is measured on materials, components,<ref>{{Cite journal
+  | last1 = Urbanek
+  | first1 = T
+  | last2 =Lee, Johnson
+  | title = Column Compression Strength of Tubular Packaging Forms Made of Paper
+  | publisher = Journal of Testing and Evaluation
+  | volume = 34,6
+  | pages =31–40
+  | url = http://www.fpl.fs.fed.us/documnts/pdf2006/fpl_2006_urbanik001.pdf
+  | access-date =13 May 2014}}</ref> and structures.<ref>{{Citation
+| last1 = Ritter
+| first1 = m A
+| last2= Oliva
+| chapter = 9, Design of Longitudinal Stress-Laminated Deck Superstructures
+| year =1990 
+| title = Timber Bridges: Design, Construction, Inspection, and Maintenance
+| publisher = US Dept of Agriculture, Forest Products Laboratory
+| publication-date = 2010
+| chapter-url = http://www.fpl.fs.fed.us/documnts/misc/em7700_8_chapter09.pdf
+|access-date=13 May 2014
+}}</ref>
+
+By definition, the ultimate compressive strength of a material is that value of uniaxial [[compressive stress]] reached when the material fails completely. The compressive strength is usually obtained experimentally by means of a ''compressive test''. The apparatus used for this experiment is the same as that used in a tensile test. However, rather than applying a uniaxial tensile load, a uniaxial compressive load is applied. As can be imagined, the specimen (usually cylindrical) is shortened as well as spread [[wiktionary:lateral|laterally]]. A [[stress–strain curve]] is plotted by the instrument and would look similar to the following:
+[[File:engineering stress strain.svg|thumb|left|True Stress-Strain curve for a typical specimen]]
+
+The compressive strength of the material would correspond to the stress at the red point shown on the curve.  In a compression test, there is a linear region where the material follows [[Hooke's law]].  Hence, for this region, ''<math>\sigma=E\epsilon</math>'', where, this time, E refers to the Young's Modulus for compression. In this region, the material deforms elastically and returns to its original length when the stress is removed.
+
+This linear region terminates at what is known as the [[yield point]]. Above this point the material behaves [[Plasticity (physics)|plastically]] and will not return to its original length once the load is removed.
+
+There is a difference between the engineering stress and the true stress. By its basic definition the uniaxial stress is given by:
+
+<math>\sigma = \frac{F}{A}</math>
+
+where,
+F = Load applied [N],
+A = Area [m<sup>2</sup>]
+
+As stated, the area of the specimen varies on compression. In reality therefore the area is some function of the applied load i.e. A = f(F). Indeed, stress is defined as the force divided by the area at the start of the experiment. This is known as the engineering stress and is defined by,
+
+<math>\sigma_e = \frac{F}{A_0}</math>
+
+A<sub>0</sub>=Original specimen area [m<sup>2</sup>]
+
+Correspondingly, the engineering [[Strain (materials science)|strain]] would be defined by:
+
+<math>\epsilon_e = \frac{l-l_0}{l_0}</math>
+
+where
+l = current specimen length [m] and l<sub>0</sub> = original specimen length [m]
+
+The compressive strength would therefore correspond to the point on the engineering [[stress-strain curve]] <math>(\epsilon_e^*,\sigma_e^*)</math> defined by
+
+<math>\sigma_e^* = \frac{F^*}{A_0}</math>
+
+<math>\epsilon_e^* = \frac{l^*-l_0}{l_0}</math>
+
+where
+F<sup>*</sup> = load applied just before crushing and l<sup>*</sup> = specimen length just before crushing.
+
+== Deviation of engineering stress from true stress ==
+[[File:Barelling.svg|75px|thumb|Barrelling]]
+
+In engineering design practice, professionals mostly rely on the engineering stress. In reality, the ''true stress'' is different from the engineering stress. Hence calculating the compressive strength of a material from the given equations will not yield an accurate result.{{clarify|date=January 2016}} This is because the cross sectional area A<sub>0</sub> changes and is some function of load A = φ(F).
+
+The difference in values may therefore be summarized as follows:
+* On compression, the specimen will shorten. The material will tend to spread in the lateral direction and hence increase the [[Cross section (geometry)|cross sectional]] area.
+* In a compression test the specimen is clamped at the edges.{{dubious|date=January 2016}}  For this reason, a frictional force arises which will oppose the lateral spread. This means that work has to be done to oppose this frictional force hence increasing the energy consumed during the process. This results in a slightly inaccurate value of stress obtained from the experiment.{{citation needed|date=January 2016}} The frictional force  is not constant for the entire cross section of the specimen. It varies from a minimum at the center, away from the clamps, to a maximum at the edges where it is clamped. Due to this, a phenomenon known as ''barreling'' occurs where the specimen attains a barrel shape.c
+
+== Comparison of compressive and tensile strengths ==
+Concrete and ceramics typically have much higher compressive strengths than tensile strengths. Composite materials, such as glass fiber epoxy matrix composite, tend to have higher tensile strengths than compressive strengths. Metals are difficult to test to failure in tension vs compression.  In compression metals fail from buckling/crumbling/45deg shear which is much different (though higher stresses) than tension which fails from defects or necking down.
+
+== Compressive failure modes ==
+[[File:Universal Testing Machine.jpg|thumb|right|A cylinder being crushed under a UTM]]
+If the ratio of the length to the effective radius of the material loaded in compression ([[Slenderness ratio]]) is too high, it is likely that the material will fail under [[buckling]]. Otherwise, if the material is ductile yielding usually occurs which displaying the barreling effect discussed above. A brittle material in compression typically will fail by axial splitting, shear fracture, or ductile failure depending on the level of constraint in the direction perpendicular to the direction of loading.  If there is no constraint (also called confining pressure), the brittle material is likely to fail by axial spitting. Moderate confining pressure often results in shear fracture, while high confining pressure often leads to ductile failure, even in brittle materials.<ref>{{Cite book|last=Fischer-Cripps|first=Anthony C.|url=https://www.worldcat.org/oclc/187014877|title=Introduction to contact mechanics|date=2007|publisher=Springer|isbn=978-0-387-68188-7|edition=2nd|location=New York|pages=156|oclc=187014877}}</ref>
+
+Axial Splitting relieves elastic energy in brittle material by releasing strain energy in the directions perpendicular to the applied compressive stress. As defined by a materials [[Poisson's ratio|Poisson ratio]] a material compressed elastically in one direction will strain in the other two directions. During axial splitting a crack may release that tensile strain by forming a new surface parallel to the applied load. The material then proceeds to separate in two or more pieces. Hence the axial splitting occurs most often when there is no confining pressure, i.e. a lesser compressive load on axis perpendicular to the main applied load.<ref>1.    Ashby, M., and C. Sammis. “The Damage Mechanics of Brittle Solids in Compression.” ''Pure and Applied Geophysics'', vol. 133, no. 3, 1990, pp. 489–521., doi:10.1007/bf00878002.</ref> The material now split into micro columns will feel different frictional forces either due to inhomogeneity of interfaces on the free end or stress shielding. In the case of [[stress shielding]], inhomogeneity in the materials can lead to different [[Young's modulus]]. This will in turn cause the stress to be disproportionately distributed, leading to a difference in frictional forces. In either case this will cause the material sections to begin bending and lead to ultimate failure.<ref>1.    Renshaw, Carl E., and Erland M. Schulson. “Universal Behaviour in Compressive Failure of Brittle Materials.” ''Nature'', vol. 412, no. 6850, 2001, pp. 897–900., doi:10.1038/35091045.</ref>
+
+=== Microcracking ===
+{{more citations needed section|date=December 2021}}
+[[File:Customhw406figure.jpg|thumb|Figure 1: microcrack nucleation and propagation]]Microcracks are a leading cause of failure under compression for [[brittle]] and quasi-brittle materials. Sliding along crack tips leads to tensile forces along the tip of the crack. Microcracks tend to form around any pre-existing crack tips. In all cases it is the overall global compressive stress interacting with local microstructural anomalies to create local areas of tension.  Microcracks can stem from a few factors.
+
+# Porosity is the controlling factor for compressive strength in many materials. Microcracks can form around pores, until about they reach approximately the same size as their parent pores. (a)
+# Stiff inclusions within a material such as a precipitate can cause localized areas of tension. (b) When inclusions are grouped up or larger, this effect can be amplified.
+# Even without pores or stiff inclusions, a material can develop microcracks between weak inclined (relative to applied stress) interfaces. These interfaces can slip and create a secondary crack. These secondary cracks can continue opening, as the slip of the original interfaces keeps opening the secondary crack (c). The slipping of interfaces alone is not solely responsible for secondary crack growth as inhomogeneities in the material's [[Young's modulus]] can lead to an increase in effective misfit strain. Cracks that grow this way are known as wingtip microcracks.<ref>1.    Bažant, Zdeněk P., and Yuyin Xiang. “Size Effect in Compression Fracture: Splitting Crack Band Propagation.” ''Journal of Engineering Mechanics'', vol. 123, no. 2, Feb. 1997, pp. 162–172., doi:10.1061/(asce)0733-9399(1997)123:2(162).</ref>
+
+It is important to emphasize that the growth of microcracks is not the growth of the '''original crack/imperfection'''. The cracks that nucleate do so perpendicular to the original crack and are known as secondary cracks.<ref>1.    Horii, H., and S. Nemat-Nasser. “Compression-Induced Microcrack Growth in Brittle Solids: Axial Splitting and Shear Failure.” ''Journal of Geophysical Research'', vol. 90, no. B4, 10 Mar. 1985, p. 3105., doi:10.1029/jb090ib04p03105.</ref> The figure below emphasizes this point for wingtip cracks.
+These secondary cracks can grow to as long as 10-15 times the length of the original cracks in simple (uniaxial) compression. However, if a transverse compressive load is applied. The growth is limited to a few integer multiples of the original crack's length.<ref>Horii, H., and S. Nemat-Nasser. “Compression-Induced Microcrack Growth in Brittle Solids: Axial Splitting and Shear Failure.” ''Journal of Geophysical Research'', vol. 90, no. B4, 10 Mar. 1985, p. 3105., doi:10.1029/jb090ib04p03105.</ref>[[File:Wingtipmicrocrack.jpg|thumb|A secondary crack growing from the tip of a preexisting crack|left|183x183px]][[File:Shear band.jpg|thumb|shear band formation]]
+
+==== Shear bands ====
+If the sample size is large enough such that the worse defect's secondary cracks cannot grow large enough to break the sample, other defects within the sample will begin to grow secondary cracks as well. This will occur homogeneously over the entire sample. These micro-cracks form an echelon that can form an “intrinsic” fracture behavior, the nucleus of a shear fault instability. Shown right:
+
+Eventually this leads the material deforming non-homogeneously. That is the strain caused by the material will no longer vary linearly with the load. Creating localized [[shear band]]s on which the material will fail according to deformation theory. “The onset of localized banding does not necessarily constitute final failure of a material element, but it presumably is at least the beginning of the primary failure process under compressive loading.” <ref>1.    Fracture in Compression of Brittle Solids. The National Academies Press, 1983, doi:10.17226/19491.</ref>
+
+== Typical values ==
+{|width=264 border=1 bordercolor="#000000" cellpadding=4 cellspacing=0 align=center
+|Material || R<sub>s</sub> <nowiki>[</nowiki>[[Pascal (unit)|MPa]]<nowiki>]</nowiki>
+|-]
+|
+|-
+|[[Porcelain]] || 500
+|-
+|[[Bone]] || 150
+|-
+|[[concrete]] || 20-150
+|-
+|[[Ice]] (0&nbsp;°C) || 3<ref>{{Cite journal|last1=Kermani|first1=Majid|last2=Farzaneh|first2=Masoud|last3=Gagnon|first3=Robert|date=2007-09-01|title=Compressive strength of atmospheric ice|journal=Cold Regions Science and Technology|volume=49|issue=3|pages=195–205|doi=10.1016/j.coldregions.2007.05.003|issn=0165-232X}}</ref>
+|-
+|[[Ice]] (-5 to -20&nbsp;°C)
+|5-25<ref>{{Cite journal |last=Petrovic |first=J. J. |date=2003-01-01 |title=Review Mechanical properties of ice and snow |url=https://doi.org/10.1023/A:1021134128038 |journal=Journal of Materials Science |language=en |volume=38 |issue=1 |pages=1–6 |doi=10.1023/A:1021134128038 |s2cid=135765876 |issn=1573-4803}}</ref>
+|-
+|[[Styrofoam]] || ~1
+|}
+
+== Compressive strength of concrete ==
+[[File:Compressive strength test.gif|200px|thumb|Compressive strength test of concrete in UTM]]
+For designers, compressive strength is one of the most important engineering properties of [[concrete]]. It is standard industrial practice that the compressive strength of a given concrete mix is classified by grade. Cubic or cylindrical samples of concrete are tested under a compression testing machine to measure this value. Test requirements vary by country based on their differing design codes.  Use of a [[Compressometer]] is common.  As per Indian codes, compressive strength of concrete is defined as:
+[[Image:Concrete cube mold.jpg|thumb|Field cured concrete in cubic steel molds (Greece)]]
+''The ''compressive strength of concrete'' is given in terms of the ''characteristic compressive strength'' of 150 mm size cubes tested after 28 days (fck). In field, compressive strength tests are also conducted at interim duration i.e. after 7 days to verify the anticipated compressive strength expected after 28 days. The same is done to be forewarned of an event of failure and take necessary precautions. The '''characteristic strength''' is defined as the '''strength''' of the '''concrete''' below which not more than 5% of the test results are expected to fall.''<ref>{{Cite web|url=http://civildigital.com/compressive-strength-concrete-concrete-cubes/|title=Compressive Strength of Concrete & Concrete Cubes {{!}} What {{!}} How {{!}} CivilDigital {{!}}|date=2016-07-07|language=en-US|access-date=2016-09-20}}</ref>
+
+For design purposes, this compressive strength value is restricted by dividing with a factor of safety, whose value depends on the design philosophy used.
+
+The construction industry is often involved in a wide array of testing. In addition to simple compression testing, testing standards such as ASTM C39, ASTM C109, ASTM C469, ASTM C1609 are among the test methods that can be followed to measure the mechanical properties of concrete. When measuring the compressive strength and other material properties of concrete, testing equipment that can be manually controlled or servo-controlled may be selected depending on the procedure followed. Certain test methods specify or limit the loading rate to a certain value or a range, whereas other methods request data based on test procedures run at very low rates.<ref>{{Cite web|url=https://www.admet.com/concrete-testing-manual-vs-automated-operation/|title=Concrete Testing: Manual vs. Automated Operation}}</ref>
+
+Ultra-High Performance Concrete (UHPC) is defined as having a compressive strength over 150 MPa.<ref>{{Cite web |title=Multiscale structure-property relationships of ultra-high performance concrete - EVOCD |url=https://icme.hpc.msstate.edu/mediawiki/index.php/Multiscale_structure-property_relationships_of_ultra-high_performance_concrete.html |access-date=2022-09-15 |website=icme.hpc.msstate.edu}}</ref>
+
+== See also ==
+* [[Buff strength]]
+* [[Container compression test]]
+* [[Crashworthiness]]
+* [[Deformation (engineering)]]
+* [[Schmidt hammer]], for measuring compressive strength of materials
+* [[Plane strain compression test]]
+
+== References ==
+{{Reflist}}
+
+* Mikell P.Groover, Fundamentals of Modern Manufacturing, John Wiley & Sons, 2002 U.S.A, {{ISBN|0-471-40051-3}}
+* Callister W.D. Jr., Materials Science & Engineering an Introduction, John Wiley & Sons, 2003 U.S.A, {{ISBN|0-471-22471-5}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Compressive Strength}}
+[[Category:Materials science]]
+[[Category:Product testing]]
