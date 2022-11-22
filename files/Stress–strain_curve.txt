@@ -1,0 +1,105 @@
+{{Short description|Concept in engineering and materials science}}
+[[File:Stress_strain_ductile.svg|thumb|473x473px|Stress–strain curve typical of a low carbon steel]]
+[[File:Tensile test - steel sample.ogv|thumb|Stress–strain curve for a tensile test]]
+{{broader|Stress–strain analysis}}
+
+In [[engineering]] and [[materials science]], a '''stress–strain curve''' for a material gives the relationship between [[stress (mechanics)|stress]] and [[Deformation (physics)#Strain|strain]]. It is obtained by gradually applying [[Structural load|load]] to a test coupon and measuring the [[Deformation (engineering)|deformation]], from which the stress and strain can be determined (see [[tensile testing]]). These curves reveal many of the [[List of materials properties|properties of a material]], such as the [[Young's modulus]], the [[yield strength]] and the [[ultimate tensile strength]].
+
+== Definition == 
+Generally speaking, curves representing the relationship between stress and strain in any form of deformation can be regarded as stress–strain curves. The stress and strain can be normal, shear, or mixture, also can be uniaxial, biaxial, or multiaxial, even change with time. The form of deformation can be compression, stretching, torsion, rotation, and so on. If not mentioned otherwise, stress–strain curve refers to the relationship between axial normal stress and axial normal strain of materials measured in a tension test.
+
+=== Engineering stress and strain ===
+Consider a bar of original cross sectional area <math>A_0</math> being subjected to equal and opposite forces <math>F</math> pulling at the ends so the bar is under tension. The material is experiencing a stress defined to be the ratio of the force to the cross sectional area of the bar, as well as an axial elongation:
+
+:<math>\sigma = \tfrac{F}{A_0}</math>
+:<math>\varepsilon = \tfrac{L-L_0}{L_0} = \tfrac{\Delta L}{L_0}</math>
+
+Subscript 0 denotes the original dimensions of the sample. The SI unit for stress is newton per square metre, or pascal (1 pascal = 1 Pa = 1 N/m<sup>2</sup>), and strain is unitless. stress–strain curve for this material is plotted by elongating the sample and recording the stress variation with strain until the sample fractures. By convention, the strain is set to the horizontal axis and stress is set to vertical axis. Note that for engineering purposes we often assume the cross-section area of the material does not change during the whole deformation process. This is not true since the actual area will decrease while deforming due to elastic and plastic deformation. The curve based on the original cross-section and gauge length is called the ''engineering stress–strain curve'', while the curve based on the instantaneous cross-section area and length is called the ''true stress–strain curve''. Unless stated otherwise, engineering stress–strain is generally used.
+
+=== True stress and strain ===
+[[File:Stress strain comparison.svg|thumb|328x328px|The difference between true stress–strain curve and engineering stress–strain curve]]
+Due to the shrinking of section area and the ignored effect of developed elongation to further elongation, true stress and strain are different from engineering stress and strain.
+
+:<math>\sigma_\text{t} = \tfrac{F}{A}</math>
+:<math>\varepsilon_\text{t} = \int\tfrac{\delta L}{L}</math>
+
+Here the dimensions are instantaneous values. Assuming volume of the sample conserves and deformation happens uniformly,
+
+:<math>A_0 L_0 = A L</math>
+
+The true stress and strain can be expressed by engineering stress and strain. For true stress,
+
+:<math>\sigma_\text{t} = \tfrac{F}{A}=\tfrac{F}{A_0} \tfrac{A_0}{A} = \tfrac{F}{A_0} \tfrac{L}{L_0} = \sigma (1 + \varepsilon)</math>
+
+For the strain,
+
+:<math>\delta \varepsilon_\text{t} = \tfrac{\delta L}{L}</math>
+
+Integrate both sides and apply the boundary condition,
+
+:<math>\varepsilon_\text{t} = \ln\left(\tfrac{L}{L_0}\right)=\ln(1+\varepsilon)</math>
+
+So in a tension test, true stress is larger than engineering stress and true strain is less than engineering strain. Thus, a point defining true stress–strain curve is displaced upwards and to the left to define the equivalent engineering stress–strain curve. The difference between the true and engineering stresses and strains will increase with plastic deformation. At low strains (such as elastic deformation), the differences between the two is negligible. As for the tensile strength point, it is the maximal point in engineering stress–strain curve but is not a special point in true stress–strain curve. Because engineering stress is proportional to the force applied along the sample, the criterion for necking formation can be set as <math>\delta F = 0</math>.
+
+:<math>\delta F =\sigma_\text{t} \, \delta A + A \, \delta\sigma_\text{t} = 0 </math>
+
+:<math>-\tfrac{\delta A}{A} = \tfrac{\delta \sigma_\text{t} }{\sigma_\text{t}} </math>
+
+This analysis suggests nature of the UTS point. The work strengthening effect is exactly balanced by the shrinking of section area at UTS point.
+
+After the formation of necking, the sample undergoes heterogeneous deformation, so equations above are not valid. The stress and strain at the necking can be expressed as:
+
+:<math>\sigma_\text{t} = \tfrac{F}{A_\text{neck}}</math>
+:<math>\varepsilon_\text{t} = \ln\left(\tfrac{A_0}{A_\text{neck}}\right)</math>
+
+An empirical equation is commonly used to describe the relationship between true stress and true strain.
+
+:<math>\sigma_\text{t} = K (\varepsilon_\text{t})^n </math>
+
+Here, <math>n</math> is the strain-hardening coefficient and <math>K</math> is the strength coefficient. <math>n</math> is a measure of a material's work hardening behavior. Materials with a higher <math>n</math> have a greater resistance to necking. Typically, metals at room temperature have <math>n</math> ranging from 0.02 to 0.5.<ref>{{Cite book|title=Mechanical behavior of materials|last=Courtney|first=Thomas|publisher=Waveland Press, Inc|year=2005|pages=6–13}}</ref>
+
+== Stages ==
+A schematic diagram for the stress–strain curve of low carbon steel  at room temperature is shown in figure 1. There are several stages showing different behaviors, which suggests different mechanical properties. To clarify, materials can miss one or more stages shown in figure 1, or have totally different stages.
+
+The first stage is the [[Linear elasticity|linear elastic]] region. The stress is proportional to the strain, that is, obeys the [[Hooke's law|general Hooke's law]], and the slope is [[Young's modulus]]. In this region, the material undergoes only elastic deformation. The end of the stage is the initiation point of plastic deformation. The stress component of this point is defined as [[yield strength]] (or upper yield point, UYP for short).
+
+The second stage is the [[strain hardening]] region. This region starts as the stress goes beyond the yielding point, reaching a maximum at the ultimate strength point, which is the maximal stress that can be sustained and is called the [[ultimate tensile strength]] (UTS). In this region, the stress mainly increases as the material elongates, except that for some materials such as steel, there is a nearly flat region at the beginning. The stress of the flat region is defined as the lower yield point (LYP) and results from the formation and propagation of [[Lüders band|Lüders bands]]. Explicitly, heterogeneous plastic deformation forms bands at the upper yield strength and these bands carrying with deformation spread along the sample at the lower yield strength. After the sample is again uniformly deformed, the increase of stress with the progress of extension results from work strengthening, that is, dense [[Dislocation|dislocations]] induced by plastic deformation hampers the further motion of dislocations. To overcome these obstacles, a higher [[Critical resolved shear stress|resolved shear stress]] should be applied. As the strain accumulates, work strengthening gets reinforced, until the stress reaches the ultimate tensile strength.
+
+The third stage is the necking region. Beyond tensile strength, a [[Necking (engineering)|necking]] forms where the local cross-sectional area becomes significantly smaller than the average. The necking deformation is heterogeneous and will reinforce itself as the stress concentrates more at small section. Such positive feedback leads to quick development of necking and leads to fracture. Note that though the pulling force is decreasing,  the work strengthening is still progressing, that is, the true stress keeps growing but the engineering stress decreases because the shrinking section area is not considered.  This region ends up with the fracture. After fracture, percent elongation and reduction in section area can be calculated.
+
+== Classification ==
+[[File:Stress strain comparison brittle ductile.svg|alt=|thumb|340x340px|Stress–strain curve for brittle materials compared to ductile materials]]
+It is possible to distinguish some common characteristics among the stress–strain curves of various groups of materials and, on this basis, to divide materials into two broad categories; namely, the ductile materials and the brittle materials.<ref name="beer09">{{cite book |last1=Beer |first1=F. |last2=Johnston |first2=R. |last3=Dewolf |first3=J. |last4=Mazurek |first4=D. |year=2009 |title=Mechanics of materials |location=New York |publisher=McGraw-Hill companies}}</ref>{{rp|51}}
+
+=== Ductile materials ===
+[[Ductile]] materials, which include '''structural steel''' and many alloys of other metals, are characterized by their ability to yield at normal temperatures.{{r|beer09|p=58}}
+
+Low carbon steel generally exhibits a very linear stress–strain relationship up to a well defined [[yield strength|yield point]] (''Fig.1''). The linear portion of the curve is the elastic region and the slope is the [[modulus of elasticity]] or [[Young's modulus]]. Many ductile materials including some metals, polymers and ceramics exhibit a yield point. Plastic flow initiates at the upper yield point and continues at the lower one. At lower yield point, permanent deformation is heterogeneously distributed along the sample. The deformation band which formed at the upper yield point will propagate along the gauge length at the lower yield point. The band occupies the whole of the gauge at the luders strain. Beyond this point, work hardening commences. The appearance of the yield point is associated with pinning of dislocations in the system. For example, solid solution interacts with dislocations and acts as pin and prevent dislocation from moving. Therefore, the stress needed to initiate the movement will be large. As long as the dislocation escape from the pinning, stress needed to continue it is less.
+
+After the yield point, the curve typically decreases slightly because of [[dislocations]] escaping from [[Cottrell atmosphere]]s. As deformation continues, the stress increases on account of [[strain hardening]] until it reaches the [[ultimate tensile stress]]. Until this point, the cross-sectional area decreases uniformly because of [[Poisson's ratio|Poisson contractions]]. Then it starts necking and finally fractures.
+
+The appearance of necking in ductile materials is associated with geometrical instability in the system. Due to the natural inhomogeneity of the material, it is common to find some regions with small inclusions or porosity within it or surface, where strain will concentrate, leading to a locally smaller area than other regions. For strain less than the ultimate tensile strain, the increase of work-hardening rate in this region will be greater than the area reduction rate, thereby make this region harder to be further deform than others, so that the instability will be removed, i.e. the materials have abilities to weaken the inhomogeneity before reaching ultimate strain. However, as the strain become larger, the work hardening rate will decreases, so that for now the region with smaller area is weaker than other region, therefore reduction in area will concentrate in this region and the neck becomes more and more pronounced until fracture. After the neck has formed in the materials, further plastic deformation is concentrated in the neck while the remainder of the material undergoes elastic contraction owing to the decrease in tensile force.
+
+The stress–strain curve for a ductile material can be approximated using the [[Ramberg–Osgood relationship|Ramberg–Osgood equation]].<ref>{{Cite web|url=https://mechanicalc.com/reference/mechanical-properties-of-materials#stress-strain-approx|title=Mechanical Properties of Materials}}</ref>  This equation is straightforward to implement, and only requires the material's yield strength, ultimate strength, elastic modulus, and percent elongation.
+
+=== Brittle materials ===
+Brittle materials, which include cast iron, glass, and stone, are characterized by the fact that rupture occurs without any noticeable prior change in the rate of elongation,{{r|beer09|p=59}} sometimes they fracture before yielding.
+
+[[Brittle]] materials such as [[concrete]] or [[carbon fiber]] do not have a well-defined yield point, and do not strain-harden. Therefore, the ultimate strength and breaking strength are the same. Typical brittle materials like [[glass]] do not show any [[plastic deformation]] but fail while the deformation is [[Elasticity (physics)|elastic]]. One of the characteristics of a brittle failure is that the two broken parts can be reassembled to produce the same shape as the original component as there will not be a neck formation like in the case of ductile materials. A typical stress–strain curve for a brittle material will be linear. For some materials, such as [[concrete]], tensile strength is negligible compared to the compressive strength and it is assumed zero for many engineering applications. [[Glass fiber]]s have a [[tensile strength]] stronger than steel, but bulk glass usually does not. This is because of the [[stress intensity factor]] associated with defects in the material. As the size of the sample gets larger, the expected size of the largest defect also grows.
+
+== See also ==
+{{col div|colwidth=30em}}
+* [[Elastomers]]
+* [[Plane strain compression test]]
+* [[Strength of materials]]
+* [[Stress–strain index]]
+* [[Tensometer]]
+* [[Universal testing machine]]
+{{colend}}
+
+== References ==
+{{reflist}}
+
+{{DEFAULTSORT:Stress-Strain Curve}}
+[[Category:Elasticity (physics)]]
+[[Category:Structural analysis]]
