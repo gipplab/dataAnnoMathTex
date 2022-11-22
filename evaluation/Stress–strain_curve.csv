@@ -1,0 +1,10 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+A,area (Q11500),-,-,3,-,-,3,-,global,1414,-1
+F,force (Q11402),-,9,2,-,-,5,-,global,15857,-1
+A_0,area (Q11500),-,-,-,-,-,3,-,global,1353,-1
+sigma,stress (N/A),-,-,-,-,-,-,-,global,3319,70591
+varepsilon,strain (N/A),-,-,-,-,-,-,-,global,2481,6735
+L,length (Q36253),2,-,5,-,-,4,-,global,2360,-1
+Delta,variation (N/A),-,-,-,-,-,-,-,global,3125,38415
+\sigma = \tfrac{F}{A_0},Hooke's law (Q170282),-,-,-,-,-,-,-,global,4878,8646
+\varepsilon = \tfrac{L-L_0}{L_0} = \tfrac{\Delta L}{L_0},deformation (N/A),-,-,-,-,-,7,-,global,5624,-1
