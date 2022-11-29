@@ -1,0 +1,36 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+tau,torque (Q48103),-,-,-,-,-,9,-,global,5047,-1
+r,distance (Q126017),5,1,5,-,-,-,-,global,1575,-1
+F,force (Q11402),-,9,2,-,-,5,-,global,3925,-1
+theta,angle (Q11352),1,1,-,-,-,9,-,global,1709,-1
+"\boldsymbol \tau = \mathbf{r}\times \mathbf{F}\,\!",torque (Q48103),-,-,-,-,-,9,-,global,4383,-1
+"\tau = \|\mathbf{r}\|\,\|\mathbf{F}\|\sin \theta\,\!",torque (Q48103),-,-,-,-,-,1,-,global,3611,-1
+"\boldsymbol{\tau} = \mathbf{r} \times \mathbf{F},",torque (Q48103),-,-,-,-,-,8,-,global,3006,-1
+"\tau = rF\sin\theta,\!",torque (Q48103),-,-,-,-,-,1,-,global,1609,-1
+"\tau = rF_{\perp},",torque (Q48103),-,-,-,-,-,-,-,global,4298,2374
+L,angular momentum (N/A),-,-,-,-,-,-,-,global,4314,8728
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,1636,-1
+I,moment of inertia (Q165618),-,8,-,-,-,-,-,global,2028,-1
+t,time (Q11471),1,3,4,-,-,6,-,global,1666,-1
+\boldsymbol{\tau} = \frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t},torque (Q48103),-,-,-,-,-,5,4,global,3987,-1
+alpha,angular acceleration (Q186300),-,-,-,-,-,-,-,global,2078,-1
+m,mass (Q11423),1,3,2,-,-,5,-,global,1361,-1
+"\mathbf{L} = I\boldsymbol{\omega},",angular momentum (N/A),-,-,-,-,-,-,2,global,2840,-1
+"\boldsymbol{\tau}_{\mathrm{net}} = \frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t} = \frac{\mathrm{d}(I\boldsymbol{\omega})}{\mathrm{d}t} = I\frac{\mathrm{d}\boldsymbol{\omega}}{\mathrm{d}t} + \frac{\mathrm{d}I}{\mathrm{d}t}\boldsymbol{\omega} = I\boldsymbol{\alpha} + \frac{\mathrm{d}(mr^2)}{\mathrm{d}t}\boldsymbol{\omega} = I\boldsymbol{\alpha} + 2rp_{||}\boldsymbol{\omega},",torque (Q48103),-,-,-,-,-,8,-,global,2098,-1
+\mathbf{L} = \mathbf{r} \times \boldsymbol{p},angular momentum (N/A),-,-,-,-,-,-,4,global,2049,-1
+p,momentum (Q41273),5,-,-,-,-,4,-,global,4383,-1
+\frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t} = \mathbf{r} \times \mathbf{F}_{\mathrm{net}} =  \boldsymbol{\tau}_{\mathrm{net}}.,torque (Q48103),-,-,-,-,-,-,-,global,5350,3693
+\frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t} = \mathbf{r} \times \frac{\mathrm{d}\boldsymbol{p}}{\mathrm{d}t} + \frac{\mathrm{d}\mathbf{r}}{\mathrm{d}t} \times \boldsymbol{p}.,torque (Q48103),-,-,-,-,-,-,3,global,1919,-1
+\frac{\mathrm{d}\mathbf{L}}{\mathrm{d}t} = \mathbf{r} \times \mathbf{F} + \mathbf{v} \times \boldsymbol{p}. ,torque (Q48103),-,-,-,-,-,-,-,global,6696,6866
+\tau = (\text{moment arm}) (\text{force}).,force (Q11402),-,-,-,-,-,1,-,global,3138,-1
+\tau = (\text{distance to centre}) (\text{force}).,force (Q11402),-,-,-,-,-,1,-,global,3710,-1
+W,work (Q42213),-,4,-,-,-,6,-,global,3202,-1
+" W = \int_{\theta_1}^{\theta_2} \tau\ \mathrm{d}\theta,",work (Q42213),-,-,-,-,-,6,-,global,2651,-1
+E,energy (Q11379),1,4,2,-,-,2,-,global,24,-1
+P,power (Q25342),-,-,3,-,-,5,-,global,1971,-1
+"E_{\mathrm{r}} = \tfrac{1}{2}I\omega^2,",kinetic energy (Q46276),-,-,-,-,-,-,-,global,5553,2199
+"P = \boldsymbol{\tau} \cdot \boldsymbol{\omega},",power (Q25342),-,-,-,-,-,5,-,global,3231,-1
+nu,frequency (Q11652),-,-,-,-,-,-,-,global,1691,-1
+P = \tau \cdot 2 \pi \cdot \nu,power (Q25342),-,-,-,-,-,4,-,global,3154,-1
+pi,constant (Q188248),-,-,-,-,-,-,-,global,1660,-1
+\text{power}  = \frac{\text{force} \cdot \text{linear distance}}{\text{time}} \\[6pt] = \frac{\left(\dfrac{\text{torque}} r \right) \cdot (r \cdot \text{angular speed} \cdot t)} t \\[6pt] = \text{torque} \cdot \text{angular speed}.,power (Q25342),-,-,-,-,-,2,-,global,3970,-1

@@ -1,0 +1,21 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+f,frequency (Q11652),-,-,1,-,-,4,-,global,1716,-1
+T,period (Q2642727),-,-,2,-,-,3,-,global,2098,-1
+f = \frac{1}{T}.,frequency (Q11652),-,-,-,1,-,4,-,global,3898,-1
+t,time (Q11471),1,3,4,-,-,-,-,global,3663,-1
+theta,angle (Q11352),1,1,-,-,-,-,-,global,1939,-1
+omega,angular velocity (Q161635),-,1,-,-,-,-,-,global,2803,-1
+pi,constant (Q188248),-,-,-,-,-,-,-,global,2493,-1
+y,coordinate (Q12753000),1,-,-,-,-,-,-,global,2737,-1
+\frac{\mathrm{d} \theta}{\mathrm{d} t} = \omega = 2 \mathrm{\pi} f,angular velocity (Q161635),-,-,-,-,-,-,1,global,3127,-1
+y(t) = \sin\left( \theta(t) \right) =  \sin(\omega t) =  \sin(2 \mathrm{\pi} f t),coordinate (N/A),-,-,-,-,-,-,-,global,5973,5404
+"y(t) = \sin\left( \theta(t,x) \right) = \sin(\omega t + kx)",Coordinate (N/A),-,-,-,-,-,-,-,global,9980,1854
+k,wavenumber (Q192510),-,5,1,-,-,5,-,global,1604,-1
+x,coordinate (Q12753000),5,-,-,-,-,-,-,global,5399,-1
+\frac{\mathrm{d} \theta}{\mathrm{d} x} = k,wavenumber (Q192510),-,-,-,-,-,5,-,global,4088,-1
+v,phase velocity (Q13824),-,-,2,-,-,-,-,global,2382,-1
+c,speed of light (Q2111),-,1,2,-,-,-,-,global,2406,-1
+lambda,wavelength (Q41364),-,5,-,-,-,2,-,global,1757,-1
+f = \frac{v}{\lambda}.,frequency (Q11652),-,-,-,-,-,7,-,global,4969,-1
+f = \frac{c}{\lambda}.,frequency (Q11652),-,-,-,-,-,-,-,global,5711,7472
+\displaystyle c=f\lambda,speed of light (Q2111),-,-,-,-,-,-,-,global,5346,4738

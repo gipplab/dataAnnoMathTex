@@ -1,0 +1,5 @@
+Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
+v,velocity (Q11465),3,7,4,-,-,3,-,global,3463,-1
+t,time (Q11471),1,3,4,-,-,2,-,global,1310,-1
+s,displacement (Q190291),-,4,-,-,-,1,-,global,2085,-1
+\mathbf{s} = \mathbf{v}t ,uniform motion (Q376742),-,-,-,-,-,-,-,global,5008,6017

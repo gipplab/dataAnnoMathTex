@@ -1,6 +1,0 @@
-#REDIRECT [[Newton's laws of motion#Newton's second law]]
-
-{{Rcat shell|
-{{R to section}}
-}}
-{{wikidata-redirect}}

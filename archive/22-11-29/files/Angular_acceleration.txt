@@ -1,0 +1,119 @@
+{{Infobox unit
+| name     = Radians per second squared
+| standard = [[SI derived unit]]
+| quantity = Angular acceleration
+| symbol   = rad/s{{sup|2}}
+}}
+{{Classical mechanics|expanded=rotational}}
+In [[physics]], '''angular acceleration''' refers to the time rate of change of [[angular velocity]]. As there are two types of angular velocity, namely spin angular velocity and orbital angular velocity, there are naturally also two types of angular acceleration, called spin angular acceleration and orbital angular acceleration respectively. Spin angular acceleration refers to the angular acceleration of a rigid body about its centre of rotation, and orbital angular acceleration refers to the angular acceleration of a point particle about a fixed origin. 
+
+Angular acceleration is measured in units of angle per unit time squared (which in [[SI]] units is radians per second squared), and is usually represented by the symbol [[alpha]] ('''α'''). In two dimensions, angular acceleration is a [[pseudoscalar]] whose sign is taken to be positive if the angular speed increases counterclockwise or decreases clockwise, and is taken to be negative if the angular speed increases clockwise or decreases counterclockwise. In three dimensions, angular acceleration is a [[pseudovector]].<ref name="ref1">{{cite web |title=Rotational Variables |url=https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/Map%3A_University_Physics_I_-_Mechanics%2C_Sound%2C_Oscillations%2C_and_Waves_(OpenStax)/10%3A_Fixed-Axis_Rotation__Introduction/10.02%3A_Rotational_Variables |website=LibreTexts |publisher=MindTouch |accessdate=1 July 2020 |ref=1}}</ref>
+
+For rigid bodies, angular acceleration must be caused by a net external [[torque]]. However, this is not so for non-rigid bodies: For example, a figure skater can speed up her rotation (thereby obtaining an angular acceleration) simply by contracting her arms and legs inwards, which involves no ''external'' torque.
+
+== Orbital Angular Acceleration of a Point Particle ==
+
+=== Particle in two dimensions ===
+
+In two dimensions, the orbital angular acceleration is the rate at which the two-dimensional orbital angular velocity of the particle about the origin changes. The instantaneous angular velocity ''ω'' at any point in time is given by
+
+: <math>\omega = \frac{v_{\perp}}{r}</math>,
+
+where <math>r</math> is the distance from the origin and <math>v_{\perp}</math> is the cross-radial component of the instantaneous velocity (i.e. the component perpendicular to the position vector), which by convention is positive for counter-clockwise motion and negative for clockwise motion.
+
+Therefore, the instantaneous angular acceleration ''α'' of the particle is given by
+
+: <math>\alpha = \frac{d}{dt}(\frac{v_{\perp}}{r})</math>.<ref name="ref2" />
+
+Expanding the right-hand-side using the product rule from differential calculus, this becomes
+
+: <math>\alpha = \frac{1}{r}\frac{dv_{\perp}}{dt} - \frac{v_{\perp}}{r^2}\frac{dr}{dt}</math>.
+
+In the special case where the particle undergoes circular motion about the origin, <math>\frac{dv_{\perp}}{dt}</math> becomes just the tangential acceleration <math>a_{\perp}</math>, and <math>\frac{dr}{dt}</math> vanishes (since the distance from the origin stays constant), so the above equation simplifies to
+
+: <math>\alpha = \frac{a_{\perp}}{r}</math>.
+
+In two dimensions, angular acceleration is a number with plus or minus sign indicating orientation, but not pointing in a direction. The sign is conventionally taken to be positive if the angular speed increases in the counter-clockwise direction or decreases in the clockwise direction, and the sign is taken negative if the angular speed increases in the clockwise direction or decreases in the counter-clockwise direction. Angular acceleration then may be termed a [[pseudoscalar]], a numerical quantity which changes sign under a [[parity (physics)|parity inversion]], such as inverting one axis or switching the two axes.
+
+=== Particle in three dimensions ===
+
+In three dimensions, the orbital angular acceleration is the rate at which three-dimensional orbital angular velocity vector changes with time. The instantaneous angular velocity vector <math>\boldsymbol\omega</math> at any point in time is given by
+
+: <math>\boldsymbol\omega =\frac{\mathbf r\times\mathbf v}{r^2}</math>,
+
+where <math>\mathbf r</math> is the particle's position vector and <math>\mathbf v</math> is its velocity vector. <ref name="ref2">{{cite web |last1=Singh |first1=Sunil K. |title=Angular Velocity |url=https://cnx.org/contents/MymQBhVV@175.14:51fg7QFb@14/Angular-velocity |publisher=Rice University |ref=2}}</ref>
+
+Therefore, the orbital angular acceleration is the vector <math>\boldsymbol\alpha</math> defined by
+
+: <math>\boldsymbol\alpha = \frac{d}{dt}(\frac{\mathbf r\times\mathbf v}{r^2})</math>.
+
+Expanding this derivative using the product rule for cross-products and the ordinary quotient rule, one gets:
+
+: <math>\begin{align}
+\boldsymbol\alpha &= \frac{1}{r^2}(\mathbf r\times \frac{d\mathbf v}{dt} + \frac{d\mathbf r}{dt}\times \mathbf v)-\frac{2}{r^3}\frac{dr}{dt}(\mathbf r\times\mathbf v)\\
+\\ 
+&= \frac{1}{r^2}(\mathbf r\times \mathbf a + \mathbf v\times \mathbf v)-\frac{2}{r^3}\frac{dr}{dt}(\mathbf r\times\mathbf v)\\
+\\
+&= \frac{\mathbf r\times \mathbf a}{r^2}-\frac{2}{r^3}\frac{dr}{dt}(\mathbf r\times\mathbf v).
+\end{align}</math>
+
+Since <math>\mathbf r\times\mathbf v</math> is just <math>r^2\boldsymbol{\omega}</math>, the second term may be rewritten as <math>-\frac{2}{r}\frac{dr}{dt}\boldsymbol{\omega}</math>. In the case where the distance <math>r</math> of the particle from the origin does not change with time (which includes circular motion as a subcase), the second term vanishes and the above formula simplifies to
+
+: <math> \boldsymbol\alpha = \frac{\mathbf r\times \mathbf a}{r^2}</math>.
+
+From the above equation, one can recover the cross-radial acceleration in this special case as:
+
+: <math>\mathbf{a}_{\perp} =\boldsymbol{\alpha} \times\mathbf{r}</math>.
+
+Unlike in two dimensions, the angular acceleration in three dimensions need not be associated with a change in angular ''speed'': If the particle's position vector "twists" in space such that its instantaneous plane of angular displacement (i.e. the instantaneous plane in which the position vector sweeps out angle) continuously changes with time, then even if the angular speed (i.e. the speed at which the position vector sweeps out angle) is constant, there will still be a nonzero angular acceleration because the ''direction'' of the angular velocity vector continuously changes with time. This cannot not happen in two dimensions because the position vector is restricted to a fixed plane so that any change in angular velocity must be through a change in its ''magnitude''.
+
+The angular acceleration vector is more properly called a [[pseudovector]]: It has three components which transform under rotations in the same way as the Cartesian coordinates of a point do, but which under reflections do not transform like Cartesian coordinates.
+
+=== Relation to Torque ===
+
+The net ''[[torque]]'' on a point particle is defined to be the pseudovector
+
+: <math>\boldsymbol{\tau}=\mathbf r\times \mathbf F</math>,
+
+where <math>\mathbf F</math> is the net force on the particle.<ref name="ref3">{{cite web |last1=Singh |first1=Sunil K. |title=Torque |url=https://cnx.org/contents/MymQBhVV@175.14:JOsDHAfQ@4/Torque |publisher=Rice University |ref=3}}</ref> 
+
+Torque is the rotational analogue of force: it induces change in the rotational state of a system, just as force induces change in the translational state of a system. Since the net force on a particle may be connected to the acceleration of the particle by the equation <math>\mathbf F = m\mathbf a</math>, one may hope to construct a similar relation connecting the net torque on a particle to the angular acceleration of the particle. That may be done as follows:
+
+First, substituting <math>\mathbf F = m\mathbf a</math> into the above equation for torque, one gets
+
+: <math>\boldsymbol{\tau}=m(\mathbf r\times \mathbf a)=mr^2(\frac{\mathbf r\times \mathbf a}{r^2})</math>.
+
+But from the previous section, it was derived that
+
+: <math>\boldsymbol{\alpha}=\frac{\mathbf r\times \mathbf a}{r^2}-\frac{2}{r}\frac{dr}{dt}\boldsymbol{\omega}</math>,
+
+where <math>\boldsymbol{\alpha}</math> is the orbital angular acceleration of the particle and <math>\boldsymbol{\omega}</math> is the orbital angular velocity of the particle. Therefore, it follows that
+
+: <math>\begin{align}
+\boldsymbol{\tau} &= mr^2(\boldsymbol{\alpha}+\frac{2}{r}\frac{dr}{dt}\boldsymbol{\omega})\\
+\\
+&=mr^2\boldsymbol{\alpha}+2mr\frac{dr}{dt}\boldsymbol{\omega}.
+\end{align}</math>
+
+In the special case where the distance <math>r</math> of the particle from the origin does not change with time, the second term in the above equation vanishes and the above equation simplifies to
+
+: <math>\boldsymbol{\tau} = mr^2\boldsymbol{\alpha}</math>,
+
+which can be interpreted as a "rotational analogue" to <math>\mathbf F = m\mathbf a</math>, where the quantity <math>mr^2</math> (known as the moment of inertia of the particle) plays the role of the mass <math>m</math>. However, unlike <math>\mathbf F = m\mathbf a</math>, this equation is ''not'' applicable to an arbitrary trajectory. In conclusion, the general relation between torque and angular acceleration is necessarily more complicated than that for force and linear acceleration.<ref>{{cite book |last1=Mashood |first1=K.K. |title=Development and evaluation of a concept inventory in rotational kinematics |publisher=Tata Institute of Fundamental Research, Mumbai |pages=52-54 |url=http://www.hbcse.tifr.res.in/research-development/ph.d.-theses/thesis-mashoodkk.pdf |ref=4}}</ref>
+
+== See also ==
+* [[Torque]]
+* [[Angular momentum]]
+* [[Angular speed]]
+* [[Angular velocity]]
+
+==References==
+{{reflist}}
+
+{{Classical mechanics derived SI units}}
+
+[[Category:Physical quantities]]
+[[Category:Acceleration]]
+[[Category:Rotation]]
+[[Category:Torque]]
+[[Category:Temporal rates]]
