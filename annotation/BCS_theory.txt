@@ -1,0 +1,1 @@
+{"global": {"T": {"name": "temperature", "mathEnv": "\\Delta(T=0) = 1.764 \\, k_{\\rm B}T_{\\rm c},", "uniqueIDs": ["46---11", "46---21", "46---56", "46---62", "46---78", "46---86", "46---88", "59---67"], "qid": "Q11466", "time": 34330, "manualSelectionTime": -1, "sourcesWithNums": {"ArXiv": 1, "Wikipedia": 3, "Wikidata": 4, "WordWindow": 6}, "type": "Identifier"}}, "local": {}}
