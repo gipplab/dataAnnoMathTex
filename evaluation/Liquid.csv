@@ -1,8 +1,8 @@
 Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
 p,pressure (Q39552),8,4,3,-,-,3,-,global,5582,-1
-g,gravitational acceleration (N/A),-,-,-,-,-,-,-,global,2934,87459
+g,gravitational acceleration (Q30006),-,-,-,-,-,-,-,global,2934,87459
 rho,density (Q29539),1,1,-,-,-,-,-,global,16903,-1
 z,depth (Q3406905),-,-,-,-,-,2,-,global,501811,-1
-K,bulk modulus (N/A),-,-,-,-,-,-,-,global,1933,42802
-c,speed of sound (N/A),-,-,-,-,-,-,-,global,1746,27913
-G,shear modulus (N/A),-,-,-,-,-,-,-,global,1259,89891
+K,bulk modulus (Q900371),-,-,-,-,-,-,-,global,1933,42802
+c,speed of sound (Q124003),-,-,-,-,-,-,-,global,1746,27913
+G,shear modulus (Q461466),-,-,-,-,-,-,-,global,1259,89891
