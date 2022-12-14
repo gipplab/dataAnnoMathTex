@@ -1,0 +1,1 @@
+{"global": {"B": {"name": "magnetic field", "mathEnv": "\\mathbf{B} \\ = \\ \\mu_0\\mathbf{H}, ", "uniqueIDs": ["175---3", "179---3", "202---9", "244---57", "248---17", "248---23", "255---16"], "qid": "N/A", "time": 7799, "manualSelectionTime": -1, "sourcesWithNums": {"Manual": 1}, "type": "Identifier"}}, "local": {}}
