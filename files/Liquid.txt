@@ -1,0 +1,277 @@
+{{short description|State of matter}}
+{{Other uses}}
+{{pp-move-indef}}
+[[File:Water drop 001.jpg|thumb|300px|The formation of a spherical [[Drop (liquid)|droplet]] of liquid water minimizes the [[surface area]], which is the natural result of [[surface tension]] in liquids.]]
+{{Continuum mechanics|fluid}}
+
+A '''liquid''' is a nearly [[Compressibility|incompressible]] [[fluid]] that conforms to the shape of its container but retains a (nearly) constant volume independent of pressure. As such, it is one of [[State of matter#Four fundamental states|the four fundamental states of matter]] (the others being [[solid]], [[gas]], and [[Plasma (physics)|plasma]]), and is the only state with a definite volume but no fixed shape. A liquid is made up of tiny vibrating particles of matter, such as atoms, held together by [[intermolecular bonds]]. Like a gas, a liquid is able to flow and take the shape of a container. Most liquids resist compression, although others can be compressed. Unlike a gas, a liquid does not disperse to fill every space of a container, and maintains a fairly constant density. A distinctive property of the liquid state is [[surface tension]], leading to [[wetting]] phenomena. [[Water]] is by far the most common liquid on Earth.
+
+The [[density]] of a liquid is usually close to that of a solid, and much higher than that of a gas. Therefore, liquid and solid are both termed [[Condensed matter physics|condensed matter]]. On the other hand, as liquids and gases share the ability to flow, they are both called fluids. Although liquid water is abundant on Earth, this state of matter is actually the least common in the known universe, because liquids require a relatively narrow temperature/pressure range to exist. Most known matter in the universe is in gaseous form (with traces of detectable solid matter) as [[interstellar cloud]]s or plasma from within stars.
+
+==Introduction==
+[[File:Hot and cold water immiscibility thermal image.jpg|thumb|Thermal image of a sink full of hot water with cold water being added, showing how the hot and the cold water flow into each other.]]
+Liquid is one of the [[State of matter|four primary states of matter]], with the others being solid, gas and [[Plasma (physics)|plasma]]. A liquid is a [[fluid]]. Unlike a solid, the [[molecule]]s in a liquid have a much greater freedom to move. The forces that bind the molecules together in a solid are only temporary in a liquid, allowing a liquid to flow while a solid remains rigid.
+
+A liquid, like a gas, displays the properties of a fluid. A liquid can flow, assume the shape of a container, and, if placed in a sealed container, will distribute applied pressure evenly to every surface in the container. If liquid is placed in a bag, it can be squeezed into any shape. Unlike a gas, a liquid is nearly incompressible, meaning that it occupies nearly a constant volume over a wide range of pressures; it does not generally expand to fill available space in a container but forms its own surface, and it may not always mix readily with another liquid. These properties make a liquid suitable for applications such as [[hydraulics]].
+
+Liquid particles are bound firmly but not rigidly. They are able to move around one another freely, resulting in a limited degree of particle mobility. As the temperature increases, the increased vibrations of the molecules causes distances between the molecules to increase. When a liquid reaches its [[boiling point]], the cohesive forces that bind the molecules closely together break, and the liquid changes to its gaseous state (unless [[superheating]] occurs). If the temperature is decreased, the distances between the molecules become smaller. When the liquid reaches its [[Melting point|freezing point]] the molecules will usually lock into a very specific order, called crystallizing, and the bonds between them become more rigid, changing the liquid into its solid state (unless [[supercooling]] occurs).
+
+==Examples==
+{{refimprove section|date=July 2022}}
+Only two [[Chemical element|elements]] are liquid at [[standard conditions for temperature and pressure]]: [[mercury (element)|mercury]] and [[bromine]]. Four more elements have melting points slightly above [[room temperature]]: [[francium]], [[caesium]], [[gallium]] and [[rubidium]].<ref>Theodore Gray, The Elements: A Visual Exploration of Every Known Atom in the Universe New York: Workman Publishing, 2009 p. 127 {{ISBN|1-57912-814-9}}</ref> Metal alloys that are liquid at room temperature include [[NaK]], a sodium-potassium metal alloy, [[galinstan]], a fusible alloy liquid, and some [[amalgam (chemistry)|amalgams]] (alloys involving mercury).
+
+Pure substances that are liquid under normal conditions include water, [[ethanol]] and many other organic solvents. Liquid water is of vital importance in chemistry and biology, and it is necessary for all known forms of life.<ref name="MottlGlazerKaiser2007">{{cite journal | last1 = Mottl | first1 = Michael J. | last2 = Glazer | first2 = Brian T. | last3 = Kaiser | first3 = Ralf I. | last4 = Meech | first4 = Karen J. | title = Water and astrobiology | journal = Geochemistry | date = December 2007 | volume = 67 | issue = 4 | pages = 253–282 | issn = 0009-2819 | doi = 10.1016/j.chemer.2007.09.002 | pmid = | url = https://www.soest.hawaii.edu/oceanography/glazer/Brian_T._Glazer/downloads/Mottl07a.pdf}}</ref><ref name="ChybaHand2005">{{cite journal | last1 = Chyba | first1 = Christopher F. | last2 = Hand | first2 = Kevin P. | title = Astrobiology: The Study of the Living Universe | journal = Annual Review of Astronomy and Astrophysics | date = 1 September 2005 | volume = 43 | issue = 1 | pages = 31–74 | issn = 0066-4146 | eissn = 1545-4282 | doi = 10.1146/annurev.astro.43.051804.102202 | pmid = | url = }}</ref>
+
+Inorganic liquids include water, magma, [[inorganic nonaqueous solvent]]s and many [[acid]]s.
+
+Important everyday liquids include [[aqueous solution]]s like household [[bleach]], other [[mixture]]s of different substances such as [[mineral oil]] and gasoline, [[emulsion]]s like [[vinaigrette]] or [[mayonnaise]], [[suspension (chemistry)|suspensions]] like blood, and [[colloid]]s like [[paint]] and [[milk]].
+
+Many gases can be [[Liquefaction of gases|liquefied]] by cooling, producing liquids such as [[liquid oxygen]], [[liquid nitrogen]], [[liquid hydrogen]] and [[liquid helium]]. Not all gases can be liquified at atmospheric pressure, however. [[Carbon dioxide]], for example, can only be liquified at pressures above 5.1 [[Atmosphere (unit)|atm]].<ref>{{Citation
+| last1  = Silberberg
+| first1 = Martin S.
+| title     = Chemistry: The Molecular Nature of Matter and Change
+| publisher = McGraw-Hill Higher Education
+| year    = 2009
+| isbn    = 978-0-07-304859-8
+| pages=448–449
+}}</ref>
+
+Some materials cannot be classified within the classical three states of matter. For example, [[liquid crystal]]s (used in [[liquid-crystal display]]s) possess both solid-like and liquid-like properties, and belong to their own state of matter distinct from either liquid or solid.<ref name="Andrienko2018">{{cite journal | last1 = Andrienko | first1 = Denis | title = Introduction to liquid crystals | journal = Journal of Molecular Liquids | date = October 2018 | volume = 267 | pages = 520–541 | issn = 0167-7322 | doi = 10.1016/j.molliq.2018.01.175 | pmid = | url = |doi-access=free}}</ref>
+
+==Applications==
+[[File:Blue Lava lamp.JPG|thumb|A [[lava lamp]] contains two immiscible liquids (a molten wax and a watery solution) which add movement due to convection. In addition to the top surface, surfaces also form between the liquids, requiring a tension breaker to recombine the wax droplets at the bottom.]]
+ 
+Liquids have a variety of uses, as lubricants, solvents, and coolants.
+
+In [[tribology]], liquids are studied for their properties as [[lubricants]]. Lubricants such as oil are chosen for [[viscosity]] and flow characteristics that are suitable throughout the [[operating temperature]] range of the component. Oils are often used in engines, [[gear box]]es, [[metalworking]], and hydraulic systems for their good lubrication properties.<ref>Theo Mang, Wilfried Dressel [https://books.google.com/books?id=UTdfxf2rkNcC& ’’Lubricants and lubrication’’], Wiley-VCH 2007 {{ISBN|3-527-31497-0}}</ref>
+
+Many liquids are used as [[solvents]], to dissolve other liquids or solids. [[Solution (chemistry)|Solution]]s are found in a wide variety of applications, including [[paint]]s, [[sealant]]s, and [[adhesive]]s. [[Naphtha]] and [[acetone]] are used frequently in industry to clean oil, grease, and tar from parts and machinery. [[Body fluid]]s are water-based solutions.
+
+[[Surfactant]]s are commonly found in soaps and [[detergent]]s. Solvents like alcohol are often used as [[antimicrobial]]s. They are found in cosmetics, [[ink]]s, and liquid [[dye laser]]s. They are used in the food industry, in processes such as the extraction of [[vegetable oil]].<ref>George Wypych [https://books.google.com/books?id=NzhUTvUkpDQC&pg=PA847 ’’Handbook of solvents’’] William Andrew Publishing 2001 pp. 847–881 {{ISBN|1-895198-24-0}}</ref> 
+ 
+Liquids tend to have better [[thermal conductivity]] than gases, and the ability to flow makes a liquid suitable for removing excess heat from mechanical components. The heat can be removed by channeling the liquid through a [[heat exchanger]], such as a [[radiator]], or the heat can be removed with the liquid during [[evaporation]].<ref>N. B. Vargaftik ’’Handbook of thermal conductivity of liquids and gases’’ CRC Press 1994 {{ISBN|0-8493-9345-0}}</ref> Water or [[glycol]] coolants are used to keep engines from overheating.<ref>Jack Erjavec [https://books.google.com/books?id=U4TBoJB2zgsC&pg=PA309 ’’Automotive technology: a systems approach’’] Delmar Learning 2000 p. 309 {{ISBN|1-4018-4831-1}}</ref> The coolants used in [[nuclear reactor]]s include water or liquid metals, such as [[sodium]] or [[bismuth]].<ref>Gerald Wendt ’’The prospects of nuclear power and technology’’ D. Van Nostrand Company 1957 p. 266</ref> [[Liquid propellant]] films are used to cool the thrust chambers of [[rocket]]s.<ref>’’Modern engineering for design of liquid-propellant rocket engines’’ by Dieter K. Huzel, David H. Huang – American Institute of Aeronautics and Astronautics 1992 p. 99 {{ISBN|1-56347-013-6}}</ref> In [[machining]], water and oils are used to remove the excess heat generated, which can quickly ruin both the work piece and the tooling. During [[perspiration]], sweat removes heat from the human body by evaporating. In the [[heating, ventilation, and air-conditioning]] industry (HVAC), liquids such as water are used to transfer heat from one area to another.<ref>Thomas E Mull ’’HVAC principles and applications manual’’ McGraw-Hill 1997 {{ISBN|0-07-044451-X}}</ref>
+
+Similarly, liquids are often used in [[cooking]] for their better heat-transfer properties. In addition to better conductivity, because warmer fluids expand and rise while cooler areas contract and sink, liquids with low [[kinematic viscosity]] tend to transfer heat through [[convection]] at a fairly constant temperature, making a liquid suitable for [[Blanching (cooking)|blanching]], [[boiling]], or [[frying]]. Even higher rates of heat transfer can be achieved by condensing a gas into a liquid. At the liquid's boiling point, all of the heat energy is used to cause the phase change from a liquid to a gas, without an accompanying increase in temperature, and is stored as chemical [[potential energy]]. When the gas condenses back into a liquid this excess heat-energy is released at a constant temperature. This phenomenon is used in processes such as [[steaming]]. Since liquids often have different boiling points, mixtures or solutions of liquids or gases can typically be separated by [[distillation]], using heat, cold, [[vacuum]], pressure, or other means. Distillation can be found in everything from the production of [[alcoholic beverages]], to [[oil refinery|oil refineries]], to the [[air separation|cryogenic distillation]] of gases such as [[argon]], [[oxygen]], [[nitrogen]], [[neon]], or [[xenon]] by [[liquefaction]] (cooling them below their individual boiling points).<ref>''Unit Operations in Food Processing'' by R. L. Earle -- Pergamon Press 1983 Page 56--62, 138--141</ref>
+
+Liquid is the primary component of [[hydraulic]] systems, which take advantage of [[Pascal's law]] to provide [[fluid power]]. Devices such as [[pump]]s and [[waterwheel]]s have been used to change liquid motion into [[mechanical work]] since ancient times. Oils are forced through [[hydraulic pump]]s, which transmit this force to [[hydraulic cylinder]]s. Hydraulics can be found in many applications, such as [[automotive brakes]] and [[automotive transmission|transmissions]], [[heavy equipment (construction)|heavy equipment]], and airplane control systems. Various [[hydraulic press]]es are used extensively in repair and manufacturing, for lifting, pressing, clamping and forming.<ref>R. Keith Mobley [https://books.google.com/books?id=8DyLdlfJzoMC&pg=PA1 ''Fluid power dynamics''] Butterworth-Heinemann 2000 p. vii {{ISBN|0-7506-7174-2}}</ref>
+
+Liquids are sometimes used in measuring devices. A [[thermometer]] often uses the [[thermal expansion]] of liquids, such as [[mercury (element)|mercury]], combined with their ability to flow to indicate temperature. A [[manometer]] uses the weight of the liquid to indicate [[air pressure]].<ref>Bela G. Liptak [https://books.google.com/books?id=pPMursVsxlMC&pg=PA807 ’’Instrument engineers’ handbook: process control’’] CRC Press 1999 p. 807 {{ISBN|0-8493-1081-4}}</ref>
+
+==Mechanical properties==
+===Volume===
+[[File:Cavitating-prop.jpg|thumb|Cavitation in water from a boat propeller]]
+Quantities of liquids are measured in units of [[volume]]. These include the [[International System of Units|SI]] unit cubic metre (m<sup>3</sup>) and its divisions, in particular the cubic decimeter, more commonly called the litre (1 dm<sup>3</sup> = 1 L = 0.001 m<sup>3</sup>), and the cubic centimetre, also called millilitre (1&nbsp;cm<sup>3</sup> = 1 mL = 0.001 L = 10<sup>−6</sup> m<sup>3</sup>).<ref>{{Citation |last1     = Knight
+ |first1    = Randall D.
+ |title     = Physics for Scientists and Engineers: A Strategic Approach (With Modern Physics)
+ |publisher = Addison-Wesley
+ |year      = 2008
+ |isbn      = 978-0-8053-2736-6
+ |page      = [https://archive.org/details/physicsforscient0000knig/page/443 443]
+ |url       = https://archive.org/details/physicsforscient0000knig/page/443
+}}</ref>
+
+The volume of a quantity of liquid is fixed by its temperature and [[pressure]]. Liquids generally expand when heated, and contract when cooled. Water between 0&nbsp;°C and 4&nbsp;°C is a notable exception.<ref>{{Citation
+| last1  = Silberberg
+| first1 = Martin S.
+| title     = Chemistry: The Molecular Nature of Matter and Change
+| publisher = McGraw-Hill Higher Education
+| year    = 2009
+| isbn    = 978-0-07-304859-8
+| page=461
+}}</ref>
+
+On the other hand, liquids have little [[compressibility]]. Water, for example, will compress by only 46.4 parts per million for every unit increase in [[Standard atmospheric pressure|atmospheric pressure]] (bar).<ref>{{cite web|url=http://hyperphysics.phy-astr.gsu.edu/hbase/tables/compress.html|title=Compressibility of Liquids|website=hyperphysics.phy-astr.gsu.edu|access-date=8 May 2018|url-status=live|archive-url=https://web.archive.org/web/20171207161845/http://hyperphysics.phy-astr.gsu.edu/hbase/Tables/compress.html|archive-date=7 December 2017}}</ref> At around 4000 bar (400 [[megapascal]]s or 58,000 [[pounds per square inch|psi]]) of pressure at room temperature water experiences only an 11% decrease in volume.<ref name="ReferenceA">''Intelligent Energy Field Manufacturing: Interdisciplinary Process Innovations'' By Wenwu Zhang -- CRC Press 2011 Page 144</ref> Incompressibility makes liquids suitable for [[hydraulics|transmitting hydraulic power]], because a change in pressure at one point in a liquid is transmitted undiminished to every other part of the liquid and very little energy is lost in the form of compression.<ref>Knight (2008) p. 454</ref>
+
+However, the negligible compressibility does lead to other phenomena. The banging of pipes, called [[water hammer]], occurs when a valve is suddenly closed, creating a huge pressure-spike at the valve that travels backward through the system at just under the speed of sound. Another phenomenon caused by liquid's incompressibility is [[cavitation]]. Because liquids have little [[elasticity (physics)|elasticity]] they can literally be pulled apart in areas of high turbulence or dramatic change in direction, such as the trailing edge of a boat propeller or a sharp corner in a pipe. A liquid in an area of low pressure (vacuum) vaporizes and forms bubbles, which then collapse as they enter high pressure areas. This causes liquid to fill the cavities left by the bubbles with tremendous localized force, eroding any adjacent solid surface.<ref>''Fluid Mechanics and Hydraulic Machines'' by S. C. Gupta -- Dorling-Kindersley 2006 Page 85</ref>
+
+===Pressure and buoyancy===
+{{main|Fluid statics}}
+
+In a [[gravitational field]], liquids exert [[pressure]] on the sides of a container as well as on anything within the liquid itself. This pressure is transmitted in all directions and increases with depth. If a liquid is at rest in a uniform gravitational field, the pressure <math>p</math> at depth <math>z</math> is given by<ref>Knight (2008) p. 448</ref> 
+:<math>p=p_0+\rho g z\,</math>
+where:
+:<math>p_0\,</math> is the pressure at the surface
+:<math>\rho\,</math> is the [[density]] of the liquid, assumed uniform with depth
+:<math>g\,</math> is the [[gravity|gravitational acceleration]]
+
+For a body of water open to the air, <math>p_0</math> would be the [[atmospheric pressure]].
+
+Static liquids in uniform gravitational fields also exhibit the phenomenon of [[buoyancy]], where objects immersed in the liquid experience a net force due to the pressure variation with depth. The magnitude of the force is equal to the weight of the liquid displaced by the object, and the direction of the force depends on the average density of the immersed object. If the density is ''smaller'' than that of the liquid, the buoyant force points ''upward'' and the object floats, whereas if the density is ''larger'', the buoyant force points ''downward'' and the object sinks. This is known as [[Archimedes' principle]].<ref>Knight (2008) pp. 455-459</ref>
+
+===Surfaces===
+{{main|Surface tension|Surface science}}
+
+[[File:2006-01-14 Surface waves.jpg|thumb|250px|[[Surface wave]]s in water]]
+
+Unless the volume of a liquid exactly matches the volume of its container, one or more surfaces are observed. The presence of a surface introduces new phenomena which are not present in a bulk liquid. This is because a molecule at a surface possesses bonds with other liquid molecules only on the inner side of the surface, which implies a net force pulling surface molecules inward. Equivalently, this force can be described in terms of energy: there is a fixed amount of energy associated with forming a surface of a given area. This quantity is a material property called the [[surface tension]], in units of energy per unit area (SI units: [[Joule|J]]/[[Meter|m]]<sup>2</sup>). Liquids with strong intermolecular forces tend to have large surface tensions.<ref>{{Citation
+| last1  = Silberberg
+| first1 = Martin S.
+| title     = Chemistry: The Molecular Nature of Matter and Change
+| publisher = McGraw-Hill Higher Education
+| year    = 2009
+| isbn    = 978-0-07-304859-8
+| page=457
+}}</ref>
+
+A practical implication of surface tension is that liquids tend to minimize their surface area, forming spherical [[drop (liquid)|drop]]s and [[bubble (physics)|bubble]]s unless other constraints are present. Surface tension is responsible for a range of other phenomena as well, including [[surface waves]], [[capillary action]], [[wetting]], and [[Capillary wave|ripples]]. In liquids under [[Confined liquid|nanoscale confinement]], surface effects can play a dominating role since – compared with a macroscopic sample of liquid – a much greater fraction of molecules are located near a surface.
+
+The surface tension of a liquid directly affects its [[wettability]]. Most common liquids have tensions ranging in the tens of mJ/m<Sup>2</sup>, so droplets of oil, water, or glue can easily merge and adhere to other surfaces, whereas liquid metals such as mercury may have tensions ranging in the hundreds of mJ/m<Sup>2</sup>, thus droplets do not combine easily and surfaces may only wet under specific conditions.
+
+The surface tensions of common liquids occupy a relatively narrow range of values when exposed to changing conditions such as temperature, which contrasts strongly with the enormous variation seen in other mechanical properties, such as viscosity.<ref name="Bormashenko2018">{{cite book|author=Edward Yu. Bormashenko|title=Wetting of Real Surfaces|url=https://books.google.com/books?id=fwh2DwAAQBAJ&pg=PA3|date=5 November 2018|publisher=De Gruyter|isbn=978-3-11-058314-4|pages=3–5}}</ref>
+
+===Flow===
+[[File:Viscosities.gif|thumb|A simulation of [[viscosity]]. The fluid on the left has a lower viscosity and Newtonian behavior while the liquid on the right has higher viscosity and non-Newtonian behavior.]]
+{{main|Fluid mechanics|Fluid dynamics}}
+
+An important physical property characterizing the flow of liquids is [[viscosity]]. Intuitively, viscosity describes the resistance of a liquid to flow.
+
+More technically, viscosity measures the resistance of a liquid to deformation at a given rate, such as when it is being sheared at finite velocity.<ref>{{Citation
+| last1  = Landau
+| first1 = L.D.
+| last2  = Lifshitz
+| first2 = E.M.
+| title     = Fluid Mechanics
+| publisher = Pergamon Press
+| edition = 2nd
+| year    = 1987
+| isbn    = 978-0-08-033933-7
+| pages = 44–45
+}}</ref> A specific example is a liquid flowing through a
+pipe: in this case the liquid undergoes shear deformation since it flows more slowly near the walls of the pipe
+than near the center. As a result, it exhibits viscous resistance to flow. In order to maintain flow, an external force must be applied, such as a pressure difference between the ends of the pipe.
+
+The viscosity of liquids decreases with increasing temperature.<ref>{{Citation
+| last1  = Bird
+| first1 = R. Byron
+| last2  = Stewart
+| first2 = Warren E.
+| last3  = Lightfoot
+| first3 = Edwin N.
+| title     = Transport Phenomena
+| publisher = John Wiley & Sons, Inc.
+| edition = 2nd
+| year    = 2007
+| isbn    = 978-0-470-11539-8
+| page = 21
+}}
+</ref><ref name =" KSZ ">{{cite journal|last1=Krausser|first1=J.|last2=Samwer|first2=K.|last3=Zaccone|first3=A.|date=2015|title=Interatomic repulsion softness directly controls the fragility of supercooled metallic melts|journal=Proceedings of the National Academy of Sciences of the USA|volume=112|issue=45|pages=13762–13767|doi=10.1073/pnas.1503741112|pmid=26504208|pmc=4653154|arxiv=1510.08117|bibcode=2015PNAS..11213762K|doi-access=free}}</ref>
+
+Precise control of 
+viscosity is important in many applications, particularly the lubrication industry.
+One way to achieve such control is by blending two or more liquids of differing viscosities in precise ratios.<ref name="Zhmud2014">{{Citation
+| last1       = Zhmud
+| first1      = Boris
+| year       = 2014
+| title      = Viscosity Blending Equations
+| journal    = Lube-Tech
+| volume     = 93
+| url        = http://www.lube-media.com/wp-content/uploads/2017/11/Lube-Tech093-ViscosityBlendingEquations.pdf
+}}</ref> 
+In addition, various additives exist which can modulate the temperature-dependence of the
+viscosity of lubricating oils. This capability is important since machinery often operate over a range of 
+temperatures (see also [[viscosity index]]).<ref>{{cite web |url=https://wiki.anton-paar.com/en/viscosity-index/ |archive-url=https://web.archive.org/web/20200309134610/https://wiki.anton-paar.com/en/viscosity-index/ |url-status=dead |archive-date=March 9, 2020 |title=Viscosity Index |publisher=Anton Paar |location=UK |access-date=29 August 2018 }}</ref>
+
+The viscous behavior of a liquid can be either [[Newtonian fluid|Newtonian]] or [[Non-Newtonian fluid|non-Newtonian]]. A Newtonian liquid exhibits a linear strain/stress curve, meaning its viscosity is independent of time, shear rate, or shear-rate history. Examples of Newtonian liquids include water, [[glycerin]], [[motor oil]], [[honey]], or mercury. A non-Newtonian liquid is one where the viscosity is not independent of these factors and either thickens (increases in viscosity) or thins (decreases in viscosity) under shear. Examples of non-Newtonian liquids include [[ketchup]], [[mayonnaise]], [[hair gel]]s, [[Play-Doh]], or [[starch]] solutions.<ref>''Honey in Traditional and Modern Medicine'' by Laid Boukraa -- CRC Press 2014 Page 22--24</ref>
+
+===Elasticity under confinement===
+
+[[Confined liquid]]s may exhibit different mechanical properties compared to bulk liquids. For example,
+liquids under sub-millimeter confinement (e.g. in the gap between rigid walls) exhibit a solid-like mechanical response and possess a surprisingly large low-frequency elastic [[shear modulus]], which scales with the inverse cubic power of the confinement length.<ref name =" PNAS ">{{cite journal|last1=Zaccone|first1=A.|last2=Trachenko|first2=K.|date=2020|title=Explaining the low-frequency shear elasticity of confined liquids|journal=Proceedings of the National Academy of Sciences of the USA|volume=117|issue=33|pages=19653–19655|doi=10.1073/pnas.2010787117|pmid=32747540|pmc=7443959|arxiv=2007.11916|bibcode=2020PNAS..11719653Z|doi-access=free}}</ref>
+
+===Sound propagation===
+
+{{main|Speed of sound#Speed of sound in liquids}}
+
+The speed of sound in a liquid is given by <math>c = \sqrt {K/\rho}</math> where <math>K</math> is the [[bulk modulus]] of the liquid and <math>\rho</math> the density. As an example, water has a bulk modulus of about 2.2 [[Pascal (unit)|GPa]] and a density of 1000&nbsp;kg/m<sup>3</sup>, which gives ''c'' = 1.5&nbsp;km/s.<ref>{{Citation
+| last1  = Taylor
+| first1 = John R.
+| title     = Classical Mechanics
+| publisher = University Science Books
+| year    = 2005
+| isbn    = 978-1-891389-22-1
+| pages=727–729
+}}</ref>
+
+==Thermodynamics==
+
+===Phase transitions===
+{{main|Boiling|Boiling point|Melting|Melting point}}
+[[File:Phase-diag2.svg|thumb|300px|A typical [[phase diagram]]. The dotted line gives the anomalous behaviour of water. The green lines show how the [[freezing point]] can vary with pressure, and the blue line shows how the [[boiling point]] can vary with pressure. The red line shows the boundary where [[Sublimation (chemistry)|sublimation]] or [[Deposition (physics)|deposition]] can occur.]]
+
+At a temperature below the [[boiling point]], any matter in liquid form will evaporate until reaching equilibrium with the reverse process of condensation of its vapor. At this point the vapor will condense at the same rate as the liquid evaporates. Thus, a liquid cannot exist permanently if the evaporated liquid is continually removed.<ref>{{Citation|last1=March|first1=N.H.|last2=Tosi|first2=M.P.|title=Introduction to Liquid State Physics|publisher=World Scientific|year=2002|doi=10.1142/4717|isbn=978-981-3102-53-8|page=7|bibcode=2002ilsp.book.....M|url=https://doi.org/10.1142/4717}}</ref> A liquid at or above its boiling point will normally boil, though [[superheating]] can prevent this in certain circumstances.
+
+At a temperature below the freezing point, a liquid will tend to [[crystallization|crystallize]], changing to its solid form. Unlike the transition to gas, there is no equilibrium at this transition under constant pressure,{{citation needed|date=February 2021}} so unless [[supercooling]] occurs, the liquid will eventually completely crystallize. However, this is only true under constant pressure, so that (for example) water and ice in a closed, strong container might reach an equilibrium where both phases coexist. For the opposite transition from solid to liquid, see [[melting]].
+
+===Liquids in space===
+The phase diagram explains why liquids do not exist in space or any other vacuum. Since the pressure is zero (except on surfaces or interiors of planets and moons) water and other liquids exposed to space will either immediately boil or freeze depending on the temperature. In regions of space near the earth, water will freeze if the sun is not shining directly on it and vaporize (sublime) as soon as it is in sunlight. If water exists as ice on the moon, it can only exist in shadowed holes where the sun never shines and where the surrounding rock does not heat it up too much. At some point near the orbit of Saturn, the light from the sun is too faint to sublime ice to water vapor. This is evident from the longevity of the ice that composes Saturn's rings.<ref>{{Cite web|last=Siegel|first=Ethan|date=2014-12-11|title=Does water freeze or boil in space?|url=https://medium.com/starts-with-a-bang/does-water-freeze-or-boil-in-space-7889856d7f36|access-date=2022-02-10|website=Starts With A Bang!|language=en}}</ref>
+
+===Solutions===
+{{main|Solution (chemistry)}}
+
+Liquids can form [[Solution (chemistry)|solution]]s with gases, solids, and other liquids.
+
+Two liquids are said to be [[miscible]] if they can form a solution in any proportion; otherwise they are immiscible. As an example, water and [[ethanol]] (drinking alcohol) are miscible whereas water and [[gasoline]] are immiscible.<ref>Silberberg, pp. 188 and 502</ref> In some cases a mixture of otherwise immiscible liquids can be stabilized to form an [[emulsion]], where one liquid is dispersed throughout the other as microscopic droplets. Usually this requires the presence of a [[surfactant]] in order to stabilize the droplets. A familiar example of an emulsion is [[mayonnaise]], which consists of a mixture of water and oil that is stabilized by [[lecithin]], a substance found in [[egg yolks]].<ref>{{Citation
+| last1  = Miodownik
+| first1 = Mark
+| author-link = Mark Miodownik
+| title     = Liquid rules: The Delightful and Dangerous Substances that Flow Through Our Lives
+| publisher = Houghton Mifflin Harcourt
+| year    = 2019
+| isbn    = 978-0-544-85019-4
+| page=124
+}}</ref>
+
+==Microscopic description==
+The molecules that compose liquids are disordered and strongly interacting,
+which makes liquids difficult to describe rigorously at the molecular level. This stands
+in contrast with the other two common phases of matter, gases and solids. 
+Although gases are disordered, they are sufficiently dilute that
+many-body interactions can be ignored, and molecular interactions can instead be modeled
+in terms of well-defined binary collision events. Conversely, although solids are dense and strongly
+interacting, their regular structure at the molecular level (e.g. a crystalline lattice) allows for 
+significant theoretical simplifications. For these reasons, the microscopic theory of liquids
+is less developed than that of gases and solids.<ref>{{Citation|last1 = Fisher| first1 = I.Z.| title = Statistical Theory of Liquids| publisher = The University of Chicago Press| year =1964| pages=1–11}}</ref>
+
+===Static structure factor===
+{{main|Structure of liquids and glasses}}
+
+[[File:Teilchenmodell Flüssigkeit.svg|thumb|right|200px|Structure of a classical monatomic liquid. Atoms have many nearest neighbors in contact, yet no long-range order is present.]]
+
+In a liquid, atoms do not form a crystalline lattice, nor do they show any other form of [[long-range order]]. This is evidenced by the absence of [[Bragg peak]]s in [[X-ray diffraction|X-ray]] and [[neutron diffraction]]. Under normal conditions, the diffraction pattern has circular symmetry, expressing the [[isotropy]] of the liquid. In radial direction, the diffraction intensity smoothly oscillates. This is usually described by the [[static structure factor]] ''S(q)'', with wavenumber ''q''=(4π/λ)sin&nbsp;θ given by the wavelength λ of the probe (photon or neutron) and the [[Bragg angle]] θ. The oscillations of ''S(q)'' express the ''near order'' of the liquid, i.e. the correlations between an atom and a few shells of nearest, second nearest, ... neighbors.
+
+A more intuitive description of these correlations is given by the [[radial distribution function]] ''g(r)'', which is basically the [[Fourier transform]] of ''S(q)''. It represents a spatial average of a temporal snapshot of [[pair correlations]] in the liquid.
+
+[[File:Lennard-Jones Radial Distribution Function.svg|thumb|300px|Radial distribution function of the [[Lennard–Jones potential|Lennard-Jones model fluid]].]]
+
+===Sound dispersion and structural relaxation===
+The above expression for the sound velocity <math>c = \sqrt {K/\rho}</math> contains the [[bulk modulus]] ''K''. If ''K'' is frequency independent then the liquid behaves as a linear medium, so that sound propagates without [[dissipation]] and without [[mode coupling]]. In reality, any liquid shows some [[Acoustic dispersion|dispersion]]: with increasing frequency, ''K'' crosses over from the low-frequency, liquid-like limit <math>K_0</math> to the high-frequency, solid-like limit <math>K_\infty</math>. In normal liquids, most of this cross over takes place at frequencies between GHz and THz, sometimes called [[hypersound]].
+
+At sub-GHz frequencies, a normal liquid cannot sustain [[shear wave]]s: the zero-frequency limit of the [[shear modulus]] is <math>G_0=0</math>. This is sometimes seen as the defining property of a liquid.<ref>{{cite journal |last1=Born |first1=Max |year=1940 |title=On the stability of crystal lattices |journal=Mathematical Proceedings |volume=36 |issue=2 |pages=160–172 |publisher=Cambridge Philosophical Society |doi=10.1017/S0305004100017138 |bibcode=1940PCPS...36..160B |s2cid=104272002 }}</ref><ref>{{cite journal |last1=Born |first1=Max |year=1939 |title=Thermodynamics of Crystals and Melting |journal=Journal of Chemical Physics |volume=7 |issue=8 |pages=591–604 |doi=10.1063/1.1750497 |url=http://jcp.aip.org/resource/1/jcpsa6/v7/i8/p591_s1?isAuthorized=no |bibcode=1939JChPh...7..591B |url-status=dead |archive-url=http://arquivo.pt/wayback/20160515021512/http://jcp.aip.org/resource/1/jcpsa6/v7/i8/p591_s1?isAuthorized=no |archive-date=2016-05-15 }}</ref> 
+However, just as the bulk modulus ''K'', the shear modulus ''G'' is frequency-dependent,
+and at hypersound frequencies it shows a similar cross over from the liquid-like limit <math>G_0</math> to a solid-like, non-zero limit <math>G_\infty</math>.
+
+According to the [[Kramers-Kronig relation]], the dispersion in the sound velocity (given by the real part of ''K'' or ''G'') goes along with a maximum in the sound attenuation (dissipation, given by the imaginary part of ''K'' or ''G''). According to [[linear response theory]], the Fourier transform of ''K'' or ''G'' describes how the system returns to equilibrium after an external perturbation; for this reason, the dispersion step in the GHz to THz region is also called [[Relaxation (physics)|relaxation]]. According to the [[fluctuation-dissipation theorem]], relaxation ''towards'' equilibrium is intimately connected to fluctuations ''in'' equilibrium. The density fluctuations associated with sound waves can be experimentally observed by [[Brillouin scattering]].
+
+On supercooling a liquid towards the glass transition, the crossover from liquid-like to solid-like response moves from GHz to MHz, kHz, Hz, ...; equivalently, the characteristic time of structural relaxation increases from ns to µs, ms, s, ... This is the microscopic explanation for the above-mentioned viscoelastic behaviour of glass-forming liquids.
+
+===Effects of association===
+The mechanisms of atomic/molecular [[diffusion]] (or [[particle displacement]]) in solids are closely related to the mechanisms of viscous flow and solidification in liquid materials. Descriptions of [[viscosity]] in terms of molecular "free space" within the liquid<ref name="Macleod1923">
+{{cite journal |author=D.B. Macleod |title=On a relation between the viscosity of a liquid and its coefficient of expansion |journal=Trans. Faraday Soc. |volume=19 |page=6 |date=1923 |doi=10.1039/tf9231900006}}</ref>
+were modified as needed in order to account for liquids whose molecules are known to be "associated" in the liquid state at ordinary temperatures. When various molecules combine together to form an associated molecule, they enclose within a semi-rigid system a certain amount of space which before was available as free space for mobile molecules. Thus, increase in viscosity upon cooling due to the tendency of most substances to become ''associated'' on cooling.<ref name="Stewart1930">
+{{cite journal |author=G.W. Stewart |title=The Cybotactic (Molecular Group) Condition in Liquids; the Association of Molecules |journal=Phys. Rev. |volume=35 |page=726 |date=1930 |doi=10.1103/PhysRev.35.726 |bibcode=1930PhRv...35..726S |issue=7}}</ref>
+
+Similar arguments could be used to describe the effects of [[pressure]] on viscosity, where it may be assumed that the viscosity is chiefly a function of the volume for liquids with a finite [[compressibility]]. An increasing viscosity with rise of pressure is therefore expected. In addition, if the volume is expanded by heat but reduced again by pressure, the viscosity remains the same.
+
+The local tendency to orientation of molecules in small groups lends the liquid (as referred to previously) a certain degree of association. This association results in a considerable "internal pressure" within a liquid, which is due almost entirely to those molecules which, on account of their temporary low velocities (following the Maxwell distribution) have coalesced with other molecules. The internal pressure between several such molecules might correspond to that between a group of molecules in the solid form.
+
+{{Table of phase transitions}}
+
+==References==
+{{Reflist|30em}}
+{{State of matter}}
+
+{{Authority control}}
+
+[[Category:Liquids| ]]
+[[Category:Phases of matter|*Liq]]
+[[Category:Viscosity]]
