@@ -1,0 +1,320 @@
+{{redirect2|Magnetic|Magnetized|other uses|Magnetic (disambiguation)|and|Magnetism (disambiguation)|and|Magnetized (disambiguation)}}
+{{Short description|Class of physical phenomena}}
+[[File:Ferrofluid Magnet under glass edit.jpg|thumb|300x300px|[[Ferrofluid]] "spiked" up by a cube [[neodymium magnet]], following its [[magnetic field]]]]
+{{electromagnetism|cTopic=-}}
+'''Magnetism''' is the class of physical attributes that are mediated by a [[magnetic field]], which refers to the capacity to induce attractive and repulsive phenomena in other entities. [[Electric current]]s and the [[magnetic moment]]s of elementary particles give rise to a magnetic field, which acts on other currents and magnetic moments. Magnetism is one aspect of the combined phenomena of [[electromagnetism]]. The most familiar effects occur in [[ferromagnetic]] materials, which are strongly attracted by magnetic fields and can be [[magnetization|magnetized]] to become permanent [[magnet]]s, producing magnetic fields themselves. Demagnetizing a magnet is also possible. Only a few substances are ferromagnetic; the most common ones are [[iron]], [[cobalt]], and [[nickel]] and their alloys. The rare-earth metals [[neodymium]] and [[samarium]] are less common examples. The prefix ''{{linktext|ferro-}}'' refers to [[iron]] because permanent magnetism was first observed in [[lodestone]], a form of natural iron ore called [[magnetite]], Fe<sub>3</sub>O<sub>4</sub>.
+
+All substances exhibit some type of magnetism. Magnetic materials are classified according to their bulk susceptibility.<ref>{{Cite book|last=Jiles, David|url=https://www.worldcat.org/oclc/909323904|title=Introduction to magnetism and magnetic materials|date=2 September 2015|isbn=978-1-4822-3887-7|edition=Third|location=Boca Raton|oclc=909323904}}</ref> Ferromagnetism is responsible for most of the effects of magnetism encountered in everyday life, but there are actually several types of magnetism. [[Paramagnetism|Paramagnetic]] substances, such as [[aluminium]] and [[oxygen]], are weakly attracted to an applied magnetic field; [[Diamagnetism|diamagnetic]] substances, such as [[copper]] and [[carbon]], are weakly repelled; while [[antiferromagnetism|antiferromagnetic]] materials, such as [[chromium]] and [[spin glass]]es, have a more complex relationship with a magnetic field. The force of a magnet on paramagnetic, diamagnetic, and antiferromagnetic materials is usually too weak to be felt and can be detected only by laboratory instruments, so in everyday life, these substances are often described as non-magnetic.
+
+The magnetic state (or magnetic phase) of a material depends on temperature, pressure, and the applied magnetic field. A material may exhibit more than one form of magnetism as these variables change.
+
+The strength of a [[magnetic field]] almost always decreases with distance, though the exact mathematical relationship between strength and distance varies. Different configurations of magnetic moments and electric currents can result in complicated magnetic fields.
+
+Only [[magnetic dipole]]s have been observed, although some theories predict the existence of [[magnetic monopole]]s.
+
+==History==
+{{main|History of electromagnetism}}
+[[File:Lodestone attracting nails.png|thumb|upright|[[Lodestone]], a natural [[magnet]], attracting iron nails. Ancient humans discovered the property of magnetism from lodestone.]]
+[[File:Blacksmith at the anvil. Wellcome L0005875.jpg|thumb|An illustration from Gilbert's 1600 ''De Magnete'' showing one of the earliest methods of making a magnet. A blacksmith holds a piece of red-hot iron in a north–south direction and hammers it as it cools. The magnetic field of the Earth aligns the domains, leaving the iron a weak magnet.]]
+[[File:A man is violently rubbed with magnets. Coloured lithograph Wellcome V0011767.jpg|thumb|upright|Drawing of a medical treatment using magnetic brushes. [[Charles Jacque]] 1843, France.]]
+Magnetism was first discovered in the ancient world, when people noticed that [[lodestone]]s, naturally magnetized pieces of the mineral [[magnetite]], could attract iron.<ref name="Tremolet">{{cite book | last = Du Trémolet de Lacheisserie | first = Étienne |author2=Damien Gignoux |author3=Michel Schlenker  | title = Magnetism: Fundamentals | publisher = Springer | year = 2005 | pages = 3–6 | url = https://books.google.com/books?id=MgCExarQD08C&pg=PA3 | isbn = 978-0-387-22967-6}}</ref> The word ''magnet'' comes from the [[Ancient Greek|Greek]] term μαγνῆτις λίθος ''magnētis lithos'',<ref>[https://archive.org/details/bub_gb_BkS2KW7u76MC ''Platonis Opera''], Meyer and Zeller, 1839, p. 989.</ref> "the Magnesian stone,<ref>The location of Magnesia is debated; it could be [[Magnesia (regional unit)|the region in mainland Greece]] or [[Magnesia ad Sipylum]]. See, for example, {{cite web|url=http://www.languagehat.com/archives/001914.php |title=Magnet |work=Language Hat blog |date=28 May 2005 |access-date = 22 March 2013}}</ref> lodestone." In ancient Greece, [[Aristotle]] attributed the first of what could be called a scientific discussion of magnetism to the philosopher [[Thales]] of [[Miletus]], who lived from about 625&nbsp;BC to about 545&nbsp;BC.<ref>{{cite web |url= http://galileoandeinstein.physics.virginia.edu/more_stuff/E&M_Hist.html|title= Historical Beginnings of Theories of Electricity and Magnetism|access-date=2008-04-02 |last= Fowler|first= Michael|year= 1997}}</ref> The [[History of India|ancient Indian]] medical text ''[[Sushruta Samhita]]'' describes using magnetite to remove arrows embedded in a person's body.<ref>{{Cite book|title=Nanomaterials and Nanocomposites: Synthesis, Properties, Characterization Techniques, and Applications|page=171|year=2017|publisher=CRC Press|first1=Rajendra|last1=Kumar Goyal|isbn=9781498761673}}</ref>
+
+<!-- The following is partly identical to [[Lodestone#History]] -->
+In [[History of China#Ancient China|ancient China]], the earliest literary reference to magnetism lies in a 4th-century BC book named after its author, ''[[Guiguzi]]''.<ref>The section "Fanying 2" ([[:s:鬼谷子|反應第二]]) of ''The [[Guiguzi]]'': "{{lang|zh|其察言也，不失若磁石之取鍼，舌之取燔骨}}".</ref>
+The 2nd-century BC annals, ''[[Lüshi Chunqiu]]'', also notes:
+"The [[lodestone]] makes iron approach; some (force) is attracting it."<ref name=Li54>{{cite journal |last=Li |first=Shu-hua |title=Origine de la Boussole II. Aimant et Boussole |journal=Isis |volume=45 |number=2 |year=1954 |pages=175–196|jstor=227361|doi=10.1086/348315|s2cid=143585290 | quote = un passage dans le ''[[Lüshi Chunqiu|Liu-che-tch'ouen-ts'ieou]]'' [...]: “La pierre d'aimant fait venir le fer ou elle l'attire.” | language = fr}}<br /> From the section "''Jingtong''" ({{lang|zh|精通}}) of the "Almanac of the Last Autumn Month" ({{lang|zh|季秋紀}}): "{{lang|zh|慈石召鐵，或引之也}}]"</ref> 
+The earliest mention of the attraction of a needle is in a 1st-century work ''[[Lunheng]]'' (''Balanced Inquiries''): "A lodestone attracts a needle."<ref>In the section "[https://archive.org/stream/lunheng02wang#page/350/mode/1up A Last Word on Dragons]" ({{lang|zh|亂龍篇}} ''Luanlong'') of the ''[[Lunheng]]'': "[[Amber]] takes up straws, and a load-stone attracts needles" ({{lang|zh|頓牟掇芥，磁石引針}}).</ref> 
+The 11th-century [[History of science and technology in China|Chinese scientist]] [[Shen Kuo]] was the first person to write—in the ''[[Dream Pool Essays]]''—of the magnetic needle compass and that it improved the accuracy of navigation by employing the [[astronomical]] concept of [[true north]].
+By the 12th century, the Chinese were known to use the lodestone [[compass#China|compass]] for navigation. They sculpted a directional spoon from lodestone in such a way that the handle of the spoon always pointed south.
+
+[[Alexander Neckam]], by 1187, was the first in Europe to describe the compass and its use for navigation. In 1269, [[Peter of Maricourt|Peter Peregrinus de Maricourt]] wrote the ''Epistola de magnete'', the first extant treatise describing the properties of magnets. In 1282, the properties of magnets and the dry compasses were discussed by [[Al-Ashraf Umar II]], a [[Islamic physics|Yemeni physicist]], [[Islamic astronomy|astronomer]], and [[Islamic geography|geographer]].<ref>{{Cite journal|title=Two Early Arabic Sources On The Magnetic Compass|first=Petra G.|last=Schmidl|journal=Journal of Arabic and Islamic Studies|year=1996–1997|volume=1|pages=81–132}}</ref>
+
+[[Leonardo Garzoni]]'s only extant work, the ''Due trattati sopra la natura, e le qualità della calamita'', is the first known example of a modern treatment of magnetic phenomena. Written in years near 1580 and never published, the treatise had a wide diffusion. In particular, Garzoni is referred to as an expert in magnetism by Niccolò Cabeo, whose Philosophia Magnetica (1629) is just a re-adjustment of Garzoni's work. Garzoni's treatise was known also to [[Giovanni Battista Della Porta]].
+
+In 1600, [[William Gilbert (astronomer)|William Gilbert]] published his ''[[De Magnete|De Magnete, Magneticisque Corporibus, et de Magno Magnete Tellure]]'' (''On the Magnet and Magnetic Bodies, and on the Great Magnet the Earth''). In this work he describes many of his experiments with his model earth called the [[terrella]]. From his experiments, he concluded that the [[Earth's magnetic field|Earth]] was itself magnetic and that this was the reason compasses pointed north (previously, some believed that it was the pole star ([[Polaris]]) or a large magnetic island on the north pole that attracted the compass).
+
+An understanding of the relationship between [[electricity]] and magnetism began in 1819 with work by [[Hans Christian Ørsted]], a professor at the University of Copenhagen, who discovered by the accidental twitching of a compass needle near a wire that an electric current could create a magnetic field. This landmark experiment is known as Ørsted's Experiment. Several other experiments followed, with [[André-Marie Ampère]], who in 1820 discovered that the magnetic field circulating in a closed-path was related to the current flowing through a surface enclosed by the path; [[Carl Friedrich Gauss]]; [[Jean-Baptiste Biot]] and [[Félix Savart]], both of whom in 1820 came up with the [[Biot–Savart law]] giving an equation for the magnetic field from a current-carrying wire; [[Michael Faraday]], who in 1831 found that a time-varying magnetic flux through a loop of wire induced a voltage, and others finding further links between magnetism and electricity. [[James Clerk Maxwell]] synthesized and expanded these insights into [[Maxwell's equations]], unifying electricity, magnetism, and [[optics]] into the field of [[electromagnetism]]. In 1905, [[Albert Einstein]] used these laws in motivating his theory of [[special relativity]],<ref name="Moving">[http://www.fourmilab.ch/etexts/einstein/specrel/www/ A. Einstein: "On the Electrodynamics of Moving Bodies"], June 30, 1905.</ref> requiring that the laws held true in all [[inertial reference frame]]s.
+
+Electromagnetism has continued to develop into the 21st century, being incorporated into the more fundamental theories of [[gauge theory]], [[quantum electrodynamics]], [[electroweak theory]], and finally the [[standard model]].
+
+==Sources==
+{{see also|Magnetic moment}}
+Magnetism, at its root, arises from two sources:
+# [[Electric current]].
+# [[Spin magnetic moment]]s of [[elementary particles]]. 
+The magnetic properties of materials are mainly due to the magnetic moments of their [[atom]]s' orbiting [[electron]]s. The magnetic moments of the nuclei of atoms are typically thousands of times smaller than the electrons' magnetic moments, so they are negligible in the context of the magnetization of materials. Nuclear magnetic moments are nevertheless very important in other contexts, particularly in [[nuclear magnetic resonance]] (NMR) and [[magnetic resonance imaging]] (MRI).
+
+Ordinarily, the enormous number of electrons in a material are arranged such that their magnetic moments (both orbital and intrinsic) cancel out. This is due, to some extent, to electrons combining into pairs with opposite intrinsic magnetic moments as a result of the [[Pauli exclusion principle]] (see ''[[electron configuration]]''), and combining into filled [[electron subshell|subshells]] with zero net orbital motion. In both cases, the electrons preferentially adopt arrangements in which the magnetic moment of each electron is canceled by the opposite moment of another electron. Moreover, even when the [[electron configuration]] ''is'' such that there are unpaired electrons and/or non-filled subshells, it is often the case that the various electrons in the solid will contribute magnetic moments that point in different, random directions so that the material will not be magnetic.
+
+Sometimes, either spontaneously, or owing to an applied external magnetic field—each of the electron magnetic moments will be, on average, lined up. A suitable material can then produce a strong net magnetic field.
+
+The magnetic behavior of a material depends on its structure, particularly its [[electron configuration]], for the reasons mentioned above, and also on the temperature. At high temperatures, random [[thermal motion]] makes it more difficult for the electrons to maintain alignment.
+Due to high longitude of the alpha system the hierarchy doesn't work as well.{{clarify|date=November 2022}}
+
+==Types of magnetism==
+[[File:Magnetism.svg|thumb|center|upright=3|Hierarchy of types of magnetism.<ref name=Meyers1>{{cite book |title=Introductory solid state physics |author=HP Meyers |url=https://books.google.com/books?id=Uc1pCo5TrYUC&pg=PA322 |page=362; Figure 11.1 |isbn= 9781420075021 |year=1997 |publisher=CRC Press |edition=2}}</ref>]]
+
+===Diamagnetism===
+{{main|Diamagnetism}}
+Diamagnetism appears in all materials and is the tendency of a material to oppose an applied magnetic field, and therefore, to be repelled by a magnetic field. However, in a material with paramagnetic properties (that is, with a tendency to enhance an external magnetic field), the paramagnetic behavior dominates.<ref name=Westbrook>
+
+{{cite book |title=MRI (Magnetic Resonance Imaging) in practice |author1=Catherine Westbrook |author2=Carolyn Kaut |author3=Carolyn Kaut-Roth |isbn=978-0-632-04205-0 |url=https://books.google.com/books?id=Qq1SHDtS2G8C&pg=PA217 |page=217 |edition=2|publisher=Wiley-Blackwell |year=1998}}
+
+</ref> Thus, despite its universal occurrence, diamagnetic behavior is observed only in a purely diamagnetic material. In a diamagnetic material, there are no unpaired electrons, so the intrinsic electron magnetic moments cannot produce any bulk effect. In these cases, the magnetization arises from the electrons' orbital motions, which can be understood [[classical physics|classically]] as follows:
+
+{{quote|When a material is put in a magnetic field, the electrons circling the nucleus will experience, in addition to their [[Coulomb's law|Coulomb]] attraction to the nucleus, a [[Lorentz force]] from the magnetic field. Depending on which direction the electron is orbiting, this force may increase the [[centripetal force]] on the electrons, pulling them in towards the nucleus, or it may decrease the force, pulling them away from the nucleus. This effect systematically increases the orbital magnetic moments that were aligned opposite the field and decreases the ones aligned parallel to the field (in accordance with [[Lenz's law]]). This results in a small bulk magnetic moment, with an opposite direction to the applied field.}}
+
+This description is meant only as a [[heuristic]]; the [[Bohr–Van Leeuwen theorem]] shows that diamagnetism is impossible according to classical physics, and that a proper understanding requires a [[quantum mechanics|quantum-mechanical]] description.
+
+All materials undergo this orbital response. However, in paramagnetic and ferromagnetic substances, the diamagnetic effect is overwhelmed by the much stronger effects caused by the unpaired electrons.
+
+===Paramagnetism===
+{{main|Paramagnetism}}
+In a paramagnetic material there are ''unpaired electrons''; i.e., [[atomic orbital|atomic]] or [[molecular orbital]]s with exactly one electron in them. While paired electrons are required by the [[Pauli exclusion principle]] to have their intrinsic ('spin') magnetic moments pointing in opposite directions, causing their magnetic fields to cancel out, an unpaired electron is free to align its magnetic moment in any direction. When an external magnetic field is applied, these magnetic moments will tend to align themselves in the same direction as the applied field, thus reinforcing it.
+
+===Ferromagnetism===
+{{main|Ferromagnetism}}
+A ferromagnet, like a paramagnetic substance, has unpaired electrons. However, in addition to the electrons' intrinsic magnetic moment's tendency to be parallel to an applied field, there is also in these materials a tendency for these magnetic moments to orient parallel to each other to maintain a lowered-energy state. Thus, even in the absence of an applied field, the magnetic moments of the electrons in the material spontaneously line up parallel to one another.
+
+Every ferromagnetic substance has its own individual temperature, called the [[Curie temperature]], or Curie point, above which it loses its ferromagnetic properties. This is because the thermal tendency to disorder overwhelms the energy-lowering due to ferromagnetic order.
+
+Ferromagnetism only occurs in a few substances; common ones are [[iron]], [[nickel]], [[cobalt]], their [[alloy]]s, and some alloys of [[rare-earth]] metals.
+
+====Magnetic domains====
+
+{{main|Magnetic domains}}
+
+{{multiple image
+|total_width=400
+|width1=200|height1=200|image1=Magnetic Domains 2.svg|caption1=Magnetic domains boundaries (white lines) in ferromagnetic material (black rectangle)
+|width2=200|height2=200|image2=Magnetic Domains 3.svg|caption2=Effect of a magnet on the domains
+|footer=
+}}
+
+The magnetic moments of atoms in a [[Ferromagnetism|ferromagnetic]] material cause them to behave something like tiny permanent magnets. They stick together and align themselves into small regions of more or less uniform alignment called [[magnetic domains]] or [[Weiss domains]]. Magnetic domains can be observed with a [[magnetic force microscope]] to reveal magnetic domain boundaries that resemble white lines in the sketch. There are many scientific experiments that can physically show magnetic fields.
+
+When a domain contains too many molecules, it becomes unstable and divides into two domains aligned in opposite directions so that they stick together more stably.
+
+When exposed to a magnetic field, the domain boundaries move, so that the domains aligned with the magnetic field grow and dominate the structure (dotted yellow area), as shown at the left. When the magnetizing field is removed, the domains may not return to an unmagnetized state. This results in the ferromagnetic material's being magnetized, forming a permanent magnet.
+
+When magnetized strongly enough that the prevailing domain overruns all others to result in only one single domain, the material is [[Saturation (magnetic)|magnetically saturated]]. When a magnetized ferromagnetic material is heated to the [[Curie point]] temperature, the molecules are agitated to the point that the magnetic domains lose the organization, and the magnetic properties they cause cease. When the material is cooled, this domain alignment structure spontaneously returns, in a manner roughly analogous to how a liquid can [[freezing|freeze]] into a crystalline solid.
+
+===Antiferromagnetism===
+[[File:Antiferromagnetic ordering.svg|thumb|Antiferromagnetic ordering]]
+{{main|Antiferromagnetism}}
+In an [[antiferromagnet]], unlike a ferromagnet, there is a tendency for the intrinsic magnetic moments of neighboring valence electrons to point in ''opposite'' directions. When all atoms are arranged in a substance so that each neighbor is anti-parallel, the substance is '''antiferromagnetic'''. Antiferromagnets have a zero net magnetic moment, meaning that no field is produced by them. Antiferromagnets are less common compared to the other types of behaviors and are mostly observed at low temperatures. In varying temperatures, antiferromagnets can be seen to exhibit diamagnetic and ferromagnetic properties.
+
+In some materials, neighboring electrons prefer to point in opposite directions, but there is no geometrical arrangement in which ''each'' pair of neighbors is anti-aligned. This is called a [[spin glass]] and is an example of [[geometrical frustration]].
+
+===Ferrimagnetism===
+[[File:Ferrimagnetic ordering.svg|thumb|[[Ferrimagnetic]] ordering]]
+{{main|Ferrimagnetism}}
+Like ferromagnetism, '''ferrimagnets''' retain their magnetization in the absence of a field. However, like antiferromagnets, neighboring pairs of electron spins tend to point in opposite directions. These two properties are not contradictory, because in the optimal geometrical arrangement, there is more magnetic moment from the sublattice of electrons that point in one direction, than from the sublattice that points in the opposite direction.
+
+Most [[Ferrite (magnet)|ferrites]] are ferrimagnetic. The first discovered magnetic substance, [[magnetite]], is a ferrite and was originally believed to be a ferromagnet; [[Louis Néel]] disproved this, however, after discovering ferrimagnetism.
+
+===Superparamagnetism===
+[[File:Magnetic orders.webm|thumb|Magnetic orders: comparison between ferro, antiferro and ferrimagnetism]]
+{{Main|Superparamagnetism}}
+When a ferromagnet or ferrimagnet is sufficiently small, it acts like a single magnetic spin that is subject to [[Brownian motion]]. Its response to a magnetic field is qualitatively similar to the response of a paramagnet, but much larger.
+
+===Other types of magnetism===
+* [[Metamagnetism]]
+* [[Molecule-based magnets]]
+* [[Single-molecule magnet]]
+* [[Spin glass]]
+
+==Electromagnet==
+[[File:Electromagnet.gif|thumb|upright=1.2|An electromagnet attracts paper clips when current is applied creating a magnetic field. The electromagnet loses them when current and magnetic field are removed.]]
+
+An [[electromagnet]] is a type of [[magnet]] in which the [[magnetic field]] is produced by an [[electric current]].<ref>{{harvnb|Purcell|2012|p=320,584}}</ref> The magnetic field disappears when the current is turned off. Electromagnets usually consist of a large number of closely spaced turns of wire that create the magnetic field. The wire turns are often wound around a [[magnetic core]] made from a [[ferromagnetic]] or [[ferrimagnetic]] material such as [[iron]]; the magnetic core concentrates the [[magnetic flux]] and makes a more powerful magnet.
+
+The main advantage of an electromagnet over a [[permanent magnet]] is that the magnetic field can be quickly changed by controlling the amount of electric current in the winding. However, unlike a permanent magnet that needs no power, an electromagnet requires a continuous supply of current to maintain the magnetic field.
+
+Electromagnets are widely used as components of other electrical devices, such as [[electric motor|motors]], [[Electric generator|generators]], [[relay]]s, solenoids, [[loudspeaker]]s, [[hard disk]]s, [[Magnetic resonance imaging|MRI machines]], scientific instruments, and [[magnetic separation]] equipment. Electromagnets are also employed in industry for picking up and moving heavy iron objects such as scrap iron and steel.<ref name="Merzouki">{{cite book
+ | last1  = Merzouki
+ | first1 = Rochdi
+ | last2  =  Samantaray
+ | first2 = Arun Kumar
+ | last3  = Pathak
+ | first3 = Pushparaj Mani
+ | title  = Intelligent Mechatronic Systems: Modeling, Control and Diagnosis
+ | publisher = Springer Science & Business Media
+ | date   = 2012
+ | pages  = 403–405
+ | url    = https://books.google.com/books?id=k81ECeMxyk8C&q=ferromagnetic+electromagnet&pg=PA404
+ | isbn   = 978-1447146285
+ }}</ref> Electromagnetism was discovered in 1820.<ref>{{cite journal
+  | last = Sturgeon
+  | first = W.
+  | title = Improved Electro Magnetic Apparatus
+  | journal = Trans. Royal Society of Arts, Manufactures, & Commerce
+  | volume = 43
+  | pages = 37–52
+  | year = 1825
+  }} cited in {{cite book
+  | last = Miller
+  | first = T.J.E
+  | title = Electronic Control of Switched Reluctance Machines
+  | publisher = Newnes
+  | year = 2001
+  | pages = 7
+  | url = https://books.google.com/books?id=E8VroIWyjB8C&pg=PA7
+  | isbn = 978-0-7506-5073-1}}</ref>
+
+==Magnetism, electricity, and special relativity==
+{{main|Classical electromagnetism and special relativity}}
+
+As a consequence of Einstein's theory of special relativity, electricity and magnetism are fundamentally interlinked. Both magnetism lacking electricity, and electricity without magnetism, are inconsistent with special relativity, due to such effects as [[length contraction]], [[time dilation]], and the fact that the [[magnetic force]] is velocity-dependent. However, when both electricity and magnetism are taken into account, the resulting theory ([[electromagnetism]]) is fully consistent with special relativity.<ref name="Moving"/><ref>{{harvnb|Griffiths|1998|loc=chapter 12}}</ref> In particular, a phenomenon that appears purely electric or purely magnetic to one observer may be a mix of both to another, or more generally the relative contributions of electricity and magnetism are dependent on the frame of reference. Thus, special relativity "mixes" electricity and magnetism into a single, inseparable phenomenon called [[electromagnetism]], analogous to how general relativity "mixes" space and time into [[spacetime]].
+
+All observations on [[electromagnetism]] apply to what might be considered to be primarily magnetism, e.g. perturbations in the magnetic field are necessarily accompanied by a nonzero electric field, and propagate at the [[speed of light]].<ref>{{Cite journal |last=Boozer |first=Allen H. |date=2006-04-01 |title=Perturbation to the magnetic field strength |url=https://aip.scitation.org/doi/10.1063/1.2192511 |journal=Physics of Plasmas |volume=13 |issue=4 |pages=044501 |doi=10.1063/1.2192511 |bibcode=2006PhPl...13d4501B |issn=1070-664X}}</ref>
+
+==Magnetic fields in a material==
+{{See also|Magnetic field#H and B inside and outside of magnetic materials}}
+
+In a vacuum,
+:<math>\mathbf{B} \ = \ \mu_0\mathbf{H}, </math>
+where {{math|''μ''<sub>0</sub>}} is the [[vacuum permeability]].
+
+In a material,
+:<math>\mathbf{B} \ = \ \mu_0(\mathbf{H} + \mathbf{M}). \ </math>
+The quantity {{math|''μ''<sub>0</sub>'''M'''}} is called ''magnetic polarization''.
+
+If the field {{math|'''H'''}} is small, the response of the magnetization {{math|'''M'''}} in a [[diamagnet]] or [[paramagnet]] is approximately linear:
+:<math> \mathbf{M} = \chi \mathbf{H},</math>
+the constant of proportionality being called the magnetic susceptibility. If so,
+:<math>\mu_0(\mathbf{H} + \mathbf{M}) \ = \ \mu_0(1 + \chi) \mathbf{H} \ = \ \mu_r\mu_0 \mathbf{H} \ = \ \mu \mathbf{H}.</math>
+
+In a hard magnet such as a ferromagnet, {{math|'''M'''}} is not proportional to the field and is generally nonzero even when {{math|'''H'''}} is zero (see [[Remanence]]).
+
+==Magnetic force==
+[[Image:Magnet0873.png|thumb|Magnetic lines of force of a bar magnet shown by iron filings on paper]]
+[[File:Magnet bar.ogv|thumb|thumbtime=35|Detecting magnetic field with compass and with iron filings]]
+{{main|Magnetic field}}
+
+The phenomenon of magnetism is "mediated" by the magnetic field. An electric current or magnetic dipole creates a magnetic field, and that field, in turn, imparts magnetic forces on other particles that are in the fields.
+
+Maxwell's equations, which simplify to the [[Biot–Savart law]] in the case of steady currents, describe the origin and behavior of the fields that govern these forces. Therefore, magnetism is seen whenever electrically [[electric charge|charged particles]] are in [[Motion (physics)|motion]]—for example, from movement of electrons in an [[electric current]], or in certain cases from the orbital motion of electrons around an atom's nucleus. They also arise from "intrinsic" [[magnetic dipole]]s arising from quantum-mechanical [[Spin (physics)|spin]].
+
+The same situations that create magnetic fields—charge moving in a current or in an atom, and intrinsic magnetic dipoles—are also the situations in which a magnetic field has an effect, creating a force. Following is the formula for moving charge; for the forces on an intrinsic dipole, see magnetic dipole.
+
+When a charged particle moves through a [[Magnetic field#B and H|magnetic field]] '''B''', it feels a [[Lorentz force]] '''F''' given by the [[cross product]]:<ref>{{cite book|first=John David|last=Jackson|author-link=John David Jackson (physicist)|title=Classical electrodynamics|edition=3rd|location=New York|publisher=[[John Wiley & Sons|Wiley]]|year=1999|isbn=978-0-471-30932-1}}</ref>
+
+: <math>\mathbf{F} = q (\mathbf{v} \times \mathbf{B})</math>
+where
+: <math>q</math> is the electric charge of the particle, and
+: '''v''' is the [[velocity]] [[Vector (geometric)|vector]] of the particle
+
+Because this is a cross product, the force is [[perpendicular]] to both the motion of the particle and the magnetic field. It follows that the magnetic force does no [[mechanical work|work]] on the particle; it may change the direction of the particle's movement, but it cannot cause it to speed up or slow down. The magnitude of the force is
+: <math>F=qvB\sin\theta\,</math>
+where <math>\theta</math> is the angle between '''v''' and '''B'''.
+
+One tool for determining the direction of the velocity vector of a moving charge, the magnetic field, and the force exerted is labeling the [[index finger]] "V"{{Dubious|date=July 2021|reason=wrong if q is negative. "V" should be "qv".}}, the [[middle finger]] "B", and the [[thumb]] "F" with your right hand. When making a gun-like configuration, with the middle finger crossing under the index finger, the fingers represent the velocity vector, magnetic field vector, and force vector, respectively. See also [[right-hand rule]].
+
+==Magnetic dipoles==
+{{main|Magnetic dipole}}
+A very common source of magnetic field found in nature is a [[dipole]], with a "[[South pole]]" and a "[[North pole]]", terms dating back to the use of magnets as compasses, interacting with the [[Earth's magnetic field]] to indicate North and South on the [[globe]]. Since opposite ends of magnets are attracted, the north pole of a magnet is attracted to the south pole of another magnet. The Earth's [[North Magnetic Pole]] (currently in the Arctic Ocean, north of Canada) is physically a south pole, as it attracts the north pole of a compass.
+A magnetic field contains [[energy]], and physical systems move toward configurations with lower energy. When diamagnetic material is placed in a magnetic field, a ''magnetic dipole'' tends to align itself in opposed polarity to that field, thereby lowering the net field strength. When ferromagnetic material is placed within a magnetic field, the magnetic dipoles align to the applied field, thus expanding the domain walls of the magnetic domains.
+
+===Magnetic monopoles===
+{{main|Magnetic monopole}}
+Since a bar magnet gets its ferromagnetism from electrons distributed evenly throughout the bar, when a bar magnet is cut in half, each of the resulting pieces is a smaller bar magnet. Even though a magnet is said to have a north pole and a south pole, these two poles cannot be separated from each other. A monopole—if such a thing exists—would be a new and fundamentally different kind of magnetic object. It would act as an isolated north pole, not attached to a south pole, or vice versa. Monopoles would carry "magnetic charge" analogous to electric charge. Despite systematic searches since 1931, {{As of|2010|lc=on}}, they have never been observed, and could very well not exist.<ref>Milton mentions some inconclusive events (p. 60) and still concludes that "no evidence at all of magnetic monopoles has survived" (p.3). {{cite journal|last=Milton|first=Kimball A.|title=Theoretical and experimental status of magnetic monopoles|journal=Reports on Progress in Physics|volume=69|issue=6|date=June 2006|pages=1637–1711|doi=10.1088/0034-4885/69/6/R02|arxiv=hep-ex/0602040|bibcode = 2006RPPh...69.1637M|s2cid=119061150}}.</ref>
+
+Nevertheless, some [[theoretical physics]] models predict the existence of these [[magnetic monopoles]]. [[Paul Dirac]] observed in 1931 that, because electricity and magnetism show a certain [[symmetry]], just as [[Quantum electrodynamics|quantum theory]] predicts that individual [[positive charge|positive]] or [[negative charge|negative]] electric charges can be observed without the opposing charge, isolated South or North magnetic poles should be observable. Using quantum theory Dirac showed that if magnetic monopoles exist, then one could explain the quantization of electric charge—that is, why the observed [[elementary particles]] carry charges that are multiples of the charge of the electron.
+
+Certain [[grand unified theories]] predict the existence of monopoles which, unlike elementary particles, are [[solitons]] (localized energy packets). The initial results of using these models to estimate the number of monopoles created in the [[Big Bang]] contradicted cosmological observations—the monopoles would have been so plentiful and massive that they would have long since halted the expansion of the universe. However, the idea of [[Cosmic inflation|inflation]] (for which this problem served as a partial motivation) was successful in solving this problem, creating models in which monopoles existed but were rare enough to be consistent with current observations.<ref>{{cite book|first=Alan|last=Guth|author-link=Alan Guth|title=The Inflationary Universe: The Quest for a New Theory of Cosmic Origins|isbn=978-0-201-32840-0|publisher=Perseus|year=1997|oclc=38941224|url-access=registration|url=https://archive.org/details/inflationaryuniv0000guth}}.</ref>
+
+==Units==
+
+===SI===
+{{SI electromagnetism units}}
+
+===Other===
+* [[gauss (unit)|gauss]] – the [[centimeter-gram-second]] (CGS) [[units of measurement|unit]] of magnetic field (denoted '''B''').
+* [[oersted]] – the CGS unit of [[Magnetic field#B and H|magnetizing field]] (denoted '''H''')
+* [[maxwell (unit)|maxwell]] – the CGS unit for [[magnetic flux]]
+* gamma – a unit of ''magnetic flux density'' that was commonly used before the [[tesla (unit)|tesla]] came into use (1.0 gamma = 1.0 nanotesla)
+* ''μ''<sub>0</sub> – common symbol for the [[permeability (electromagnetism)|permeability]] of free space ({{nowrap|4π × 10<sup>−7</sup>}} [[newton (unit)|newton]]/([[ampere-turn]])<sup>2</sup>)
+
+==Living things==
+[[File:Frog diamagnetic levitation.jpg|right|thumb|A live frog levitates inside a 32 [[millimetre|mm]] [[diameter]] vertical bore of a [[Bitter solenoid]] in a very strong magnetic field—about 16 [[tesla (unit)|teslas]]]]
+Some [[organisms]] can detect magnetic fields, a phenomenon known as [[magnetoception]]. Some materials in living things are ferromagnetic, though it is unclear if the magnetic properties serve a special function or are merely a byproduct of containing iron. For instance, [[chitons]], a type of marine mollusk, produce magnetite to harden their teeth, and even humans produce [[magnetite]] in bodily tissue.<ref>{{cite journal|last1=Kirschvink|first1=Joseph L.|last2=Kobayashi-Kirshvink|first2=Atsuko|last3=Diaz-Ricci|first3=Juan C.|last4=Kirschvink|first4=Steven J.|title=Magnetite in Human Tissues: A Mechanism for the Biological Effects of Weak ELF Magnetic Fields|journal=Bioelectromagnetics Supplement|date=1992|volume=1|pages=101–113|doi=10.1002/bem.2250130710|pmid=1285705|url=http://web.gps.caltech.edu/~jkirschvink/pdfs/KirschvinkBEMS92.pdf|access-date=29 March 2016}}</ref> [[Magnetobiology]] studies the effects of magnetic fields on living organisms; fields naturally produced by an organism are known as [[biomagnetism]]. Many biological organisms are mostly made of water, and because water is [[diamagnetic]], extremely strong magnetic fields can repel these living things.
+
+==Quantum-mechanical origin of magnetism==
+While heuristic explanations based on classical physics can be formulated, diamagnetism, paramagnetism and ferromagnetism can be fully explained only using quantum theory.<ref>[https://feynmanlectures.caltech.edu/II_34.html The magnetism of matter, ''Feynman Lectures in Physics'' Ch 34]</ref><ref>[https://feynmanlectures.caltech.edu/II_36.html Ferromagnetism, ''Feynman Lectures in Physics'' Ch 36]</ref>
+A successful model was developed already in 1927, by [[Walter Heitler]] and [[Fritz London]], who derived, quantum-mechanically, how hydrogen molecules are formed from hydrogen atoms, i.e. from the atomic hydrogen orbitals <math> u_A</math> and <math>u_B</math> centered at the nuclei ''A'' and ''B'', see below. That this leads to magnetism is not at all obvious, but will be explained in the following.
+
+According to the Heitler–London theory, so-called two-body molecular <math>\sigma</math>-orbitals are formed, namely the resulting orbital is:
+
+:<math>\psi(\mathbf r_1,\,\,\mathbf r_2)=\frac{1}{\sqrt{2}}\,\,\left (u_A(\mathbf r_1)u_B(\mathbf r_2)+u_B(\mathbf r_1)u_A(\mathbf r_2)\right )</math>
+
+Here the last product means that a first electron, '''r'''<sub>1</sub>, is in an atomic hydrogen-orbital centered at the second nucleus, whereas the second electron runs around the first nucleus. This "exchange" phenomenon is an expression for the quantum-mechanical property that particles with identical properties cannot be distinguished. It is specific not only for the formation of [[chemical bond]]s, but also for magnetism. That is, in this connection the term [[exchange interaction]] arises, a term which is essential for the origin of magnetism, and which is stronger, roughly by factors 100 and even by 1000, than the energies arising from the electrodynamic dipole-dipole interaction.
+
+As for the ''spin function'' <math>\chi (s_1,s_2)</math>, which is responsible for the magnetism, we have the already mentioned Pauli's principle, namely that a symmetric orbital (i.e. with the + sign as above) must be multiplied with an antisymmetric spin function (i.e. with a − sign), and ''vice versa''. Thus:
+:<math>\chi (s_1,\,\,s_2)=\frac{1}{\sqrt{2}}\,\,\left (\alpha (s_1)\beta (s_2)-\beta (s_1)\alpha (s_2)\right )</math>,
+
+I.e., not only <math>u_A</math> and <math>u_B</math> must be substituted by ''α'' and ''β'', respectively (the first entity means "spin up", the second one "spin down"), but also the sign + by the − sign, and finally '''r'''<sub>i</sub> by the discrete values ''s''<sub>i</sub> (=&nbsp;±{{frac|1|2}}); thereby we have <math>\alpha(+1/2)=\beta(-1/2)=1</math> and <math>\alpha(-1/2)=\beta(+1/2)=0</math>. The "[[singlet state]]", i.e. the − sign, means: the spins are ''antiparallel'', i.e. for the solid we have [[antiferromagnetism]], and for two-atomic molecules one has [[diamagnetism]]. The tendency to form a (homoeopolar) chemical bond (this means: the formation of a ''symmetric'' molecular orbital, i.e. with the + sign) results through the Pauli principle automatically in an ''antisymmetric'' spin state (i.e. with the − sign). In contrast, the Coulomb repulsion of the electrons, i.e. the tendency that they try to avoid each other by this repulsion, would lead to an ''antisymmetric'' orbital function (i.e. with the − sign) of these two particles, and complementary to a ''symmetric'' spin function (i.e. with the + sign, one of the so-called "[[triplet state|triplet functions]]"). Thus, now the spins would be ''parallel'' ([[ferromagnetism]] in a solid, [[paramagnetism]] in two-atomic gases).
+
+The last-mentioned tendency dominates in the metals [[iron]], [[cobalt]] and [[nickel]], and in some rare earths, which are ''ferromagnetic''. Most of the other metals, where the first-mentioned tendency dominates, are ''nonmagnetic'' (e.g. [[sodium]], [[aluminium]], and [[magnesium]]) or ''antiferromagnetic'' (e.g. [[manganese]]). Diatomic gases are also almost exclusively diamagnetic, and not paramagnetic. However, the oxygen molecule, because of the involvement of π-orbitals, is an exception important for the life-sciences.
+
+The Heitler-London considerations can be generalized to the [[Heisenberg model (classical)|Heisenberg model]] of magnetism (Heisenberg 1928).
+
+The explanation of the phenomena is thus essentially based on all subtleties of quantum mechanics, whereas the electrodynamics covers mainly the phenomenology.
+
+== Optically induced magnetism ==
+
+Optically induced magnetism is essentially the combination of optics and induced magnetism. [[Optics]] is the study of the behavior of light and induced magnetism is when an object is kept near a magnet and the object itself becomes magnetic [https://www.shaalaa.com/question-bank-solutions/explain-the-meaning-of-the-term-induced-magnetism-induced-magnetism_93204].
+
+Optically induced magnetism works when an electric current passes through a magnetic layer and the electric current becomes [[Spin polarization|spin-polarized]]. The spin-polarized current will exert a [[spin-transfer torque]] (STT) on the magnetization. This phenomena can also be generated inside a non-magnetic metal due to the spin–orbit coupling (SOC) [[Spin%E2%80%93orbit interaction]], and the corresponding torque (spin–orbit torque (SOT). 
+
+===Method===
+Optically induced magnetism occurs when an initial photon establishes an electrical polarization within a material and that causes an orbital angular momentum. This occurs on all electric dipoles within the material that transition between L = 0 and L = 1. A second photon can exert a magnetic torque on the orbital angular momentum, and that causes an exchange of orbital angular momentum to rotational angular momentum. The change from orbital angular momentum to rotational angular momentum de-excites the molecule and increases the radius of charge motion. When the radius of charge motion increases, the magnetic dipole [[Electron magnetic moment]] increases. This is because the magnetic dipole depends on the area enclosed by the current within the molecule (m = ids). This type of magnetism can occur in materials that are thought to be "non magnetic," such as diamagnets [[Diamagnetism]], as long as the material is [[dielectric]].
+
+The more you optically excite the dielectric material, the more magnetic dipoles are formed, and therefore the more magnetic the material becomes. However, the electric dipole [[Electric dipole moment]] magnitude will always be larger than the magnetic dipole magnitude, and the magnetic dipole moment will always be relative to the electric dipole moment.
+
+==See also==
+{{div col|colwidth=15em}}
+* [[Coercivity]]
+* [[Gravitomagnetism]]
+* [[Magnetic hysteresis]]
+* [[Magnetar]]
+* [[Magnetic bearing]]
+* [[Magnetic circuit]]
+* [[Magnetic cooling]]
+* [[Magnetic field viewing film]]
+* [[Magnetic stirrer]]
+* [[Magnetic structure]]
+* [[Magnetism and temperature]]
+* [[Micromagnetism]]
+* [[Neodymium magnet]]
+* [[Plastic magnet]]
+* [[Rare-earth magnet]]
+* [[Spin wave]]
+* [[Spontaneous magnetization]]
+* [[Vibrating-sample magnetometer]]
+* [[Daniel Davis Jr.]]
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book |author=David K. Cheng |title=Field and Wave Electromagnetics |publisher=Addison-Wesley Publishing Company, Inc. |year=1992 |isbn=978-0-201-12819-2}}
+* {{cite book |author=Furlani, Edward P. |title=Permanent Magnet and Electromechanical Devices: Materials, Analysis and Applications |publisher=Academic Press |year=2001 |isbn=978-0-12-269951-1 |oclc=162129430}}
+* {{cite book |last1=Griffiths |first1=David J. |title=Introduction to Electrodynamics (3rd ed.) |publisher=Prentice Hall |year=1998 |isbn=978-0-13-805326-0 |oclc=40251748 |url-access=registration |url=https://archive.org/details/introductiontoel00grif_0}}
+* {{cite book |author=Kronmüller, Helmut. |title=Handbook of Magnetism and Advanced Magnetic Materials, 5 Volume Set |publisher=John Wiley & Sons |year=2007 |isbn=978-0-470-02217-7 |oclc=124165851}}
+* {{cite book |last1=Purcell |first1=Edward M. |title=Electricity and magnetism |date=2012 |publisher=Cambridge Univ. Press |location=Cambridge |isbn=9781-10701-4022 |edition=3rd}}
+* {{cite book |author=Tipler, Paul |title=Physics for Scientists and Engineers: Electricity, Magnetism, Light, and Elementary Modern Physics (5th ed.) |publisher=W.H. Freeman |year=2004 |isbn=978-0-7167-0810-0 |oclc=51095685}}
+* {{Cite book |last=Coey |first=J. M. D. |title=Magnetism and Magnetic Materials |publisher=Cambridge University Press |year=2019 |isbn=978-1108717519}}{{refend}}
+
+==Bibliography==
+{{sisterlinks|d=Q3294789|q=Magnetism|wikt=magnetism|c=Category:Magnetism|n=no|voy=no|m=no|mw=no|species=no|b=Thermodynamics, Electricity, and Magnetism|v=Magnetism|s=Portal:Physics#Magnetism}}
+* [http://www.exploratorium.edu/snacks/iconmagnetism.html The Exploratorium Science Snacks – Subject:Physics/Electricity & Magnetism]
+*[http://webbdcrista1.ehu.es/magndata/index.php?show_db=1 A collection of magnetic structures – MAGNDATA]
+
+{{magnetic states}}
+
+{{Authority control}}
+
+[[Category:Magnetism| ]]
