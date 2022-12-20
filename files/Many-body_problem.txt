@@ -1,0 +1,69 @@
+{{Short description|Problem in physics and quantum mechanics}}
+{{about|the many-body problem in quantum mechanics|the n-body problem in classical mechanics|n-body problem}}
+{{Quantum mechanics}}
+
+The '''many-body problem''' is a general name for a vast category of physical problems pertaining to the properties of microscopic systems made of many interacting particles. ''Microscopic'' here implies that [[quantum mechanics]] has to be used to provide an accurate description of the system. ''Many'' can be anywhere from three to infinity (in the case of a practically infinite, [[Homogeneity (physics)|homogeneous]] or periodic system, such as a [[crystal]]), although three- and four-body systems can be treated by specific means (respectively the [[Faddeev equations|Faddeev]] and Faddeev–Yakubovsky equations) and are thus sometimes separately classified as [[few-body systems]].
+
+In general terms, while the underlying [[physical laws]] that govern the motion of each individual particle may (or may not) be simple, the study of the collection of particles can be extremely complex. In such a quantum system, the repeated interactions between particles create quantum correlations, or entanglement. As a consequence, the [[wave function]] of the system is a complicated object holding a large amount of [[Information theory|information]], which usually makes exact or analytical calculations impractical or even impossible.
+
+This becomes especially clear by a comparison to classical mechanics. Imagine a single particle that can be described with <math>k</math> numbers (take for example a free particle described by its position and velocity vector, resulting in <math>k=6</math>). In classical mechanics, <math>n</math> such particles can simply be described by <math>k\cdot n</math> numbers. The dimension of the classical many-body system scales linearly with the number of particles <math> n </math>.
+In quantum mechanics, however, the many-body-system is in general in a superposition of combinations of single particle states - all the <math> k^n </math> different combinations have to be accounted for. The dimension of the quantum many body system therefore scales exponentially with <math> n </math>, much faster than in classical mechanics.
+
+Because the required numerical expense grows so quickly, simulating the dynamics of more than three quantum-mechanical particles is already infeasible for many physical systems.<ref>{{Cite journal
+ | first = David
+ | last = Hochstuhl
+ | author2 = Bonitz, Michael; Hinz, Christopher 
+ | year = 2014
+ | title = Time-dependent multiconfiguration methods for the numerical simulation of photoionization processes of many-electron atoms
+ | journal = The European Physical Journal Special Topics
+ | volume = 223
+ | issue = 2
+ | pages = 177–336
+ | doi = 10.1140/epjst/e2014-02092-3
+ | s2cid = 122869981
+ }}</ref> Thus, many-body theoretical physics most often relies on a set of [[Approximation|approximations]] specific to the problem at hand, and ranks among the most [[High-performance computing|computationally intensive]] fields of science.
+
+In many cases, [[Emergence|emergent phenomena]] may arise which bear little resemblance to the underlying elementary laws.
+
+Many-body problems play a central role in [[condensed matter physics]].
+
+== Examples ==
+
+* [[Condensed matter physics]] ([[solid-state physics]], [[nanoscience]], [[superconductivity]])
+* [[Bose–Einstein condensation]] and [[Superfluids]]
+* [[Quantum chemistry]] ([[computational chemistry]], [[molecular physics]])
+* [[Atomic physics]]
+* [[Molecular physics]]
+* [[Nuclear physics]] ([[Nuclear structure]], [[nuclear reactions]], [[nuclear matter]])
+* [[Quantum chromodynamics]] ([[Lattice QCD]], [[hadron]] spectroscopy, [[QCD matter]], [[quark–gluon plasma]])
+
+== Approaches ==
+
+* [[Mean-field theory]] and extensions (e.g. [[Hartree–Fock]], [[Random phase approximation]])
+* [[Dynamical mean field theory]]
+* Many-body [[perturbation theory]] and [[Green's function (many-body theory)|Green's function]]-based methods
+* [[Configuration interaction]]
+* [[Coupled cluster]]
+* Various [[Quantum Monte Carlo|Monte-Carlo]] approaches
+* [[Density functional theory]]
+* [[Lattice gauge theory]]
+* [[Matrix product state]]
+* [[Neural network quantum states]]
+* [[Numerical renormalization group]]
+
+== Further reading==
+* {{ cite web|first=Stephen |last=Jenkins| url=http://newton.ex.ac.uk/research/qsystems/people/jenkins/mbody/mbody3.html |title=The Many Body Problem and Density Functional Theory}}
+* {{ cite book| last = Thouless| first= D. J.|  author-link=David Thouless | title=The quantum mechanics of many-body systems|location=New York| publisher=Academic Press|year=1972|isbn =0-12-691560-1}}
+* {{ cite book| last1= Fetter| first1=A. L. | author1-link=Alexander Fetter|author2-link=John Dirk Walecka|first2=J. D.|last2= Walecka|title=Quantum Theory of Many-Particle Systems|location=New York|publisher=Dover|year=2003| isbn= 0-486-42827-3}}
+* {{ cite book| author-link = Philippe Nozières| first=P. |last=Nozières| title=Theory of Interacting Fermi Systems|publisher=Addison-Wesley|year=1997| isbn =0-201-32824-0}}
+* {{cite book| last=Mattuck|first=R. D.| author-link=R. D. Mattuck|title=A guide to Feynman diagrams in the many-body problem| url=https://archive.org/details/guidetofeynmandi0000matt| url-access=registration|location=New York| publisher=McGraw-Hill|year= 1976| isbn= 0-07-040954-4}}
+
+==References==
+{{reflist}}
+
+[[Category:Quantum mechanics]]
+[[Category:Computational physics]]
+
+
+{{compu-physics-stub}}
+{{quantum-stub}}
