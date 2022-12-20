@@ -1,7 +1,8 @@
 Identifier / Formula,Name,ArXiV,Wikipedia,Wikidata,Wikidata1,Wikidata2,WordWindow,FormulaConceptDB,type,time,manualSelectionTime
 F,force (Q11402),-,9,2,-,-,6,-,global,11745,-1
 A,area (Q11500),-,-,3,-,-,-,-,global,12102,-1
-sigma,stress (Q206175),-,-,-,-,-,1,-,global,19209,-1
+sigma,stress (N/A),-,-,-,-,-,1,-,global,19209,-1
 epsilon,strain (Q855769),-,-,-,-,-,3,-,global,8159,-1
 l,length (Q36253),1,-,1,-,-,-,-,global,3402,-1
-E,young's modulus (Q2091584),-,8,-,-,-,-,-,global,1429,-1
+E,young's modulus (N/A),-,8,-,-,-,-,-,global,1429,-1
+\sigma = \frac{F}{A},stress (N/A),-,-,-,-,-,1,2,global,7572,-1
