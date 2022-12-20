@@ -6,3 +6,6 @@ V,potential energy (N/A),-,4,-,-,-,-,-,global,4253,-1
 e,exponential (N/A),-,-,-,-,-,-,-,global,4202,14018
 i,complex number (N/A),-,-,-,-,-,-,-,global,3901,5092
 theta,angle (Q11352),1,1,-,-,-,-,-,global,2320,-1
+\mathcal{L} = \partial^\mu \phi \partial_\mu \phi - V(\phi).,lagrangian (N/A),-,-,-,-,-,5,-,global,35673,-1
+"V(\phi) = -5|\phi|^2 + |\phi|^4 \,",potential (N/A),-,-,-,-,-,-,-,global,3271,4688
+\phi = \sqrt{5/2} e^{i\theta} ,state (N/A),-,-,-,-,-,6,-,global,7959,-1
