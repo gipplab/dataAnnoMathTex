@@ -1,0 +1,1 @@
+{"global": {"(x,y)": {"name": "linear equation", "mathEnv": "(x,y)", "uniqueIDs": ["180---10", "180---16", "254---1", "254---7"], "qid": "Q484637", "time": 872, "manualSelectionTime": -1, "sourcesWithNums": {"Wikidata1": 2}, "type": "Formula"}}, "local": {}}
