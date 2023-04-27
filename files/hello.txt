@@ -1,0 +1,72 @@
+{{short description|Salutation or greeting}}
+{{Redirect|Hiya}}
+{{Redirect|Hello!|the British magazine|Hello! (magazine)}}
+{{Other uses|Hello (disambiguation)}}
+{{pp-semi|small=yes}}
+[[File:TelephoneHelloNellie.jpg|thumb|The greeting "Hello" became associated with telephones in the late 19th century. Postcard circa 1905–1915]]
+'''''Hello''''' is a [[salutation]] or [[greeting habits|greeting]] in the [[English language]]. It is first attested in writing from 1826.<ref name="oed-hello">{{cite OED|term=hello|id=85687}}</ref>
+==Early uses==
+''Hello'', with that spelling, was used in publications in the U.S. as early as the 18 October 1826 edition of the ''[[Norwich Courier]]'' of [[Norwich, Connecticut]].<ref name="oed-hello"/> Another early use was an 1833 American book called ''The Sketches and Eccentricities of Col. David Crockett, of West Tennessee'',<ref>(Anonymous). [https://books.google.com/books?id=RZsOAAAAYAAJ&dq=hello&pg=PA144 ''The Sketches and Eccentricities of Col. David Crockett, of West Tennessee''.] New York: J. & J. Harper, 1833. p. 144.</ref> which was reprinted that same year in ''[[Literary Gazette|The London Literary Gazette]]''.<ref>[https://books.google.com/books?id=NVsZAAAAMAAJ&dq=hello&pg=RA1-PA803 "''The Sketches and Eccentricities of Col. David Crockett, of West Tennessee''".] '' The London Literary Gazette; and Journal of Belles Lettres, Arts, Sciences, &c.'' No. 883: 21 December 1833. p. 803.</ref> The word was extensively used in literature by the 1860s.<ref>[http://dictionary.reference.com/browse/hello] Origin of the word.</ref>
+
+==Etymology==
+According to the ''[[Oxford English Dictionary]]'', ''hello'' is an alteration of ''hallo'', ''hollo'',<ref name="oed-hello"/> which came from [[Old High German]] "''halâ'', ''holâ'', emphatic imperative of ''halôn'', ''holôn'' to fetch, used especially in hailing a ferryman".<ref>{{cite OED|term=hallo|id=83588}}</ref> It also connects the development of ''hello'' to the influence of an earlier form, ''holla'', whose origin is in the French ''holà'' (roughly, 'whoa there!', from French ''là'' 'there').<ref>{{cite OED|term=holla|id=87735}}</ref> As in addition to ''hello'', ''halloo'',<ref>Butler, Mann, ''[https://archive.org/details/historyofcommonw00butl A History of the Commonwealth of Kentucky]'', Wilcox, Dickerman & Co., 1834, p. 106.</ref> ''hallo'', ''hollo'', ''hullo'' and (rarely) ''hillo'' also exist as variants or related words, the word can be spelt using any of all five vowels.<ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/hollo|title=Definition of HOLLO|website=www.merriam-webster.com}}</ref><ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/hullo|title=Definition of HULLO|website=www.merriam-webster.com}}</ref><ref>{{Cite web|url=https://www.merriam-webster.com/dictionary/hillo|title=Definition of HILLO|website=www.merriam-webster.com}}</ref>
+
+===Telephone===
+The use of ''hello'' as a [[telephone]] greeting has been credited to [[Thomas Edison]]; according to one source, he expressed his surprise with a misheard ''Hullo''.<ref name=koenigsberg >{{cite magazine|url=http://www.collectorcafe.com/article_archive.asp?article=800&id=1507 |title=The First "Hello!": Thomas Edison, the Phonograph and the Telephone – Part 2 |author=Allen Koenigsberg |magazine=Antique Phonograph Magazine |volume=VIII |issue=6 |archive-url=https://web.archive.org/web/20061116211033/http://www.collectorcafe.com/article_archive.asp?article=800&id=1507 |archive-date=16 November 2006 |url-status=dead }}</ref> [[Alexander Graham Bell]] initially used ''[[Ahoy (greeting)|Ahoy]]'' (as used on ships) as a telephone greeting.<ref>{{cite web|url=http://www2.cs.uh.edu/~klong/papers/hello.txt|title=All Things Considered|author=Allen Koenigsberg|publisher=National Public Radio|access-date=2006-09-13|year=1999|url-status=dead|archive-url=https://web.archive.org/web/20090309094200/http://www2.cs.uh.edu/~klong/papers/hello.txt|archive-date=2009-03-09}}</ref><ref name=etymology>{{Cite web |url= http://www.etymonline.com/index.php?search=hello&searchmode=none |title=Online Etymology Dictionary |work=etymonline.com
+ |access-date=28 September 2010}}</ref> However, in 1877, Edison wrote to T. B. A. David, president of the Central District and Printing Telegraph Company of [[Pittsburgh, Pennsylvania|Pittsburgh]]:
+
+{{quote|Friend David, I do not think we shall need a call bell as Hello! can be heard 10 to 20 feet away.
+What you think? Edison – P.S. first cost of sender & receiver to manufacture is only $7.00.<ref name=koenigsberg />}}
+
+By 1889, central telephone exchange operators were known as 'hello-girls' because of the association between the greeting and the telephone.<ref name=etymology/><ref>{{Cite news|url=https://www.nytimes.com/1992/03/05/garden/great-hello-mystery-is-solved.html|title=Great 'Hello' Mystery Is Solved|last=Grimes|first=William|date=5 March 1992|work=The New York Times|access-date=2017-10-25|issn=0362-4331}}</ref>
+
+A 1918 fiction novel uses the spelling "Halloa" in the context of telephone conversations.<ref>{{Cite book |last=Dehan |first=Richard |url=https://books.google.com/books?id=3FAMAAAAYAAJ&dq=%22halloa%22&pg=PA500 |title=That which Hath Wings: A Novel of the Day |date=1918 |publisher=G. P. Putnam |isbn=978-1-5332-9337-4 |language=en}}</ref> 
+
+===Hullo, hallo, and other spellings===
+{{Redirect|Hallo}}
+''Hello'' might be derived from an older spelling variant, ''hullo'', which the American [[Merriam-Webster]] dictionary describes as a "chiefly British variant of hello",<ref name="MW">{{cite web |date=25 April 2007 |title=hullo – Definition from the Merriam-Webster Online Dictionary |url=http://www.merriam-webster.com/dictionary/hullo |access-date=2009-09-26 |publisher=Merriam-webster.com}}</ref> and which was originally used as an exclamation to call attention, an expression of surprise, or a greeting. ''Hullo'' is found in publications as early as 1803.<ref>[https://books.google.com/books?id=27sCAAAAYAAJ&dq=hullo&pg=PA12 ''The Sporting Magazine.''] London (1803). Volume 23, p. 12.</ref> The word ''hullo'' is still in use, with the meaning ''hello''.<ref name="hullo">{{cite web |title=Hullo From Orkney |url=http://forum.downsizer.net/archive/hullo-from-orkney__o_t__t_36387.html |access-date=2009-09-26 |publisher=Forum.downsizer.net}}</ref><ref name="hullo1">{{cite web |author=Piers Beckley |date=23 April 2008 |title=Writersroom Blog: Hullo again. Did you miss me? |url=https://www.bbc.co.uk/blogs/writersroom/2008/04/hullo_again.shtml |access-date=2009-09-26 |publisher=BBC}}</ref><ref name="hullo2">{{cite news |date=16 July 2009 |title=Ashes: England v Australia – day one as it happened &#124; Andy Bull and Rob Smyth |work=The Guardian |location=London |url=https://www.theguardian.com/sport/2009/jul/16/ashes-england-australia-live-report |access-date=2009-09-26}}</ref><ref name="hullo3">{{cite news |date=14 April 2005 |title=Semi-final clash excites fans |publisher=BBC Sport |url=http://news.bbc.co.uk/sport1/hi/football/europe/4444713.stm |access-date=2009-09-26}}</ref>
+
+''Hello'' is alternatively thought to come from the word ''hallo'' (1840) via ''hollo'' (also ''holla'', ''holloa'', ''halloo'', ''halloa'').<ref>{{cite web|url=http://www.m-w.com/dictionary/hello|title=Hello|publisher=Merriam-Webster Online|access-date=2016-02-07}}</ref> The definition of ''hollo'' is to shout or an exclamation originally shouted in a [[fox hunt|hunt]] when the quarry was spotted:<ref>{{cite web|url=http://www.m-w.com/dictionary/hollo|title=Hollo|publisher=Merriam-Webster Online|access-date=2016-02-07}}</ref><ref>{{Cite book |url=https://books.google.com/books?id=iSg_AQAAMAAJ&dq=%22halloa%22&pg=PA127 |title=Baily's Magazine of Sports and Pastimes |date=1907 |publisher=Vinton |pages=127 |language=en}}</ref>  
+{{quote|If I fly, Marcius,/Halloo me like a hare.|''[[Coriolanus (play)|Coriolanus]]'' (I.viii.7), [[William Shakespeare]]}}
+
+[[Fowler's]] has it that "hallo" is first recorded "as a shout to call attention" in 1864.<ref>''The New Fowler's'', revised third edition by R. W. Burchfield, [[Oxford University Press]].  {{ISBN|0-19-860263-4}}, p. 356.</ref>
+It is used by [[Samuel Taylor Coleridge]]'s famous poem ''[[The Rime of the Ancient Mariner]]'' written in 1798:
+{{quote|
+And the good south wind still blew behind,<br />
+But no sweet bird did follow,<br /> 
+Nor any day for food or play <br />
+Came to the mariners' hollo!}}
+
+In many [[Germanic languages]], including [[German language|German]], [[Danish language|Danish]], [[Norwegian language|Norwegian]], [[Dutch language|Dutch]] and [[Afrikaans language|Afrikaans]], "''hallo''" literally translates into English as "hello". In the case of Dutch, it was used as early as 1797 in a letter from [[Willem Bilderdijk]] to his sister-in-law as a remark of astonishment.<ref>Bilderdijk, Willem  [http://www.dbnl.org/tekst/bild002lief01_01/bild002lief01_01_0107.php?q=hallo ''Liefde en ballingschap. Brieven 1795–1797''] (ed. Marita Mathijsen). Uitgeverij De Arbeiderspers, Amsterdam/Antwerp 1997</ref> 
+
+[[Webster's dictionary]] from 1913 traces the etymology of ''holloa'' to the Old English ''halow'' and suggests: "Perhaps from ah + lo; compare Anglo Saxon ealā".
+
+According to the ''[[American Heritage Dictionary]]'', ''hallo'' is a modification of the obsolete ''holla'' (''stop!''), perhaps from Old French ''hola'' (''ho'', ho! + ''la'', there, from Latin ''illac'', that way).<ref>{{cite web|url=http://www.bartelby.com/61/60/H0136000.html|title=Hello|publisher= The American Heritage Dictionary of the English Language: Fourth Edition.|year=2000|access-date=2006-09-01}}</ref>
+
+The Old English verb, hǽlan (1. wv/t1b 1 to heal, cure, save; greet, salute; gehǽl! Hosanna!), may be the ultimate origin of the word.<ref>{{Cite web|url=http://home.comcast.net/~modean52/oeme_dictionaries.htm|title=OEME Dictionaries}}</ref> Hǽlan is likely a cognate of German Heil (meaning ''complete'' for things and ''healthy'' for beings) and other similar words of Germanic origin.  [[Bill Bryson]] asserts in his book ''Mother Tongue'' that "hello" comes from Old English ''hál béo þu'' ("Hale be thou", or "whole be thou", meaning a wish for good health; [[cf.]] "goodbye" which is a contraction of "God be with ye").
+
+=="Hello, World" computer program==
+{{Main|"Hello, World!" program}}
+Students learning a new computer programming language will often begin by writing a "Hello, World!" program, which does nothing but issue the message "Hello, world" to the user (such as by displaying it on a screen). It has been used since the earliest programs, in many computer languages. This tradition was further popularised after being printed in an introductory chapter of the book ''[[The C Programming Language]]'' by Kernighan & Ritchie.<ref>{{cite book | last = Kernighan | first = Brian W. | author-link = Brian W. Kernighan | author2 = Ritchie, Dennis M. | title = The C Programming Language | edition = 1st | publisher = [[Prentice Hall]] | date = 1978 | location = [[Englewood Cliffs, NJ]] | isbn = 0-13-110163-3 | author-link2 = Dennis M. Ritchie | url-access = registration | url = https://archive.org/details/cprogramminglang00kern }}</ref> The book had reused an example taken from a 1974 memo by [[Brian Kernighan]] at [[Bell Labs|Bell Laboratories]].<ref name="ctut">{{cite web|url=https://www.bell-labs.com/usr/dmr/www/ctut.pdf|title=Programming in C: A Tutorial|last=Kernighan|first=Brian|year=1974|publisher=Bell Labs|access-date=9 January 2019}}</ref>
+
+==See also==
+*[[Aloha]]
+*[[As-salamu alaykum]]
+*[[Ciao]]
+*[[Kia ora]]
+*[[Namaste]]
+*[[Shalom]]
+*[[World Hello Day]]
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Wiktionary|hello|hi|hey|hiya}}
+* [http://users.elite.net/runner/jennifers/hello1.htm Hello in more than 800 languages]
+* [http://dictionary.oed.com/cgi/entry/50107205?query_type=word&queryword=hollo&first=1&max_to_show=10&sort_type=alpha&result_place=1&search_id=MJDi-YER2WO-12323&hilite=50107205 OED online entry for ''hollo''] (Subscription)
+* [[Merriam-Webster Dictionary]]: [http://www.merriam-webster.com/dictionary/hollo hollo], [http://www.merriam-webster.com/dictionary/hullo hullo]
+
+
+[[Category:Greeting words and phrases]]
+[[Category:English words]]
