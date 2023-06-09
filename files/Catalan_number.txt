@@ -1,0 +1,427 @@
+{{Short description|Recursive integer sequence}}
+{{Distinguish|Catalan's constant}}
+{{Use American English|date = March 2019}}
+[[File:Noncrossing partitions 5.svg|thumb|The {{nowrap|1=C<sub>5</sub> = 42}} [[noncrossing partition]]s of a 5-element set (below, the other 10 of the [[Bell number|52]] [[Partition of a set|partitions]])]]
+In [[combinatorics|combinatorial mathematics]], the '''Catalan numbers''' are a [[sequence]] of [[natural number]]s that occur in various [[Enumeration|counting problems]], often involving [[recursion|recursively]] defined objects. They are named after the French-Belgian mathematician [[Eugène Charles Catalan]].
+
+The ''n''th Catalan number can be expressed directly in terms of the [[central binomial coefficient]]s by
+
+:<math>C_n = \frac{1}{n+1}{2n\choose n} = \frac{(2n)!}{(n+1)!\,n!} = \prod\limits_{k=2}^{n}\frac{n+k}{k} \qquad\text{for }n\ge 0.</math>
+
+The first Catalan numbers for ''n'' = 0, 1, 2, 3, ... are
+
+:1, 1, 2, 5, 14, 42, 132, 429, 1430, 4862, 16796, 58786, ... {{OEIS|id=A000108}}.
+
+== Properties ==
+An alternative expression for ''C''<sub>''n''</sub> is
+:<math>C_n = {2n\choose n} - {2n\choose n+1}</math> for <math>n\ge 0,</math>
+which is equivalent to the expression given above because <math>\tbinom{2n}{n+1}=\tfrac{n}{n+1}\tbinom{2n}n</math>.  This expression shows that ''C''<sub>''n''</sub> is an [[integer]], which is not immediately obvious from the first formula given.  This expression forms the basis for a [[#Second proof|proof of the correctness of the formula]].
+
+Another alternative expression is 
+:<math>C_n = \frac{1}{2n+1} {2n+1\choose n}\,,</math>
+which can be directly interpreted in terms of the [[cycle lemma]]; see below.
+
+The Catalan numbers satisfy the [[recurrence relation]]s
+:<math>C_0 = 1 \quad \text{and} \quad C_{n+1}=\sum_{i=0}^{n}C_iC_{n-i}\quad\text{for }n\ge 0</math>
+and
+:<math>C_0 = 1 \quad \text{and} \quad C_{n+1} = \frac{2(2n+1)}{n+2}C_n.</math>
+
+Asymptotically, the Catalan numbers grow as
+<math display=block>C_n \sim \frac{4^n}{n^{3/2}\sqrt{\pi}},</math>
+in the sense that the quotient of the ''n''th Catalan number and the expression on the right tends towards 1 as ''n'' approaches infinity.  This can be proved by using the [[central binomial coefficient#Asymptotic growth|asymptotic growth of the central binomial coefficients]], by [[Stirling's approximation]] for <math>n!</math>, or [[Generating function#Asymptotic growth of the Catalan numbers|via generating functions]].
+
+The only Catalan numbers ''C''<sub>''n''</sub> that are odd are those for which ''n''&nbsp;=&nbsp;2<sup>''k''</sup>&nbsp;−&nbsp;1; all others are even.  The only prime Catalan numbers are ''C''<sub>2</sub> = 2 and ''C''<sub>3</sub> = 5.<ref>{{Cite journal|title = Parity and primality of Catalan numbers |last1 = Koshy|first1 = Thomas |last2 = Salmassi|first2 = Mohammad |journal=The College Mathematics Journal|year=2006|volume=37|issue=1|pages = 52–53|doi = 10.2307/27646275|jstor = 27646275|url=https://www.maa.org/sites/default/files/Koshy-CMJ-2006.pdf}}</ref>
+
+The Catalan numbers have the integral representations
+:<math>C_n=\frac {1}{2\pi}\int_0^4 x^n\sqrt{\frac{4-x}{x}}\,dx\,
+=\frac{2}{\pi}4^n\int_{-1}^{1} t^{2n}\sqrt{1-t^2}\,dt.
+</math>
+which immediately yields <math>\sum_{n=0}^\infty \frac{C_n}{4^n} = 2</math>.
+
+This has a simple probabilistic interpretation. Consider a random walk on the integer line, starting at 0. Let -1 be a "trap" state, such that if the walker arrives at -1, it will remain there. The walker can arrive at the trap state at times 1, 3, 5, 7..., and the number of ways the walker can arrive at the trap state at time <math>2k+1</math> is <math>C_k</math>. Since the 1D random walk is recurrent, the probability that the walker eventually arrives at -1 is <math>\sum_{n=0}^\infty \frac{C_n}{2^{2n+1}} = 1</math>.
+
+== Applications in combinatorics ==
+
+There are many counting problems in [[combinatorics]] whose solution is given by the Catalan numbers. The book ''Enumerative Combinatorics: Volume 2'' by combinatorialist [[Richard P. Stanley]] contains a set of exercises which describe 66 different interpretations of the Catalan numbers. Following are some examples, with illustrations of the cases ''C''<sub>3</sub>&nbsp;=&nbsp;5 and ''C''<sub>4</sub>&nbsp;=&nbsp;14.
+
+[[File:Dyck lattice D4.svg|thumb|Lattice of the 14 Dyck words of length 8 – ''('' and '')'' interpreted as ''up'' and ''down'']]
+* ''C''<sub>''n''</sub> is the number of [[Dyck word]]s<ref>[https://www.findstat.org/CollectionsDatabase/Cc0005/ Dyck paths]</ref> of length 2''n''. A Dyck word is a [[string (computer science)|string]] consisting of ''n'' X's and ''n'' Y's such that no initial segment of the string has more Y's than X's. For example, the following are the Dyck words up to length 6:
+<div class="center"><big> XY</big></div>
+<div class="center"><big> XXYY &nbsp;&nbsp;&nbsp; XYXY</big></div>
+<div class="center"><big> XXXYYY &nbsp;&nbsp;&nbsp; XYXXYY &nbsp;&nbsp;&nbsp; XYXYXY &nbsp;&nbsp;&nbsp; XXYYXY &nbsp;&nbsp;&nbsp; XXYXYY</big></div>
+* Re-interpreting the symbol X as an open [[Bracket#Parentheses|parenthesis]] and Y as a close parenthesis, ''C''<sub>''n''</sub> counts the number of expressions containing ''n'' pairs of parentheses which are correctly matched:
+<div class="center"><big> ((())) &nbsp;&nbsp;&nbsp; (()())  &nbsp;&nbsp;&nbsp; (())() &nbsp;&nbsp;&nbsp; ()(()) &nbsp;&nbsp;&nbsp; ()()()  </big></div>
+* ''C''<sub>''n''</sub> is the number of different ways ''n''&nbsp;+&nbsp;1 factors can be completely [[bracket|parenthesized]] (or the number of ways of [[associativity|associating]] ''n'' applications of a [[binary operator]], as in the [[matrix chain multiplication]] problem). For ''n'' = 3, for example, we have the following five different parenthesizations of four factors:
+<div class="center"><big>((ab)c)d &nbsp;&nbsp;&nbsp; (a(bc))d &nbsp;&nbsp;&nbsp; (ab)(cd) &nbsp;&nbsp;&nbsp; a((bc)d) &nbsp;&nbsp;&nbsp; a(b(cd))</big></div>
+* Successive applications of a binary operator can be represented in terms of a [[Binary tree#Types of binary trees|full binary tree]], by labeling each leaf ''a,b,c,d''. It follows that ''C''<sub>''n''</sub> is the number of full binary [[tree (graph theory)|trees]] with ''n''&nbsp;+&nbsp;1 leaves, or, equivalently, with a total of ''n'' internal nodes:
+[[Image:Catalan 4 leaves binary tree example.svg|center]]
+[[File:Tamari lattice, trees.svg|thumb|The [[associahedron]] of order 4 with the C<sub>4</sub>=14 full binary trees with 5 leaves]]
+* ''C''<sub>''n''</sub> is the number of non-isomorphic [[Tree (graph theory)#Plane tree|ordered (or plane) trees]] with {{nowrap|''n'' + 1}} vertices.<ref>Stanley p.221 example (e)</ref> See [[Binary tree#Encoding general trees as binary trees|encoding general trees as binary trees]].
+* ''C''<sub>''n''</sub> is the number of monotonic [[lattice path]]s along the edges of a grid with ''n'' × ''n'' square cells, which do not pass above the diagonal. A monotonic path is one which starts in the lower left corner, finishes in the upper right corner, and consists entirely of edges pointing rightwards or upwards. Counting such paths is equivalent to counting Dyck words: X stands for "move right" and Y stands for "move up".
+
+The following diagrams show the case ''n'' = 4:
+[[Image:Catalan number 4x4 grid example.svg|450px|center]]
+This can be represented by listing the Catalan elements by column height:<ref>{{cite journal|last1=Črepinšek|first1=Matej|last2=Mernik|first2=Luka|title=An efficient representation for solving Catalan number related problems|journal=International Journal of Pure and Applied Mathematics|year=2009|volume=56|issue=4|pages = 589–604|url=http://www.ijpam.eu/contents/2009-56-4/11/11.pdf}}</ref>
+
+[[File:Tamari lattice, hexagons.svg|thumb|The dark triangle is the root node, the light triangles correspond to internal nodes of the binary trees, and the green bars are the leaves.]]
+
+ <div style="text-align: center;">[0,0,0,0] [0,0,0,1] [0,0,0,2] [0,0,1,1]</div>
+
+ <div style="text-align: center;">[0,1,1,1] [0,0,1,2] [0,0,0,3] [0,1,1,2] [0,0,2,2] [0,0,1,3]</div>
+
+ <div style="text-align: center;">[0,0,2,3] [0,1,1,3] [0,1,2,2] [0,1,2,3]</div>
+
+* A [[convex polygon]] with ''n''&nbsp;+&nbsp;2 sides can be cut into [[triangle]]s by connecting vertices with non-crossing [[line segment]]s (a form of [[polygon triangulation]]). The number of triangles formed is ''n'' and the number of different ways that this can be achieved is ''C''<sub>''n''</sub>. The following hexagons illustrate the case ''n'' = 4:
+[[Image:Catalan-Hexagons-example.svg|400px|center]]
+* ''C''<sub>''n''</sub> is the number of [[Stack (data structure)|stack]]-sortable [[permutation]]s of {1, ..., ''n''}. A permutation ''w'' is called [[stack-sortable permutation|stack-sortable]] if ''S''(''w'') =&nbsp;(1,&nbsp;...,&nbsp;''n''), where ''S''(''w'') is defined recursively as follows: write ''w'' =&nbsp;''unv'' where ''n'' is the largest element in ''w'' and ''u'' and ''v'' are shorter sequences, and set ''S''(''w'') =&nbsp;''S''(''u'')''S''(''v'')''n'', with ''S'' being the identity for one-element sequences.
+* ''C''<sub>''n''</sub> is the number of permutations of {1,&nbsp;...,&nbsp;''n''} that avoid the [[permutation pattern]]&nbsp;123 (or, alternatively, any of the other patterns of length 3); that is, the number of permutations with no three-term increasing subsequence.  For ''n'' = 3, these permutations are 132, 213, 231, 312 and 321.  For ''n'' = 4, they are 1432, 2143, 2413, 2431, 3142, 3214, 3241, 3412, 3421, 4132, 4213, 4231, 4312 and 4321.
+* ''C''<sub>''n''</sub> is the number of [[noncrossing partition]]s of the set {1,&nbsp;...,&nbsp;''n''}. [[A fortiori argument|''A fortiori'']], ''C''<sub>''n''</sub> never exceeds the ''n''th [[Bell number]].  ''C''<sub>''n''</sub> is also the number of noncrossing partitions of the set {1,&nbsp;...,&nbsp;2''n''} in which every block is of size 2.
+* ''C''<sub>''n''</sub> is the number of ways to tile a stairstep shape of height ''n'' with ''n'' rectangles. Cutting across the anti-diagonal and looking at only the edges gives full binary trees. The following figure illustrates the case ''n''&nbsp;=&nbsp;4:
+[[File:Catalan stairsteps 4.svg|400px|center]]
+* ''C''<sub>''n''</sub> is the number of ways to form a "mountain range" with ''n'' upstrokes and ''n'' downstrokes that all stay above a horizontal line. The mountain range interpretation is that the mountains will never go below the horizon.
+<div align="center">
+{| class="wikitable
+|+ Mountain Ranges
+|-
+| <math>n = 0:</math>
+| style="font-family:monospace;" |*
+| 1 way
+|-
+| <math>n = 1:</math>
+| style="font-family:monospace;" |/\
+| 1 way
+|-
+| <math>n = 2:</math>
+| style="font-family:monospace;" |{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}/\<br />/\/\,{{0}}/{{0}}{{0}}\
+|2 ways
+|-
+| <math>n = 3:</math>
+| style="font-family:monospace;" |{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}/\<br />{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}/\{{0}}{{0}}{{0}}{{0}}/\{{0}}{{0}}{{0}}{{0}}{{0}}{{0}}/\/\{{0}}{{0}}{{0}}{{0}}/{{0}}{{0}}\<br />/\/\/\,{{0}}/\/{{0}}{{0}}\,{{0}}/{{0}}{{0}}\/\,{{0}}/{{0}}{{0}}{{0}}{{0}}\,{{0}}/{{0}}{{0}}{{0}}{{0}}\
+|5 ways
+|}
+</div>
+* ''C''<sub>''n''</sub> is the number of [[Young tableau#Tableaux|standard Young tableaux]] whose diagram is a 2-by-''n'' rectangle. In other words, it is the number of ways the numbers 1,&nbsp;2,&nbsp;...,&nbsp;2''n'' can be arranged in a 2-by-''n'' rectangle so that each row and each column is increasing. As such, the formula can be derived as a special case of the [[Young tableau#Dimension of a representation|hook-length formula]].
+<pre>
+123   124   125   134   135
+456   356   346   256   246
+</pre>
+* <math>C_n</math> is the number of length {{mvar|n}} sequences  that start with <math>1</math>, and can increase by either <math>0</math> or <math>1</math>, or decrease by any number (to at least <math>1</math>). For <math>n=4</math> these are <math>1234, 1233, 1232, 1231, 1223, 1222, 1221, 1212, 1211, 1123, 1122, 1121, 1112, 1111</math>. From a Dyck path, start a counter at ''0''. An X increases the counter by ''1'' and a Y decreases it by ''1''. Record the values at only the X's. Compared to the similar representation of the [[Bell number#Rhyme schemes|Bell numbers]], only <math>1213</math> is missing.
+
+== Proof of the formula ==
+
+There are several ways of explaining why the formula
+:<math>C_n = \frac{1}{n+1}{2n\choose n}</math>
+solves the combinatorial problems listed above. The first proof below uses a [[generating function]]. The other proofs are examples of [[bijective proof]]s; they involve literally counting a collection of some kind of object to arrive at the correct formula.
+
+=== First proof ===
+
+We first observe that all of the combinatorial problems listed above satisfy [[Johann Andreas Segner|Segner's]]<ref>A. de Segner, Enumeratio modorum, quibus figurae planae rectilineae per diagonales dividuntur in triangula. ''Novi commentarii academiae scientiarum Petropolitanae'' '''7''' (1758/59) 203–209.</ref> [[recurrence relation]]
+
+:<math>C_0 = 1 \quad \text{and} \quad C_{n+1}=\sum_{i=0}^n C_i\,C_{n-i}\quad\text{for }n\ge 0.</math>
+
+For example, every Dyck word ''w'' of length&nbsp;≥&nbsp;2 can be written in a unique way in the form
+:''w'' = X''w''<sub>1</sub>Y''w''<sub>2</sub>
+with (possibly empty) Dyck words ''w''<sub>1</sub> and ''w''<sub>2</sub>.
+
+The [[generating function]] for the Catalan numbers is defined by
+
+:<math>c(x)=\sum_{n=0}^\infty C_n x^n.</math>
+
+The recurrence relation given above can then be summarized in generating function form by the relation
+
+:<math>c(x)=1+xc(x)^2;</math>
+
+in other words, this equation follows from the recurrence relation by expanding both sides into [[power series]].  On the one hand, the recurrence relation uniquely determines the Catalan numbers; on the other hand, interpreting {{nowrap|1=''xc''{{sup|2}} − ''c'' + 1 = 0}} as a [[quadratic equation]] of ''c'' and using the [[quadratic formula]], the generating function relation can be algebraically solved to yield two solution possibilities
+
+:<math>c(x) = \frac{1+\sqrt{1-4x}}{2x}</math> &nbsp;or&nbsp; <math>c(x) = \frac{1-\sqrt{1-4x}}{2x}</math>.
+
+From the two possibilities, the second must be chosen because only the choice of the second gives
+
+:<math>C_0 = \lim_{x \to 0} c(x) = 1</math>.
+
+The square root term can be expanded as a power series using the [[binomial series]]
+
+:<math>\sqrt{1+y} = \sum_{n=0}^\infty {\frac12 \choose n} y^n = \sum_{n=0}^\infty \frac{(-1)^{n+1}}{4^n(2n-1)} {2n \choose n} y^n</math>
+
+as we know
+
+:<math>\binom{-\frac12}{n} = \frac{(-1)^n(2n-1)!!}{2^nn!}  = \frac{(-1)^n(2n)!}{(2^nn!)^2} = \frac{(-1)^n}{4^n}\binom{2n}{n}</math>
+
+and
+
+:<math>\binom{\frac12}{n} = \frac{-1}{2n-1}\binom{-\frac12}{n}</math>
+
+Setting ''y'' = −4''x'' gives
+
+:<math>\sqrt{1-4x} = \sum_{n=0}^\infty \frac{-1}{2n-1} {2n \choose n} x^n = 1 - \sum_{n=1}^\infty \frac{1}{2n-1} {2n \choose n} x^n</math>
+
+and substituting this power series into the expression for ''c''(''x''), the expansion simplifies to
+
+:<math>\sum_{n=1}^\infty \frac{1}{2(2n-1)} {2n \choose n} x^{n-1}</math>.
+
+Let <math>N=n-1</math>, so that
+
+:<math>\sum_{N=0}^\infty \frac{1}{2(2N+1)} {2N+2 \choose N+1} x^N</math>
+
+and because <math>\frac{1}{2(2N+1)} {2N+2 \choose N+1} = C_N</math> (see [[#Properties|proof of recurrence]])
+
+we have
+
+:<math>c(x) = \sum_{n=0}^\infty {2n \choose n} \frac{x^n}{n+1}.</math>
+
+=== Second proof ===
+
+[[File:Catalan number-path reflection.svg|thumb|upright=0.5|Figure 1. The invalid portion of the path (dotted red) is flipped (solid red). Bad paths (after the flip) reach (''n''&nbsp;–&nbsp;1,&nbsp;''n''&nbsp;+&nbsp;1) instead of (''n'',''n'').]]
+
+We count the number of paths which start and end on the diagonal of a ''n''&nbsp;×&nbsp;''n'' grid. All such paths have ''n'' right and ''n'' up steps. Since we can choose which of the 2''n'' steps are up or right, there are in total <math>\tbinom{2n}{n}</math> monotonic paths of this type. A ''bad'' path crosses the main diagonal and touches the next higher diagonal (red in the illustration).
+
+The part of the path after the higher diagonal is then flipped about that diagonal, as illustrated with the red dotted line. This swaps all the right steps to up steps and vice versa. In the section of the path that is not reflected, there is one more up step than right steps, so therefore the remaining section of the bad path has one more right step than up steps. When this portion of the path is reflected, it will have one more up step than right steps.
+
+Since there are still 2''n'' steps, there are now ''n''&nbsp;+&nbsp;1 up steps and ''n''&nbsp;−&nbsp;1 right steps. So, instead of reaching  (''n'',''n''), all bad paths after reflection end at (''n''&nbsp;−&nbsp;1,&nbsp;''n''&nbsp;+&nbsp;1). Because every monotonic path in the (''n''&nbsp;−&nbsp;1)&nbsp;×&nbsp;(''n''&nbsp;+&nbsp;1) grid meets the higher diagonal, and because the reflection process is reversible, the reflection is therefore a bijection between bad paths in the original grid and monotonic paths in the new grid.
+
+The number of bad paths is therefore:
+
+:<math>{n-1 + n+1 \choose n-1} = {2n \choose n-1} = {2n \choose n+1}</math>
+
+and the number of Catalan paths (i.e. good paths) is obtained by removing the number of bad paths from the total number of monotonic paths of the original grid,
+
+:<math>C_n = {2n \choose n} - {2n \choose n+1} = \frac{1}{n+1}{2n \choose n}.</math>
+
+In terms of Dyck words, we start with a (non-Dyck) sequence of ''n'' X's and ''n'' Y's and interchange all X's and Y's after the first Y that violates the Dyck condition. After this Y, note that there is exactly one more Y than there are Xs.
+
+=== Third proof ===
+
+This bijective proof provides a natural explanation for the term ''n''&nbsp;+&nbsp;1 appearing in the denominator of the formula for&nbsp;''C''<sub>''n''</sub>. A generalized version of this proof can be found in a paper of Rukavicka Josef (2011).<ref>Rukavicka Josef (2011), ''On Generalized Dyck Paths, Electronic Journal of Combinatorics'' [http://www.combinatorics.org/ojs/index.php/eljc/article/view/v18i1p40/pdf online]</ref>
+
+[[Image:Catalan number exceedance example.png|frame|right|Figure 2. A path with exceedance 5.]]
+Given a monotonic path, the '''exceedance''' of the path is defined to be the number of '''vertical''' edges above the diagonal. For example, in Figure 2, the edges above the diagonal are marked in red, so the exceedance of this path is 5.
+
+Given a monotonic path whose exceedance is not zero, we apply the following algorithm to construct a new path whose exceedance is ''1'' less than the one we started with.
+* Starting from the bottom left, follow the path until it first travels above the diagonal.
+* Continue to follow the path until it ''touches'' the diagonal again. Denote by ''X'' the first such edge that is reached.
+* Swap the portion of the path occurring before ''X'' with the portion occurring after ''X''.
+In Figure 3, the black dot indicates the point where the path first crosses the diagonal. The black edge is ''X'', and we place the last lattice point of the red portion in the top-right corner, and the first lattice point of the green portion in the bottom-left corner, and place X accordingly, to make a new path, shown in the second diagram.
+[[Image:Catalan number swapping example.png|frame|center|Figure 3. The green and red portions are being exchanged.]]
+
+The exceedance has dropped from ''3'' to ''2''. In fact, the algorithm causes the exceedance to decrease by ''1'' for any path that we feed it, because the first vertical step starting on the diagonal (at the point marked with a black dot) is the only vertical edge that passes from above the diagonal to below it after applying the algorithm - all the other vertical edges stay on the same side of the diagonal.
+
+[[Image:Catalan number algorithm table.png|frame|right|Figure 4. All monotonic paths in a 3×3 grid, illustrating the exceedance-decreasing algorithm.]]
+
+It can be seen that this process is ''reversible'': given any path ''P'' whose exceedance is less than ''n'', there is exactly one path which yields ''P'' when the algorithm is applied to it. Indeed, the (black) edge ''X'', which originally was the first horizontal step ending on the diagonal, has become the ''last'' horizontal step ''starting'' on the diagonal. Alternatively, reverse the original algorithm to look for the first edge that passes ''below'' the diagonal.
+
+This implies that the number of paths of exceedance ''n'' is equal to the number of paths of exceedance ''n''&nbsp;−&nbsp;1, which is equal to the number of paths of exceedance ''n''&nbsp;−&nbsp;2, and so on, down to zero. In other words, we have split up the set of ''all'' monotonic paths into ''n''&nbsp;+&nbsp;1 equally sized classes, corresponding to the possible exceedances between 0 and ''n''. Since there are <math>\textstyle {2n\choose n}</math> monotonic paths, we obtain the desired formula <math>\textstyle C_n = \frac{1}{n+1}{2n\choose n}.</math>
+
+Figure 4 illustrates the situation for&nbsp;''n''&nbsp;=&nbsp;3. Each of the 20 possible monotonic paths appears somewhere in the table. The first column shows all paths of exceedance three, which lie entirely above the diagonal. The columns to the right show the result of successive applications of the algorithm, with the exceedance decreasing one unit at a time. There are five rows, that is,&nbsp;''C''<sub>3</sub>&nbsp;=&nbsp;5, and the last column displays all paths no higher than the diagonal.
+
+Using Dyck words, start with a sequence from <math>\textstyle \binom{2n}{n}</math>. Let <math>X_d</math> be the first {{mvar|X}} that brings an initial subsequence to equality, and configure the sequence as <math>(F)X_d(L)</math>. The new sequence is <math>LXF</math>.
+
+=== Fourth proof ===
+
+This proof uses the triangulation definition of Catalan numbers to establish a relation between ''C<sub>n</sub>'' and ''C''<sub>''n''+1</sub>.
+
+Given a polygon ''P'' with ''n''&nbsp;+&nbsp;2 sides and a triangulation, mark one of its sides as the base, and also orient one of its 2''n''&nbsp;+&nbsp;1 total edges. There are (4''n''&nbsp;+&nbsp;2)''C''<sub>''n''</sub> such marked triangulations for a given base.
+
+Given a polygon ''Q'' with ''n''&nbsp;+&nbsp;3 sides and a (different) triangulation, again mark one of its sides as the base. Mark one of the sides other than the base side (and not an inner triangle edge). There are (''n''&nbsp;+&nbsp;2)''C''<sub>''n''&nbsp;+&nbsp;1</sub> such marked triangulations for a given base.
+
+There is a simple bijection between these two marked triangulations:  We can either collapse the triangle in ''Q'' whose side is marked (in two ways, and subtract the two that cannot collapse the base), or, in reverse, expand the oriented edge in ''P'' to a triangle and mark its new side.
+
+Thus
+:<math>(4n+2)C_n = (n+2)C_{n+1}</math>.
+
+Write <math>\textstyle\frac{4n-2}{n+1}C_{n-1} = C_n.</math>
+
+Because
+
+:<math>(2n)!=(2n)!!(2n-1)!!=2^nn!(2n-1)!!</math>
+
+we have
+
+:<math>\frac{(2n)!}{n!}=2^n(2n-1)!!=(4n-2)!!!!.</math>
+
+Applying the recursion with <math>C_0=1</math> gives the result.
+
+=== Fifth proof ===
+
+This proof is based on the [[Dyck language|Dyck words]] interpretation of the Catalan numbers, so <math>C_n</math> is the number of ways to correctly match {{mvar|n}} pairs of brackets. We denote a (possibly empty) correct string with {{mvar|c}} and its inverse with {{mvar|c'}}. Since any {{mvar|c}} can be uniquely decomposed into <math>c = (c_1) c_2</math>, summing over the possible lengths of <math>c_1</math> immediately gives the recursive definition
+:<math>C_0 = 1 \quad \text{and} \quad C_{n+1} = \sum_{i=0}^n C_i\,C_{n-i}\quad\text{for }n\ge 0</math>.
+
+Let {{mvar|b}} be a balanced string of length {{mvar|2n}}, i.e. {{mvar|b}} contains an equal number of <math>(</math> and <math>)</math>, so <math>\textstyle B_n = {2n\choose n}</math>. A balanced string can also be uniquely decomposed into either <math>(c)b</math> or <math>)c'(b</math>, so
+
+:<math>B_{n+1} = 2\sum_{i=0}^n B_i C_{n-i}.</math>
+
+Any incorrect (non-Catalan) balanced string starts with <math>c)</math>, and the remaining string has one more <math>(</math> than <math>)</math>, so
+:<math>B_{n+1} - C_{n+1} = \sum_{i=0}^n {2i+1 \choose i} C_{n-i}</math>
+
+Also, from the definitions, we have:
+
+:<math>B_{n+1} - C_{n+1} = 2\sum_{i=0}^n B_i C_{n-i} - \sum_{i=0}^n C_i\,C_{n-i} = \sum_{i=0}^n (2B_i-C_i) C_{n-i}.</math>
+
+Therefore, as this is true for all {{mvar|n}},
+
+:<math>2B_i - C_i = \binom{2i+1}{i}</math>
+
+:<math>C_i = 2B_i - \binom{2i+1}{i}</math>
+
+:<math>C_i = 2\binom{2i}{i} - \binom{2i+1}{i}</math>
+
+:<math>C_i=\frac{1}{i+1}\binom{2i}{i}</math>
+
+=== Sixth proof ===
+
+This proof is based on the [[Dyck language|Dyck words]] interpretation of the Catalan numbers and uses the [[cycle lemma#Proof_by_the_cycle_lemma|cycle lemma]] of Dvoretzky and Motzkin.<ref>{{citation | last1 = Dershowitz | first1 = Nachum | last2 = Zaks | first2 = Shmuel | year =1980 | title = Enumerations of ordered trees| journal = Discrete Mathematics | volume = 31 | pages = 9–28 | doi=10.1016/0012-365x(80)90168-5| hdl = 2027/uiuo.ark:/13960/t3kw6z60d | hdl-access = free }}</ref><ref>{{citation | last1 =Dvoretzky| first1= Aryeh| last2= Motzkin| first2=Theodore |year=1947| title =A problem of arrangements|journal= Duke Mathematical Journal| volume = 14| issue= 2|pages = 305–313| doi=10.1215/s0012-7094-47-01423-3}}</ref>
+
+We call a sequence of X's and Y's ''dominating'' if, reading from left to right, the number of X's is always strictly greater than the number of Y's. The cycle lemma<ref>{{cite journal |last1=Dershowitz |first1=Nachum |last2=Zaks |first2=Shmuel |title=The Cycle Lemma and Some Applications |journal=European Journal of Combinatorics |date=January 1990 |volume=11 |issue=1 |pages=35–40 |doi=10.1016/S0195-6698(13)80053-4 |url=http://www.cs.tau.ac.il/~nachumd/papers/CL.pdf }}</ref> states that any sequence of <math>m</math> X's and <math>n</math> Y's, where <math>m> n</math>, has precisely <math>m-n</math> dominating [[circular shift]]s. To see this, arrange the given sequence of <math>m+n</math> X's and Y's in a circle. Repeatedly removing XY pairs leaves exactly <math>m-n</math> X's. Each of these X's was the start of a dominating circular shift before anything was removed. For example, consider <math>\mathit{XXYXY}</math>. This sequence is dominating, but none of its circular shifts <math>\mathit{XYXYX}</math>, <math>\mathit{YXYXX}</math>, <math>\mathit{XYXXY}</math> and <math>\mathit{YXXYX}</math> are.
+
+A string is a Dyck word of <math>n</math> X's and <math>n</math> Y's if and only if prepending an X to the Dyck word gives a dominating sequence with <math>n+1</math> X's and <math>n</math> Y's, so we can count the former by instead counting the latter. In particular, when <math>m=n+1</math>, there is exactly one dominating circular shift. There are <math>\textstyle {2n+1 \choose n}</math> sequences with exactly <math>n+1</math> X's and <math>n</math> Y's.  For each of these, only one of the <math>2n+1</math> circular shifts is dominating.  Therefore there are <math>\textstyle\frac{1}{2n+1}{2n+1 \choose n}=C_n</math> distinct sequences of <math>n+1</math> X's and <math>n</math> Y's that are dominating, each of which corresponds to exactly one Dyck word.
+
+== Hankel matrix ==
+
+The ''n''×''n'' [[Hankel matrix]] whose (''i'',&nbsp;''j'') entry is the Catalan number ''C''<sub>''i''+''j''−2</sub> has [[determinant]] 1, regardless of the value of ''n''. For example, for ''n'' = 4 we have
+:<math>\det\begin{bmatrix}1 & 1 & 2 & 5 \\ 1 & 2 & 5 & 14 \\ 2 & 5 & 14 & 42 \\ 5 & 14 & 42 & 132\end{bmatrix} = 1.</math>
+
+Moreover, if the indexing is "shifted" so that the (''i'', ''j'') entry is filled with the Catalan number ''C''<sub>''i''+''j''−1</sub> then the determinant is still 1, regardless of the value of ''n''.
+For example, for ''n'' = 4 we have
+:<math>\det\begin{bmatrix}1 & 2 & 5 & 14 \\ 2 & 5 & 14 & 42 \\ 5 & 14 & 42 & 132 \\ 14 & 42 & 132 & 429 \end{bmatrix} = 1.</math>
+
+Taken together, these two conditions uniquely define the Catalan numbers.
+
+Another feature unique to the Catalan–Hankel matrix is the determinant of the ''n''×''n'' submatrix starting at ''2'' has determinant ''n''&nbsp;+&nbsp;1.
+
+:<math>\det\begin{bmatrix} 2 \end{bmatrix} = 2</math>
+
+:<math>\det\begin{bmatrix}  2 & 5 \\5 & 14 \end{bmatrix} = 3</math>
+
+:<math>\det\begin{bmatrix}  2 & 5 & 14\\5 & 14 & 42\\ 14 & 42 & 132\end{bmatrix} = 4</math>
+
+:<math>\det\begin{bmatrix}  2 & 5 & 14 & 42 \\ 5 & 14 & 42 & 132 \\ 14 & 42 & 132 & 42 9\\ 42 & 132 & 429 & 1430\end{bmatrix} = 5</math>
+
+et cetera.
+
+== History ==
+[[File:Mingantu's Catalan numbers.JPG|thumb|400px|Catalan numbers in Mingantu's book ''The Quick Method for Obtaining the Precise Ratio of Division of a Circle''  volume III]]
+The Catalan sequence was described in the 18th century by [[Leonhard Euler]], who was interested in the number of different ways of dividing a polygon into triangles. The sequence is named after [[Eugène Charles Catalan]], who discovered the connection to parenthesized expressions during his exploration of the [[Towers of Hanoi]] puzzle. The reflection counting trick (second proof) for Dyck words was found by [[Désiré André]] in 1887.
+
+The name “Catalan numbers” originated from [[John Riordan (mathematician)|John Riordan]].<ref>{{cite arXiv|last=Stanley|first=Richard P.|title=Enumerative and Algebraic Combinatorics in the 1960's and 1970's|year=2021|class=math.HO |eprint=2105.07884}}</ref>
+
+In 1988, it came to light that the Catalan number sequence had been used in [[China]] by the Mongolian mathematician [[Mingantu]] by 1730.<ref>{{cite web|url=https://www.math.ucla.edu/~pak/lectures/Cat/Larcombe-The_18th_century_Chinese_discovery_of_the_Catalan_numbers.pdf|title= The 18th century Chinese discovery of the Catalan numbers|last=Larcombe|first=Peter J.}}</ref><ref>{{cite web|url=http://en.cnki.com.cn/Article_en/CJFDTOTAL-NMGX198802004.htm|title= Ming Antu, the First Inventor of Catalan Numbers in the World}}</ref> That is when he started to write his book ''Ge Yuan Mi Lu Jie Fa'' ''[The Quick Method for Obtaining the Precise Ratio of Division of a Circle]'', which was completed by his student Chen Jixin in 1774 but published sixty years later.  Peter J. Larcombe (1999) sketched some of the features of the work of Mingantu, including the stimulus of Pierre Jartoux, who brought three infinite series to China early in the 1700s.
+
+For instance, Ming used the Catalan sequence to express series expansions of <math>\sin(2 \alpha)</math> and <math>\sin(4 \alpha)</math> in terms of <math>\sin(\alpha)</math>.
+
+== Generalizations ==
+The Catalan numbers can be interpreted as a special case of the [[Bertrand's ballot theorem]]. Specifically, <math>C_n</math> is the number of ways for a candidate A with ''n+1'' votes to lead candidate B with ''n'' votes. 
+
+The two-parameter sequence of non-negative integers <math>\frac{(2m)!(2n)!}{(m+n)!m!n!}</math>
+is a generalization of the Catalan numbers. These are named '''super-Catalan numbers''', per [[Ira Gessel]]. These should not  confused with the [[Schröder–Hipparchus number]]s, which sometimes are also called super-Catalan numbers.
+
+For <math>m=1</math>, this is just two times the ordinary Catalan numbers, and for <math>m=n</math>, the numbers have an easy combinatorial description.
+However, other combinatorial descriptions are only known<ref name="Chen2012">{{cite arXiv|last1=Chen|first1=Xin|last2=Wang|first2=Jane|title=The super Catalan numbers S(m, m + s) for s ≤ 4|year=2012|class=math.CO|eprint=1208.4196}}</ref>
+for <math>m=2, 3</math> and <math>4</math>,<ref>{{cite arXiv|eprint=2008.00133|last1=Gheorghiciuc|first1=Irina|last2=Orelowitz|first2=Gidon|title=Super-Catalan Numbers of the Third and Fourth Kind|year=2020|class=math.CO}}</ref>
+and it is an open problem to find a general combinatorial interpretation.
+
+[[Sergey Fomin]] and Nathan Reading have given a generalized Catalan number associated to any finite crystallographic [[Coxeter group]], namely the number of fully commutative elements of the group; in terms of the associated [[root system]], it is the number of anti-chains (or order ideals) in the poset of positive roots. The classical Catalan number <math>C_n</math> corresponds to the root system of type <math>A_n</math>. The classical recurrence relation generalizes: the Catalan number of a Coxeter diagram is equal to the sum of the Catalan numbers of all its maximal proper sub-diagrams.<ref>[[Sergey Fomin]] and Nathan Reading, "Root systems and generalized associahedra", Geometric combinatorics, IAS/Park City Math. Ser. '''13''', [[American Mathematical Society]], Providence, RI, 2007, pp 63–131. {{arxiv|math/0505518}}</ref>
+
+The Catalan numbers are a solution of a version of the [[Hausdorff moment problem]].<ref>{{citation
+ | last1 = Choi | first1 = Hayoung
+ | last2 = Yeh | first2 = Yeong-Nan
+ | last3 = Yoo | first3 = Seonguk
+ | arxiv = 1809.07523
+ | doi = 10.1016/j.disc.2019.111808
+ | issue = 5
+ | journal = Discrete Mathematics
+ | mr = 4052255
+ | pages = 111808, 11
+ | title = Catalan-like number sequences and Hausdorff moment sequences
+ | volume = 343
+ | year = 2020| s2cid = 214165563
+ }}</ref>
+
+==Catalan ''k''-fold convolution==
+
+The Catalan ''k''-fold convolution is:<ref>{{cite journal|first1=D.|last1=Bowman|first2=Alon|last2=Regev|journal=Adv. Appl. Math.|year=2014|volume=56|pages=35–55|doi=10.1016/j.aam.2014.01.004|title=Counting symmetry: classes of dissections of a convex regular polygon|s2cid=15430707|doi-access=free}}</ref>
+
+:<math> \sum_{i_1+\cdots+i_m=n\atop i_1,\ldots,i_m\ge 0} C_{i_1}\cdots C_{i_m} = \begin{cases}
+   \dfrac{m(n+1)(n+2)\cdots (n+m/2-1)}{2(n+m/2+2)(n+m/2+3)\cdots (n+m)}C_{n+m/2}, & m \text{ even,}\\[5 pt]
+   \dfrac{m(n+1)(n+2)\cdots (n+(m-1)/2)}{(n+(m+3)/2)(n+(m+3)/2+1)\cdots (n+m)}C_{n+(m-1)/2}, & m \text{ odd.}
+ \end{cases}</math>
+
+== See also ==
+{{Portal|Mathematics}}
+{{div col|colwidth=30em}}
+* [[Associahedron]]
+* [[Bertrand's ballot theorem]]
+* [[Binomial transform]]
+* [[Catalan's triangle]]
+* [[Catalan–Mersenne number]]
+* [[Fuss–Catalan number]]
+* [[List of factorial and binomial topics]]
+* [[Lobb numbers]]
+* [[Motzkin number]]
+* [[Narayana number]]
+* [[Schröder–Hipparchus number]]
+* [[Semiorder]]
+* [[Tamari lattice]]
+* [[Wedderburn–Etherington number]]
+* [[Wigner's semicircle law]]
+{{div col end}}
+
+== Notes ==
+{{Reflist|30em}}
+
+==References==
+*  Stanley, Richard P. (2015), ''Catalan numbers''. Cambridge University Press, {{ISBN|978-1-107-42774-7}}.
+* [[John H. Conway|Conway]] and [[Richard K. Guy|Guy]] (1996) ''The Book of Numbers''. New York: Copernicus, pp.&nbsp;96–106.
+* {{citation
+  | last = Gardner
+  | first = Martin
+  | author-link = Martin Gardner
+  | title = Time Travel and Other Mathematical Bewilderments
+  | publisher = W.H. Freeman and Company
+  | year = 1988
+  | location = New York
+  | pages = [https://archive.org/details/timetravelotherm0000gard/page/253 253–266 (Ch. 20)]
+  | bibcode = 1988ttom.book.....G
+ | isbn = 0-7167-1924-X
+  | url = https://archive.org/details/timetravelotherm0000gard/page/253
+  }}
+* {{citation
+  | last = Koshy
+  | first = Thomas
+  | title = Catalan Numbers with Applications
+  | publisher = Oxford University Press
+  | year = 2008
+  | url = https://www.amazon.com/Thomas-Koshy/e/B001H6NZT4/ref=ntt_athr_dp_pel_1
+  | isbn = 978-0-19-533454-8 }}
+* Koshy, Thomas & Zhenguang Gao (2011) "Some divisibility properties of Catalan numbers", [[Mathematical Gazette]] 95:96–102.
+* {{cite journal | last1 = Larcombe | first1 = P.J. | year = 1999 | title =  The 18th century Chinese discovery of the Catalan numbers|url= https://www.math.ucla.edu/~pak/lectures/Cat/Larcombe-The_18th_century_Chinese_discovery_of_the_Catalan_numbers.pdf | journal = [[Mathematical Spectrum]] | volume = 32 | pages = 5–7 }}
+* {{Citation | last1=Stanley | first1=Richard P. | title=Enumerative combinatorics. Vol. 2 | url=http://www-math.mit.edu/~rstan/ec/ | publisher=[[Cambridge University Press]] | series=Cambridge Studies in Advanced Mathematics | isbn=978-0-521-56069-6 | mr=1676282 | year=1999 | volume=62}}
+* {{citation
+  | last = Egecioglu
+  | first = Omer
+  | title = A Catalan–Hankel Determinant Evaluation
+  | year = 2009
+  | url = http://www.cs.ucsb.edu/~omer/DOWNLOADABLE/catalan_hankel09.pdf}}
+* {{citation
+  | last1 = Gheorghiciuc
+  | first1 = Irina
+  | last2 = Orelowitz
+  | first2 = Gidon
+  | title = Super-Catalan Numbers of the Third and Fourth Kind
+  | year = 2020
+  | arxiv = 2008.00133
+ }}
+
+==External links==
+* {{citation|last=Stanley|first= Richard P.|url=http://www-math.mit.edu/~rstan/ec/catadd.pdf |title=Catalan addendum to Enumerative Combinatorics, Volume 2|year=1998}}
+* {{mathworld|title=Catalan Number|urlname=CatalanNumber}}
+* Davis, Tom: [https://web.archive.org/web/20070216101521/http://mathcircle.berkeley.edu/BMC6/pdf0607/catalan.pdf Catalan numbers]. Still more examples.
+* "Equivalence of Three Catalan Number Interpretations" from The Wolfram Demonstrations Project [http://demonstrations.wolfram.com/EquivalenceOfThreeCatalanNumberInterpretations/]
+* {{wikiversity-inline|Partition related number triangles}}
+
+{{Classes of natural numbers}}
+{{Authority control}}
+
+{{DEFAULTSORT:Catalan Number}}
+[[Category:Integer sequences]]
+[[Category:Factorial and binomial topics]]
+[[Category:Enumerative combinatorics]]
+[[Category:Articles containing proofs]]
