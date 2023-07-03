@@ -66,7 +66,7 @@ E_{\rm rel}^2 - (pc)^2 &= (m_0 c^2)^2
 or
 
 <math>\begin{align}
-E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^4 } \,\!
+E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\!
 \end{align}</math>
 
 where the <math>(pc)^2</math> term represents the square of the [[Euclidean norm]] (total vector length) of the various momentum vectors in the system, which reduces to the square of the simple momentum magnitude, if only a single particle is considered. This equation is called the [[energy–momentum relation]] and reduces to <math>E_{\rm rel} = mc^2</math> when the momentum term is zero. For photons where <math>m_0 = 0</math>, the equation reduces to <math>E_{\rm rel} = pc</math>.
