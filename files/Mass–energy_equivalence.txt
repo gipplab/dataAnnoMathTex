@@ -59,8 +59,8 @@ Unlike a system's energy in an inertial frame, the relativistic energy (<math>E
 
 
 :<math>\begin{align}
-E_{\rm rel}^2 - |\mathbf{p} |^2 c^2 &= m_0^2 c^4 \\
-E_{\rm rel}^2 - (pc)^2 &= (m_0 c^2)^2
+  E_{\rm rel}^2 - |\mathbf{p} |^2 c^2 &= m_0^2 c^4 \\
+              E_{\rm rel}^2 - (pc)^2 &= (m_0 c^2)^2
 \end{align}</math>
 
 or
