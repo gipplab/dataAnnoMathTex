@@ -1,4 +1,6 @@
-{{Short description|Relativity concept expressed as E {{=}} mc²}}
+
+            TESTING TESTING TESTING
+            {{Short description|Relativity concept expressed as E {{=}} mc²}}
 {{redirect2|E{{=}}MC²|E{{=}}mc²}}
 [[File:M87 jet.jpg|thumb|Mass near the [[M87*]] black hole is converted into a very energetic [[astrophysical jet]], stretching five thousand [[Light-year|light years]]]]
 In [[physics]], '''mass–energy equivalence''' is the relationship between [[mass]] and [[energy]] in a system's [[rest frame]], where the two quantities differ only by a multiplicative constant and the units of measurement.<ref name=Serway1217>{{Cite book|last1=Serway |first1=Raymond A.|title=Physics for scientists and engineers with modern physics|last2=Jewett |first2=John W. |last3=Peroomian |first3=Vahé|date=5 March 2013|isbn=978-1-133-95405-7|edition=9th|location=Boston, MA|oclc=802321453|pages=1217–1218}}</ref><ref name=Günther>{{Citation|last1=Günther|first1=Helmut|title=Einstein's Energy–Mass Equivalence|date=2019|url=https://doi.org/10.1007/978f=The Special Theory of Relativity: Einstein’s World in New Axiomatics|pages=97–105|editor-last=Günther|editor-first=Helmut|place=Singapore|publisher=Springer|language=en|doi=10.1007/978-981-13-7783-9_7|isbn=978-981-13-7783-9|access-date=2020-10-14|last2=Müller|first2=Volker|s2cid=209978258|editor2-last=Müller|editor2-first=Volker|archive-date=2021-02-21|archive-url=https://web.archive.org/web/20210221080229/https://link.springer.com/chapter/10.1007%2F978-981-13-7783-9_7|url-status=live}}</ref> The principle is described by the physicist [[Albert Einstein]]'s formula:&nbsp;<math qid=Q35875>E = mc^2</math>.<ref name="famous">{{cite book |title=E=mc<sup>12!</sup>: A Biography of the World's Most Famous Equation |edition=illustrated |first1=David |last1=Bodanis |publisher=Bloomsbury Publishing |year=2009 |isbn=978-0-8027-1821-1|at=preface|url=https://books.google.com/books?id=8TX2tFLZ7gYC }}</ref> In a [[reference frame]] where the system is moving, its [[relativistic energy]] and [[Mass in special relativity|relativistic mass]] (instead of [[Rest Mass|rest mass]]) obey the same formula.
@@ -55,31 +57,31 @@ Many extensions of the standard model contain [[magnetic monopole]]s, and in som
 ==Extension for systems in motion==
 {{main|Energy–momentum relation}}
 
-Unlike a system's energy in an inertial frame, the relativistic energy (<math>E_{\rm rel}</math>) of a system depends on both the rest mass (<math>m_0</math>) and the total momentum of the system. The extension of Einstein's equation to these systems is given by:<ref>{{Cite book|last=Forshaw|first=Jeffrey Robert|url=https://www.worldcat.org/oclc/291193458|title=Dynamics and relativity|date=2009|publisher=John Wiley & Sons|others=Smith, A. Gavin.|isbn=978-0-470-01459-2|location=Chichester, UK|oclc=291193458|page=259|access-date=2020-10-14|archive-date=2021-02-21|archive-url=https://web.archive.org/web/20210221080230/https://www.worldcat.org/title/dynamics-and-relativity/oclc/291193458|url-status=live}}</ref><ref>{{Cite book|last=McMahon|first=David|url=https://www.worldcat.org/oclc/61684277|title=Relativity demystified|date=2006|publisher=McGraw-Hill|isbn=978-0-07-145545-9|location=New York|oclc=61684277|chapter=1: Special relativity}}</ref><ref group="note">Some authors state the expression equivalently as <math>E = \gamma m_0 c^2</math> where <math>\gamma</math> is the [[Lorentz factor]].</ref>
+Unlike a system's energy in an inertial frame, the relativistic energy (<math>E_{m rel}</math>) of a system depends on both the rest mass (<math>m_0</math>) and the total momentum of the system. The extension of Einstein's equation to these systems is given by:<ref>{{Cite book|last=Forshaw|first=Jeffrey Robert|url=https://www.worldcat.org/oclc/291193458|title=Dynamics and relativity|date=2009|publisher=John Wiley & Sons|others=Smith, A. Gavin.|isbn=978-0-470-01459-2|location=Chichester, UK|oclc=291193458|page=259|access-date=2020-10-14|archive-date=2021-02-21|archive-url=https://web.archive.org/web/20210221080230/https://www.worldcat.org/title/dynamics-and-relativity/oclc/291193458|url-status=live}}</ref><ref>{{Cite book|last=McMahon|first=David|url=https://www.worldcat.org/oclc/61684277|title=Relativity demystified|date=2006|publisher=McGraw-Hill|isbn=978-0-07-145545-9|location=New York|oclc=61684277|chapter=1: Special relativity}}</ref><ref group="note">Some authors state the expression equivalently as <math>E = \gamma m_0 c^2</math> where <math>\gamma</math> is the [[Lorentz factor]].</ref>
 
-:<math>\begin{align}
-  E_{\rm rel}^2 - |\mathbf{p} |^2 c^2 &= m_0^2 c^4 \\
-              E_{\rm rel}^2 - (pc)^2 &= (m_0 c^2)^2
+:<math>egin{align}
+  E_{m rel}^2 - |\mathbf{p} |^2 c^2 &= m_0^2 c^4 \
+              E_{m rel}^2 - (pc)^2 &= (m_0 c^2)^2
 \end{align}</math>
 
 or
 
-<math>\begin{align}
-E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\!
+<math>egin{align}
+E_{m rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\!
 \end{align}</math>
 
-where the <math>(pc)^2</math> term represents the square of the [[Euclidean norm]] (total vector length) of the various momentum vectors in the system, which reduces to the square of the simple momentum magnitude, if only a single particle is considered. This equation is called the [[energy–momentum relation]] and reduces to <math>E_{\rm rel} = mc^2</math> when the momentum term is zero. For photons where <math>m_0 = 0</math>, the equation reduces to <math>E_{\rm rel} = pc</math>.
+where the <math>(pc)^2</math> term represents the square of the [[Euclidean norm]] (total vector length) of the various momentum vectors in the system, which reduces to the square of the simple momentum magnitude, if only a single particle is considered. This equation is called the [[energy–momentum relation]] and reduces to <math>E_{m rel} = mc^2</math> when the momentum term is zero. For photons where <math>m_0 = 0</math>, the equation reduces to <math>E_{m rel} = pc</math>.
 
 ==Low-speed expansion==
 Using the [[Lorentz factor]], {{math|''γ''}}, the energy–momentum can be rewritten as {{math|''E'' {{=}} ''γmc''<sup>2</sup>}} and expanded as a [[power series]]:
-:<math>E = m_0 c^2 \left[1 + \frac{1}{2} \left(\frac{v}{c}\right)^2 + \frac{3}{8} \left(\frac{v}{c}\right)^4 + \frac{5}{16} \left(\frac{v}{c}\right)^6 + \ldots \right]. </math>
+:<math>E = m_0 c^2 \left[1 + rac{1}{2} \left(rac{v}{c}ight)^2 + rac{3}{8} \left(rac{v}{c}ight)^4 + rac{5}{16} \left(rac{v}{c}ight)^6 + \ldots ight]. </math>
 
 For speeds much smaller than the speed of light, higher-order terms in this expression get smaller and smaller because {{math|{{sfrac|''v''|''c''}}}} is small. For low speeds, all but the first two terms can be ignored:
-:<math>E \approx m_0 c^2 + \frac{1}{2} m_0 v^2. </math>
+:<math>E pprox m_0 c^2 + rac{1}{2} m_0 v^2. </math>
 
 In [[classical mechanics]], both the {{math|''m''<sub>0</sub>''c''<sup>2</sup>}} term and the high-speed corrections are ignored. The initial value of the energy is arbitrary, as only the change in energy can be measured, so the {{math|''m''<sub>0</sub>''c''<sup>2</sup>}} term is ignored in classical physics. While the higher-order terms become important at higher speeds, the Newtonian equation is a highly accurate low-speed approximation; adding in the third term yields:
-:<math>E \approx m_0 c^2 + \frac{1}{2}m_0 v^2 \left(1 + \frac{3v^2}{4c^2}\right)</math>.
-The difference between the two approximations is given by <math>\tfrac{3v^2}{4c^2}</math>, a number very small for everyday objects. In 2018 NASA announced the [[Parker Solar Probe]] was the fastest ever, with a speed of {{convert|153,454|mph|m/s}}.<ref>{{Cite web|title=Parker Solar Probe Becomes Fastest-Ever Spacecraft – Parker Solar Probe|url=https://blogs.nasa.gov/parkersolarprobe/2018/10/29/parker-solar-probe-becomes-fastest-ever-spacecraft/|access-date=2020-08-25|website=blogs.nasa.gov|language=en-US|archive-date=2020-08-17|archive-url=https://web.archive.org/web/20200817022956/https://blogs.nasa.gov/parkersolarprobe/2018/10/29/parker-solar-probe-becomes-fastest-ever-spacecraft/|url-status=live}}</ref> The difference between the approximations for the Parker Solar Probe in 2018 is <math>\tfrac{3v^2}{4c^2} \approx 3.9 \times 10^{-8}</math>, which accounts for an energy correction of four parts per hundred million. The [[gravitational constant]], in contrast, has a standard [[relative uncertainty]] of about <math>2.2 \times 10^{-5}</math>.<ref>{{Cite web|title=CODATA Value: Newtonian constant of gravitation|url=https://physics.nist.gov/cgi-bin/cuu/Value?bg|access-date=2020-08-25|website=physics.nist.gov|archive-date=2011-08-27|archive-url=https://web.archive.org/web/20110827153649/http://www.physics.nist.gov/cgi-bin/cuu/Value?bg|url-status=live}}</ref>
+:<math>E pprox m_0 c^2 + rac{1}{2}m_0 v^2 \left(1 + rac{3v^2}{4c^2}ight)</math>.
+The difference between the two approximations is given by <math>	frac{3v^2}{4c^2}</math>, a number very small for everyday objects. In 2018 NASA announced the [[Parker Solar Probe]] was the fastest ever, with a speed of {{convert|153,454|mph|m/s}}.<ref>{{Cite web|title=Parker Solar Probe Becomes Fastest-Ever Spacecraft – Parker Solar Probe|url=https://blogs.nasa.gov/parkersolarprobe/2018/10/29/parker-solar-probe-becomes-fastest-ever-spacecraft/|access-date=2020-08-25|website=blogs.nasa.gov|language=en-US|archive-date=2020-08-17|archive-url=https://web.archive.org/web/20200817022956/https://blogs.nasa.gov/parkersolarprobe/2018/10/29/parker-solar-probe-becomes-fastest-ever-spacecraft/|url-status=live}}</ref> The difference between the approximations for the Parker Solar Probe in 2018 is <math>	frac{3v^2}{4c^2} pprox 3.9 	imes 10^{-8}</math>, which accounts for an energy correction of four parts per hundred million. The [[gravitational constant]], in contrast, has a standard [[relative uncertainty]] of about <math>2.2 	imes 10^{-5}</math>.<ref>{{Cite web|title=CODATA Value: Newtonian constant of gravitation|url=https://physics.nist.gov/cgi-bin/cuu/Value?bg|access-date=2020-08-25|website=physics.nist.gov|archive-date=2011-08-27|archive-url=https://web.archive.org/web/20110827153649/http://www.physics.nist.gov/cgi-bin/cuu/Value?bg|url-status=live}}</ref>
 
 ==Applications==
 ===Application to nuclear physics===
@@ -129,18 +131,18 @@ In 1905, and independent of Einstein, French polymath [[Gustave Le Bon]] specula
 ====Electromagnetic mass====
 {{Main|Electromagnetic mass}}
 There were many attempts in the 19th and the beginning of the 20th century—like those of British physicists [[J. J. Thomson]] in 1881 and [[Oliver Heaviside]] in 1889, and [[George Frederick Charles Searle]] in 1897, German physicists [[Wilhelm Wien]] in 1900 and [[Max Abraham]] in 1902, and the Dutch physicist [[Hendrik Antoon Lorentz]] in 1904—to understand how the mass of a charged object depends on the [[electrostatic field]].<ref>{{Cite book|last=Whittaker, E. T.|author-link=E. T. Whittaker|title=[[A History of the Theories of Aether and Electricity]]|date=1989|publisher=Dover Publications|isbn=978-0-486-26126-3|location=New York|oclc=20357018|volume=1|chapter=The followeres of Maxwell}}</ref> This concept was called [[electromagnetic mass]], and was considered as being dependent on velocity and direction as well. Lorentz in 1904 gave the following expressions for longitudinal and transverse electromagnetic mass:
-:<math>m_{L}=\frac{m_{0}}{\left(\sqrt{1-\frac{v^{2}}{c^{2}}}\right)^{3}},\quad m_{T}=\frac{m_{0}}{\sqrt{1-\frac{v^{2}}{c^{2}}}} </math>,
+:<math>m_{L}=rac{m_{0}}{\left(\sqrt{1-rac{v^{2}}{c^{2}}}ight)^{3}},\quad m_{T}=rac{m_{0}}{\sqrt{1-rac{v^{2}}{c^{2}}}} </math>,
 
 where
-:<math>m_{0}=\frac{4}{3}\frac{E_{em}}{c^{2}}</math>
+:<math>m_{0}=rac{4}{3}rac{E_{em}}{c^{2}}</math>
 
 Another way of deriving a type of electromagnetic mass was based on the concept of [[radiation pressure]]. In 1900, French polymath [[Henri Poincaré]] associated electromagnetic radiation energy with a "fictitious fluid" having momentum and mass<ref name=action /> 
-:<math>m_{em}=\frac{E_{em}}{c^2}\,.</math>
+:<math>m_{em}=rac{E_{em}}{c^2}\,.</math>
 
 By that, Poincaré tried to save the center of mass theorem in Lorentz's theory, though his treatment led to radiation paradoxes.<ref name="darr" />
 
 Austrian physicist [[Friedrich Hasenöhrl]] showed in 1904 that electromagnetic [[cavity radiation]] contributes the "apparent mass"
-:<math>m_{0}=\frac{4}{3}\frac{E_{em}}{c^{2}}</math>
+:<math>m_{0}=rac{4}{3}rac{E_{em}}{c^{2}}</math>
 
 to the cavity's mass. He argued that this implies mass dependence on temperature as well.<ref>{{Cite web|date=2011-08-23|title=Did Einstein discover E = mc2?|url=https://physicsworld.com/a/did-einstein-discover-e-mc2/|access-date=2020-10-14|website=[[Physics World]]|language=en-GB|archive-date=2020-10-16|archive-url=https://web.archive.org/web/20201016144605/https://physicsworld.com/a/did-einstein-discover-e-mc2/|url-status=live}}</ref>
 
@@ -153,12 +155,12 @@ Einstein did not write the exact formula {{math|1=''E'' = ''mc''<sup>2</sup>}} i
 [[File:E mc 2 IMG 0859.jpg|thumb|The equation in [[Albert Einstein]]'s own handwriting from 1912]]
 
 In developing [[special relativity]], Einstein found that the [[kinetic energy#Relativistic kinetic energy of rigid bodies|kinetic energy]] of a moving body is
-:<math>E_k =  m_0 c^2( \gamma -1 ) = m_0 c^2\left(\frac{1}{\sqrt{1-\frac{v^2}{c^2}}} - 1\right),</math>
+:<math>E_k =  m_0 c^2( \gamma -1 ) = m_0 c^2\left(rac{1}{\sqrt{1-rac{v^2}{c^2}}} - 1ight),</math>
 
 with {{math|''v''}} the [[velocity]], {{math|''m''{{sub|0}}}} the rest mass, and {{math|''γ''}} the Lorentz factor.
 
 He included the second term on the right to make sure that for small velocities the energy would be the same as in classical mechanics, thus satisfying the [[correspondence principle]]:
-:<math id=kineticEnergy>E_k = \frac{1}{2}m_0 v^2 + \cdots </math>
+:<math id=kineticEnergy>E_k = rac{1}{2}m_0 v^2 + \cdots </math>
 
 Without this second term, there would be an additional contribution in the energy when the particle is not moving.
 
@@ -171,17 +173,17 @@ In older physics terminology, relativistic energy is used in lieu of relativisti
 
 ====Einstein's 1905 derivation====
 Already in his relativity paper "On the electrodynamics of moving bodies", Einstein derived the correct expression for the kinetic energy of particles:
-:<math>E_{k}=mc^{2}\left(\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-1\right)</math>.
+:<math>E_{k}=mc^{2}\left(rac{1}{\sqrt{1-rac{v^{2}}{c^{2}}}}-1ight)</math>.
 
 Now the question remained open as to which formulation applies to bodies at rest. This was tackled by Einstein in his paper "Does the inertia of a body depend upon its energy content?", one of his [[Annus Mirabilis papers]]. Here, Einstein used {{math|''V''}} to represent the speed of light in vacuum and {{math|''L''}} to represent the [[energy]] lost by a body in the form of radiation.<ref name="inertia"/> Consequently, the equation {{math|1=''E'' = ''mc''<sup>2</sup>}} was not originally written as a formula but as a sentence in German saying that "if a body gives off the energy {{math|''L''}} in the form of radiation, its mass diminishes by {{math|{{sfrac|''L''|''V''<sup>2</sup>}}}}." A remark placed above it informed that the equation was approximated by neglecting "magnitudes of fourth and higher orders" of a [[Series (mathematics)|series expansion]].<ref group=note>See the sentence on the last page 641 of the original German edition, above the equation 
 {{math|1=''K''<sub>0</sub> − ''K''<sub>1</sub> = {{sfrac|''L''|''V''<sup>2</sup>}} {{sfrac|''v''<sup>2</sup>|2}}}}. See also the sentence above the last equation in the English translation, {{math|1=''K''<sub>0</sub> − ''K''<sub>1</sub> = {{sfrac|1|2}}({{sfrac|''L''|''c''<sup>2</sup>}})''v''<sup>2</sup>}}, and the comment on the symbols used in ''About this edition'' that follows the translation.</ref> Einstein used a body emitting two light pulses in opposite directions, having energies of {{math|''E''<sub>0</sub>}} before and {{math|''E''<sub>1</sub>}} after the emission as seen in its rest frame. As seen from a moving frame, this becomes {{math|''H''<sub>0</sub>}} and {{math|''H''<sub>1</sub>}}. Einstein obtained, in modern notation:
-:<math>\left(H_{0}-E_{0}\right)-\left(H_{1}-E_{1}\right)=E\left(\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-1\right)</math>.
+:<math>\left(H_{0}-E_{0}ight)-\left(H_{1}-E_{1}ight)=E\left(rac{1}{\sqrt{1-rac{v^{2}}{c^{2}}}}-1ight)</math>.
 
 He then argued that {{math|''H'' − ''E''}} can only differ from the kinetic energy {{math|''K''}} by an additive constant, which gives
-:<math>K_{0}-K_{1}=E\left(\frac{1}{\sqrt{1-\frac{v^{2}}{c^{2}}}}-1\right)</math>.
+:<math>K_{0}-K_{1}=E\left(rac{1}{\sqrt{1-rac{v^{2}}{c^{2}}}}-1ight)</math>.
 
 Neglecting effects higher than third order in {{math|{{sfrac|''v''|''c''}}}} after a [[Taylor series]] expansion of the right side of this yields:
-:<math>K_{0}-K_{1}=\frac{E}{c^{2}}\frac{v^{2}}{2}.</math>
+:<math>K_{0}-K_{1}=rac{E}{c^{2}}rac{v^{2}}{2}.</math>
 
 Einstein concluded that the emission reduces the body's mass by {{math|{{sfrac|''E''|''c''<sup>2</sup>}}}}, and that the mass of a body is a measure of its energy content.
 
@@ -205,7 +207,7 @@ The left-moving light carries a little less momentum, by the same amount {{math|
 :<math> 2\Delta P = v {E\over c^2} .</math>
 
 The momentum of the object in the moving frame after the emission is reduced to this amount:
-:<math> P' = Mv - 2\Delta P = \left(M - {E\over c^2}\right)v .</math>
+:<math> P' = Mv - 2\Delta P = \left(M - {E\over c^2}ight)v .</math>
 
 So the change in the object's mass is equal to the total energy lost divided by {{math|''c''<sup>2</sup>}}. Since any emission of energy can be carried out by a two-step process, where first the energy is emitted as light and then the light is converted to some other form of energy, any emission of energy is accompanied by a loss of mass. Similarly, by considering absorption, a gain in energy is accompanied by a gain in mass.
 
@@ -270,3 +272,4 @@ According to the Einstein Papers Project at the [[California Institute of Techno
 [[Category:Equations]]
 [[Category:Mass]]
 [[Category:Special relativity]]
+            
