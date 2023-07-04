@@ -67,7 +67,7 @@ A = Area [m<sup>2</sup>]
 
 As stated, the area of the specimen varies on compression. In reality therefore the area is some function of the applied load i.e. A = f(F). Indeed, stress is defined as the force divided by the area at the start of the experiment. This is known as the engineering stress and is defined by,
 
-<math>\sigma_e = \frac{F}{A_0}</math>
+<math>\sigma_e = \frac{F}{A_0}{S}</math>
 
 A<sub>0</sub>=Original specimen area [m<sup>2</sup>]
 
