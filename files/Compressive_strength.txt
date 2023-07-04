@@ -29,20 +29,20 @@ On an atomic level, the molecules or [[atoms]] are forced apart when in tension 
 The "strain" is the relative change in length under applied stress; positive strain characterizes an object under tension load which tends to lengthen it, and a compressive stress that shortens an object gives negative strain. Tension tends to pull small sideways deflections back into alignment, while compression tends to amplify such deflection into [[buckling]].
 
 Compressive strength is measured on materials, components,<ref>{{Cite journal
-  | last1 = Urbanek
-  | first1 = T
-  | last2 =Lee, Johnson
-  | title = Column Compression Strength of Tubular Packaging Forms Made of Paper
-  | publisher = Journal of Testing and Evaluation
-  | volume = 34,6
-  | pages =31–40
-  | url = http://www.fpl.fs.fed.us/documnts/pdf2006/fpl_2006_urbanik001.pdf
-  | access-date =13 May 2014}}</ref> and structures.<ref>{{Citation
+| last1 = Urbanek
+| first1 = T
+| last2 =Lee, Johnson
+| title = Column Compression Strength of Tubular Packaging Forms Made of Paper
+| publisher = Journal of Testing and Evaluation
+| volume = 34,6
+| pages =31–40
+| url = http://www.fpl.fs.fed.us/documnts/pdf2006/fpl_2006_urbanik001.pdf
+| access-date =13 May 2014}}</ref> and structures.<ref>{{Citation
 | last1 = Ritter
 | first1 = m A
 | last2= Oliva
 | chapter = 9, Design of Longitudinal Stress-Laminated Deck Superstructures
-| year =1990 
+| year =1990
 | title = Timber Bridges: Design, Construction, Inspection, and Maintenance
 | publisher = US Dept of Agriculture, Forest Products Laboratory
 | publication-date = 2010
@@ -53,13 +53,13 @@ Compressive strength is measured on materials, components,<ref>{{Cite journal
 By definition, the ultimate compressive strength of a material is that value of uniaxial [[compressive stress]] reached when the material fails completely. The compressive strength is usually obtained experimentally by means of a ''compressive test''. The apparatus used for this experiment is the same as that used in a tensile test. However, rather than applying a uniaxial tensile load, a uniaxial compressive load is applied. As can be imagined, the specimen (usually cylindrical) is shortened as well as spread [[wiktionary:lateral|laterally]]. A [[stress–strain curve]] is plotted by the instrument and would look similar to the following:
 [[File:engineering stress strain.svg|thumb|left|True Stress-Strain curve for a typical specimen]]
 
-The compressive strength of the material would correspond to the stress at the red point shown on the curve.  In a compression test, there is a linear region where the material follows [[Hooke's law]].  Hence, for this region, ''<math>\sigma=E\epsilon</math>'', where, this time, E refers to the Young's Modulus for compression. In this region, the material deforms elastically and returns to its original length when the stress is removed.
+The compressive strength of the material would correspond to the stress at the red point shown on the curve. In a compression test, there is a linear region where the material follows [[Hooke's law]]. Hence, for this region, ''<math>\sigma=E\epsilon</math>'', where, this time, E refers to the Young's Modulus for compression. In this region, the material deforms elastically and returns to its original length when the stress is removed.
 
 This linear region terminates at what is known as the [[yield point]]. Above this point the material behaves [[Plasticity (physics)|plastically]] and will not return to its original length once the load is removed.
 
 There is a difference between the engineering stress and the true stress. By its basic definition the uniaxial stress is given by:
 
-<math>\sigma = \frac{F}{A}</math>
+<math>E_{\rm rel}</math>
 
 where,
 F = Load applied [N],
@@ -94,14 +94,14 @@ In engineering design practice, professionals mostly rely on the engineering str
 
 The difference in values may therefore be summarized as follows:
 * On compression, the specimen will shorten. The material will tend to spread in the lateral direction and hence increase the [[Cross section (geometry)|cross sectional]] area.
-* In a compression test the specimen is clamped at the edges.{{dubious|date=January 2016}}  For this reason, a frictional force arises which will oppose the lateral spread. This means that work has to be done to oppose this frictional force hence increasing the energy consumed during the process. This results in a slightly inaccurate value of stress obtained from the experiment.{{citation needed|date=January 2016}} The frictional force  is not constant for the entire cross section of the specimen. It varies from a minimum at the center, away from the clamps, to a maximum at the edges where it is clamped. Due to this, a phenomenon known as ''barreling'' occurs where the specimen attains a barrel shape.c
+* In a compression test the specimen is clamped at the edges.{{dubious|date=January 2016}} For this reason, a frictional force arises which will oppose the lateral spread. This means that work has to be done to oppose this frictional force hence increasing the energy consumed during the process. This results in a slightly inaccurate value of stress obtained from the experiment.{{citation needed|date=January 2016}} The frictional force is not constant for the entire cross section of the specimen. It varies from a minimum at the center, away from the clamps, to a maximum at the edges where it is clamped. Due to this, a phenomenon known as ''barreling'' occurs where the specimen attains a barrel shape.c
 
 == Comparison of compressive and tensile strengths ==
-Concrete and ceramics typically have much higher compressive strengths than tensile strengths. Composite materials, such as glass fiber epoxy matrix composite, tend to have higher tensile strengths than compressive strengths. Metals are difficult to test to failure in tension vs compression.  In compression metals fail from buckling/crumbling/45deg shear which is much different (though higher stresses) than tension which fails from defects or necking down.
+Concrete and ceramics typically have much higher compressive strengths than tensile strengths. Composite materials, such as glass fiber epoxy matrix composite, tend to have higher tensile strengths than compressive strengths. Metals are difficult to test to failure in tension vs compression. In compression metals fail from buckling/crumbling/45deg shear which is much different (though higher stresses) than tension which fails from defects or necking down.
 
 == Compressive failure modes ==
 [[File:Universal Testing Machine.jpg|thumb|right|A cylinder being crushed under a UTM]]
-If the ratio of the length to the effective radius of the material loaded in compression ([[Slenderness ratio]]) is too high, it is likely that the material will fail under [[buckling]]. Otherwise, if the material is ductile yielding usually occurs which displaying the barreling effect discussed above. A brittle material in compression typically will fail by axial splitting, shear fracture, or ductile failure depending on the level of constraint in the direction perpendicular to the direction of loading.  If there is no constraint (also called confining pressure), the brittle material is likely to fail by axial spitting. Moderate confining pressure often results in shear fracture, while high confining pressure often leads to ductile failure, even in brittle materials.<ref>{{Cite book|last=Fischer-Cripps|first=Anthony C.|url=https://www.worldcat.org/oclc/187014877|title=Introduction to contact mechanics|date=2007|publisher=Springer|isbn=978-0-387-68188-7|edition=2nd|location=New York|pages=156|oclc=187014877}}</ref>
+If the ratio of the length to the effective radius of the material loaded in compression ([[Slenderness ratio]]) is too high, it is likely that the material will fail under [[buckling]]. Otherwise, if the material is ductile yielding usually occurs which displaying the barreling effect discussed above. A brittle material in compression typically will fail by axial splitting, shear fracture, or ductile failure depending on the level of constraint in the direction perpendicular to the direction of loading. If there is no constraint (also called confining pressure), the brittle material is likely to fail by axial spitting. Moderate confining pressure often results in shear fracture, while high confining pressure often leads to ductile failure, even in brittle materials.<ref>{{Cite book|last=Fischer-Cripps|first=Anthony C.|url=https://www.worldcat.org/oclc/187014877|title=Introduction to contact mechanics|date=2007|publisher=Springer|isbn=978-0-387-68188-7|edition=2nd|location=New York|pages=156|oclc=187014877}}</ref>
 
 Axial Splitting relieves elastic energy in brittle material by releasing strain energy in the directions perpendicular to the applied compressive stress. As defined by a materials [[Poisson's ratio|Poisson ratio]] a material compressed elastically in one direction will strain in the other two directions. During axial splitting a crack may release that tensile strain by forming a new surface parallel to the applied load. The material then proceeds to separate in two or more pieces. Hence the axial splitting occurs most often when there is no confining pressure, i.e. a lesser compressive load on axis perpendicular to the main applied load.<ref>1.    Ashby, M., and C. Sammis. “The Damage Mechanics of Brittle Solids in Compression.” ''Pure and Applied Geophysics'', vol. 133, no. 3, 1990, pp. 489–521., doi:10.1007/bf00878002.</ref> The material now split into micro columns will feel different frictional forces either due to inhomogeneity of interfaces on the free end or stress shielding. In the case of [[stress shielding]], inhomogeneity in the materials can lead to different [[Young's modulus]]. This will in turn cause the stress to be disproportionately distributed, leading to a difference in frictional forces. In either case this will cause the material sections to begin bending and lead to ultimate failure.<ref>1.    Renshaw, Carl E., and Erland M. Schulson. “Universal Behaviour in Compressive Failure of Brittle Materials.” ''Nature'', vol. 412, no. 6850, 2001, pp. 897–900., doi:10.1038/35091045.</ref>
 
@@ -143,7 +143,7 @@ Eventually this leads the material deforming non-homogeneously. That is the stra
 
 == Compressive strength of concrete ==
 [[File:Compressive strength test.gif|200px|thumb|Compressive strength test of concrete in UTM]]
-For designers, compressive strength is one of the most important engineering properties of [[concrete]]. It is standard industrial practice that the compressive strength of a given concrete mix is classified by grade. Cubic or cylindrical samples of concrete are tested under a compression testing machine to measure this value. Test requirements vary by country based on their differing design codes.  Use of a [[Compressometer]] is common.  As per Indian codes, compressive strength of concrete is defined as:
+For designers, compressive strength is one of the most important engineering properties of [[concrete]]. It is standard industrial practice that the compressive strength of a given concrete mix is classified by grade. Cubic or cylindrical samples of concrete are tested under a compression testing machine to measure this value. Test requirements vary by country based on their differing design codes. Use of a [[Compressometer]] is common. As per Indian codes, compressive strength of concrete is defined as:
 [[Image:Concrete cube mold.jpg|thumb|Field cured concrete in cubic steel molds (Greece)]]
 ''The ''compressive strength of concrete'' is given in terms of the ''characteristic compressive strength'' of 150 mm size cubes tested after 28 days (fck). In field, compressive strength tests are also conducted at interim duration i.e. after 7 days to verify the anticipated compressive strength expected after 28 days. The same is done to be forewarned of an event of failure and take necessary precautions. The '''characteristic strength''' is defined as the '''strength''' of the '''concrete''' below which not more than 5% of the test results are expected to fall.''<ref>{{Cite web|url=http://civildigital.com/compressive-strength-concrete-concrete-cubes/|title=Compressive Strength of Concrete & Concrete Cubes {{!}} What {{!}} How {{!}} CivilDigital {{!}}|date=2016-07-07|language=en-US|access-date=2016-09-20}}</ref>
 
