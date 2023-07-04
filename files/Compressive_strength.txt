@@ -59,7 +59,7 @@ This linear region terminates at what is known as the [[yield point]]. Above thi
 
 There is a difference between the engineering stress and the true stress. By its basic definition the uniaxial stress is given by:
 
-<math>E_{\rm rel}</math>
+<math>\sigma = \frac{F}{A}</math>
 
 where,
 F = Load applied [N],
