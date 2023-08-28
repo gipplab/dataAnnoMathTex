@@ -4,72 +4,75 @@
 [[File:Meissner effect.ogv|thumb|Video of the Meissner effect in a high-temperature superconductor (black pellet) with a NdFeB magnet (metallic)]]
 [[File:Stickstoff gekühlter Supraleiter schwebt über Dauermagneten 2009-06-21.jpg|thumb|A high-temperature superconductor levitating above a magnet]]
 
+
 '''Superconductivity''' is a set of physical properties observed in certain materials where [[Electrical resistance and conductance|electrical resistance]] vanishes and [[magnetic field|magnetic flux fields]] are expelled from the material. Any material exhibiting these properties is a '''superconductor'''. Unlike an ordinary metallic [[electrical conductor|conductor]], whose resistance decreases gradually as its temperature is lowered even down to near [[absolute zero]], a superconductor has a characteristic [[Phase transition|critical temperature]] below which the resistance drops abruptly to zero.<ref name="Combescot">{{cite book
-| last1 = Combescot
-| first1 = Roland
-| title = Superconductivity
-| publisher = Cambridge University Press
-| date = 2022
-| pages = 1–2
-| url = https://books.google.com/books?id=lRhdEAAAQBAJ&pg=PA1
-| doi =
-| id =
-| isbn = 9781108428415
-}}</ref>
+ | last1  = Combescot
+ | first1 = Roland 
+ | title  = Superconductivity
+ | publisher = Cambridge University Press
+ | date   = 2022
+ | pages  = 1–2
+ | url    = https://books.google.com/books?id=lRhdEAAAQBAJ&pg=PA1
+ | doi    = 
+ | id     = 
+ | isbn   = 9781108428415
+ }}</ref>
 <ref name="Fossheim">{{cite book
-| last1 = Fossheim
-| first1 = Kristian
-| last2 = Sudboe
-| first2 = Asle
-| title = Superconductivity: Physics and Applications
-| publisher = John Wiley and Sons
-| date = 2005
-| pages = 7
-| url = https://books.google.com/books?id=Ep1MLS9YQX8C&pg=PA13
-| doi =
-| id =
-| isbn = 9780470026434
-}}</ref> An [[electric current]] through a loop of [[superconducting wire]] can persist indefinitely with no power source.<ref>{{cite book
-| author =John Bardeen
-| author2 = Leon Cooper
-| author3 = J. R. Schriffer
-| title = Theory of Superconductivity
-| journal = Physical Review
-| volume = 108
-| issue = 5
-| pages = 1175
-| date = December 1, 1957
-| url = https://books.google.com/books?id=_QKPGDG-cuAC&q=%22persist+indefinitely&pg=PA76
-| doi = 10.1103/physrev.108.1175
-| access-date = June 6, 2014|bibcode = 1957PhRv..108.1175B | isbn = 978-0-677-00080-0
-| s2cid = 73661301
-}} reprinted in Nikolaĭ Nikolaevich Bogoliubov (1963) ''The Theory of Superconductivity, Vol. 4'', CRC Press, {{ISBN|0677000804}}, p. 73</ref><ref name="Daintith">{{cite book
-| author = John Daintith
-| title = The Facts on File Dictionary of Physics
-| publisher = Infobase Publishing
-| edition = 4th
-| date = 2009
-| pages = 238
-| url = https://books.google.com/books?id=VdEVdJo3CDgC&pg=PA238
-| isbn = 978-1-4381-0949-7 }}</ref><ref name="Gallop">{{cite book
-|author=John C. Gallop
-|date=1990
-|title=SQUIDS, the Josephson Effects and Superconducting Electronics
-|url=https://books.google.com/books?id=ad8_JsfCdKQC
-|publisher=[[CRC Press]]
-|pages=1, 20
-|isbn=978-0-7503-0051-3
+ | last1  = Fossheim
+ | first1 = Kristian
+ | last2  = Sudboe
+ | first2 = Asle
+ | title  = Superconductivity: Physics and Applications
+ | publisher = John Wiley and Sons
+ | date   = 2005
+ | pages  = 7
+ | url    = https://books.google.com/books?id=Ep1MLS9YQX8C&pg=PA13
+ | doi    = 
+ | id     = 
+ | isbn   = 9780470026434
+ }}</ref>  An [[electric current]] through a loop of [[superconducting wire]] can persist indefinitely with no power source.<ref>{{cite book
+  | author =John Bardeen
+  | author2 = Leon Cooper
+  | author3 = J. R. Schriffer
+  | title = Theory of Superconductivity
+  | journal = Physical Review
+  | volume = 108
+  | issue = 5
+  | pages = 1175
+  | date = December 1, 1957
+  | url = https://books.google.com/books?id=_QKPGDG-cuAC&q=%22persist+indefinitely&pg=PA76
+  | doi = 10.1103/physrev.108.1175
+  | access-date = June 6, 2014|bibcode = 1957PhRv..108.1175B | isbn = 978-0-677-00080-0
+  | s2cid = 73661301
+ }} reprinted in Nikolaĭ Nikolaevich Bogoliubov (1963) ''The Theory of Superconductivity, Vol. 4'', CRC Press, {{ISBN|0677000804}}, p. 73</ref><ref name="Daintith">{{cite book
+ | author = John Daintith
+ | title = The Facts on File Dictionary of Physics
+ | publisher = Infobase Publishing
+ | edition = 4th
+ | date = 2009
+ | pages = 238
+ | url = https://books.google.com/books?id=VdEVdJo3CDgC&pg=PA238
+ | isbn = 978-1-4381-0949-7  }}</ref><ref name="Gallop">{{cite book
+ |author=John C. Gallop
+ |date=1990
+ |title=SQUIDS, the Josephson Effects and Superconducting Electronics
+ |url=https://books.google.com/books?id=ad8_JsfCdKQC
+ |publisher=[[CRC Press]]
+ |pages=1, 20
+ |isbn=978-0-7503-0051-3
 }}</ref><ref name="Durrant">{{cite book
-| last1 = Durrant
-| first1 = Alan
-| title = Quantum Physics of Matter
-| publisher = CRC Press
-| date = 2000
-| pages = 102–103
-| url = https://books.google.com/books?id=F0JmHRkJHiUC&q=%22persist+indefinitely&pg=PA103
-| isbn = 978-0-7503-0721-5 }}</ref>
+ | last1 = Durrant
+ | first1 = Alan
+ | title = Quantum Physics of Matter
+ | publisher = CRC Press
+ | date = 2000
+ | pages = 102–103
+ | url = https://books.google.com/books?id=F0JmHRkJHiUC&q=%22persist+indefinitely&pg=PA103
+ | isbn = 978-0-7503-0721-5 }}</ref>
+
 
 The superconductivity phenomenon was discovered in 1911 by Dutch physicist [[Heike Kamerlingh Onnes]]. Like [[ferromagnetism]] and [[atomic spectral line]]s, superconductivity is a phenomenon which can only be explained by [[quantum mechanics]]. It is characterized by the [[Meissner effect]], the complete ejection of [[magnetic field|magnetic field lines]] from the interior of the superconductor during its transitions into the superconducting state. The occurrence of the Meissner effect indicates that superconductivity cannot be understood simply as the [[Idealization (science philosophy)|idealization]] of ''[[perfect conductor|perfect conductivity]]'' in [[classical physics]].
+
 
 In 1986, it was discovered that some [[cuprate superconductor|cuprate]]-[[perovskite (structure)|perovskite]] [[ceramic]] materials have a critical temperature above {{convert|90|K|°C|abbr=on|0}}.<ref name=Bednorz>{{cite journal
 | author = J. G. Bednorz
@@ -84,299 +87,343 @@ In 1986, it was discovered that some [[cuprate superconductor|cuprate]]-[[perovs
 | issue = 1|bibcode = 1986ZPhyB..64..189B | s2cid = 118314311
 }}</ref> Such a high transition temperature is theoretically impossible for a [[conventional superconductor]], leading the materials to be termed [[high-temperature superconductors]]. The cheaply available coolant [[liquid nitrogen]] boils at 77&nbsp;K, and thus the existence of superconductivity at higher temperatures than this facilitates many experiments and applications that are less practical at lower temperatures.
 
+
 == Classification ==
 {{Main|Superconductor classification}}
 There are many criteria by which superconductors are classified. The most common are:
 
+
 === Response to a magnetic field ===
 A superconductor can be ''[[Type I superconductor|Type&nbsp;I]]'', meaning it has a single [[critical field]], above which all superconductivity is lost and below which the magnetic field is completely expelled from the superconductor; or ''[[Type II superconductor|Type&nbsp;II]]'', meaning it has two critical fields, between which it allows partial penetration of the magnetic field through isolated points.<ref>{{Cite web|title=Superconductivity {{!}} CERN|url=https://home.cern/science/engineering/superconductivity|access-date=2020-10-29|website=home.cern}}</ref> These points are called [[Quantum vortex|vortices]].<ref>{{Cite web|last=Orthacker|first=Angelina|title=Superconductivity|url=http://lampx.tugraz.at/~hadley/ss2/problems/super/s.pdf|website=Technical University of Graz}}</ref> Furthermore, in multicomponent superconductors it is possible to have a combination of the two behaviours. In that case the superconductor is of [[Type-1.5 superconductor|Type-1.5]].<ref>{{Cite web|date=2009-02-17|title=Type-1.5 superconductor shows its stripes|url=https://physicsworld.com/a/type-1-5-superconductor-shows-its-stripes/|access-date=2020-10-29|website=Physics World|language=en-GB}}</ref>
+
 
 === By theory of operation ===
 It is ''[[conventional superconductor|conventional]]'' if it can be explained by the [[BCS theory]] or its derivatives, or ''[[unconventional superconductor|unconventional]]'', otherwise.<ref>{{Cite journal|last=Gibney|first=Elizabeth|author-link=Elizabeth Gibney|date=5 March 2018|title=Surprise graphene discovery could unlock secrets of superconductivity|department=News|journal=Nature|volume=555|issue=7695|pages=151&ndash;2|doi=10.1038/d41586-018-02773-w|pmid=29517044|quote=Superconductors come broadly in two types: conventional, in which the activity can be explained by the mainstream theory of superconductivity, and unconventional, where it can't.|bibcode=2018Natur.555..151G|doi-access=free}}</ref> Alternatively, a superconductor is called unconventional if the superconducting [[order parameter]] transforms according to a non-trivial [[irreducible representation]] of the [[point group]] or [[space group]] of the system.
 
+
 === By critical temperature ===
 A superconductor is generally considered ''[[high-temperature superconductivity|high-temperature]]'' if it reaches a superconducting state above a temperature of 30&nbsp;K (−243.15&nbsp;°C);<ref>{{Cite journal|last=Grant|first=Paul Michael|date=2011|title=The great quantum conundrum|journal=Nature|publisher=Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.|volume=476|issue=7358|pages=37–39|doi=10.1038/476037a|pmid=21814269|s2cid=27665903}}</ref> as in the initial discovery by [[Georg Bednorz]] and [[K. Alex Müller]].<ref name="Bednorz" /> It may also reference materials that transition to superconductivity when cooled using [[liquid nitrogen]] – that is, at only ''T''<sub>c</sub>&nbsp;>&nbsp;77&nbsp;K, although this is generally used only to emphasize that liquid nitrogen coolant is sufficient. Low temperature superconductors refer to materials with a critical temperature below 30&nbsp;K, and are cooled mainly by [[liquid helium]] (''T''<sub>c</sub>&nbsp;>&nbsp;4.2&nbsp;K). One exception to this rule is the [[Iron-based superconductor|iron pnictide]] group of superconductors which display behaviour and properties typical of high-temperature superconductors, yet some of the group have critical temperatures below 30&nbsp;K.
+
 
 === By material ===
 [[File:Periodic_table_with_superconducting_temperatures.jpg|thumb|"Top: Periodic table of superconducting elemental solids and their experimental critical temperature (T). Bottom: Periodic table of superconducting binary hydrides (0–300 GPa). Theoretical predictions indicated in blue and experimental results in red."<ref>{{cite journal|author=José A.Flores-Livas|display-authors=et. al.|title=A perspective on conventional high-temperature superconductors at high pressure: Methods and materials|journal=Physics Reports|date=29 April 2020|volume=856 |doi=10.1016/j.physrep.2020.02.003}}</ref>]]
 
+
 Superconductor material classes include [[chemical element]]s (e.g. [[mercury (element)|mercury]] or [[lead]]), [[alloy]]s (such as [[niobium–titanium]], [[germanium–niobium]], and [[niobium nitride]]), [[ceramic]]s ([[YBCO]] and [[magnesium diboride]]), [[Iron-based superconductor|superconducting pnictides]] (like fluorine-doped LaOFeAs) or [[organic superconductor]]s ([[fullerene]]s and [[carbon nanotube]]s; though perhaps these examples should be included among the chemical elements, as they are composed entirely of [[carbon]]).<ref>{{Cite journal|last1=Hirsch|first1=J. E.|last2=Maple|first2=M. B.|last3=Marsiglio|first3=F.|date=2015-07-15|title=Superconducting materials classes: Introduction and overview|journal=Physica C: Superconductivity and Its Applications|series=Superconducting Materials: Conventional, Unconventional and Undetermined|language=en|volume=514|pages=1–8|doi=10.1016/j.physc.2015.03.002|arxiv=1504.03318|bibcode=2015PhyC..514....1H|s2cid=12895850|issn=0921-4534}}</ref><ref>{{Cite web|title=Classification of Superconductors|url=https://cds.cern.ch/record/1252368/files/978-3-540-70977-0_BookBackMatter.pdf|website=CERN}}</ref>
+
 
 == Elementary properties of superconductors ==
 {{more citations needed|section|date=April 2018}}<!--many paragraphs have no citations-->
-Several physical properties of superconductors vary from material to material, such as the critical temperature, the value of the superconducting gap, the critical magnetic field, and the critical current density at which superconductivity is destroyed. On the other hand, there is a class of properties that are independent of the underlying material. The [[Meissner effect]], the quantization of the [[Magnetic flux quantum|magnetic flux]] or permanent currents, i.e. the state of zero resistance are the most important examples. The existence of these "universal" properties is rooted in the nature of the [[Symmetry breaking|broken symmetry]] of the superconductor and the emergence of [[off-diagonal long range order]]. Superconductivity is a [[phase (matter)|thermodynamic phase]], and thus possesses certain distinguishing properties which are largely independent of microscopic details.
+Several  physical properties of superconductors vary from material to material, such as the critical temperature, the value of the superconducting gap, the critical magnetic field, and the critical current density at which superconductivity is destroyed.  On the other hand, there is a class of properties that are independent of the underlying material. The [[Meissner effect]], the quantization of the [[Magnetic flux quantum|magnetic flux]] or permanent currents, i.e. the state of zero resistance are the most important examples. The existence of these "universal" properties is rooted in the nature of the [[Symmetry breaking|broken symmetry]] of the superconductor and the emergence of [[off-diagonal long range order]].  Superconductivity is a [[phase (matter)|thermodynamic phase]], and thus possesses certain distinguishing properties which are largely independent of microscopic details.
+
 
 Off diagonal long range order is closely connected to the formation of Cooper pairs. An article by V.F. Weisskopf presents simple physical explanations for the formation of Cooper pairs, for the origin of the attractive force causing the binding of the pairs, for the finite energy gap, and for the existence of permanent currents.<ref>{{Cite journal|last=Weisskopf|first=Victor Frederick|date=1979|title=The formation of Cooper pairs and the nature of superconducting currents|series=CERN Yellow Reports: Monographs|url=http://cds.cern.ch/record/880131|language=en|doi=10.5170/CERN-1979-012}}</ref>
+
 
 === Zero electrical DC resistance ===
 [[File:CERN-cables-p1030764.jpg|thumb|Electric cables for accelerators at [[CERN]]. Both the massive and slim cables are rated for 12,500 [[amperes|A]]. ''Top:'' regular cables for [[LEP]]; ''bottom:'' superconductor-based cables for the [[Large Hadron Collider|LHC]]]]
 [[File:Cross section of preform superconductor cable.jpg|thumb|Cross section of a preformed superconductor rod from the abandoned [[Superconducting Super Collider|Texas Superconducting Super Collider (SSC)]].]]
 The simplest method to measure the [[electrical resistance]] of a sample of some material is to place it in an [[electrical circuit]] in series with a [[current source]] ''I'' and measure the resulting [[voltage]] ''V'' across the sample. The resistance of the sample is given by [[Ohm's law]] as ''R&nbsp;=&nbsp;V&nbsp;/&nbsp;I''. If the voltage is zero, this means that the resistance is zero.
 
+
 Superconductors are also able to maintain a current with no applied voltage whatsoever, a property exploited in [[Superconducting magnet|superconducting electromagnets]] such as those found in [[magnetic resonance imaging|MRI]] machines. Experiments have demonstrated that currents in superconducting coils can persist for years without any measurable degradation. Experimental evidence points to a current lifetime of at least 100,000 years. Theoretical estimates for the lifetime of a persistent current can exceed the estimated lifetime of the [[universe]], depending on the wire geometry and the temperature.<ref name="Gallop" /> In practice, currents injected in superconducting coils have persisted for more than 27 years (as of August, 2022) in superconducting [http://www.astro.oma.be/en/world-record-in-the-underground-laboratory-of-membach/ gravimeters].<ref>{{Cite journal|last1=Van Camp|first1=Michel|last2=Francis|first2=Olivier|last3=Lecocq|first3=Thomas|title=Recording Belgium's Gravitational History|journal=Eos|language=en-US|volume=98|doi=10.1029/2017eo089743|year=2017|doi-access=free}}</ref><ref>{{Cite journal|last1=Van Camp|first1=Michel|last2=de Viron|first2=Olivier|last3=Watlet|first3=Arnaud|last4=Meurers|first4=Bruno|last5=Francis|first5=Olivier|last6=Caudron|first6=Corentin|title=Geophysics From Terrestrial Time-Variable Gravity Measurements|journal=Reviews of Geophysics|volume=55|issue=4|language=en|pages=2017RG000566|doi=10.1002/2017rg000566|issn=1944-9208|bibcode=2017RvGeo..55..938V|year=2017|s2cid=134876430 |url=https://hal.archives-ouvertes.fr/hal-01631032/file/Reviews%20of%20Geophysics%20-%202017%20-%20Van%20Camp%20-%20Geophysics%20From%20Terrestrial%20Time%25u2010Variable%20Gravity%20Measurements.pdf }}</ref> In such instruments, the measurement principle is based on the monitoring of the levitation of a superconducting niobium sphere with a mass of 4 grams.
+
 
 In a normal conductor, an electric current may be visualized as a fluid of [[electron]]s moving across a heavy [[ion]]ic lattice. The electrons are constantly colliding with the ions in the lattice, and during each collision some of the [[energy]] carried by the current is absorbed by the lattice and converted into [[heat]], which is essentially the vibrational [[kinetic energy]] of the lattice ions. As a result, the energy carried by the current is constantly being dissipated. This is the phenomenon of electrical resistance and [[Joule heating]].
 
+
 The situation is different in a superconductor. In a conventional superconductor, the electronic fluid cannot be resolved into individual electrons. Instead, it consists of bound ''pairs'' of electrons known as [[Cooper pair]]s. This pairing is caused by an attractive force between electrons from the exchange of [[phonon]]s. This pairing is very weak, and small thermal vibrations can fracture the bond. Due to [[quantum mechanics]], the [[energy spectrum]] of this Cooper pair fluid possesses an ''[[energy gap]]'', meaning there is a minimum amount of energy Δ''E'' that must be supplied in order to excite the fluid. Therefore, if Δ''E'' is larger than the [[thermal energy]] of the lattice, given by ''kT'', where ''k'' is [[Boltzmann's constant]] and ''T'' is the [[temperature]], the fluid will not be scattered by the lattice.<ref>{{cite book |last1=Tinkham |first1=Michael |title=Introduction to Superconductivity |date=1996 |publisher=Dover Publications, Inc. |location=Mineola, New York |isbn=0486435032 |page=8}}</ref> The Cooper pair fluid is thus a [[superfluid]], meaning it can flow without energy dissipation.
+
 
 In a class of superconductors known as [[type II superconductor]]s, including all known [[high-temperature superconductor]]s, an extremely low but nonzero resistivity appears at temperatures not too far below the nominal superconducting transition when an electric current is applied in conjunction with a strong magnetic field, which may be caused by the electric current. This is due to the motion of [[Abrikosov vortex|magnetic vortices]] in the electronic superfluid, which dissipates some of the energy carried by the current. If the current is sufficiently small, the vortices are stationary, and the resistivity vanishes. The resistance due to this effect is tiny compared with that of non-superconducting materials, but must be taken into account in sensitive experiments. However, as the temperature decreases far enough below the nominal superconducting transition, these vortices can become frozen into a disordered but stationary phase known as a "vortex glass". Below this vortex glass transition temperature, the resistance of the material becomes truly zero.
 
-=== Phase transition {{anchor|Superconducting phase transition}} ===
+
+===  Phase transition {{anchor|Superconducting phase transition}} ===
 [[File:Cvandrhovst.png|thumb|upright=1.5|Behavior of heat capacity (c<sub>v</sub>, blue) and resistivity (ρ, green) at the superconducting phase transition]]
 In superconducting materials, the characteristics of superconductivity appear when the [[temperature]] ''T'' is lowered below a critical temperature ''T''<sub>c</sub>. The value of this critical temperature varies from material to material. Conventional superconductors usually have critical temperatures ranging from around 20&nbsp;[[Kelvin|K]] to less than 1&nbsp;K. Solid [[mercury (element)|mercury]], for example, has a critical temperature of 4.2&nbsp;K. As of 2015, the highest critical temperature found for a conventional superconductor is 203 K for H<sub>2</sub>S, although high pressures of approximately 90 gigapascals were required.<ref>{{cite journal|last1=Drozdov|first1=A|last2=Eremets|first2=M|last3=Troyan|first3=I|last4=Ksenofontov|first4=V|title=Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system|journal=Nature|date=17 August 2015|volume=525|issue=2–3|pages=73–76|doi=10.1038/nature14964|pmid=11369082|arxiv=1506.08190|bibcode=2015Natur.525...73D|s2cid=4468914}}</ref> [[Cuprate superconductor]]s can have much higher critical temperatures: [[YBCO|YBa<sub>2</sub>Cu<sub>3</sub>O<sub>7</sub>]], one of the first cuprate superconductors to be discovered, has a critical temperature above 90&nbsp;K, and mercury-based cuprates have been found with critical temperatures in excess of 130&nbsp;K. The basic physical mechanism responsible for the high critical temperature is not yet clear. However, it is clear that a two-electron pairing is involved, although the nature of the pairing (<math>s</math> wave vs. <math>d</math> wave) remains controversial.<ref>{{cite book |last1=Tinkham |first1=Michael |title=Introduction to Superconductivity |date=1996 |publisher=Dover Publications, Inc.|location=Mineola, New York |isbn=0486435032 |page=16}}</ref>
 
+
 Similarly, at a fixed temperature below the critical temperature, superconducting materials cease to superconduct when an external [[magnetic field]] is applied which is greater than the ''critical magnetic field''. This is because the [[Gibbs free energy]] of the superconducting phase increases quadratically with the magnetic field while the free energy of the normal phase is roughly independent of the magnetic field. If the material superconducts in the absence of a field, then the superconducting phase free energy is lower than that of the normal phase and so for some finite value of the magnetic field (proportional to the square root of the difference of the free energies at zero magnetic field) the two free energies will be equal and a phase transition to the normal phase will occur. More generally, a higher temperature and a stronger magnetic field lead to a smaller fraction of electrons that are superconducting and consequently to a longer [[London penetration depth]] of external magnetic fields and currents. The penetration depth becomes infinite at the phase transition.
+
 
 The onset of superconductivity is accompanied by abrupt changes in various physical properties, which is the hallmark of a [[phase transition]]. For example, the electronic [[heat capacity]] is proportional to the temperature in the normal (non-superconducting) regime. At the superconducting transition, it suffers a discontinuous jump and thereafter ceases to be linear. At low temperatures, it varies instead as ''e''<sup>−α/''T''</sup> for some constant, α. This exponential behavior is one of the pieces of evidence for the existence of the [[energy gap]].
 
+
 The [[Second-order transition|order]] of the superconducting [[phase transition#Order parameters|phase transition]] was long a matter of debate. Experiments indicate that the transition is second-order, meaning there is no [[latent heat]]. However, in the presence of an external magnetic field there is latent heat, because the superconducting phase has a lower entropy below the critical temperature than the normal phase. It has been experimentally demonstrated<ref>{{cite journal
-|author = R. L. Dolecek
-|date = 1954
-|title = Adiabatic Magnetization of a Superconducting Sphere
-|journal = [[Physical Review]]
-|volume = 96 |issue = 1 |pages = 25–28
-|doi = 10.1103/PhysRev.96.25
+ |author = R. L. Dolecek
+ |date = 1954
+ |title = Adiabatic Magnetization of a Superconducting Sphere
+ |journal = [[Physical Review]]
+ |volume = 96 |issue = 1 |pages = 25–28
+ |doi = 10.1103/PhysRev.96.25
 |bibcode = 1954PhRv...96...25D }}</ref> that, as a consequence, when the magnetic field is increased beyond the critical field, the resulting phase transition leads to a decrease in the temperature of the superconducting material.
 
+
 Calculations in the 1970s suggested that it may actually be weakly first-order due to the effect of long-range fluctuations in the electromagnetic field. In the 1980s it was shown theoretically with the help of a [[disorder field|disorder field theory]], in which the [[vortex line]]s of the superconductor play a major role, that the transition is of second order within the [[Type II superconductor|type II]] regime and of first order (i.e., [[latent heat]]) within the [[Type I superconductor|type I]] regime, and that the two regions are separated by a [[tricritical point]].<ref>{{cite journal
-| author = H. Kleinert
-| date = 1982
-| title = Disorder Version of the Abelian Higgs Model and the Order of the Superconductive Phase Transition
-| url = http://www.physik.fu-berlin.de/~kleinert/97/97.pdf
-| journal = [[Lettere al Nuovo Cimento]]
-| volume = 35 | pages = 405–412
-| doi = 10.1007/BF02754760
-| issue = 13
+ | author = H. Kleinert
+ | date = 1982
+ | title = Disorder Version of the Abelian Higgs Model and the Order of the Superconductive Phase Transition
+ | url = http://www.physik.fu-berlin.de/~kleinert/97/97.pdf
+ | journal = [[Lettere al Nuovo Cimento]]
+ | volume = 35 | pages = 405–412
+ | doi = 10.1007/BF02754760
+ | issue = 13
 | s2cid = 121012850
-}}</ref> The results were strongly supported by Monte Carlo computer simulations.<ref>{{cite journal
-| author = J. Hove
-| author2 = S. Mo
-| author3 = A. Sudbo
-| date = 2002
-| title = Vortex interactions and thermally induced crossover from type-I to type-II superconductivity
-| url = http://www.physik.fu-berlin.de/~kleinert/papers/sudbotre064524.pdf
-| journal = [[Physical Review B]]
-| volume = 66 | page = 064524
-| doi = 10.1103/PhysRevB.66.064524
-| issue = 6
+ }}</ref> The results were strongly supported by Monte Carlo computer simulations.<ref>{{cite journal
+ | author = J. Hove
+ | author2 = S. Mo
+ | author3 = A. Sudbo
+ | date = 2002
+ | title = Vortex interactions and thermally induced crossover from type-I to type-II superconductivity
+ | url = http://www.physik.fu-berlin.de/~kleinert/papers/sudbotre064524.pdf
+ | journal = [[Physical Review B]]
+ | volume = 66 | page = 064524
+ | doi = 10.1103/PhysRevB.66.064524
+ | issue = 6
 |arxiv = cond-mat/0202215 |bibcode = 2002PhRvB..66f4524H | s2cid = 13672575
-}}</ref>
+ }}</ref>
+
 
 === Meissner effect ===
 {{Main|Meissner effect}}
 When a superconductor is placed in a weak external [[magnetic field]] '''H''', and cooled below its transition temperature, the magnetic field is ejected. The Meissner effect does not cause the field to be completely ejected but instead, the field penetrates the superconductor but only to a very small distance, characterized by a parameter&nbsp;''λ'', called the [[London penetration depth]], decaying exponentially to zero within the bulk of the material. The [[Meissner effect]] is a defining characteristic of superconductivity. For most superconductors, the London penetration depth is on the order of 100&nbsp;nm.
 
+
 The Meissner effect is sometimes confused with the kind of [[diamagnetism]] one would expect in a perfect electrical conductor: according to [[Lenz's law]], when a ''changing'' magnetic field is applied to a conductor, it will induce an electric current in the conductor that creates an opposing magnetic field. In a perfect conductor, an arbitrarily large current can be induced, and the resulting magnetic field exactly cancels the applied field.
+
 
 The Meissner effect is distinct from this{{snd}}it is the spontaneous expulsion that occurs during transition to superconductivity. Suppose we have a material in its normal state, containing a constant internal magnetic field. When the material is cooled below the critical temperature, we would observe the abrupt expulsion of the internal magnetic field, which we would not expect based on Lenz's law.
 
+
 The Meissner effect was given a phenomenological explanation by the brothers [[Fritz London|Fritz]] and [[Heinz London]], who showed that the electromagnetic [[thermodynamic free energy|free energy]] in a superconductor is minimized provided
 
-<math display="block"> \nabla^2\mathbf{H} = \lambda^{-2} \mathbf{H}\, </math>
+
+<math display="block"> \nabla^2\mathbf{H} = \lambda^{-2} \mathbf{H}\, </math>
+
 
 where '''H''' is the magnetic field and λ is the [[London penetration depth]].
 
+
 This equation, which is known as the [[London equation]], predicts that the magnetic field in a superconductor [[exponential decay|decays exponentially]] from whatever value it possesses at the surface.
 
+
 A superconductor with little or no magnetic field within it is said to be in the Meissner state. The Meissner state breaks down when the applied magnetic field is too large. Superconductors can be divided into two classes according to how this breakdown occurs. In [[Type I superconductor]]s, superconductivity is abruptly destroyed when the strength of the applied field rises above a critical value ''H<sub>c</sub>''. Depending on the geometry of the sample, one may obtain an intermediate state<ref>{{cite book
-|author=Lev D. Landau
-|author2=Evgeny M. Lifschitz
-|title=Electrodynamics of Continuous Media
-|series=[[Course of Theoretical Physics]]
-|volume=8
-|publisher=Butterworth-Heinemann
-|location=Oxford
-|date=1984
-|isbn=978-0-7506-2634-7
+ |author=Lev D. Landau
+ |author2=Evgeny M. Lifschitz
+ |title=Electrodynamics of Continuous Media
+ |series=[[Course of Theoretical Physics]]
+ |volume=8
+ |publisher=Butterworth-Heinemann
+ |location=Oxford
+ |date=1984
+ |isbn=978-0-7506-2634-7
 }}</ref> consisting of a baroque pattern<ref>{{cite journal
-|author=David J. E. Callaway
-|date=1990
-|title=On the remarkable structure of the superconducting intermediate state
-|journal = [[Nuclear Physics B]]
-|volume=344 |pages=627–645
-|doi=10.1016/0550-3213(90)90672-Z
-|issue=3
+ |author=David J. E. Callaway
+ |date=1990
+ |title=On the remarkable structure of the superconducting intermediate state
+ |journal = [[Nuclear Physics B]]
+ |volume=344 |pages=627–645
+ |doi=10.1016/0550-3213(90)90672-Z
+ |issue=3
 |bibcode = 1990NuPhB.344..627C }}</ref> of regions of normal material carrying a magnetic field mixed with regions of superconducting material containing no field. In [[Type II superconductor]]s, raising the applied field past a critical value ''H''<sub>''c''1</sub> leads to a mixed state (also known as the vortex state) in which an increasing amount of [[magnetic flux]] penetrates the material, but there remains no resistance to the flow of electric current as long as the current is not too large. At a second critical field strength ''H''<sub>''c''2</sub>, superconductivity is destroyed. The mixed state is actually caused by vortices in the electronic superfluid, sometimes called [[fluxon]]s because the flux carried by these vortices is [[quantum|quantized]]. Most pure [[chemical element|elemental]] superconductors, except [[niobium]] and [[carbon nanotube]]s, are Type&nbsp;I, while almost all impure and compound superconductors are Type&nbsp;II.
+
 
 === London moment ===
 Conversely, a spinning superconductor generates a magnetic field, precisely aligned with the spin axis. The effect, the [[London moment]], was put to good use in [[Gravity Probe B|Gravity Probe&nbsp;B]]. This experiment measured the magnetic fields of four superconducting gyroscopes to determine their spin axes. This was critical to the experiment since it is one of the few ways to accurately determine the spin axis of an otherwise featureless sphere.
 
+
 {{anchor|Theories of superconductivity}}
+
 
 == History of superconductivity ==
 {{Main|History of superconductivity}}
-[[File:Ehrenfest Lorentz Bohr Kamerlingh Onnes.jpg|thumb|Heike Kamerlingh Onnes (right), the discoverer of superconductivity. [[Paul Ehrenfest]], [[Hendrik Lorentz]], [[Niels Bohr]] stand to his left.]]
+[[File:Ehrenfest Lorentz Bohr Kamerlingh Onnes.jpg|thumb|Heike Kamerlingh Onnes (right), the discoverer of superconductivity.  [[Paul Ehrenfest]], [[Hendrik Lorentz]], [[Niels Bohr]] stand to his left.]]
+
 
 Superconductivity was discovered on April 8, 1911 by [[Heike Kamerlingh Onnes]], who was studying the resistance of solid [[mercury (element)|mercury]] at [[cryogenic]] temperatures using the recently produced [[liquid helium]] as a [[refrigerant]].<ref>{{Cite journal|last1=van Delft|first1=Dirk|last2=Kes|first2=Peter|date=2010-09-01|title=The discovery of superconductivity|url=https://physicstoday.scitation.org/doi/10.1063/1.3490499|journal=[[Physics Today]]|volume=63|issue=9|pages=38–43|doi=10.1063/1.3490499|bibcode=2010PhT....63i..38V|issn=0031-9228}}</ref> At the temperature of 4.2&nbsp;K, he observed that the resistance abruptly disappeared.<ref>{{cite journal
-|last1=Kamerlingh Onnes
-|first1=Heike
-|title=Further experiments with liquid helium. C. On the change of electric resistance of pure metals at very low temperatures etc. IV. The resistance of pure mercury at helium temperatures
-|journal=Proceedings of the Section of Sciences
-|date=1911
-|volume=13
-|pages=1274–1276
-|url=http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?pagetype=publDetail&pId=PU00013358&lang=en|bibcode=1910KNAB...13.1274K
-}}</ref> In the same experiment, he also observed the [[superfluid]] transition of helium at 2.2&nbsp;K, without recognizing its significance. The precise date and circumstances of the discovery were only reconstructed a century later, when Onnes's notebook was found.<ref>{{cite journal |author=Dirk vanDelft |author2=Peter Kes |date=September 2010 |journal=Physics Today |url=http://ilorentz.org/history/cold/DelftKes_HKO_PT.pdf |title=The Discovery of Superconductivity |doi=10.1063/1.3490499 |volume=63 |issue=9 |pages=38–43 |bibcode=2010PhT....63i..38V}}</ref> In subsequent decades, superconductivity was observed in several other materials. In 1913, [[lead]] was found to superconduct at 7&nbsp;K, and in 1941 [[niobium nitride]] was found to superconduct at 16&nbsp;K.
+ |last1=Kamerlingh Onnes
+ |first1=Heike
+ |title=Further experiments with liquid helium. C. On the change of electric resistance of pure metals at very low temperatures etc. IV. The resistance of pure mercury at helium temperatures
+ |journal=Proceedings of the Section of Sciences
+ |date=1911
+ |volume=13
+ |pages=1274–1276
+ |url=http://www.dwc.knaw.nl/toegangen/digital-library-knaw/?pagetype=publDetail&pId=PU00013358&lang=en|bibcode=1910KNAB...13.1274K
+ }}</ref> In the same experiment, he also observed the [[superfluid]] transition of helium at 2.2&nbsp;K, without recognizing its significance. The precise date and circumstances of the discovery were only reconstructed a century later, when Onnes's notebook was found.<ref>{{cite journal |author=Dirk vanDelft |author2=Peter Kes |date=September 2010 |journal=Physics Today |url=http://ilorentz.org/history/cold/DelftKes_HKO_PT.pdf |title=The Discovery of Superconductivity |doi=10.1063/1.3490499 |volume=63 |issue=9 |pages=38–43 |bibcode=2010PhT....63i..38V}}</ref> In subsequent decades, superconductivity was observed in several other materials. In 1913, [[lead]] was found to superconduct at 7&nbsp;K, and in 1941 [[niobium nitride]] was found to superconduct at 16&nbsp;K.
+
 
 Great efforts have been devoted to finding out how and why superconductivity works; the important step occurred in 1933, when [[Walther Meissner|Meissner]] and [[Robert Ochsenfeld|Ochsenfeld]] discovered that superconductors expelled applied magnetic fields, a phenomenon which has come to be known as the [[Meissner effect]].<ref name=MeissnerOchsenfeld>{{cite journal
-|author = W. Meissner
-|author2 = R. Ochsenfeld
-|name-list-style = amp
-|date = 1933
-|title = Ein neuer Effekt bei Eintritt der Supraleitfähigkeit
-|journal = [[Naturwissenschaften]]
-|volume = 21 |issue = 44 |pages = 787–788
-|doi = 10.1007/BF01504252
+ |author = W. Meissner
+ |author2 = R. Ochsenfeld
+ |name-list-style = amp
+ |date = 1933
+ |title = Ein neuer Effekt bei Eintritt der Supraleitfähigkeit
+ |journal = [[Naturwissenschaften]]
+ |volume = 21 |issue = 44 |pages = 787–788
+ |doi = 10.1007/BF01504252
 |bibcode = 1933NW.....21..787M |s2cid = 37842752
-}}</ref> In 1935, [[Fritz London|Fritz]] and [[Heinz London]] showed that the Meissner effect was a consequence of the minimization of the electromagnetic [[thermodynamic free energy|free energy]] carried by superconducting current.<ref>{{cite journal
-|author = F. London
-|author2 = H. London
-|name-list-style = amp
-|date = 1935
-|title = The Electromagnetic Equations of the Supraconductor
-|journal = [[Proceedings of the Royal Society of London A]]
-|volume = 149 |issue = 866 |pages = 71–88
-|doi = 10.1098/rspa.1935.0048
-|jstor=96265
+ }}</ref> In 1935, [[Fritz London|Fritz]] and [[Heinz London]] showed that the Meissner effect was a consequence of the minimization of the electromagnetic [[thermodynamic free energy|free energy]] carried by superconducting current.<ref>{{cite journal
+ |author = F. London
+ |author2 = H. London
+ |name-list-style = amp
+ |date = 1935
+ |title = The Electromagnetic Equations of the Supraconductor
+ |journal = [[Proceedings of the Royal Society of London A]]
+ |volume = 149 |issue = 866 |pages = 71–88
+ |doi = 10.1098/rspa.1935.0048
+ |jstor=96265
 |bibcode = 1935RSPSA.149...71L |doi-access = free
-}}</ref>
+ }}</ref>
+
 
 === London constitutive equations===
-The theoretical model that was first conceived for superconductivity was completely classical: it is summarized by [[London equations|London constitutive equations]].
+The theoretical model that was first conceived for superconductivity was completely classical: it is summarized by [[London equations|London constitutive equations]]. 
 It was put forward by the brothers Fritz and Heinz London in 1935, shortly after the discovery that magnetic fields are expelled from superconductors. A major triumph of the equations of this theory is their ability to explain the [[Meissner effect]],<ref name=MeissnerOchsenfeld /> wherein a material exponentially expels all internal magnetic fields as it crosses the superconducting threshold. By using the London equation, one can obtain the dependence of the magnetic field inside the superconductor on the distance to the surface.<ref>{{cite web
 |url = http://openlearn.open.ac.uk/mod/oucontent/view.php?id=398540&section=3.3
 |title = The London equations
 |publisher = The Open University
-|access-date = 2011-10-16}}</ref>
+|access-date  = 2011-10-16}}</ref>
+
 
 The two constitutive equations for a superconductor by London are:
 <math display="block">\frac{\partial \mathbf{j}}{\partial t} = \frac{n e^2}{m}\mathbf{E}, \qquad \mathbf{\nabla}\times\mathbf{j} =-\frac{n e^2}{m}\mathbf{B}. </math>
 The first equation follows from [[Newton's second law]] for superconducting electrons.
 
+
 === Conventional theories (1950s) ===
 During the 1950s, theoretical [[condensed matter physics|condensed matter]] physicists arrived at an understanding of "conventional" superconductivity, through a pair of remarkable and important theories: the phenomenological [[Ginzburg–Landau theory]] (1950) and the microscopic [[BCS theory]] (1957).<ref>{{cite journal
-|author = J. Bardeen
-|author2 = L. N. Cooper
-|author3 = J. R. Schrieffer
-|name-list-style = amp
-|date = 1957
-|title = Microscopic Theory of Superconductivity
-|journal = [[Physical Review]]
-|volume = 106 |issue = 1 |pages = 162–164
-|doi = 10.1103/PhysRev.106.162
+ |author = J. Bardeen
+ |author2 = L. N. Cooper
+ |author3 = J. R. Schrieffer
+ |name-list-style = amp
+ |date = 1957
+ |title = Microscopic Theory of Superconductivity
+ |journal = [[Physical Review]]
+ |volume = 106 |issue = 1 |pages = 162–164
+ |doi = 10.1103/PhysRev.106.162
 |bibcode = 1957PhRv..106..162B |doi-access = free
-}}</ref><ref name=BardeenCooperSchrieffer>{{cite journal
-|author = J. Bardeen
-|author2 = L. N. Cooper
-|author3 = J. R. Schrieffer
-|name-list-style = amp
-|date = 1957
-|title = Theory of Superconductivity
-|journal = [[Physical Review]]
-|volume = 108 |issue = 5 |pages = 1175–1205
-|doi = 10.1103/PhysRev.108.1175|bibcode = 1957PhRv..108.1175B |doi-access = free
-}}</ref>
+ }}</ref><ref name=BardeenCooperSchrieffer>{{cite journal
+ |author = J. Bardeen
+ |author2 = L. N. Cooper
+ |author3 = J. R. Schrieffer
+ |name-list-style = amp
+ |date = 1957
+ |title = Theory of Superconductivity
+ |journal = [[Physical Review]]
+ |volume = 108 |issue = 5 |pages = 1175–1205
+ |doi = 10.1103/PhysRev.108.1175|bibcode = 1957PhRv..108.1175B |doi-access = free
+ }}</ref>
+
 
 In 1950, the [[Phenomenology (particle physics)|phenomenological]] [[Ginzburg–Landau theory]] of superconductivity was devised by [[Lev Landau|Landau]] and [[Vitaly Ginzburg|Ginzburg]].<ref>{{cite journal
-|author = V. L. Ginzburg
-|author2 = L.D. Landau
-|name-list-style = amp
-|date = 1950
-|title = On the theory of superconductivity
-|journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
-|volume = 20 |page = 1064
+ |author = V. L. Ginzburg
+ |author2 = L.D. Landau
+ |name-list-style = amp
+ |date = 1950
+ |title = On the theory of superconductivity
+ |journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
+ |volume = 20 |page = 1064
 }}</ref> This theory, which combined Landau's theory of second-order [[phase transition]]s with a [[Schrödinger equation|Schrödinger]]-like wave equation, had great success in explaining the macroscopic properties of superconductors. In particular, [[Alexei Alexeyevich Abrikosov|Abrikosov]] showed that Ginzburg–Landau theory predicts the division of superconductors into the two categories now referred to as Type&nbsp;I and Type&nbsp;II. Abrikosov and Ginzburg were awarded the 2003 Nobel Prize for their work (Landau had received the 1962 Nobel Prize for other work, and died in 1968). The four-dimensional extension of the Ginzburg–Landau theory, the [[Coleman–Weinberg potential|Coleman-Weinberg model]], is important in [[quantum field theory]] and [[cosmology]].
 
+
 Also in 1950, Maxwell and Reynolds ''et al.'' found that the critical temperature of a superconductor depends on the [[isotope|isotopic mass]] of the constituent [[chemical element|element]].<ref>{{cite journal
-|author = E. Maxwell
-|date = 1950
-|title = Isotope Effect in the Superconductivity of Mercury
-|journal = [[Physical Review]]
-|volume = 78 |issue = 4 |page = 477
-|doi =10.1103/PhysRev.78.477
+ |author = E. Maxwell
+ |date = 1950
+ |title = Isotope Effect in the Superconductivity of Mercury
+ |journal = [[Physical Review]]
+ |volume = 78 |issue = 4 |page = 477
+ |doi =10.1103/PhysRev.78.477
 |bibcode = 1950PhRv...78..477M }}</ref><ref>{{cite journal
-|author = C. A. Reynolds
-|author2 = B. Serin
-|author3 = W. H. Wright
-|author4 = L. B. Nesbitt
-|name-list-style = amp
-|date = 1950
-|title = Superconductivity of Isotopes of Mercury
-|journal = [[Physical Review]]
-|volume = 78 |issue = 4 |page = 487
-|doi = 10.1103/PhysRev.78.487
+ |author = C. A. Reynolds
+ |author2 = B. Serin
+ |author3 = W. H. Wright
+ |author4 = L. B. Nesbitt
+ |name-list-style = amp
+ |date = 1950
+ |title = Superconductivity of Isotopes of Mercury
+ |journal = [[Physical Review]]
+ |volume = 78 |issue = 4 |page = 487
+ |doi = 10.1103/PhysRev.78.487
 |bibcode = 1950PhRv...78..487R }}</ref> This important discovery pointed to the [[electron]]-[[phonon]] interaction as the microscopic mechanism responsible for superconductivity.
+
 
 The complete microscopic theory of superconductivity was finally proposed in 1957 by [[John Bardeen|Bardeen]], [[Leon Neil Cooper|Cooper]] and [[John Robert Schrieffer|Schrieffer]].<ref name=BardeenCooperSchrieffer /> This BCS theory explained the superconducting current as a [[superfluid]] of [[Cooper pair]]s, pairs of electrons interacting through the exchange of phonons. For this work, the authors were awarded the Nobel Prize in 1972.
 
+
 The BCS theory was set on a firmer footing in 1958, when [[N. N. Bogolyubov]] showed that the BCS wavefunction, which had originally been derived from a variational argument, could be obtained using a canonical transformation of the electronic [[Hamiltonian (quantum mechanics)|Hamiltonian]].<ref>{{cite journal
-|author = N. N. Bogoliubov
-|date = 1958
-|title = A new method in the theory of superconductivity
-|journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
-|volume = 34 |page = 58
+ |author = N. N. Bogoliubov
+ |date = 1958
+ |title = A new method in the theory of superconductivity
+ |journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
+ |volume = 34 |page = 58
 }}</ref> In 1959, [[Lev Gor'kov]] showed that the BCS theory reduced to the Ginzburg–Landau theory close to the critical temperature.<ref>{{cite journal
-|author = L. P. Gor'kov
-|date = 1959
-|title = Microscopic derivation of the Ginzburg–Landau equations in the theory of superconductivity
-|journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
-|volume = 36 |page = 1364
+ |author = L. P. Gor'kov
+ |date = 1959
+ |title = Microscopic derivation of the Ginzburg–Landau equations in the theory of superconductivity
+ |journal = [[Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki]]
+ |volume = 36 |page = 1364
 }}</ref><ref name=BCS-boboliubov>{{cite journal |author=M. Combescot |author2=W. V. Pogosov |author3=O. Betbeder-Matibet|title=BCS ansatz for superconductivity in the light of the Bogoliubov approach and the Richardson–Gaudin exact wave function|journal=Physica C: Superconductivity|date=2013|volume=485|pages=47–57|doi=10.1016/j.physc.2012.10.011|arxiv=1111.4781|bibcode = 2013PhyC..485...47C |s2cid=119121639 }}</ref>
 
+
 Generalizations of BCS theory for conventional superconductors form the basis for the understanding of the phenomenon of [[superfluidity]], because they fall into the [[lambda transition]] universality class. The extent to which such generalizations can be applied to [[unconventional superconductor]]s is still controversial.
+
 
 === Further history ===
 The first practical application of superconductivity was developed in 1954 with [[Dudley Allen Buck]]'s invention of the [[cryotron]].<ref name=mit-memo>{{cite web|last1=Buck|first1=Dudley A.|title=The Cryotron – A Superconductive Computer Component|url=http://dome.mit.edu/bitstream/handle/1721.3/40618/MC665_r15_M-3843.pdf|publisher=Lincoln Laboratory, Massachusetts Institute of Technology|access-date=10 August 2014}}</ref> Two superconductors with greatly different values of the critical magnetic field are combined to produce a fast, simple switch for computer elements.
 
+
 Soon after discovering superconductivity in 1911, Kamerlingh Onnes attempted to make an electromagnet with superconducting windings but found that relatively low magnetic fields destroyed superconductivity in the materials he investigated. Much later, in 1955, G. B. Yntema<ref>{{cite journal
-| author = G. B. Yntema
-| date = 1955
-| title = Superconducting Winding for Electromagnet
-| journal = [[Physical Review]]
-| volume = 98
-| issue = 4
-| page = 1197
-| doi = 10.1103/PhysRev.98.1144|bibcode = 1955PhRv...98.1144. }}</ref> succeeded in constructing a small 0.7-tesla iron-core electromagnet with superconducting niobium wire windings. Then, in 1961, J. E. Kunzler, E. Buehler, F. S. L. Hsu, and J. H. Wernick<ref>{{cite journal
-|author=J. E. Kunzler |author2=E. Buehler |author3=F. L. S. Hsu |author4=J. H. Wernick
-| date = 1961
-| title = Superconductivity in Nb3Sn at High Current Density in a Magnetic Field of 88 kgauss
-| journal = Physical Review Letters
-| volume = 6
-| issue = 3
-| pages = 89–91
-| doi = 10.1103/PhysRevLett.6.89|bibcode = 1961PhRvL...6...89K }}</ref> made the startling discovery that, at 4.2 kelvin, [[niobium–tin]], a compound consisting of three parts niobium and one part tin, was capable of supporting a current density of more than 100,000 amperes per square centimeter in a magnetic field of 8.8 tesla. Despite being brittle and difficult to fabricate, niobium–tin has since proved extremely useful in supermagnets generating magnetic fields as high as 20 tesla. In 1962, T. G. Berlincourt and R. R. Hake<ref>{{cite journal
-| author = T. G. Berlincourt and R. R. Hake
-| date = 1962
-| title = Pulsed-Magnetic-Field Studies of Superconducting Transition Metal Alloys at High and Low Current Densities
-| journal = Bulletin of the American Physical Society
-| volume = II-7
-| page = 408}}</ref><ref>{{cite journal
-| author = T. G. Berlincourt
-| date = 1987
-| title = Emergence of Nb-Ti as Supermagnet Material
-| journal = Cryogenics
-| volume = 27
-| issue = 6
-| pages = 283–289
-| doi = 10.1016/0011-2275(87)90057-9|bibcode = 1987Cryo...27..283B
-| url=http://fs.magnet.fsu.edu/~lee/superconductor-history_files/Centennial_Supplemental/11_2_Nb-Ti_from_beginnings_to_perfection-fullreferences.pdf}}</ref> discovered that more ductile alloys of niobium and titanium are suitable for applications up to 10 tesla. Promptly thereafter, commercial production of [[niobium–titanium]] supermagnet wire commenced at [[Westinghouse Electric Corporation]] and at [[Wah Chang Corporation]]. Although niobium–titanium boasts less-impressive superconducting properties than those of niobium–tin, niobium–titanium has, nevertheless, become the most widely used "workhorse" supermagnet material, in large measure a consequence of its very high [[ductility]] and ease of fabrication. However, both niobium–tin and niobium–titanium find wide application in MRI medical imagers, bending and focusing magnets for enormous high-energy-particle accelerators, and a host of other applications. Conectus, a European superconductivity consortium, estimated that in 2014, global economic activity for which superconductivity was indispensable amounted to about five billion euros, with MRI systems accounting for about 80% of that total.
+  | author = G. B. Yntema
+  | date = 1955
+  | title = Superconducting Winding for Electromagnet
+  | journal = [[Physical Review]]
+  | volume = 98
+  | issue = 4
+  | page = 1197
+  | doi =  10.1103/PhysRev.98.1144|bibcode = 1955PhRv...98.1144. }}</ref> succeeded in constructing a small 0.7-tesla iron-core electromagnet with superconducting niobium wire windings. Then, in 1961, J. E. Kunzler, E. Buehler, F. S. L. Hsu, and J. H. Wernick<ref>{{cite journal
+  |author=J. E. Kunzler |author2=E. Buehler |author3=F. L. S. Hsu |author4=J. H. Wernick
+  | date = 1961
+  | title = Superconductivity in Nb3Sn at High Current Density in a Magnetic Field of 88 kgauss
+  | journal = Physical Review Letters
+  | volume = 6
+  | issue = 3
+  | pages = 89–91
+  | doi = 10.1103/PhysRevLett.6.89|bibcode = 1961PhRvL...6...89K }}</ref> made the startling discovery that, at 4.2 kelvin, [[niobium–tin]], a compound consisting of three parts niobium and one part tin, was capable of supporting a current density of more than 100,000 amperes per square centimeter in a magnetic field of 8.8 tesla. Despite being brittle and difficult to fabricate, niobium–tin has since proved extremely useful in supermagnets generating magnetic fields as high as 20 tesla. In 1962, T. G. Berlincourt and R. R. Hake<ref>{{cite journal
+  | author = T. G. Berlincourt and R. R. Hake
+  | date = 1962
+  | title = Pulsed-Magnetic-Field Studies of Superconducting Transition Metal Alloys at High and Low Current Densities
+  | journal = Bulletin of the American Physical Society
+  | volume = II-7
+  | page = 408}}</ref><ref>{{cite journal
+  | author = T. G. Berlincourt
+  | date = 1987
+  | title = Emergence of Nb-Ti as Supermagnet Material
+  | journal = Cryogenics
+  | volume = 27
+  | issue = 6
+  | pages = 283–289
+  | doi = 10.1016/0011-2275(87)90057-9|bibcode = 1987Cryo...27..283B
+  | url=http://fs.magnet.fsu.edu/~lee/superconductor-history_files/Centennial_Supplemental/11_2_Nb-Ti_from_beginnings_to_perfection-fullreferences.pdf}}</ref> discovered that more ductile alloys of niobium and titanium are suitable for applications up to 10 tesla. Promptly thereafter, commercial production of [[niobium–titanium]] supermagnet wire commenced at [[Westinghouse Electric Corporation]] and at [[Wah Chang Corporation]]. Although niobium–titanium boasts less-impressive superconducting properties than those of niobium–tin, niobium–titanium has, nevertheless, become the most widely used "workhorse" supermagnet material, in large measure a consequence of its very high [[ductility]] and ease of fabrication. However, both niobium–tin and niobium–titanium find wide application in MRI medical imagers, bending and focusing magnets for enormous high-energy-particle accelerators, and a host of other applications. Conectus, a European superconductivity consortium, estimated that in 2014, global economic activity for which superconductivity was indispensable amounted to about five billion euros, with MRI systems accounting for about 80% of that total.
+
 
 In 1962, [[Brian David Josephson|Josephson]] made the important theoretical prediction that a supercurrent can flow between two pieces of superconductor separated by a thin layer of insulator.<ref>{{cite journal
-|author = B. D. Josephson
-|date = 1962
-|title = Possible new effects in superconductive tunnelling
-|journal = [[Physics Letters]]
-|volume = 1 |issue=7 |pages = 251–253
-|doi = 10.1016/0031-9163(62)91369-0
+ |author = B. D. Josephson
+ |date = 1962
+ |title = Possible new effects in superconductive tunnelling
+ |journal = [[Physics Letters]]
+ |volume = 1 |issue=7 |pages = 251–253
+ |doi = 10.1016/0031-9163(62)91369-0
 |bibcode = 1962PhL.....1..251J }}</ref> This phenomenon, now called the [[Josephson effect]], is exploited by superconducting devices such as [[SQUID]]s. It is used in the most accurate available measurements of the [[magnetic flux quantum]] ''Φ''<sub>0</sub>&nbsp;=&nbsp;''h''/(2''e''), where ''h'' is the [[Planck constant]]. Coupled with the [[quantum Hall effect|quantum Hall resistivity]], this leads to a precise measurement of the Planck constant. Josephson was awarded the Nobel Prize for this work in 1973.<ref>{{Cite web|title=The Nobel Prize in Physics 1973|url=https://www.nobelprize.org/prizes/physics/1973/summary/|url-status=live|access-date=2021-03-30|website=[[Nobel Foundation|NobelPrize.org]]|language=en-US}}</ref>
 
+
 In 2008, it was proposed that the same mechanism that produces superconductivity could produce a [[superinsulator]] state in some materials, with almost infinite [[electrical resistance]].<ref>{{cite web
-| title = Newly discovered fundamental state of matter, a superinsulator, has been created.
-| website = Science Daily
-| date = April 9, 2008
-| url = https://www.sciencedaily.com/releases/2008/04/080408160614.htm
-| access-date = 2008-10-23
+ | title = Newly discovered fundamental state of matter, a superinsulator, has been created.
+ | website = Science Daily
+ | date = April 9, 2008
+ | url = https://www.sciencedaily.com/releases/2008/04/080408160614.htm
+ | access-date = 2008-10-23
 }}</ref> The first development and study of superconducting [[Bose–Einstein condensate]] (BEC) in 2020 suggests that there is a "smooth transition between" BEC and [[BCS theory|Bardeen-Cooper-Shrieffer]] regimes.<ref>{{cite news |title=Researchers demonstrate a superconductor previously thought impossible |url=https://phys.org/news/2020-11-superconductor-previously-thought-impossible.html |access-date=8 December 2020 |work=phys.org |language=en}}</ref><ref>{{cite journal |last1=Hashimoto |first1=Takahiro |last2=Ota |first2=Yuichi |last3=Tsuzuki |first3=Akihiro |last4=Nagashima |first4=Tsubaki |last5=Fukushima |first5=Akiko |last6=Kasahara |first6=Shigeru |last7=Matsuda |first7=Yuji |last8=Matsuura |first8=Kohei |last9=Mizukami |first9=Yuta |last10=Shibauchi |first10=Takasada |last11=Shin |first11=Shik |last12=Okazaki |first12=Kozo |title=Bose–Einstein condensation superconductivity induced by disappearance of the nematic state |journal=Science Advances |date=1 November 2020 |volume=6 |issue=45 |pages=eabb9052 |doi=10.1126/sciadv.abb9052 |pmid=33158862 |pmc=7673702 |bibcode=2020SciA....6.9052H |url=|language=en |issn=2375-2548}}</ref>
+
 
 == High-temperature superconductivity ==
 {{Main|High-temperature superconductivity}}
@@ -393,18 +440,19 @@ In 2008, it was proposed that the same mechanism that produces superconductivity
 }}]]
 Until 1986, physicists had believed that BCS theory forbade superconductivity at temperatures above about 30&nbsp;K. In that year, [[Johannes Georg Bednorz|Bednorz]] and [[K. Alex Müller|Müller]] discovered superconductivity in [[lanthanum barium copper oxide]] (LBCO), a [[lanthanum]]-based cuprate [[Perovskite (structure)|perovskite]] material, which had a transition temperature of 35&nbsp;K (Nobel Prize in Physics, 1987).<ref name=Bednorz /> It was soon found that replacing the lanthanum with [[yttrium]] (i.e.,&nbsp;making [[YBCO]]) raised the critical temperature above 90&nbsp;K.<ref name="wu" />
 
+
 This temperature jump is particularly significant, since it allows [[liquid nitrogen]] as a refrigerant, replacing [[liquid helium]].<ref name="wu">{{cite journal
-|author = M. K. Wu
-|display-authors = etal
-|date = 1987
-|title = Superconductivity at 93 K in a New Mixed-Phase Y–Ba–Cu–O Compound System at Ambient Pressure
-|journal = [[Physical Review Letters]]
-|volume = 58 |issue = 9 |pages = 908–910
-|doi = 10.1103/PhysRevLett.58.908
-|pmid = 10035069
+ |author = M. K. Wu
+ |display-authors = etal
+ |date = 1987
+ |title = Superconductivity at 93 K in a New Mixed-Phase Y–Ba–Cu–O Compound System at Ambient Pressure
+ |journal = [[Physical Review Letters]]
+ |volume = 58 |issue = 9 |pages = 908–910
+ |doi = 10.1103/PhysRevLett.58.908
+ |pmid = 10035069
 |bibcode=1987PhRvL..58..908W
 |doi-access = free
-}}</ref> This can be important commercially because liquid nitrogen can be produced relatively cheaply, even on-site. Also, the higher temperatures help avoid some of the problems that arise at liquid helium temperatures, such as the formation of plugs of frozen air that can block cryogenic lines and cause unanticipated and potentially hazardous pressure buildup.<ref>{{cite web
+ }}</ref> This can be important commercially because liquid nitrogen can be produced relatively cheaply, even on-site. Also, the higher temperatures help avoid some of the problems that arise at liquid helium temperatures, such as the formation of plugs of frozen air that can block cryogenic lines and cause unanticipated and potentially hazardous pressure buildup.<ref>{{cite web
 | url= http://cryo.gsfc.nasa.gov/introduction/liquid_helium.html
 |title=Introduction to Liquid Helium
 |work=Cryogenics and Fluid Branch
@@ -418,106 +466,120 @@ This temperature jump is particularly significant, since it allows [[liquid nitr
 |archive-url=https://web.archive.org/web/20090506030203/http://www.2genterprises.com/cryo_manual_4.html
 |archive-date=May 6, 2009}}</ref>
 
+
 Many other cuprate superconductors have since been discovered, and the theory of superconductivity in these materials is one of the major outstanding challenges of theoretical [[condensed matter physics]].<ref>{{cite web
-|author = Alexei A. Abrikosov
-|url = http://nobelprize.org/nobel_prizes/physics/laureates/2003/abrikosov-lecture.html
-|title=type II Superconductors and the Vortex Lattice
-|work=Nobel Lecture
-|date=8 December 2003
+ |author = Alexei A. Abrikosov
+ |url = http://nobelprize.org/nobel_prizes/physics/laureates/2003/abrikosov-lecture.html
+ |title=type II Superconductors and the Vortex Lattice
+ |work=Nobel Lecture
+ |date=8 December 2003
 }}</ref><ref>{{cite book |last1=Olivier Gingras |title=La supraconductivité non-conventionnelle du ruthénate de strontium: corrélations électroniques et couplage spin-orbite |date=Sep 2021 |url=https://papyrus.bib.umontreal.ca/xmlui/handle/1866/26832|lang=French}}, PhD thesis</ref> There are currently two main hypotheses – the [[Resonating valence bond theory|resonating-valence-bond theory]], and spin fluctuation which has the most support in the research community.<ref>{{cite journal |title= High-temperature superconductivity at 25: Still in suspense |author=Adam Mann |journal=Nature |date=July 20, 2011 |volume=475 |issue=7356 |pages=280–2 |doi=10.1038/475280a |pmid= 21776057 |bibcode = 2011Natur.475..280M |doi-access=free }}</ref> The second hypothesis proposed that electron pairing in high-temperature superconductors is mediated by short-range spin waves known as [[paramagnon]]s.<ref>{{Citation
-| last = Pines
-| first = D.
-| contribution = The Spin Fluctuation Model for High Temperature Superconductivity: Progress and Prospects
-| date = 2002
-| title = The Gap Symmetry and Fluctuations in High-Tc Superconductors
-| volume = 371
-| pages = 111–142
-| place = New York
-| publisher = Kluwer Academic
-| isbn = 978-0-306-45934-4
-| doi = 10.1007/0-306-47081-0_7| series = NATO Science Series: B
-}}</ref><ref>{{cite journal |author= P. Monthoux |author2= A. V. Balatsky |author3= D. Pines |name-list-style= amp |title= Toward a theory of high-temperature superconductivity in the antiferromagnetically correlated cuprate oxides |journal= Physical Review Letters |volume=67 |issue= 24 |pages= 3448–3451 |date =1991 |doi=10.1103/PhysRevLett.67.3448 |pmid= 10044736 |bibcode=1991PhRvL..67.3448M|doi-access= free }}</ref>{{dubious|date=August 2016}}
+ | last = Pines
+ | first = D.
+ | contribution = The Spin Fluctuation Model for High Temperature Superconductivity: Progress and Prospects
+ | date = 2002
+ | title = The Gap Symmetry and Fluctuations in High-Tc Superconductors
+ | volume = 371
+ | pages = 111–142
+ | place = New York
+ | publisher = Kluwer Academic
+ | isbn = 978-0-306-45934-4
+ | doi = 10.1007/0-306-47081-0_7| series = NATO Science Series: B
+ }}</ref><ref>{{cite journal |author= P. Monthoux |author2= A. V. Balatsky |author3= D. Pines |name-list-style= amp  |title= Toward a theory of high-temperature superconductivity in the antiferromagnetically correlated cuprate oxides |journal= Physical Review Letters |volume=67 |issue= 24 |pages= 3448–3451 |date =1991 |doi=10.1103/PhysRevLett.67.3448 |pmid= 10044736 |bibcode=1991PhRvL..67.3448M|doi-access= free }}</ref>{{dubious|date=August 2016}}
+
 
 In 2008, holographic superconductivity, which uses holographic duality or [[AdS/CFT correspondence]] theory, was proposed by Gubser, Hartnoll, Herzog, and Horowitz, as a possible explanation of high-temperature superconductivity in certain materials.<ref>Jan Zaanen, Yan Liu, Ya Sun K.Schalm (2015). ''Holographic Duality in Condensed Matter Physics''. Cambridge University Press, Cambridge</ref>
 
+
 From about 1993, the highest-temperature superconductor known was a ceramic material consisting of mercury, barium, calcium, copper and oxygen (HgBa<sub>2</sub>Ca<sub>2</sub>Cu<sub>3</sub>O<sub>8+δ</sub>) with ''T''<sub>c</sub>&nbsp;= 133–138&nbsp;K.<ref name="aschi">{{cite journal
-|author=A. Schilling
-|display-authors=etal
-|date=1993
-|title=Superconductivity above 130 K in the Hg–Ba–Ca–Cu–O system
-|journal = [[Nature (journal)|Nature]]
-|volume=363 |issue=6424 |pages=56–58
-|doi=10.1038/363056a0
-|bibcode = 1993Natur.363...56S|s2cid=4328716
-}}</ref><ref>{{cite journal
-|display-authors = 4
-|author = P. Dai
-|author2 = B. C. Chakoumakos
-|author3 = G. F. Sun
-|author4 = K. W. Wong
-|author5 = Y. Xin
-|author6 = D. F. Lu
-|name-list-style = amp
-|date = 1995
-|title = Synthesis and neutron powder diffraction study of the superconductor HgBa<sub>2</sub>Ca<sub>2</sub>Cu<sub>3</sub>O<sub>8+δ</sub> by Tl substitution
-|journal = [[Physica C]]
-|volume = 243 |issue = 3–4 |pages = 201–206
-|doi = 10.1016/0921-4534(94)02461-8
+ |author=A. Schilling
+ |display-authors=etal
+ |date=1993
+ |title=Superconductivity above 130 K in the Hg–Ba–Ca–Cu–O system
+ |journal = [[Nature (journal)|Nature]]
+ |volume=363 |issue=6424 |pages=56–58
+ |doi=10.1038/363056a0
+ |bibcode =   1993Natur.363...56S|s2cid=4328716
+ }}</ref><ref>{{cite journal
+ |display-authors = 4
+ |author = P. Dai
+ |author2 = B. C. Chakoumakos
+ |author3 = G. F. Sun
+ |author4 = K. W. Wong
+ |author5 = Y. Xin
+ |author6 = D. F. Lu
+ |name-list-style = amp
+ |date = 1995
+ |title = Synthesis and neutron powder diffraction study of the superconductor HgBa<sub>2</sub>Ca<sub>2</sub>Cu<sub>3</sub>O<sub>8+δ</sub> by Tl substitution
+ |journal = [[Physica C]]
+ |volume = 243  |issue = 3–4 |pages = 201–206
+ |doi = 10.1016/0921-4534(94)02461-8
 |bibcode = 1995PhyC..243..201D }}</ref>
 
+
 In February 2008, an iron-based family of high-temperature superconductors was discovered.<ref>{{cite journal
-|display-authors = 4
-|author = Hiroki Takahashi
-|author2 = Kazumi Igawa
-|author3 = Kazunobu Arii
-|author4 = Yoichi Kamihara
-|author5 = Masahiro Hirano
-|author6 = Hideo Hosono
-|date = 2008
-|title = Superconductivity at 43&nbsp;K in an iron-based layered compound LaO<sub>1−x</sub>F<sub>x</sub>FeAs
-|journal = [[Nature (journal)|Nature]]
-|volume = 453 |issue = 7193 |pages = 376–378
-|doi = 10.1038/nature06972
-|pmid = 18432191
+ |display-authors = 4
+ |author = Hiroki Takahashi
+ |author2 = Kazumi Igawa
+ |author3 = Kazunobu Arii
+ |author4 = Yoichi Kamihara
+ |author5 = Masahiro Hirano
+ |author6 = Hideo Hosono
+ |date = 2008
+ |title = Superconductivity at 43&nbsp;K in an iron-based layered compound LaO<sub>1−x</sub>F<sub>x</sub>FeAs
+ |journal = [[Nature (journal)|Nature]]
+ |volume = 453  |issue = 7193 |pages = 376–378
+ |doi = 10.1038/nature06972
+ |pmid = 18432191
 |bibcode = 2008Natur.453..376T |s2cid = 498756
-}}</ref><ref>{{cite web
-|author=Adrian Cho
-|title=Second Family of High-Temperature Superconductors Discovered
-|url=http://sciencenow.sciencemag.org/cgi/content/full/2008/417/1
-|publisher=ScienceNOW Daily News
+ }}</ref><ref>{{cite web
+ |author=Adrian Cho
+ |title=Second Family of High-Temperature Superconductors Discovered
+ |url=http://sciencenow.sciencemag.org/cgi/content/full/2008/417/1
+ |publisher=ScienceNOW Daily News
 |date=2014-10-30
-}}</ref> Hideo Hosono, of the [[Tokyo Institute of Technology]], and colleagues found lanthanum oxygen fluorine iron arsenide (LaO<sub>1−x</sub>F<sub>x</sub>FeAs), an [[oxypnictide]] that superconducts below 26&nbsp;K. Replacing the lanthanum in LaO<sub>1−''x''</sub>F<sub>''x''</sub>FeAs with [[samarium]] leads to superconductors that work at 55&nbsp;K.<ref>{{cite journal
-|author = Zhi-An Ren
-|display-authors = etal
-|date = 2008
-|title = Superconductivity and phase diagram in iron-based arsenic-oxides ReFeAsO1-d (Re = rare-earth metal) without fluorine doping
-|journal = [[EPL (journal)|EPL]]
-|volume = 83 |issue = 1
-|page = 17002
-|doi = 10.1209/0295-5075/83/17002
+ }}</ref> Hideo Hosono, of the [[Tokyo Institute of Technology]], and colleagues found lanthanum oxygen fluorine iron arsenide (LaO<sub>1−x</sub>F<sub>x</sub>FeAs), an [[oxypnictide]] that superconducts below 26&nbsp;K. Replacing the lanthanum in LaO<sub>1−''x''</sub>F<sub>''x''</sub>FeAs with [[samarium]] leads to superconductors that work at 55&nbsp;K.<ref>{{cite journal
+ |author = Zhi-An Ren
+ |display-authors = etal
+ |date = 2008
+ |title = Superconductivity and phase diagram in iron-based arsenic-oxides ReFeAsO1-d (Re = rare-earth metal) without fluorine doping
+ |journal = [[EPL (journal)|EPL]]
+ |volume = 83 |issue = 1
+ |page = 17002
+ |doi = 10.1209/0295-5075/83/17002
 |bibcode = 2008EL.....8317002R |arxiv = 0804.2582 |s2cid = 96240327
-}}</ref>
+ }}</ref>
+
 
 In 2014 and 2015, [[hydrogen sulfide]] ({{chem|H|2|S}}) at extremely high pressures (around 150 gigapascals) was first predicted and then confirmed to be a high-temperature superconductor with a transition temperature of 80&nbsp;K.<ref>{{Cite journal|title = The metallization and superconductivity of dense hydrogen sulfide|journal = The Journal of Chemical Physics|date = 2014-05-07|issn = 0021-9606|pages = 174712|volume = 140|issue = 17|doi = 10.1063/1.4874158|pmid = 24811660|first1 = Yinwei|last1 = Li|first2 = Jian|last2 = Hao|first3 = Hanyu|last3 = Liu|first4 = Yanling|last4 = Li|first5 = Yanming|last5 = Ma|arxiv = 1402.2721 |bibcode = 2014JChPh.140q4712L |s2cid = 15633660}}</ref><ref name="DrozdovEremets2015">{{cite journal|last1=Drozdov|first1=A. P.|last2=Eremets|first2=M. I.|last3=Troyan|first3=I. A.|last4=Ksenofontov|first4=V.|last5=Shylin|first5=S. I.|title=Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system|journal=Nature|volume=525|issue=7567|pages=73–6|year=2015|issn=0028-0836|doi=10.1038/nature14964|pmid=26280333|arxiv = 1506.08190 |bibcode = 2015Natur.525...73D |s2cid=4468914}}</ref><ref name=":0">{{Cite web|last=Wood|first=Charlie|title=Room-Temperature Superconductivity Achieved for the First Time|url=https://www.quantamagazine.org/physicists-discover-first-room-temperature-superconductor-20201014/|access-date=2020-10-29|website=Quanta Magazine|date=14 October 2020|language=en}}</ref> Additionally, in 2019 it was discovered that [[lanthanum hydride]] ({{chem|La|H|10}}) becomes a superconductor at 250&nbsp;K under a pressure of 170 gigapascals.<ref>{{cite journal|last1=Drozdov|first1=A. P.|last2=Kong|first2=P. P.|last3=Minkov|first3=V. S.|last4=Besedin|first4=S. P.|last5=Kuzovnikov|first5=M. A.|last6=Mozaffari|first6=S.|last7=Balicas|first7=L.|last8=Balakirev|first8=F. F.|last9=Graf|first9=D. E.|last10=Prakapenka|first10=V. B.|last11=Greenberg|first11=E.|last12=Knyazev|first12=D. A.|last13=Tkacz|first13=M.|last14=Eremets|first14=M. I.|title=Superconductivity at 250 K in Lanthanum Hydride under High Pressures|journal=Nature|volume=569|issue=7757|pages=528–531|doi=10.1038/s41586-019-1201-8
-|pmid=31118520|arxiv=1812.01561|year=2019|bibcode=2019Natur.569..528D|s2cid=119231000}}</ref><ref name=":0" />
+|pmid=31118520|arxiv=1812.01561|year=2019|bibcode=2019Natur.569..528D|s2cid=119231000}}</ref><ref name=":0" /> 
+
 
 In 2018, a research team from the Department of Physics, [[Massachusetts Institute of Technology]], discovered [[Bilayer graphene#Superconductivity in twisted bilayer graphene|superconductivity in bilayer graphene]] with one layer [[Twistronics|twisted at an angle]] of approximately 1.1&nbsp;degrees with cooling and applying a small electric charge. Even if the experiments were not carried out in a high-temperature environment, the results are correlated less to classical but high temperature superconductors, given that no foreign atoms need to be introduced.<ref>{{Cite journal|last1=Cao|first1=Yuan|author-link1=Yuan Cao |last2=Fatemi|first2=Valla|last3=Demir|first3=Ahmet|last4=Fang|first4=Shiang|last5=Tomarken|first5=Spencer L.|last6=Luo|first6=Jason Y.|last7=Sanchez-Yamagishi|first7=J. D.|last8=Watanabe|first8=K.|last9=Taniguchi|first9=T.|date=2018-03-05|title=Correlated insulator behaviour at half-filling in magic-angle graphene superlattices|journal=Nature|volume=556|issue=7699|pages=80–84|language=En|doi=10.1038/nature26154|pmid=29512654|issn=1476-4687|arxiv=1802.00553|bibcode=2018Natur.556...80C|s2cid=4601086}}</ref> The superconductivity effect came about as a result of electrons twisted into a vortex between the graphene layers, called "[[skyrmion]]s". These act as a single particle and can pair up across the graphene's layers, leading to the basic conditions required for superconductivity.<ref>{{Cite web|last=Wood|first=Charlie|title=A New Twist Reveals Superconductivity's Secrets|url=https://www.quantamagazine.org/graphenes-new-twist-reveals-superconductivitys-secrets-20210316/|access-date=2021-03-23|website=Quanta Magazine|date=16 March 2021|language=en}}</ref>
 
+
 In 2020, a [[room-temperature superconductor]] (critical temperature 288 K) made from hydrogen, carbon and sulfur under pressures of around 270 gigapascals was described in a paper in ''Nature''.<ref>{{cite journal|display-authors=etal |last1=Eliot Snider |title=Room-temperature superconductivity in a carbonaceous sulfur hydride |journal=Nature |date=Oct 14, 2020 |doi=10.1038/s41586-020-2801-z}}</ref><ref>{{cite news|title=Finally, the First Room-Temperature Superconductor|date=October 14, 2020|newspaper=The New York Times|author=Kenneth Chang|url=https://www.nytimes.com/2020/10/14/science/superconductor-room-temperature.html}}</ref> However in 2022 the article was [[Retraction_in_academic_publishing|retracted]] by the editors because the validity of background subtraction procedures had been called into question. All nine authors maintain that the raw data strongly support the main claims of the paper.<ref>{{cite journal |last1=Snider |first1=Elliot |last2=Dasenbrock-Gammon |first2=Nathan |last3=McBride |first3=Raymond |last4=Debessai |first4=Mathew |last5=Vindana |first5=Hiranya |last6=Vencatasamy |first6=Kevin |last7=Lawler |first7=Keith V. |last8=Salamat |first8=Ashkan |last9=Dias |first9=Ranga P. |title=Retraction Note: Room-temperature superconductivity in a carbonaceous sulfur hydride |journal=Nature |date=26 September 2022 |volume=610 |issue=7933 |page=804 |doi=10.1038/s41586-022-05294-9|pmid=36163290 |bibcode=2022Natur.610..804S |s2cid=252544156 }}</ref>
+
 
 == Applications ==
 {{Main|Technological applications of superconductivity}}
 [[File:Flyingsuperconductor.ogg|thumb|Video of superconducting levitation of [[YBCO]]]]
 
+
 [[Superconducting magnet]]s are some of the most powerful [[electromagnet]]s known. They are used in [[magnetic resonance imaging|MRI]]/[[NMR]] machines, [[mass spectrometer]]s, the beam-steering magnets used in [[particle accelerator]]s and plasma confining magnets in some [[tokamaks]]. They can also be used for magnetic separation, where weakly magnetic particles are extracted from a background of less or non-magnetic particles, as in the [[pigment]] industries. They can also be used in large wind turbines to overcome the restrictions imposed by high electrical currents, with an industrial grade 3.6 megawatt superconducting windmill generator having been tested successfully in Denmark.<ref>Design and in-field testing of the world's first ReBCO rotor for a 3.6 MW wind generator" by Anne Bergen, Rasmus Andersen, Markus Bauer, Hermann Boy, Marcel ter Brake, Patrick Brutsaert, Carsten Bührer, Marc Dhallé, Jesper Hansen and Herman ten Kate, 25 October 2019, Superconductor Science and Technology.</ref>
+
 
 In the 1950s and 1960s, superconductors were used to build experimental digital computers using [[cryotron]] switches.<ref>{{Cite web|last=Brock|first=David C.|date=2014-03-19|title=Dudley Buck's Forgotten Cryotron Computer|url=https://spectrum.ieee.org/tech-history/heroic-failures/dudley-bucks-forgotten-cryotron-computer|url-status=live|access-date=2021-03-30|website=[[Institute of Electrical and Electronics Engineers]]|language=en}}</ref> More recently, superconductors have been used to make [[digital circuit]]s based on [[rapid single flux quantum]] technology and [[RF and microwave filter]]s for [[mobile phone]] base stations.
 
-Superconductors are used to build [[Josephson junction]]s which are the building blocks of [[SQUID]]s (superconducting quantum interference devices), the most sensitive [[magnetometer]]s known. SQUIDs are used in [[scanning SQUID microscope]]s and [[magnetoencephalography]]. Series of Josephson devices are used to realize the [[International System of Units|SI]] [[volt]]. Superconducting photon detectors<ref>{{Cite journal |last1=Morozov |first1=Dmitry V. |last2=Casaburi |first2=Alessandro |last3=Hadfield |first3=Robert H. |date=2022-03-11 |title=Superconducting photon detectors |url=https://doi.org/10.1080/00107514.2022.2043596 |journal=Contemporary Physics |volume=62 |issue=2 |pages=69–91 |doi=10.1080/00107514.2022.2043596 |s2cid=247422273 |issn=0010-7514}}</ref> can be realised in a variety of device configurations. Depending on the particular mode of operation, a [[superconductor–insulator–superconductor]] Josephson junction can be used as a photon [[detector]] or as a [[Electronic mixer|mixer]]. The large resistance change at the transition from the normal- to the superconducting state is used to build thermometers in cryogenic [[calorimeter|micro-calorimeter]] photon [[detector]]s. The same effect is used in ultrasensitive [[bolometer]]s made from superconducting materials. [[Superconducting nanowire single-photon detector|Superconducting nanowire single-photon detectors]] offer high speed, low noise single-photon detection and have been employed widely in advanced [[Photon counting|photon-counting]] applications.<ref>{{Cite journal |last=Natarajan |first=C. M. |date=April 2012 |title=Superconducting nanowire single-photon detectors: physics and applications |url=https://iopscience.iop.org/article/10.1088/0953-2048/25/6/063001/meta |journal=Superconductor Science and Technology |language=en |volume=25 |issue=6 |pages=063001 |doi=10.1088/0953-2048/25/6/063001 |arxiv=1204.5560 |bibcode=2012SuScT..25f3001N |s2cid=4893642 |via=IOP Publishing}}</ref>
+
+Superconductors are used to build [[Josephson junction]]s which are the building blocks of [[SQUID]]s (superconducting quantum interference devices), the most sensitive [[magnetometer]]s known. SQUIDs are used in [[scanning SQUID microscope]]s and [[magnetoencephalography]]. Series of Josephson devices are used to realize the [[International System of Units|SI]] [[volt]]. Superconducting photon detectors<ref>{{Cite journal |last1=Morozov |first1=Dmitry V. |last2=Casaburi |first2=Alessandro |last3=Hadfield |first3=Robert H. |date=2022-03-11 |title=Superconducting photon detectors |url=https://doi.org/10.1080/00107514.2022.2043596 |journal=Contemporary Physics |volume=62 |issue=2 |pages=69–91 |doi=10.1080/00107514.2022.2043596 |s2cid=247422273 |issn=0010-7514}}</ref> can be realised in a variety of device configurations.  Depending on the particular mode of operation, a [[superconductor–insulator–superconductor]] Josephson junction can be used as a photon [[detector]] or as a [[Electronic mixer|mixer]]. The large resistance change at the transition from the normal- to the superconducting state is used to build thermometers in cryogenic [[calorimeter|micro-calorimeter]] photon [[detector]]s. The same effect is used in ultrasensitive [[bolometer]]s made from superconducting materials.  [[Superconducting nanowire single-photon detector|Superconducting nanowire single-photon detectors]] offer high speed, low noise single-photon detection and have been employed widely in advanced [[Photon counting|photon-counting]] applications.<ref>{{Cite journal |last=Natarajan |first=C. M. |date=April 2012 |title=Superconducting nanowire single-photon detectors: physics and applications |url=https://iopscience.iop.org/article/10.1088/0953-2048/25/6/063001/meta |journal=Superconductor Science and Technology |language=en |volume=25 |issue=6 |pages=063001 |doi=10.1088/0953-2048/25/6/063001 |arxiv=1204.5560 |bibcode=2012SuScT..25f3001N |s2cid=4893642 |via=IOP Publishing}}</ref>
+
 
 Other early markets are arising where the relative efficiency, size and weight advantages of devices based on [[high-temperature superconductivity]] outweigh the additional costs involved. For example, in [[wind turbine]]s the lower weight and volume of superconducting generators could lead to savings in construction and tower costs, offsetting the higher costs for the generator and lowering the total [[levelized cost of electricity]] (LCOE).<ref>{{cite journal | author = Islam | year = 2014 | title = A review of offshore wind turbine nacelle: Technical challenges, and research and developmental trends. | url = http://ro.uow.edu.au/cgi/viewcontent.cgi?article=2081&context=eispapers1| journal = [[Renewable and Sustainable Energy Reviews]] | volume = 33 | pages = 161–176 | doi = 10.1016/j.rser.2014.01.085 |display-authors=etal| hdl = 10453/33256 | hdl-access = free }}</ref>
 
-Promising future applications include high-performance [[smart grid]], [[electric power transmission]], [[transformer]]s, [[SMES|power storage devices]], [[electric motor]]s (e.g. for vehicle propulsion, as in [[vactrain]]s or [[maglev train]]s), [[magnetic levitation device]]s, [[fault current limiter]]s, enhancing spintronic devices with superconducting materials,<ref>{{cite journal|last1=Linder|first1=Jacob|last2=Robinson|first2=Jason W. A.|title=Superconducting spintronics|journal=Nature Physics|date=2 April 2015|volume=11|issue=4|pages=307–315|doi=10.1038/nphys3242|arxiv = 1510.00713 |bibcode = 2015NatPh..11..307L |s2cid=31028550}}</ref> and superconducting [[magnetic refrigeration]]. However, superconductivity is sensitive to moving magnetic fields, so applications that use [[alternating current]] (e.g. transformers) will be more difficult to develop than those that rely upon [[direct current]]. Compared to traditional power lines, [[superconducting transmission line]]s are more efficient and require only a fraction of the space, which would not only lead to a better environmental performance but could also improve public acceptance for expansion of the electric grid.<ref>{{cite journal | author = Thomas | year = 2016 | title = Superconducting transmission lines – Sustainable electric energy transfer with higher public acceptance? | journal = [[Renewable and Sustainable Energy Reviews]] | volume = 55 | pages = 59–72 | doi = 10.1016/j.rser.2015.10.041 |display-authors=etal| doi-access = free }}</ref> Another attractive industrial aspect is the ability for high power transmission at lower voltages.<ref>{{cite journal | author = Li Ren | year = 2009 | title = Technical and Economical Assessment of HTS Cables | journal = IEEE Transactions on Applied Superconductivity| volume = 19 | issue = 3 |pages = 1774–1777 | doi=10.1109/TASC.2009.2019058|display-authors=etal|doi-access = free }}</ref> Advancements in the efficiency of cooling systems and use of cheap coolants such as [[liquid nitrogen]] have also significantly decreased cooling costs needed for superconductivity.
+
+Promising future applications include high-performance [[smart grid]], [[electric power transmission]], [[transformer]]s, [[SMES|power storage devices]], [[electric motor]]s (e.g. for vehicle propulsion, as in [[vactrain]]s or [[maglev train]]s), [[magnetic levitation device]]s, [[fault current limiter]]s, enhancing spintronic devices with superconducting materials,<ref>{{cite journal|last1=Linder|first1=Jacob|last2=Robinson|first2=Jason W. A.|title=Superconducting spintronics|journal=Nature Physics|date=2 April 2015|volume=11|issue=4|pages=307–315|doi=10.1038/nphys3242|arxiv = 1510.00713 |bibcode = 2015NatPh..11..307L |s2cid=31028550}}</ref> and superconducting [[magnetic refrigeration]]. However, superconductivity is sensitive to moving magnetic fields, so applications that use [[alternating current]] (e.g. transformers) will be more difficult to develop than those that rely upon [[direct current]]. Compared to traditional power lines, [[superconducting transmission line]]s are more efficient and require only a fraction of the space, which would not only lead to a better environmental performance but could also improve public acceptance for expansion of the electric grid.<ref>{{cite journal | author = Thomas | year = 2016 | title = Superconducting transmission lines – Sustainable electric energy transfer with higher public acceptance? | journal = [[Renewable and Sustainable Energy Reviews]] | volume = 55 | pages = 59–72 | doi = 10.1016/j.rser.2015.10.041 |display-authors=etal| doi-access = free }}</ref> Another attractive industrial aspect is the ability for high power transmission at lower voltages.<ref>{{cite journal | author = Li Ren | year = 2009 | title = Technical and Economical Assessment of HTS Cables | journal =  IEEE Transactions on Applied Superconductivity| volume = 19 | issue = 3 |pages = 1774–1777 | doi=10.1109/TASC.2009.2019058|display-authors=etal|doi-access = free }}</ref> Advancements in the efficiency of cooling systems and use of cheap coolants such as [[liquid nitrogen]] have also significantly decreased cooling costs needed for superconductivity.
+
 
 == Nobel Prizes for superconductivity ==
 * [[Heike Kamerlingh Onnes]] (1913), "for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium".
@@ -525,6 +587,7 @@ Promising future applications include high-performance [[smart grid]], [[electri
 * [[Leo Esaki]], [[Ivar Giaever]], and [[Brian D. Josephson]] (1973), "for their experimental discoveries regarding tunneling phenomena in semiconductors and superconductors, respectively" and "for his theoretical predictions of the properties of a supercurrent through a tunnel barrier, in particular those phenomena which are generally known as the Josephson effects".
 * [[Georg Bednorz]] and [[K. Alex Müller]] (1987), "for their important break-through in the discovery of superconductivity in ceramic materials".
 * [[Alexei A. Abrikosov]], [[Vitaly L. Ginzburg]], and [[Anthony J. Leggett]] (2003), "for pioneering contributions to the theory of superconductors and superfluids".<ref name="Nobel Prizes in Physics">{{cite web |title=All Nobel Prizes in Physics |website=Nobelprize.org |publisher=Nobel Media AB 2014 |url=https://www.nobelprize.org/nobel_prizes/physics/laureates/}}</ref>
+
 
 == See also ==
 {{Colbegin }}
@@ -563,79 +626,81 @@ Promising future applications include high-performance [[smart grid]], [[electri
 * {{annotated link|Unconventional superconductor}}
 {{colend}}
 
+
 == References ==
 {{Reflist|30em}}
+
 
 == Further reading ==
 * [[International Electrotechnical Commission|IEC]] standard [https://webstore.iec.ch/preview/info_iec61788-3%7Bed2.0%7Den.pdf 60050-815:2000, International Electrotechnical Vocabulary (IEV) – Part 815: Superconductivity]
 * {{cite book
-|author=Hagen Kleinert
-|date=1989
-|chapter=Superflow and Vortex Lines
-|title=Gauge Fields in Condensed Matter
-|chapter-url=http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents1.html
-|volume=1
-|publisher=World Scientific
-|isbn=978-9971-5-0210-2
+ |author=Hagen Kleinert
+ |date=1989
+ |chapter=Superflow and Vortex Lines
+ |title=Gauge Fields in Condensed Matter
+ |chapter-url=http://www.physik.fu-berlin.de/~kleinert/kleiner_reb1/contents1.html
+ |volume=1
+ |publisher=World Scientific
+ |isbn=978-9971-5-0210-2
 }}
 * {{cite book
-|author=Anatoly Larkin
-|author2=Andrei Varlamov
-|date=2005
-|title=Theory of Fluctuations in Superconductors
-|publisher=Oxford University Press
-|isbn=978-0-19-852815-9
+ |author=Anatoly Larkin
+ |author2=Andrei Varlamov
+ |date=2005
+ |title=Theory of Fluctuations in Superconductors
+ |publisher=Oxford University Press
+ |isbn=978-0-19-852815-9
 }}
 * {{cite book
-|author=A. G. Lebed
-|date=2008
-|title=The Physics of Organic Superconductors and Conductors
-|edition=1st
-|publisher=Springer
-|volume=110
-|isbn=978-3-540-76667-4
+ |author=A. G. Lebed
+ |date=2008
+ |title=The Physics of Organic Superconductors and Conductors
+ |edition=1st
+ |publisher=Springer
+ |volume=110
+ |isbn=978-3-540-76667-4
 }}
 * {{cite book
-|author=Jean Matricon
-|author2=Georges Waysand
-|author3=Charles Glashausser
-|date=2003
-|title=The Cold Wars: A History of Superconductivity
-|publisher=Rutgers University Press
-|isbn=978-0-8135-3295-0
+ |author=Jean Matricon
+ |author2=Georges Waysand
+ |author3=Charles Glashausser
+ |date=2003
+ |title=The Cold Wars: A History of Superconductivity
+ |publisher=Rutgers University Press
+ |isbn=978-0-8135-3295-0
 }}
 * {{cite web
-|date=17 August 2006
-|title=Physicist Discovers Exotic Superconductivity
-|url=https://www.sciencedaily.com/releases/2006/08/060817101658.htm
-|website=[[ScienceDaily]]
+ |date=17 August 2006
+ |title=Physicist Discovers Exotic Superconductivity
+ |url=https://www.sciencedaily.com/releases/2006/08/060817101658.htm
+ |website=[[ScienceDaily]]
 }}
 * {{cite book
-|author=Michael Tinkham
-|title=Introduction to Superconductivity
-|edition = 2nd
-|publisher=Dover Books
-|date=2004
-|isbn=978-0-486-43503-9
+ |author=Michael Tinkham
+ |title=Introduction to Superconductivity
+ |edition = 2nd
+ |publisher=Dover Books
+ |date=2004
+ |isbn=978-0-486-43503-9
 }}
 * {{cite book
-|author=Terry Orlando
-|author2=Kevin Delin
-|date=1991
-|title=Foundations of Applied Superconductivity
-|publisher=Prentice Hall
-|isbn=978-0-201-18323-8
+ |author=Terry Orlando
+ |author2=Kevin Delin
+ |date=1991
+ |title=Foundations of Applied Superconductivity
+ |publisher=Prentice Hall
+ |isbn=978-0-201-18323-8
 }}
 * {{cite book
-|author=Paul Tipler
-|author2=Ralph Llewellyn
-|date=2002
-|title=Modern Physics
-|edition = 4th
-|publisher=W. H. Freeman
-|isbn=978-0-7167-4345-3
+ |author=Paul Tipler
+ |author2=Ralph Llewellyn
+ |date=2002
+ |title=Modern Physics
+ |edition = 4th
+ |publisher=W. H. Freeman
+ |isbn=978-0-7167-4345-3
 }}
-* {{cite journal
+* {{cite journal 
 |author=Shane M. O'Mahony
 |author2=University of Oxford
 |date=2022
@@ -652,6 +717,7 @@ Promising future applications include high-performance [[smart grid]], [[electri
 }}
 * Charlie Wood, [[Quanta Magazine]] (2022). [https://www.quantamagazine.org/high-temperature-superconductivity-understood-at-last-20220921/ "High-Temperature Superconductivity Understood at Last"]
 
+
 == External links ==
 {{wikiquote}}
 * [http://alfredleitner.com/ Video about Type I Superconductors: R=0/transition temperatures/ B is a state variable/ Meissner effect/ Energy gap(Giaever)/ BCS model]
@@ -659,9 +725,12 @@ Promising future applications include high-performance [[smart grid]], [[electri
 * [https://www.youtube.com/watch?v=indyz6O-Xyw&feature=user YouTube Video Levitating magnet]
 * [http://www.doitpoms.ac.uk/tlplib/superconductivity/index.php DoITPoMS Teaching and Learning Package – "Superconductivity"]
 
+
 {{States of matter}}
 
+
 {{Authority control}}
+
 
 [[Category:Superconductivity| ]]
 [[Category:Phases of matter]]
