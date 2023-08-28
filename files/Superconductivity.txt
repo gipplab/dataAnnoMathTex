@@ -172,7 +172,7 @@ The Meissner effect is distinct from this{{snd}}it is the spontaneous expulsion 
 
 The Meissner effect was given a phenomenological explanation by the brothers [[Fritz London|Fritz]] and [[Heinz London]], who showed that the electromagnetic [[thermodynamic free energy|free energy]] in a superconductor is minimized provided
 
-<math display="block">E</math>
+<math display="block"> \nabla^2\mathbf{E} = \lambda^{-2} \mathbf{E}\, </math>
 
 where '''H''' is the magnetic field and λ is the [[London penetration depth]].
 
