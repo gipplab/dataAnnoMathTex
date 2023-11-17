@@ -1,0 +1,50 @@
+{{Wiktionary|Tesla|tesla}}
+'''Tesla''' most commonly refers to:
+
+* [[Nikola Tesla]] (1856–1943), a Serbian-American electrical engineer and inventor
+* [[Tesla, Inc.]], an American electric vehicle and clean energy company, formerly Tesla Motors, Inc.
+* [[Tesla (unit)]] (symbol: T), the SI-derived unit of magnetic flux density
+
+'''Tesla''' may also refer to:
+{{TOC right}}
+
+==Companies and organizations==
+* [[Tesla a.s.]], a Czech electronics company
+* [[Tesla Electric Light and Manufacturing]], a former company in Rahway, New Jersey, US
+* [[Tesla Science Center at Wardenclyffe]], a proposed science museum in New York, US
+
+==Media and entertainment==
+* [[Tesla (band)]], an American hard rock band formed in Sacramento, California
+* ''[[Tesla – Lightning in His Hand]]'', a 2003 opera by Constantine Koukias
+* "Tesla", a song on the 2013 album ''[[Nanobots (album)|Nanobots]]'' by They Might Be Giants
+* [[Tesla (2016 film)|''Tesla'' (2016 film)]], a 2016 film by David Grubin
+* [[Tesla (2020 film)|''Tesla'' (2020 film)]], a 2020 film by Michael Almereyda
+
+==Places==
+* Tesla, a former coal mining town in [[Corral Hollow]], California, US
+* [[Tesla, West Virginia]], US
+* [[Tesla Fault]], a geological formation in the Diablo Range, California, US
+* [[Tesla River]], Romania
+
+===Space===
+* [[2244 Tesla]], an asteroid discovered in 1952
+* [[Tesla (crater)]], a lunar crater
+
+==Science and technology==
+* [[Tesla (microarchitecture)]], a microarchitecture developed by Nvidia
+* [[Teraelectronvolt Energy Superconducting Linear Accelerator]], a proposed particle collider, now part of the International Linear Collider project
+* [[Tesla valve]], a fixed-geometry passive check valve
+* [[Nvidia Tesla]], a brand of GPGPU cards with the Tesla microarchitecture
+* [[Tesla coil]], a type of resonant transformer circuit
+
+==See also==
+* [[List of things named after Nikola Tesla]]
+* [[List of Nikola Tesla patents]]
+* [[Nikola Tesla (disambiguation)]]
+* [[Nikola Tesla in popular culture]]
+* {{intitle|Tesla}}
+* {{lookfrom|Tesla}}
+* [[Tesler]], a surname 
+*[[TSLAQ]], a loose collective critical of Tesla, Inc.
+
+{{Disambiguation|surname|geo}}
