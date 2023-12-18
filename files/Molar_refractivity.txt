@@ -1,0 +1,27 @@
+'''Molar refractivity''',<ref>W. Foerst et.al. ''Chemie für Labor und Betrieb'', '''1967''', ''3'', 32-34.
+
+https://organic-btc-ilmenau.jimdo.com/app/download/9062135220/molrefraktion.pdf?t=1616948905</ref> <math>A</math>, is a measure of the total [[polarizability]] of a [[mole (unit)|mole]] of a substance and is dependent on the [[temperature]], the [[index of refraction]], and the [[pressure]].
+
+The molar refractivity is defined as
+:<math> A = \frac{4 \pi}{3} N_A \alpha, </math>
+where <math>N_A \approx 6.022 \times 10^{23}</math> is the [[Avogadro constant]] and <math>\alpha</math> is the mean [[polarizability]] of a molecule.
+
+Substituting the molar refractivity into the [[Lorentz-Lorenz]] formula gives, for gasses
+:<math> A = \frac{R T}{p} \frac{n^2 - 1}{n^2 + 2} </math>
+
+where <math>n</math> is the [[refractive index]], <math>p</math> is the pressure of the gas, <math>R</math> is the [[universal gas constant]], and <math>T</math> is the (absolute) temperature. For a gas, <math>n^2 \approx 1</math>, so the molar refractivity can be approximated by
+:<math>A = \frac{R T}{p} \frac{n^2 - 1}{3}.</math>
+
+In [[SI]] units, <math>R</math> has units of J mol<sup>−1</sup> K<sup>−1</sup>, <math>T</math> has units K, <math>n</math> has no units, and <math>p</math> has units of Pa, so the units of <math>A</math> are m<sup>3</sup> mol<sup>−1</sup>.
+
+In terms of [[density]] ρ, [[molecular weight]] M, it can be shown that:
+:<math>A = \frac{M}{\rho} \frac{n^2 - 1}{n^2 + 2} \approx \frac{M}{\rho} \frac{n^2 - 1}{3}.</math>
+
+==References==
+{{Reflist}}
+
+* [[Max Born|Born, Max]], and Wolf, Emil, ''[[Principles of Optics]]: Electromagnetic Theory of Propagation, Interference and Diffraction of Light'' (7th ed.), section 2.3.3, Cambridge University Press (1999) {{ISBN|0-521-64222-1}}
+
+[[Category:Physical chemistry]]
+[[Category:Optical quantities]]
+[[Category:Molar quantities]]
