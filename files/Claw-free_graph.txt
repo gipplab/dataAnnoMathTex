@@ -1,0 +1,364 @@
+{{Short description|Graph without four-vertex star subgraphs}}
+[[Image:Complete bipartite graph K3,1.svg|thumb|150px|A claw]]
+In [[graph theory]], an area of mathematics, a '''claw-free graph''' is a graph that does not have a [[claw (graph theory)|claw]] as an [[induced subgraph]].
+
+A claw is another name for the [[complete bipartite graph]] ''K''<sub>1,3</sub> (that is, a [[star graph]] comprising three edges, three leaves, and a central vertex). A claw-free graph is a graph in which no [[induced subgraph]] is a claw; i.e., any subset of four vertices has other than only three edges connecting them in this pattern. Equivalently, a claw-free graph is a graph in which the [[neighborhood (graph theory)|neighborhood]] of any [[vertex (graph theory)|vertex]] is the [[complement (graph theory)|complement]] of a [[triangle-free graph]].
+
+Claw-free graphs were initially studied as a generalization of [[line graph]]s, and gained additional motivation through three key discoveries about them: the fact that all claw-free [[connected graph]]s of even order have [[perfect matching]]s, the discovery of [[polynomial time]] algorithms for finding [[maximum independent set]]s in claw-free graphs, and the characterization of claw-free [[perfect graph]]s.<ref name="FFR88">{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, p. 88.</ref> They are the subject of hundreds of mathematical research papers and several surveys.<ref name="FFR88"/>
+
+==Examples==
+[[File:Icosahedron.svg|thumb|150px|The regular icosahedron, a polyhedron whose vertices and edges form a claw-free graph.]]
+* The [[line graph]] ''L''(''G'') of any graph ''G'' is claw-free; ''L''(''G'') has a vertex for every edge of ''G'', and vertices are adjacent in ''L''(''G'') whenever the corresponding edges share an endpoint in ''G''. A line graph ''L''(''G'') cannot contain a claw, because if three edges ''e''<sub>1</sub>, ''e''<sub>2</sub>, and ''e''<sub>3</sub> in ''G'' all share endpoints with another edge ''e''<sub>4</sub> then by the [[pigeonhole principle]] at least two of ''e''<sub>1</sub>, ''e''<sub>2</sub>, and ''e''<sub>3</sub> must share one of those endpoints with each other. Line graphs may be characterized in terms of nine forbidden subgraphs;<ref>{{harvtxt|Beineke|1968}}.</ref> the claw is the simplest of these nine graphs. This characterization provided the initial motivation for studying claw-free graphs.<ref name="FFR88"/>
+*The [[de Bruijn graph]]s (graphs whose vertices represent ''n''-bit [[binary string]]s for some ''n'', and whose edges represent (''n''&nbsp;&minus;&nbsp;1)-bit overlaps between two strings) are claw-free. One way to show this is via the construction of the de Bruijn graph for ''n''-bit strings as the line graph of the de Bruijn graph for (''n''&nbsp;&minus;&nbsp;1)-bit strings.
+*The [[complement graph|complement]] of any [[triangle-free graph]] is claw-free.<ref name="FFR89">{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, p. 89.</ref> These graphs include as a special case any [[complete graph]].
+*[[Proper interval graph]]s, the [[interval graph]]s formed as [[intersection graph]]s of families of intervals in which no interval contains another interval, are claw-free, because four properly intersecting intervals cannot intersect in the pattern of a claw.<ref name="FFR89"/> The same is true more generally for proper [[circular-arc graph]]s.<ref name="claw3">{{harvtxt|Chudnovsky|Seymour|2008}}.</ref>
+*The [[Moser spindle]], a seven-vertex graph used to provide a lower bound for the [[Hadwiger–Nelson problem|chromatic number of the plane]], is claw-free.
+*The graphs of several [[polyhedron|polyhedra]] and [[polytope]]s are claw-free, including the graph of the [[tetrahedron]] and more generally of any [[simplex]] (a complete graph), the graph of the [[octahedron]] and more generally of any [[cross polytope]] ([[graph isomorphism|isomorphic]] to the [[cocktail party graph]] formed by removing a perfect matching from a complete graph), the graph of the regular [[icosahedron]],<ref name="cs05">{{harvtxt|Chudnovsky|Seymour|2005}}.</ref> and the graph of the [[16-cell]].
+*The [[Schläfli graph]], a [[strongly regular graph]] with 27 vertices, is claw-free.<ref name="cs05"/>
+
+==Recognition==
+It is straightforward to verify that a given graph with ''n'' vertices and ''m'' edges is claw-free in time O(''n''<sup>4</sup>), by testing each 4-tuple of vertices to determine whether they induce a claw.<ref name="FFR132">{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, p. 132.</ref> With more efficiency, and greater complication, one can test whether a graph is claw-free by checking, for each vertex of the graph, that the [[complement graph]] of its neighbors does not contain a triangle. A graph contains a triangle if and only if the [[cube (algebra)|cube]] of its [[adjacency matrix]] contains a nonzero diagonal element, so finding a triangle may be performed in the same asymptotic time bound as ''n''&nbsp;×&nbsp;''n'' [[matrix multiplication]].<ref>{{harvtxt|Itai|Rodeh|1978}}.</ref> Therefore, using the [[Coppersmith–Winograd algorithm]], the total time for this claw-free recognition algorithm would be O(''n''<sup>3.376</sup>).
+
+{{harvtxt|Kloks|Kratsch|Müller|2000}} observe that in any claw-free graph, each vertex has at most 2{{radic|''m''}} neighbors; for otherwise by [[Turán's theorem]] the neighbors of the vertex would not have enough remaining edges to form the complement of a triangle-free graph. This observation allows the check of each neighborhood in the fast matrix multiplication based algorithm outlined above to be performed in the same asymptotic time bound as 2{{radic|''m''}}&nbsp;×&nbsp;2{{radic|''m''}} matrix multiplication, or faster for vertices with even lower degrees. The worst case for this algorithm occurs when Ω({{radic|''m''}}) vertices have Ω({{radic|''m''}}) neighbors each, and the remaining vertices have few neighbors, so its total time is O(''m''<sup>3.376/2</sup>)&nbsp;=&nbsp;O(''m''<sup>1.688</sup>).
+
+==Enumeration==
+Because claw-free graphs include complements of triangle-free graphs, the number of claw-free graphs on ''n'' vertices grows at least as quickly as the number of triangle-free graphs, exponentially in the square of ''n''.
+The numbers of connected claw-free graphs on ''n'' nodes, for ''n''&nbsp;=&nbsp;1,&nbsp;2,&nbsp;... are
+:1, 1, 2, 5, 14, 50, 191, 881, 4494, 26389, 184749, ... {{OEIS|A022562}}.
+If the graphs are allowed to be disconnected, the numbers of graphs are even larger: they are
+:1, 2, 4, 10, 26, 85, 302, 1285, 6170, ... {{OEIS|A086991}}.
+A technique of {{harvtxt|Palmer|Read|Robinson|2002}} allows the number of claw-free [[cubic graph]]s to be counted very efficiently, unusually for [[graph enumeration]] problems.
+
+==Matchings==
+[[File:Sumner claw-free matching.svg|thumb|240px|Sumner's proof that claw-free connected graphs of even order have perfect matchings: removing the two adjacent vertices ''v'' and ''w'' that are farthest from ''u'' leaves a connected subgraph, within which the same removal process may be repeated.]]
+{{harvtxt|Sumner|1974}} and, independently, {{harvtxt|Las Vergnas|1975}} proved that every claw-free [[connected graph]] with an even number of vertices has a [[perfect matching]].<ref name="FFRs3">{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, pp. 120–124.</ref> That is, there exists a set of edges in the graph such that each vertex is an endpoint of exactly one of the matched edges. The special case of this result for line graphs implies that, in any graph with an even number of edges, one can partition the edges into paths of length two. Perfect matchings may be used to provide another characterization of the claw-free graphs: they are exactly the graphs in which every connected induced subgraph of even order has a perfect matching.<ref name="FFRs3"/>
+
+Sumner's proof shows, more strongly, that in any connected claw-free graph one can find a pair of adjacent vertices the removal of which leaves the remaining graph connected. To show this, Sumner finds a pair of vertices ''u'' and ''v'' that are as far apart as possible in the graph, and chooses ''w'' to be a neighbor of ''v'' that is as far from ''u'' as possible; as he shows, neither ''v'' nor ''w'' can lie on any shortest path from any other node to ''u'', so the removal of ''v'' and ''w'' leaves the remaining graph connected. Repeatedly removing matched pairs of vertices in this way forms a perfect matching in the given claw-free graph.
+
+The same proof idea holds more generally if ''u'' is any vertex, ''v'' is any vertex that is maximally far from ''u'', and ''w'' is any neighbor of ''v'' that is maximally far from ''u''. Further, the removal of ''v'' and ''w'' from the graph does not change any of the other distances from ''u''. Therefore, the process of forming a matching by finding and removing pairs ''vw'' that are maximally far from ''u'' may be performed by a single [[postorder traversal]] of a [[breadth first search]] tree of the graph, rooted at ''u'', in linear time. {{harvtxt|Chrobak|Naor|Novick|1989}} provide an alternative linear-time algorithm based on [[depth-first search]], as well as efficient [[parallel algorithm]]s for the same problem.
+
+{{harvtxt|Faudree|Flandrin|Ryjáček|1997}} list several related results, including the following: (''r''&nbsp;&minus;&nbsp;1)-connected ''K''<sub>1,''r''</sub>-free graphs of even order have perfect matchings for any ''r''&nbsp;≥&nbsp;2; claw-free graphs of odd order with at most one degree-one vertex may be partitioned into an odd cycle and a matching; for any ''k'' that is at most half the minimum degree of a claw-free graph in which either ''k'' or the number of vertices is even, the graph has a ''k''-factor; and, if a claw-free graph is (2''k''&nbsp;+&nbsp;1)-connected, then any ''k''-edge matching can be extended to a perfect matching.
+
+==Independent sets==
+[[File:Claw-free augmenting path.svg|thumb|220px|A non-maximum independent set (the two violet nodes) and an augmenting path]]
+An [[Independent set (graph theory)|independent set]] in a line graph corresponds to a matching in its underlying graph, a set of edges no two of which share an endpoint. The [[blossom algorithm]] of {{harvtxt|Edmonds|1965}} finds a [[maximum matching]] in any graph in polynomial time, which is equivalent to computing a [[maximum independent set]] in line graphs. This has been independently extended to an algorithm for all claw-free graphs by {{harvtxt|Sbihi|1980}} and {{harvtxt|Minty|1980}}.<ref name="FFRi">{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, pp. 133–134.</ref>
+
+Both approaches use the observation that in claw-free graphs, no vertex can have more than two neighbors in an independent set, and so the [[symmetric difference]] of two independent sets must induce a subgraph of degree at most two; that is, it is a union of paths and cycles. In particular, if ''I'' is a non-maximum independent set, it differs from any maximum independent set by even cycles and so called ''augmenting paths'': [[induced path]]s which alternate between vertices not in ''I'' and vertices in ''I'', and for which both endpoints have only one neighbor in ''I''. As the symmetric difference of ''I'' with any augmenting path gives a larger independent set, the task thus reduces to searching for augmenting paths until no more can be found, analogously as in algorithms for finding maximum matchings.
+
+Sbihi's algorithm recreates the [[Blossom algorithm#Blossoms and contractions|blossom contraction]] step of Edmonds' algorithm and adds a similar, but more complicated, ''clique contraction'' step. Minty's approach is to transform the problem instance into an auxiliary line graph and use Edmonds' algorithm directly to find the augmenting paths. After a correction by {{harvnb|Nakamura|Tamura|2001}}, Minty's result may also be used to solve in polynomial time the more general problem of finding in claw-free graphs an independent set of maximum weight. 
+Generalizations of these results to wider classes of graphs are also known.<ref name="FFRi"/>
+By showing a novel [[#Structure|structure theorem]], {{harvtxt|Faenza|Oriolo|Stauffer|2011}} gave a cubic time algorithm, which also works in the weighted setting.
+
+==Coloring, cliques, and domination==
+A [[perfect graph]] is a graph in which the [[chromatic number]] and the size of the [[maximum clique]] are equal, and in which this equality persists in every induced subgraph. It is now known (the [[strong perfect graph theorem]]) that perfect graphs may be characterized as the graphs that do not have as induced subgraphs either an odd cycle or the complement of an odd cycle (a so-called ''odd hole'').<ref name="perfect">{{harvtxt|Chudnovsky|Robertson|Seymour|Thomas|2006}}.</ref> However, for many years this remained an unsolved conjecture, only proven for special subclasses of graphs. One of these subclasses was the family of claw-free graphs: it was discovered by several authors that claw-free graphs without odd cycles and odd holes are perfect. Perfect claw-free graphs may be recognized in polynomial time. In a perfect claw-free graph, the neighborhood of any vertex forms the complement of a [[bipartite graph]]. It is possible to [[graph coloring|color]] perfect claw-free graphs, or to find maximum cliques in them, in polynomial time.<ref>{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, pp. 135–136.</ref>
+
+{{unsolved|mathematics|Do claw-free graphs always have list chromatic number equal to their chromatic number?}}
+In general, it is NP-hard to find the largest clique in a claw-free graph.<ref>{{harvtxt|Faudree|Flandrin|Ryjáček|1997}} observe on p. 132 that the NP-hardness of cliques in claw-free graphs follows from the NP-hardness of the [[independent set problem]] in [[triangle-free graph]]s, proven NP-hard by {{harvtxt|Poljak|1974}}</ref> It is also NP-hard to find an optimal coloring of the graph, because (via line graphs) this problem generalizes the NP-hard problem of computing the [[chromatic index]] of a graph.<ref name="FFR132"/> For the same reason, it is NP-hard to find a coloring that achieves an [[approximation ratio]] better than 4/3. However, an approximation ratio of two can be achieved by a [[greedy coloring]] algorithm, because the chromatic number of a claw-free graph is greater than half its maximum degree. A generalization of the [[Dinitz conjecture|edge list coloring conjecture]] states that, for claw-free graphs, the [[list coloring|list chromatic number]] equals the chromatic number; these two numbers can be far apart in other kinds of graphs.{{sfnp|Gravier|Maffray|2004}}
+
+The claw-free graphs are [[χ-bounded|''χ''-bounded]], meaning that every claw-free graph of large chromatic number contains a large clique. More strongly, it follows from [[Ramsey's theorem]] that every claw-free graph of large [[degree (graph theory)|maximum degree]] contains a large clique, of size roughly proportional to the square root of the degree. For connected claw-free graphs that include at least one three-vertex independent set, a stronger relation between chromatic number and clique size is possible: in these graphs, there exists a clique of size at least half the chromatic number.{{sfnp|Chudnovsky|Seymour|2010}}
+
+Although not every claw-free graph is perfect, claw-free graphs satisfy another property, related to perfection. A graph is called [[domination perfect graph|domination perfect]] if it has a minimum [[dominating set]] that is independent, and if the same property holds in all of its induced subgraphs. Claw-free graphs have this property. To see this, let ''D'' be a dominating set in a claw-free graph, and suppose that ''v'' and ''w'' are two adjacent vertices in ''D''; then the set of vertices dominated by ''v'' but not by ''w'' must be a clique (else ''v'' would be the center of a claw). If every vertex in this clique is already dominated by at least one other member of ''D'', then ''v'' can be removed producing a smaller independent dominating set, and otherwise ''v'' can be replaced by one of the undominated vertices in its clique producing a dominating set with fewer adjacencies. By repeating this replacement process one eventually reaches a dominating set no larger than ''D'', so in particular when the starting set ''D'' is a minimum dominating set this process forms an equally small independent dominating set.<ref>{{harvtxt|Faudree|Flandrin|Ryjáček|1997}}, pp. 124–125.</ref>
+
+Despite this domination perfectness property, it is NP-hard to determine the size of the minimum dominating set in a claw-free graph.<ref name="FFR132"/> However, in contrast to the situation for more general classes of graphs, finding the minimum dominating set or the minimum connected dominating set in a claw-free graph is [[parameterized complexity|fixed-parameter tractable]]: it can be solved in time bounded by a polynomial in the size of the graph multiplied by an exponential function of the dominating set size.<ref>{{harvtxt|Cygan|Philip|Pilipczuk|Pilipczuk|2011}}; {{harvtxt|Hermelin|Mnich|van Leeuwen|Woeginger|2011}}.</ref>
+
+==Structure==
+{{harvtxt|Chudnovsky|Seymour|2005}} overview a series of papers in which they prove a structure theory for claw-free graphs, analogous to the [[graph structure theorem]] for minor-closed graph families proven by Robertson and Seymour, and to the structure theory for perfect graphs that Chudnovsky, Seymour and their co-authors used to prove the strong perfect graph theorem.<ref name="perfect"/> The theory is too complex to describe in detail here, but to give a flavor of it, it suffices to outline two of their results. First, for a special subclass of claw-free graphs which they call ''quasi-line graphs'' (equivalently, locally co-bipartite graphs), they state that every such graph has one of two forms:
+# A ''fuzzy circular interval graph'', a class of graphs represented geometrically by points and arcs on a circle, generalizing proper circular arc graphs.
+# A graph constructed from a multigraph by replacing each edge by a ''fuzzy linear interval graph''.  This generalizes the construction of a line graph, in which every edge of the multigraph is replaced by a vertex.  Fuzzy linear interval graphs are constructed in the same way as fuzzy circular interval graphs, but on a line rather than on a circle.
+
+Chudnovsky and Seymour classify arbitrary connected claw-free graphs into one of the following:
+# Six specific subclasses of claw-free graphs. Three of these are line graphs, proper circular arc graphs, and the induced subgraphs of an icosahedron; the other three involve additional definitions.
+# Graphs formed in four simple ways from smaller claw-free graphs.
+# ''Antiprismatic graphs'', a class of [[dense graph]]s defined as the claw-free graphs in which every four vertices induce a subgraph with at least two edges.
+Much of the work in their structure theory involves a further analysis of antiprismatic graphs. The [[Schläfli graph]], a claw-free [[strongly regular graph]] with parameters srg(27,16,10,8), plays an important role in this part of the analysis. This structure theory has led to new advances in [[polyhedral combinatorics]] and new bounds on the chromatic number of claw-free graphs,<ref name="cs05"/>{{sfnp|King|Reed|2015}} as well as to new fixed-parameter-tractable algorithms for dominating sets in claw-free graphs.{{sfnp|Hermelin|Mnich|van Leeuwen|Woeginger|2011}}
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{Citation
+ | last = Beineke | first = L. W.
+ | contribution = Derived graphs of digraphs
+ | editor1-last = Sachs | editor1-first = H.
+ | editor2-last = Voss | editor2-first = H.-J.
+ | editor3-last = Walter | editor3-first = H.-J.
+ | location = Leipzig
+ | pages = 17–33
+ | publisher = Teubner
+ | title = Beiträge zur Graphentheorie
+ | year = 1968}}.
+*{{Citation
+ | last1 = Chrobak | first1 = Marek
+ | last2 = Naor | first2 = Joseph
+ | last3 = Novick | first3 = Mark B.
+ | contribution = Using bounded degree spanning trees in the design of efficient algorithms on claw-free graphs
+ | doi = 10.1007/3-540-51542-9_13
+ | editor1-last = Dehne | editor1-first = F.
+ | editor2-last = Sack | editor2-first = J.-R. | editor2-link = Jörg-Rüdiger Sack
+ | editor3-last = Santoro | editor3-first = N.
+ | location = Berlin
+ | pages = 147–162
+ | publisher = Springer
+ | series = Lecture Notes in Comput. Sci.
+ | title = [[Algorithms and Data Structures Symposium|Algorithms and Data Structures: Workshop WADS '89, Ottawa, Canada, August 1989, Proceedings]]
+ | volume = 382
+ | year = 1989| hdl = 1813/6891
+ | hdl-access = free
+ }}.
+*{{Citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Robertson | first2 = Neil | author2-link = Neil Robertson (mathematician)
+ | last3 = Seymour | first3 = Paul | author3-link = Paul Seymour (mathematician)
+ | last4 = Thomas | first4 = Robin | author4-link = Robin Thomas (mathematician)
+ | doi = 10.4007/annals.2006.164.51
+ | journal = [[Annals of Mathematics]]
+ | pages = 51–229
+ | title = The strong perfect graph theorem
+ | issue = 1
+ | url = http://people.math.gatech.edu/~thomas/PAP/spgc.pdf
+ | volume = 164
+ | year = 2006| arxiv = math/0212070| s2cid = 119151552 }}.
+*{{Citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Seymour | first2 = Paul | author2-link = Paul Seymour (mathematician)
+ | contribution = The structure of claw-free graphs
+ | mr = 2187738
+ | location = Cambridge
+ | pages = 153–171
+ | publisher = Cambridge Univ. Press
+ | series = London Math. Soc. Lecture Note Ser.
+ | title = Surveys in combinatorics 2005
+ | contribution-url = http://www.math.princeton.edu/~mchudnov/claws_survey.pdf
+ | volume = 327
+ | year = 2005}}.
+*{{citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Seymour | first2 = Paul | author2-link = Paul Seymour (mathematician)
+ | doi = 10.1016/j.jctb.2008.03.001
+ | issue = 4
+ | journal = [[Journal of Combinatorial Theory]]
+ | mr = 2418774
+ | pages = 812–834
+ | series = Series B
+ | title = Claw-free graphs. III. Circular interval graphs
+ | url = http://www.columbia.edu/~mc2775/claws3.pdf
+ | volume = 98
+ | year = 2008| doi-access = free
+ }}.
+*{{citation
+ | last1 = Chudnovsky | first1 = Maria | author1-link = Maria Chudnovsky
+ | last2 = Seymour | first2 = Paul | author2-link = Paul Seymour (mathematician)
+ | issue = 6
+ | journal = Journal of Combinatorial Theory
+ | mr = 2718677
+ | pages = 560–572
+ | series = Series B
+ | title = Claw-free graphs VI. Colouring
+ | doi = 10.1016/j.jctb.2010.04.005
+ | volume = 100
+ | year = 2010| doi-access = free
+ | citeseerx = 10.1.1.220.7715
+ }}.
+*{{citation
+ | last1 = Cygan | first1 = Marek
+ | last2 = Philip | first2 = Geevarghese
+ | last3 = Pilipczuk | first3 = Marcin
+ | last4 = Pilipczuk | first4 = Michał
+ | last5 = Wojtaszczyk | first5 = Jakub Onufry
+ | arxiv = 1011.6239
+ | doi = 10.1016/j.tcs.2011.09.010
+ | issue = 50
+ | journal = [[Theoretical Computer Science (journal)|Theoretical Computer Science]]
+ | mr = 2894366
+ | pages = 6982–7000
+ | title = Dominating set is fixed parameter tractable in claw-free graphs
+ | volume = 412
+ | year = 2011| s2cid = 16339210
+ }}.
+*{{Citation
+ | doi = 10.4153/CJM-1965-045-4
+ | last = Edmonds | first = Jack | author-link = Jack Edmonds
+ | mr = 0177907
+ | journal = Canadian Journal of Mathematics
+ | pages = 449–467
+ | title = Paths, Trees and Flowers
+ | volume = 17
+ | year = 1965| s2cid = 18909734 | doi-access = free
+ }}.
+*{{Citation
+ | last1 = Faenza | first1 = Yuri
+ | last2 = Oriolo | first2 = Gianpaolo
+ | last3 = Stauffer | first3 = Gautier
+ | contribution = An Algorithmic Decomposition of Claw-free Graphs Leading to an O(n<sup>3</sup>)-algorithm for the Weighted Stable Set Problem
+ | doi = 10.1137/1.9781611973082.49
+ | location = San Francisco, California
+ | publisher = SIAM
+ | issue = 3–4
+ | series = SODA '11
+ | title = Proceedings of the Twenty-Second Annual ACM-SIAM Symposium on Discrete Algorithms
+ | pages = 630–646
+ | year = 2011| s2cid = 13353335
+ | url = https://infoscience.epfl.ch/record/181895/files/soda11.pdf}}.
+*{{Citation
+ | last1 = Faudree | first1 = Ralph | author1-link = Ralph Faudree
+ | last2 = Flandrin | first2 = Evelyne
+ | last3 = Ryjáček | first3 = Zdeněk
+ | doi = 10.1016/S0012-365X(96)00045-3
+ | mr = 1432221
+ | issue = 1–3
+ | journal = [[Discrete Mathematics (journal)|Discrete Mathematics]]
+ | pages = 87–147
+ | title = Claw-free graphs — A survey
+ | volume = 164
+ | year = 1997| doi-access = free
+ }}.
+*{{citation
+ | last1 = Goldberg | first1 = Andrew V. | author1-link = Andrew V. Goldberg
+ | last2 = Karzanov | first2 = Alexander V.
+ | title = Path problems in skew-symmetric graphs
+ | journal = [[Combinatorica]]
+ | volume = 16 | issue = 3 | year = 1996 | pages = 353–382
+ | doi = 10.1007/BF01261321| s2cid = 16308467 }}.
+*{{citation
+ | last1 = Gravier | first1 = Sylvain
+ | last2 = Maffray | first2 = Frédéric
+ | doi = 10.1016/S0012-365X(03)00292-9
+ | issue = 1–3
+ | journal = [[Discrete Mathematics (journal)|Discrete Mathematics]]
+ | mr = 2046636
+ | pages = 211–218
+ | title = On the choice number of claw-free perfect graphs
+ | volume = 276
+ | year = 2004| doi-access = 
+ }}.
+*{{citation
+ | last1 = Hermelin | first1 = Danny
+ | last2 = Mnich | first2 = Matthias
+ | last3 = van Leeuwen | first3 = Erik Jan
+ | last4 = Woeginger | first4 = Gerhard | author4-link = Gerhard J. Woeginger
+ | doi = 10.1007/978-3-642-22006-7_39
+ | location = Zurich, Switzerland
+ | series = Lecture Notes in Computer Science | volume = 6755
+ | title = Automata, Languages and Programming: 38th International Colloquium, ICALP 2011, Zurich, Switzerland, July 4-8, 2011, Proceedings, Part I
+ | pages = 462–473
+ | arxiv = 1012.0012 | contribution = Domination when the stars are out
+ | year = 2011| s2cid = 3080073
+ }}.
+*{{Citation
+ | last1 = Itai | first1 = Alon
+ | last2 = Rodeh | first2 = Michael
+ | doi = 10.1137/0207033
+ | mr = 0508603
+ | issue = 4
+ | journal = [[SIAM Journal on Computing]]
+ | pages = 413–423
+ | title = Finding a minimum circuit in a graph
+ | volume = 7
+ | year = 1978}}.
+*{{citation
+ | last1 = King | first1 = Andrew D.
+ | last2 = Reed | first2 = Bruce A. | author2-link = Bruce Reed (mathematician)
+ | arxiv = 1212.3036
+ | doi = 10.1002/jgt.21797
+ | issue = 3
+ | journal = Journal of Graph Theory
+ | pages = 157–194
+ | title = Claw-free graphs, skeletal graphs, and a stronger conjecture on ω, Δ, and χ
+ | volume = 78
+ | year = 2015| s2cid = 7385598
+ }}.
+*{{Citation
+ | last1 = Kloks | first1 = Ton
+ | last2 = Kratsch | first2 = Dieter
+ | last3 = Müller | first3 = Haiko
+ | doi = 10.1016/S0020-0190(00)00047-8
+ | mr = 1761552
+ | issue = 3–4
+ | journal = Information Processing Letters
+ | pages = 115–121
+ | title = Finding and counting small induced subgraphs efficiently
+ | volume = 74
+ | year = 2000}}.
+*{{Citation
+ | last = Las Vergnas | first = M. | author-link = Michel Las Vergnas
+ | mr = 0412042
+ | issue = 2–3–4
+ | journal = Cahiers du Centre d'Études de Recherche Opérationnelle
+ | pages = 257–260
+ | title = A note on matchings in graphs
+ | volume = 17
+ | year = 1975}}.
+*{{Citation
+ | last = Minty | first = George J.
+ | doi = 10.1016/0095-8956(80)90074-X
+ | mr = 579076
+ | issue = 3
+ | journal = Journal of Combinatorial Theory, Series B
+ | pages = 284–304
+ | title = On maximal independent sets of vertices in claw-free graphs
+ | volume = 28
+ | year = 1980| doi-access = free
+ }}.
+*{{Citation
+ | last1 = Nakamura | first1 = Daishin
+ | last2 = Tamura | first2 = Akihisa
+ | issue = 2
+ | journal = Journal of the Operations Research Society of Japan
+ | pages = 194–204
+ | title = A revision of Minty's algorithm for finding a maximum weighted stable set of a claw-free graph
+ | url = http://www.kurims.kyoto-u.ac.jp/preprint/file/RIMS1261.ps.gz
+ | volume = 44
+ | year = 2001| doi = 10.15807/jorsj.44.194
+ | doi-access = free
+ }}.
+*{{Citation
+ | last1 = Palmer | first1 = Edgar M.
+ | last2 = Read | first2 = Ronald C.
+ | last3 = Robinson | first3 = Robert W.
+ | doi = 10.1137/S0895480194274777
+ | mr = 1972075
+ | issue = 1
+ | journal = [[SIAM Journal on Discrete Mathematics]]
+ | pages = 65–73
+ | title = Counting claw-free cubic graphs
+ | url = http://www.cs.uga.edu/~rwr/publications/claw.pdf
+ | volume = 16
+ | year = 2002}}.
+*{{citation
+ | last = Poljak | first = Svatopluk
+ | journal = Commentationes Mathematicae Universitatis Carolinae
+ | mr = 351881
+ | pages = 307–309
+ | title = A note on stable sets and colorings of graphs
+ | volume = 15
+ | year = 1974}}.
+*{{Citation
+ | last = Sbihi | first = Najiba
+ | doi = 10.1016/0012-365X(90)90287-R
+ | mr = 553650
+ | issue = 1
+ | journal = Discrete Mathematics
+ | pages = 53–76
+ | title = Algorithme de recherche d'un stable de cardinalité maximum dans un graphe sans étoile
+ | volume = 29
+ | year = 1980| doi-access = free
+ }}.
+*{{Citation
+ | last = Sumner | first = David P. | author-link = David Sumner
+ | doi = 10.2307/2039666
+ | mr = 0323648
+ | journal = Proceedings of the American Mathematical Society
+ | pages = 8–12
+ | title = Graphs with 1-factors
+ | volume = 42
+ | year = 1974
+ | issue = 1
+ | publisher = American Mathematical Society
+ | jstor = 2039666}}.
+
+==External links==
+*[http://graphclasses.org/classes/gc_62.html Claw-free graphs], Information System on Graph Class Inclusions
+*{{mathworld|title=Claw-Free Graph|urlname=Claw-FreeGraph|author=Mugan, Jonathan William|author2=Weisstein, Eric W.|author2-link=Eric W. Weisstein|mode=cs2}}
+
+[[Category:Graph families]]
+[[Category:Matching (graph theory)]]
