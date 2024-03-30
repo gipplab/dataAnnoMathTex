@@ -1,0 +1,128 @@
+{{Infobox settlement
+<!--See the Table at Infobox Settlement for all fields and descriptions of usage-->
+<!-- Basic info  ---------------->| name               = Tomba Kanssa
+| other_name         = 
+| native_name        = <!-- for cities whose native name is not in English -->
+| nickname           = 
+| settlement_type    = [[Sub-prefectures of Guinea|Sub-prefecture]] and town
+| motto              = <!-- images and maps  ----------->
+| image_skyline      = 
+| imagesize          = 
+| image_caption      = 
+| image_flag         = 
+| flag_size          = 
+| image_seal         = 
+| seal_size          = 
+| image_shield       = 
+| shield_size        = 
+| image_map          = Carte de la sous-préfecture de tomba kanssa.jpg
+| mapsize            = 
+| map_caption        = 
+| pushpin_map        = Guinea
+| pushpin_label_position = above
+| pushpin_mapsize    = 250
+| pushpin_map_caption = Location in Guinea
+<!-- Location ------------------>| subdivision_type   = Country
+| subdivision_name   = {{flag|Guinea}}
+| subdivision_type1  = [[Regions of Guinea|Region]]
+| subdivision_name1  = [[Kankan Region]]
+| subdivision_type2  = [[Prefectures of Guinea|Prefecture]]
+| subdivision_name2  = [[Siguiri Prefecture]]
+| subdivision_type3  = 
+| subdivision_name3  = |<!-- Politics ----------------->
+| government_footnotes = 
+| government_type    = 
+| leader_title       = 
+| leader_name        = 
+| leader_title1      = <!-- for places with, say, both a mayor and a city manager -->
+| leader_name1       = 
+| established_title  = <!-- Settled -->
+| established_date   = <!-- Area    --------------------->
+| area_magnitude     = 
+| unit_pref          = Imperial <!--Enter: Imperial, if Imperial (metric) is desired-->
+| area_footnotes     = 
+| area_total_km2     = <!-- ALL fields dealing with a measurements are subject to automatic unit conversion-->
+| area_land_km2      = <!--See table @ Template:Infobox Settlement for details on automatic unit conversion-->
+<!-- Population   ----------------------->| population_as_of   = 
+| population_footnotes = 
+| population_note    = 
+| population_total   = 
+| population_density_km2 = 
+| population_density_sq_mi = 
+| population_metro   = 
+| population_density_metro_km2 = 
+| population_density_metro_sq_mi = 
+| population_blank1_title = Ethnicities
+| population_blank1  = 
+| population_density_blank1_km2 = 
+| population_density_blank1_sq_mi = <!-- General information  --------------->
+| timezone           = [[Greenwich Mean Time|GMT]]
+| utc_offset         = +0
+| timezone_DST       = 
+| utc_offset_DST     = 
+| coordinates        = {{coord|11|43|N|10|11|W|region:GN|display=inline}}
+| elevation_footnotes = <!--for references: use <ref></ref> tags-->
+| elevation_m        = 
+| elevation_ft       = <!-- Area/postal codes & others -------->
+| postal_code_type   = <!-- enter ZIP code, Postcode, Post code, Postal code... -->
+| postal_code        = 
+| area_code          = 
+| blank_name         = 
+| blank_info         = 
+| blank1_name        = 
+| blank1_info        = 
+| website            = 
+| footnotes          = 
+}}
+
+'''Tomba kanssa''' is a [[town]] and [[Sub-prefectures of Guinea|sub-prefecture]] in the [[Siguiri Prefecture]] in the [[Kankan Region]] of northern [[Guinea]]..<ref>{{cite web|access-date=3 May 2023|lang=fr|title=Statistiques|url=https://www.stat-guinee.org/images/Documents/Publications/INS/annuelles/annuaire/Annuaire_Statistique_2021_vf.pdf|website=satat-guinee.org|archive-url=https://web.archive.org/web/20230210063237/https://www.stat-guinee.org/images/Documents/Publications/INS/annuelles/annuaire/Annuaire_Statistique_2021_vf.pdf|archive-date=2023-02-10|url-status=live}}<!-- auto-translated by Module:CS1 translator -->.</ref><ref>{{Cite web |date=2023-06-26 |title=Subprefectures of Guinea |url=http://www.statoids.com/ygn.html |url-status=live |archive-url=https://web.archive.org/web/20180923052613/http://www.statoids.com/ygn.html |archive-date=2018-09-23 |access-date=2023-06-26 |publisher=Statoids}}</ref>
+
+== Administrative subdivision ==
+Tomba Kanssa is made up of six districts.<ref>{{Cite journal |last=National Assembly of Guinea |date=March 16, 2021 |title=Creation of an urban commune and nineteen rural communes in the Republic of Guinea |url=https://assembleeguinee.org/sites/default/files/Loi2021/Loi0012.pdf |url-status=live |language=fr |pages=7 |archive-url=https://web.archive.org/web/20230127014828/https://assembleeguinee.org/sites/default/files/Loi2021/Loi0012.pdf |archive-date=January 27, 2023 |access-date=February 9, 2023 |periodical=Official Journal}}</ref><ref name="+h1  ">{{Cite web |title=Administration du territoire : le district de Guelo-N'Faly, érigé en en sous-préfecture - INFOSPREMIERES.COM |url=https://infospremieres.com/amp/administration-du-territoire-le-district-de-guelo-nfaly-erige-en-en-sous-prefecture/ |url-status=live |archive-url=https://web.archive.org/web/20230124024710/https://infospremieres.com/amp/administration-du-territoire-le-district-de-guelo-nfaly-erige-en-en-sous-prefecture/ |archive-date=2023-01-24 |access-date=2023-02-09 |website=infospremieres.com}}</ref>
+{| class="wikitable"
+|+
+!Districts
+!Sectors
+|-
+|Tomba Kanssa
+|Tomba Doula
+|-
+|Tombani
+|Tomba Fontou
+|-
+|Tomba Kobila
+|Tomba Boufé
+|-
+|Beretela kansa
+|Beretela Doula
+|-
+|Berèla
+|Madina Koura
+|-
+|Bougoulan
+|Kebèbesebeya
+|}
+
+== History ==
+[[File:20210403_185336_resized._jpg.jpg|thumb]]
+Tomba Kanssa is a [[Sub-prefectures of Guinea]] created in 2021 and attached to the [[Siguiri Prefecture]] in the [[Kankan Region]].
+
+== Education ==
+[[File:SMD-1jpg.png|thumb|CENTER NAFA DEL TOMBA KANSSA ]]
+In partnership with [[Nordgold]], management, the Dinguiraye Mining Company (SMD) is building a technical arts and crafts school in Tomba Kanssa, this NAFA Center (literacy and trade learning center) will contribute to strengthening&nbsp; capacity through functional literacy, training and apprenticeship programs for women and young girls in the sub-prefectures of Tomba Kanssa The objective is to facilitate access to education and improve the quality&nbsp; of education, thus contributing to the fulfillment of the requirements of the government's sectoral policy in the field of education, which has identified as priorities the development of school, recreational and educational infrastructures,<ref>{{Cite web |date=July 25, 2022 |title=SMD/NORDGOLD construit un centre NAFA pour l'autonomisation des Femmes et Jeunes dans la nouvelle Sous-Préfecture de Tombakansa. |url=https://guineenews.org/smd-nordgold-construit-un-centre-nafa-pour-lautonomisation-des-femmes-et-jeunes-dans-la-nouvelle-sous-prefecture-de-tombakansa/ |url-status=live |archive-url=https://web.archive.org/web/20230124024703/https://guineenews.org/smd-nordgold-construit-un-centre-nafa-pour-lautonomisation-des-femmes-et-jeunes-dans-la-nouvelle-sous-prefecture-de-tombakansa/ |archive-date=January 24, 2023 |access-date=February 9, 2023}}</ref>
+
+== Population ==
+In 2016, the number of inhabitants is estimated at 36,965, based on an official extrapolation of the 2014 census which had counted 32,867 inhabitants.<ref>République de Guinée, Institut national de la statistique, ''Annuaire statistique 2016'', {{P.|53}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Siguiri Prefecture}}
+
+{{coord|11|43|N|10|11|W|display=title|region:GN_type:city_source:GNS-enwiki|name=}}
+
+
+[[Category:Sub-prefectures of the Kankan Region]]
+
+
+{{Guinea-geo-stub}}
