@@ -1,0 +1,146 @@
+{{Short description|British statistician (c. 1701 – 1761)}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox scientist
+| honorific_prefix  = [[The Reverend]]
+| name              = Thomas Bayes
+| image             = Thomas Bayes.gif
+| caption           = Only known portrait that is possibly of Bayes from a 1936 book,<ref>Terence O'Donnell, ''History of Life Insurance in Its Formative Years'' (Chicago: American Conservation Co:, 1936), p. 335 (caption "Rev. T. Bayes: Improver of the Columnar Method developed by Barrett.")</ref> but it is doubtful whether the portrait is actually of him.<ref name="portrait">[http://www.york.ac.uk/depts/maths/histstat/bayespic.htm Bayes's  portrait] ''The IMS Bulletin'', Vol. 17 (1988), No. 3, pp. 276–278.</ref><ref>{{Cite journal |last=Bellhouse |first=D. R. |date=2004-02-01 |title=The Reverend Thomas Bayes, FRS: A Biography to Celebrate the Tercentenary of His Birth |url=https://projecteuclid.org/journals/statistical-science/volume-19/issue-1/The-Reverend-Thomas-Bayes-FRS--A-Biography-to-Celebrate/10.1214/088342304000000189.full |journal=Statistical Science |volume=19 |issue=1 |page=3 |doi=10.1214/088342304000000189 |bibcode=2004StaSc..19....3B |issn=0883-4237}}</ref>
+| birth_date        = {{circa}} 1701
+| birth_place       = [[London]], England
+| death_date        = {{Death date and age|df=yes|1761|4|7|1701|7|1}}
+| death_place       = [[Royal Tunbridge Wells]], England
+| field             = [[Probability]]
+| work_institution  = 
+| alma_mater        = [[University of Edinburgh]]
+| doctoral_advisor  = 
+| doctoral_students = 
+| known_for         = [[Bayesian statistics]]<br />[[Bayes' theorem]]<br>[[Conditional probability]]<br>[[Inverse probability]]<br>[[Bayes prior]]<br>[[Bayes factor]]<br>[[Bayesian inference]]<br>[[List of things named after Thomas Bayes|See full list]]
+| author_abbreviation_bot = 
+| author_abbreviation_zoo = 
+| prizes            = 
+| signature         = Bayes sig.svg
+| footnotes         = 
+}}
+
+'''Thomas Bayes''' ({{IPAc-en|b|eɪ|z}} {{respell|BAYZ}} {{Audio|De-Thomas Bayes.ogg|audio}}; {{circa|1701}}{{spaced ndash}} 7 April 1761<ref name="portrait" /><ref>Belhouse, D.R. [http://www2.isye.gatech.edu/~brani/isyebayes/bank/bayesbiog.pdf The Reverend Thomas Bayes FRS: a Biography to Celebrate the Tercentenary of his Birth] {{Webarchive|url=https://web.archive.org/web/20160305115020/http://www2.isye.gatech.edu/~brani/isyebayes/bank/bayesbiog.pdf |date=5 March 2016 }}.</ref>{{NoteTag|name=none}}) was an English [[statistician]], [[philosopher]] and [[Presbyterian minister]] who is known for formulating a specific case of the theorem that bears his name: [[Bayes' theorem]]. Bayes never published what would become his most famous accomplishment; his notes were edited and published posthumously by [[Richard Price]].<ref>McGrayne, Sharon Bertsch. (2011). {{Google books|_Kx5xVGuLRIC|''The Theory That Would Not Die'' p. 10.|page=10}}</ref>
+
+== Biography ==
+[[File:Former Presbyterian Meeting House, Little Mount Sion, Tunbridge Wells.JPG|thumb|200px|Mount Sion Chapel, where Bayes served as minister.]]
+Thomas Bayes was the son of London Presbyterian minister [[Joshua Bayes]],<ref>{{DNB Cite|wstitle=Bayes, Joshua}}</ref> and was possibly born in [[Hertfordshire]].<ref>''[[Oxford Dictionary of National Biography]]'', article on Bayes by A. W. F. Edwards.</ref> He came from a prominent [[Nonconformist (Protestantism)|nonconformist]] family from [[Sheffield]]. In 1719, he enrolled at the [[University of Edinburgh]] to study [[logic]] and theology. On his return around 1722, he assisted his father at the latter's chapel in London before moving to [[Royal Tunbridge Wells|Tunbridge Wells]], Kent, around 1734. There he was minister of the Mount Sion Chapel, until 1752.<ref>{{cite web|url=http://www.york.ac.uk/depts/maths/histstat/bayesbiog.pdf|title = The Reverend Thomas Bayes FRS – A Biography|publisher= Institute of Mathematical Statistics|access-date=18 July 2010}}</ref>
+
+He is known to have published two works in his lifetime, one theological and one mathematical:
+
+#''Divine Benevolence, or an Attempt to Prove That the Principal End of the Divine Providence and Government is the Happiness of His Creatures'' (1731)
+#''An Introduction to the Doctrine of Fluxions, and a Defence of the Mathematicians Against the Objections of the Author of The Analyst'' (published anonymously in 1736), in which he defended the logical foundation of [[Isaac Newton]]'s [[calculus]] ("fluxions") against the criticism by [[George Berkeley]], a bishop and noted philosopher, the author of ''[[The Analyst]]''
+
+Bayes was elected as a [[Fellow of the Royal Society]] in 1742. His nomination letter was signed by [[Philip Stanhope, 2nd Earl Stanhope|Philip Stanhope]], [[Martin Folkes]], [[James Burrow]], [[Cromwell Mortimer]], and [[John Eames]]. It is speculated that he was accepted by the society on the strength of the ''Introduction to the Doctrine of Fluxions'', as he is not known to have published any other mathematical work during his lifetime.<ref>{{cite web|title=Lists of Royal Society Fellows 1660–2007|url=http://royalsociety.org/uploadedFiles/Royal_Society_Content/about-us/fellowship/Fellows1660-2007.pdf|access-date=19 March 2011|publisher=The Royal Society|location=London}}</ref>
+
+In his later years he took a deep interest in probability. Historian [[Stephen Stigler]] thinks that Bayes became interested in the subject while reviewing a work written in 1755 by [[Thomas Simpson]],<ref name="stigler86history">{{cite book|author = Stigler, S. M.|year = 1986|title = The History of Statistics: The Measurement of Uncertainty before 1900.|publisher = [[Harvard University Press]]|isbn = 0-674-40340-1|url-access = registration|url = https://archive.org/details/historyofstatist00stig}}</ref> but [[George Alfred Barnard]] thinks he learned mathematics and probability from a book by [[Abraham de Moivre]].<ref>{{cite journal|author=Barnard, G. A.|title=Thomas Bayes—a biographical note|journal=Biometrika|year=1958|volume=45| pages=293–295|doi=10.2307/2333180|jstor=2333180}}</ref> Others speculate he was motivated to rebut [[David Hume]]'s argument against believing in miracles on the evidence of testimony in ''[[An Enquiry Concerning Human Understanding]]''.<ref>{{cite news |last=Cepelewicz|first=Jordana|title=How a Defense of Christianity Revolutionized Brain Science|url=http://nautil.us/blog/how-a-defense-of-christianity-revolutionized-brain-science|access-date=20 December 2016|work=[[Nautilus (science magazine)]]|date=20 December 2016}}</ref>  His work and findings on probability theory were passed in manuscript form to his friend [[Richard Price]] after his death.
+
+[[File:Bayes-Cotton Tomb at Bunhill Fields - geograph.org.uk - 702746.jpg|thumb|right|Monument to members of the Bayes and Cotton families, including Thomas Bayes and his father Joshua, in [[Bunhill Fields]] burial ground]]
+By 1755, he was ill, and by 1761, he had died in Tunbridge Wells. He was buried in [[Bunhill Fields]] burial ground in Moorgate, London, where many [[Nonconformist (Protestantism)|nonconformist]]s lie.
+
+In 2018, the [[University of Edinburgh]] opened a £45 million research centre connected to its informatics department named after its alumnus, Bayes.<ref name=":0" /> 
+
+In April 2021, it was announced that [[Cass Business School]], whose [[City of London]] campus is on [[Bunhill Row]], was to be renamed after Bayes.<ref name=":0">{{Cite news|title=Cass Business School to be renamed after statistician Thomas Bayes|url=https://www.ft.com/content/0dd561d4-f841-41b8-ac63-529d48ddd1d2 |archive-url=https://ghostarchive.org/archive/20221210/https://www.ft.com/content/0dd561d4-f841-41b8-ac63-529d48ddd1d2 |archive-date=10 December 2022 |url-access=subscription|url-status=live|newspaper=Financial Times|date=21 April 2021 }}</ref>
+
+== Bayes' theorem ==
+{{Main article|Bayes' theorem}}
+
+Bayes's solution to a problem of [[inverse probability]] was presented in ''[[An Essay towards solving a Problem in the Doctrine of Chances]]'', which was read to the [[Royal Society]] in 1763 after Bayes's death. [[Richard Price]] shepherded the work through this presentation and its publication in the ''Philosophical Transactions of the Royal Society of London'' the following year.<ref>{{cite journal|author=Bayes, Thomas|doi=10.1098/rstl.1763.0053|title=An Essay towards solving a Problem in the Doctrine of Chances|journal=Philosophical Transactions|volume=53|year=1763|pages=370–418|s2cid=186213794|doi-access=free}}</ref> This was an argument for using a uniform prior distribution for a binomial parameter and not merely a general postulate.<ref>Edwards, A. W. G. [https://www.jstor.org/pss/4615697 "Commentary on the Arguments of Thomas Bayes,"] ''Scandinavian Journal of Statistics'', Vol. 5, No. 2 (1978), pp. 116–118; retrieved 6 August 2011</ref> This essay gives the following theorem (stated here in present-day terminology).
+<blockquote> Suppose a quantity ''R'' is [[uniform distribution (continuous)|uniformly distributed]] between 0 and&nbsp;1. Suppose each of ''X''<sub>1</sub>,&nbsp;...,&nbsp;''X''<sub>''n''</sub> is equal to either 1 or 0 and the [[conditional probability]] that any of them is equal to&nbsp;1, given the value of ''R'', is&nbsp;''R''. Suppose they are [[conditional independence|conditionally independent]] given the value of&nbsp;''R''. Then the conditional probability distribution of&nbsp;''R'', given the values of ''X''<sub>1</sub>,&nbsp;...,&nbsp;''X''<sub>''n''</sub>, is
+: <math>
+\frac {(n+1)!}{S!(n-S)!} r^S (1-r)^{n-S} \, dr \quad \text{for }0\le r\le 1, \text{ where } S=X_1+\cdots+X_n.
+</math></blockquote>
+Thus, for example,
+: <math> \Pr(R \le r_0 \mid X_1,\ldots,X_n) = \frac{(n+1)!}{S!(n-S)!} \int_0^{r_0} r^S (1-r)^{n-S} \, dr.
+</math>
+
+This is a special case of [[Bayes' theorem]].
+
+In the first decades of the eighteenth century, many problems concerning the probability of certain events, given specified conditions, were solved. For example: given a specified number of white and black balls in an urn, what is the probability of drawing a black ball? Or the converse: given that one or more balls has been drawn, what can be said about the number of white and black balls in the urn? These are sometimes called "[[inverse probability]]" problems.
+
+Bayes's ''Essay'' contains his solution to a similar problem posed by [[Abraham de Moivre]], author of ''[[The Doctrine of Chances]]'' (1718).
+
+In addition, a paper by Bayes on [[asymptotic series]] was published posthumously.
+
+== Bayesianism ==
+[[Bayesian probability]] is the name given to several related interpretations of [[probability]] as an amount of epistemic confidence – the strength of beliefs, hypotheses etc.  – rather than a frequency.  This allows the application of probability to all sorts of propositions rather than just ones that come with a reference class. "Bayesian" has been used in this sense since about 1950. Since its rebirth in the 1950s, advancements in computing technology have allowed scientists from many disciplines to pair traditional Bayesian statistics with [[Markov chain Monte Carlo|random walk]] techniques.  The use of the [[Bayes theorem]] has been extended in science and in other fields.<ref>[[John Allen Paulos|Paulos, John Allen]]. [https://www.nytimes.com/2011/08/07/books/review/the-theory-that-would-not-die-by-sharon-bertsch-mcgrayne-book-review.html?_r=1&scp=1&sq=thomas%20bayes&st=cse  "The Mathematics of Changing Your Mind,"] ''New York Times'' (US). 5 August 2011; retrieved 6 August 2011</ref>
+
+Bayes himself might not have embraced the broad interpretation now called Bayesian, which was in fact pioneered and popularised by [[Pierre-Simon Laplace]];<ref>Stigler, Stephen M. (1986) ''The history of statistics.'', Harvard University press. pp&nbsp;97–98, 131.</ref> it is difficult to assess Bayes's philosophical views on probability, since his essay does not go into questions of interpretation. There, Bayes defines ''probability'' of an event as "the ratio between the value at which an expectation depending on the happening of the event ought to be computed, and the value of the thing expected upon its happening" (Definition 5). In modern [[utility]] theory, the same definition would result by rearranging the definition of expected utility (the probability of an event times the payoff received in case of that event – including the special cases of buying risk for small amounts or buying security for big amounts) to solve for the probability. As Stigler points out,<ref name="stigler86history" /> this is a subjective definition, and does not require repeated events; however, it does require that the event in question be observable, for otherwise it could never be said to have "happened". Stigler argues that Bayes intended his results in a more limited way than modern Bayesians. Given Bayes's definition of probability, his result concerning the parameter of a [[binomial distribution]] makes sense only to the extent that one can bet on its observable consequences.
+
+The philosophy of Bayesian statistics is at the core of almost every modern estimation approach that includes conditioned probabilities, such as sequential estimation, probabilistic machine learning techniques, risk assessment, simultaneous localization and mapping, regularization or information theory. The rigorous axiomatic framework for probability theory as a whole, however, was developed 200 years later during the early and middle 20th century, starting with insightful results in [[ergodic theory]] by [[Plancherel]] in 1913.{{Citation needed|date=April 2021}}
+
+==See also==
+{{cols|colwidth=26em}}
+* [[Bayesian epistemology]]
+* [[Bayesian inference]]
+* [[Bayesian network]]  
+* [[Bayesian statistics]]  
+* [[Development of doctrine]]  
+* ''[[Grammar of Assent]]''
+* [[Judea Pearl]] 
+* [[Probabiliorism]]  
+* [[Theory-theory]]
+{{colend}}
+
+== Notes ==
+{{NoteFoot
+|notes =
+{{NoteTag|name=none|1= Bayes's tombstone says he died at 59 years of age on 7 April 1761, so he was born in either 1701 or 1702. Some sources erroneously write the death date as 17 April, but these sources all seem to stem from a clerical error duplicated; no evidence argues in favour of a 17 April death date.  Bayes's birth date is unknown, likely due to the fact he was baptised in a Dissenting church, which either did not keep or was unable to preserve its baptismal records; ''accord'' [[Royal Society]] Library and Archive catalogue, <!--[http://www2.royalsociety.org/DServe/dserve.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqSearch=RefNo==%27IM%2F000298%27&dsqDb=Catalog  Thomas Bayes (1701–1761)]{{dead link|date=April 2015}}-->
+[https://collections.royalsociety.org/DServe.exe?dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Persons&dsqPos=0&dsqSearch=%28%28text%29%3D%27thomas%20bayes%27%29  Thomas Bayes (1701–1761)]<!--{{updated link|date=August 2015}}--><ref name="portrait" />}}
+}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* Thomas Bayes, "[http://www.stat.ucla.edu/history/essay.pdf An essay towards solving a Problem in the Doctrine of Chances.] {{Webarchive|url=https://web.archive.org/web/20110410085940/http://www.stat.ucla.edu/history/essay.pdf |date=10 April 2011 }}" Bayes's essay in the original notation.
+* Thomas Bayes, 1763, "[https://books.google.com/books?id=j0JFAAAAcAAJ&pg=PA370 An essay towards solving a Problem in the Doctrine of Chances.]" Bayes's essay as published in the Philosophical Transactions of the Royal Society of London, Vol. 53, p.&nbsp;370, on Google Books.
+* Thomas Bayes, 1763, "[http://www.york.ac.uk/depts/maths/histstat/letter.pdf A letter to John Canton]," ''Phil. Trans. Royal Society London'' 53: 269–71.
+* D. R. Bellhouse,{{cite web |url=http://www.stats.uwo.ca/faculty/bellhouse/bayesmss.pdf |title=On Some Recently Discovered Manuscripts of Thomas Bayes |access-date=2003-12-27 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20041106225211/http://www.stats.uwo.ca/faculty/bellhouse/bayesmss.pdf |archive-date=6 November 2004 |df=dmy }}.
+* D. R. Bellhouse, 2004, "[http://www.york.ac.uk/depts/maths/histstat/bayesbiog.pdf The Reverend Thomas Bayes, FRS: A Biography to Celebrate the Tercentenary of His Birth]," ''Statistical Science'' 19 (1): 3–43.
+*[[F. Thomas Bruss]] (2013), "250 years of 'An Essay towards solving a Problem in the Doctrine of Chance. By the late Rev. Mr. Bayes, communicated by Mr. Price, in a letter to John Canton, A. M. F. R. S.' ", {{doi|10.1365/s13291-013-0077-z}}, Jahresbericht der Deutschen Mathematiker-Vereinigung, Springer Verlag, Vol. 115, Issue 3–4 (2013), 129–133.
+* Dale, Andrew I. (2003.)  "Most Honourable Remembrance: The Life and Work of Thomas Bayes".  {{ISBN|0-387-00499-8}}. Springer, 2003.
+* ____________. "An essay towards solving a problem in the doctrine of chances" in [[Ivor Grattan-Guinness|Grattan-Guinness, I.]], ed., ''Landmark Writings in Western Mathematics''. Elsevier: 199–207. (2005).
+* Michael Kanellos. [http://news.cnet.com/Old-school+theory+is+a+new+force/2009-1001_3-984695.html "18th-century theory is new force in computing"] CNET News, 18 February 2003.
+* McGrayne, Sharon Bertsch. (2011). ''The Theory That Would Not Die: How Bayes's Rule Cracked The Enigma Code, Hunted Down Russian Submarines, & Emerged Triumphant from Two Centuries of Controversy.'' New Haven: Yale University Press. {{ISBN|9780300169690}} [https://www.worldcat.org/oclc/670481486  OCLC 670481486]
+* [[Stephen Stigler|Stigler, Stephen M.]] [https://www.jstor.org/stable/2981538 "Thomas Bayes's Bayesian Inference,"] ''[[Journal of the Royal Statistical Society]]'', Series A, 145:250–258, 1982.
+* ____________. "Who Discovered Bayes's Theorem?" ''The American Statistician'', 37(4):290–296, 1983.
+{{refend}}
+
+== External links ==
+* [http://yourarchives.nationalarchives.gov.uk/index.php?title=Will_of_Thomas_Bayes_of_Tonbridge_Wells_%2C_Kent%2C_1761_PROB_11/865 The will of Thomas Bayes 1761]
+* [https://zbmath.org/authors/?q=ai:bayes.thomas Author profile] in the database [[Zentralblatt MATH|zbMATH]]
+* Full text of [https://books.google.com/books?id=isRNAQAAMAAJ Divine Benevolence: Or, An Attempt to Prove that the Principal End of the Divine Providence and Government is the Happiness of His Creatures...]
+* Full text of [https://books.google.com/books?id=7H0UAAAAQAAJ An Introduction to the Doctrine of Fluxions, And Defence of the Mathematicians Against the Objections of the Author of the Analyst, So Far as They are Designed to Affect Their General Methods of Reasoning]
+
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bayes, Thomas}}
+[[Category:1701 births]]
+[[Category:1761 deaths]]
+[[Category:18th-century English mathematicians]]
+[[Category:18th-century English non-fiction writers]]
+[[Category:18th-century essayists]]
+[[Category:18th-century philosophers]]
+[[Category:18th-century English Presbyterian ministers]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Bayesian statisticians]]
+[[Category:Burials at Bunhill Fields]]
+[[Category:English Christians]]
+[[Category:English male non-fiction writers]]
+[[Category:English philosophers]]
+[[Category:English Presbyterian ministers]]
+[[Category:English statisticians]]
+[[Category:British epistemologists]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Mathematicians from London]]
+[[Category:People from Royal Tunbridge Wells]]
+[[Category:Philosophers of mathematics]]
+[[Category:Philosophers of religion]]
+[[Category:Probability theorists]]
