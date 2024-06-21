@@ -1,0 +1,784 @@
+{{Short description|Type of topological vector space}}
+{{For|the space-filling curve|Hilbert curve}}
+[[File:Standing waves on a string.gif|thumb|The state of a [[vibrating string]] can be modeled as a point in a Hilbert space. The decomposition of a vibrating string into its vibrations in distinct [[overtone]]s is given by the projection of the point onto the [[coordinate axes]] in the space.]]
+
+In [[mathematics]], '''Hilbert spaces''' (named after [[David Hilbert]]) allow the methods of [[linear algebra]] and [[calculus]] to be generalized from (finite-dimensional) [[Euclidean vector space]]s to spaces that may be [[infinite-dimensional]]. Hilbert spaces arise naturally and frequently in mathematics and [[physics]], typically as [[function space]]s. Formally, a Hilbert space is a [[vector space]] equipped with an [[inner product]] that induces a [[distance function]] for which the space is a [[complete metric space]]. A Hilbert space is a special case of a [[Banach space]].
+
+The earliest Hilbert spaces were studied from this point of view in the first decade of the 20th century by [[David Hilbert]], [[Erhard Schmidt]], and [[Frigyes Riesz]]. They are indispensable tools in the theories of [[partial differential equation]]s, [[mathematical formulation of quantum mechanics|quantum mechanics]], [[Fourier analysis]] (which includes applications to [[signal processing]] and [[heat transfer]]), and [[ergodic theory]] (which forms the mathematical underpinning of [[thermodynamics]]). [[John von Neumann]] coined the term ''Hilbert space'' for the abstract concept that underlies many of these diverse applications. The success of Hilbert space methods ushered in a very fruitful era for [[functional analysis]]. Apart from the classical Euclidean vector spaces, examples of Hilbert spaces include [[Square-integrable function|spaces of square-integrable functions]], [[Sequence space|spaces of sequences]], [[Sobolev space]]s consisting of [[generalized function]]s, and [[Hardy space]]s of [[holomorphic function]]s.
+
+Geometric intuition plays an important role in many aspects of Hilbert space theory. Exact analogs of the [[Pythagorean theorem]] and [[parallelogram law]] hold in a Hilbert space. At a deeper level, [[perpendicular]] [[Projection (linear algebra)|projection]] onto a [[linear subspace]] plays a significant role in [[Mathematical optimization|optimization]] problems and other aspects of the theory. An element of a Hilbert space can be uniquely specified by its coordinates with respect to an [[orthonormal basis]], in analogy with [[Cartesian coordinates]] in classical geometry. When this [[Basis (linear algebra)|basis]] is [[countably infinite]], it allows identifying the Hilbert space with the space of the [[infinite sequence]]s that are [[Square-integrable function|square-summable]]. The latter space is often in the older literature referred to as ''the'' Hilbert space.
+
+==Definition and illustration==
+
+===Motivating example: Euclidean vector space===
+One of the most familiar examples of a Hilbert space is the [[Euclidean vector space]] consisting of three-dimensional [[Euclidean vector|vectors]], denoted by {{math|'''R'''<sup>3</sup>}}, and equipped with the [[dot product]]. The dot product takes two vectors {{math|'''x'''}} and {{math|'''y'''}}, and produces a real number {{math|'''x''' ⋅ '''y'''}}. If {{math|'''x'''}} and {{math|'''y'''}} are represented in [[Cartesian coordinates]], then the dot product is defined by
+<math display="block">\begin{pmatrix} x_1 \\ x_2 \\ x_3 \end{pmatrix} \cdot \begin{pmatrix} y_1 \\ y_2 \\ y_3 \end{pmatrix} = x_1 y_1 + x_2 y_2 + x_3 y_3 \,.</math>
+
+The dot product satisfies the properties<ref>{{harvnb|Axler|2014|loc=p. 164 §6.2}}</ref>
+# It is [[Symmetric relation|symmetric]] in {{math|'''x'''}} and {{math|'''y'''}}: {{math|1='''x''' ⋅ '''y''' = '''y''' ⋅ '''x'''}}.
+# It is [[linear function|linear]] in its first argument: {{math|1=(''a'''''x'''<sub>1</sub> + ''b'''''x'''<sub>2</sub>) ⋅ '''y''' = ''a''('''x'''<sub>1</sub> ⋅ '''y''') + ''b''('''x'''<sub>2</sub> ⋅ '''y''')}} for any [[Scalar (mathematics)|scalars]] {{mvar|a}}, {{mvar|b}}, and vectors {{math|'''x'''<sub>1</sub>}}, {{math|'''x'''<sub>2</sub>}}, and {{math|'''y'''}}.<!-- Is it linear in its second argument as well? -->
+# It is [[Definite bilinear form|positive definite]]: for all vectors {{math|'''x'''}}, {{math|'''x''' ⋅ '''x''' ≥ 0 }}, with equality [[if and only if]] {{math|1= '''x''' = '''0'''}}.
+
+An operation on pairs of vectors that, like the dot product, satisfies these three properties is known as a (real) [[inner product]]. A [[vector space]] equipped with such an inner product is known as a (real) [[inner product space]]. Every finite-dimensional inner product space is also a Hilbert space.<ref>However, some sources call finite-dimensional spaces with these properties pre-Hilbert spaces, reserving the term "Hilbert space" for infinite-dimensional spaces; see, e.g., {{harvnb|Levitan|2001}}.</ref> The basic feature of the dot product that connects it with Euclidean geometry is that it is related to both the length (or [[norm (mathematics)|norm]]) of a vector, denoted {{math|{{norm|'''x'''}}}}, and to the angle {{mvar|θ}} between two vectors {{math|'''x'''}} and {{math|'''y'''}} by means of the formula
+<math display="block">\mathbf{x}\cdot\mathbf{y} = \left\|\mathbf{x}\right\| \left\|\mathbf{y}\right\| \, \cos\theta \,.</math>
+
+[[File:Completeness in Hilbert space.png|thumb|right|Completeness means that if a particle moves along the broken path (in blue) travelling a finite total distance, then the particle has a [[Well defined|well-defined]] net displacement (in orange).]]
+[[Multivariable calculus]] in Euclidean space relies on the ability to compute [[limit (mathematics)|limits]], and to have useful criteria for concluding that limits exist. A [[Series (mathematics)|mathematical series]]
+<math display="block">\sum_{n=0}^\infty \mathbf{x}_n</math>
+consisting of vectors in {{math|'''R'''<sup>3</sup>}} is [[absolute convergence|absolutely convergent]] provided that the sum of the lengths converges as an ordinary series of real numbers:<ref>{{harvnb|Marsden|1974|loc=§2.8}}</ref>
+<math display="block">\sum_{k=0}^\infty \|\mathbf{x}_k\| < \infty \,.</math>
+
+Just as with a series of scalars, a series of vectors that converges absolutely also converges to some limit vector {{math|'''L'''}} in the Euclidean space, in the sense that
+<math display="block">\Biggl\| \mathbf{L} - \sum_{k=0}^N \mathbf{x}_k \Biggr\| \to 0 \quad \text{as } N \to\infty \,.</math>
+
+This property expresses the ''completeness'' of Euclidean space: that a series that converges absolutely also converges in the ordinary sense.
+
+Hilbert spaces are often taken over the [[complex number]]s. The [[complex plane]] denoted by {{math|'''C'''}} is equipped with a notion of magnitude, the [[absolute value|complex modulus]] {{math|{{abs|''z''}}}}, which is defined as the square root of the product of {{mvar|z}} with its [[complex conjugate]]:
+<math display="block">|z|^2 = z\overline{z} \,.</math>
+
+If {{math|1=''z'' = ''x'' + ''iy''}} is a decomposition of {{mvar|z}} into its real and imaginary parts, then the modulus is the usual Euclidean two-dimensional length:
+<math display="block">|z| = \sqrt{x^2 + y^2} \,.</math>
+
+The inner product of a pair of complex numbers {{mvar|z}} and {{mvar|w}} is the product of {{mvar|z}} with the complex conjugate of {{mvar|w}}:
+<math display="block">\langle z, w\rangle = z\overline{w}\,.</math>
+
+This is complex-valued. The real part of {{math|⟨''z'', ''w''⟩}} gives the usual two-dimensional Euclidean [[dot product]].
+
+A second example is the space {{math|'''C'''<sup>2</sup>}} whose elements are pairs of complex numbers {{math|1=''z'' = (''z''<sub>1</sub>, ''z''<sub>2</sub>)}}. Then the inner product of {{mvar|z}} with another such vector {{math|1=''w'' = (''w''<sub>1</sub>, ''w''<sub>2</sub>)}} is given by
+<math display="block">\langle z, w\rangle = z_1\overline{w_1} + z_2\overline{w_2}\,.</math>
+
+The real part of {{math|⟨''z'', ''w''⟩}} is then the two-dimensional Euclidean dot product. This inner product is ''Hermitian'' symmetric, which means that the result of interchanging {{mvar|z}} and {{mvar|w}} is the complex conjugate:
+<math display="block">\langle w, z\rangle = \overline{\langle z, w\rangle}\,.</math>
+
+===Definition===
+A {{em|Hilbert space}} is a [[real number|real]] or [[complex number|complex]] [[inner product space]] that is also a [[complete metric space]] with respect to the distance function [[Induced topology|induced]] by the inner product.<ref name="General">The mathematical material in this section can be found in any good textbook on functional analysis, such as {{Harvtxt|Dieudonné|1960}}, {{Harvtxt|Hewitt|Stromberg|1965}}, {{Harvtxt|Reed|Simon|1980}} or {{Harvtxt|Rudin|1987}}.</ref>
+
+To say that a complex vector space {{math|''H''}} is a {{em|complex inner product space}} means that there is an inner product <math>\langle x, y \rangle</math> associating a complex number to each pair of elements <math>x, y</math> of {{math|''H''}} that satisfies the following properties:
+# The inner product is conjugate symmetric; that is, the inner product of a pair of elements is equal to the [[complex conjugate]] of the inner product of the swapped elements: <math display=block> \langle y, x\rangle = \overline{\langle x, y\rangle}\,.</math> Importantly, this implies that <math>\langle x, x\rangle</math> is a real number.
+# The inner product is [[linear functional|linear]] in its first<ref group=nb>In some conventions, inner products are linear in their second arguments instead.</ref> argument. For all complex numbers <math>a</math> and <math>b,</math> <math display=block> \langle ax_1 + bx_2, y\rangle = a\langle x_1, y\rangle + b\langle x_2, y\rangle\,.</math>
+# The inner product of an element with itself is [[definite bilinear form|positive definite]]: <math display=block>\begin{alignat}{4}
+  \langle x, x\rangle > 0 & \quad \text{ if } x \neq 0, \\
+  \langle x, x\rangle = 0 & \quad \text{ if } x = 0\,.
+\end{alignat}</math>
+
+It follows from properties 1 and 2 that a complex inner product is {{em|[[Antilinear map|antilinear]]}}, also called {{em|conjugate linear}}, in its second argument, meaning that
+<math display=block>\langle x, ay_1 + by_2\rangle = \bar{a}\langle x, y_1\rangle + \bar{b}\langle x, y_2\rangle\,.</math>
+
+A {{em|real inner product space}} is defined in the same way, except that {{math|''H''}} is a real vector space and the inner product takes real values. Such an inner product will be a [[bilinear map]] and <math>(H, H, \langle \cdot, \cdot \rangle)</math> will form a [[dual system]].{{sfn|Schaefer|Wolff|1999|pp=122-202}}
+
+The [[norm (mathematics)|norm]] is the real-valued function
+<math display=block>\|x\| = \sqrt{\langle x, x \rangle}\,,</math>
+and the distance <math>d</math> between two points <math>x, y</math> in {{math|''H''}} is defined in terms of the norm by
+<math display=block>d(x, y) = \|x - y\| = \sqrt{\langle x - y, x - y \rangle}\,.</math>
+
+That this function is a distance function means firstly that it is symmetric in <math>x</math> and <math>y,</math> secondly that the distance between <math>x</math> and itself is zero, and otherwise the distance between <math>x</math> and <math>y</math> must be positive, and lastly that the [[triangle inequality]] holds, meaning that the length of one leg of a triangle {{math|''xyz''}} cannot exceed the sum of the lengths of the other two legs:
+<math display=block>d(x, z) \leq d(x, y) + d(y, z)\,.</math>
+:[[File:Triangle inequality in a metric space.svg|300px|none]]
+
+This last property is ultimately a consequence of the more fundamental [[Cauchy–Schwarz inequality]], which asserts
+<math display=block>\left|\langle x, y\rangle\right| \leq \|x\| \|y\|</math>
+with equality if and only if <math>x</math> and <math>y</math> are [[linear independence|linearly dependent]].
+
+With a distance function defined in this way, any inner product space is a [[metric space]], and sometimes is known as a {{em|Hausdorff pre-Hilbert space}}.<ref>{{harvnb|Dieudonné|1960|loc=§6.2}}</ref> Any pre-Hilbert space that is additionally also a [[complete space]] is a Hilbert space.<ref>{{harvnb|Roman|2008|loc=p. 327}}</ref>
+
+The {{em|[[Complete metric space|completeness]]}} of {{math|''H''}} is expressed using a form of the [[Cauchy criterion]] for sequences in {{math|''H''}}: a pre-Hilbert space {{math|''H''}} is complete if every [[Cauchy sequence]] [[limit (mathematics)|converges with respect to this norm]] to an element in the space. Completeness can be characterized by the following equivalent condition: if a series of vectors
+<math display=block>\sum_{k=0}^\infty u_k</math>
+[[Absolute convergence|converges absolutely]] in the sense that
+<math display=block>\sum_{k=0}^\infty\|u_k\| < \infty\,,</math>
+then the series converges in {{math|''H''}}, in the sense that the [[partial sums]] converge to an element of {{math|''H''}}.<ref>{{harvnb|Roman|2008|loc=p. 330 Theorem 13.8}}</ref>
+
+As a complete normed space, Hilbert spaces are by definition also [[Banach space]]s. As such they are [[topological vector space]]s, in which [[topology|topological]] notions like the [[open set|openness]] and [[closed set|closedness]] of subsets are [[Well-defined expression|well defined]]. Of special importance is the notion of a closed [[linear subspace]] of a Hilbert space that, with the inner product induced by [[Restriction (mathematics)|restriction]], is also complete (being a closed set in a complete metric space) and therefore a Hilbert space in its own right.
+
+===Second example: sequence spaces===
+The [[sequence space]] {{math|''l''<sup>2</sup>}} consists of all [[sequence (mathematics)|infinite sequences]] {{math|1='''z''' = (''z''<sub>1</sub>, ''z''<sub>2</sub>, …)}} of complex numbers such that the following series [[convergent series|converges]]:<ref name="Stein 2005">{{harvnb|Stein|Shakarchi|2005|p=163}}</ref>
+<math display="block">\sum_{n=1}^\infty |z_n|^2</math>
+
+The inner product on {{math|''l''<sup>2</sup>}} is defined by:
+<math display="block">\langle \mathbf{z}, \mathbf{w}\rangle = \sum_{n=1}^\infty z_n\overline{w_n}\,,</math>
+
+This second series converges as a consequence of the [[Cauchy–Schwarz inequality]] and the convergence of the previous series.
+
+Completeness of the space holds provided that whenever a series of elements from {{math|''l''<sup>2</sup>}} converges absolutely (in norm), then it converges to an element of {{math|''l''<sup>2</sup>}}. The proof is basic in [[mathematical analysis]], and permits mathematical series of elements of the space to be manipulated with the same ease as series of complex numbers (or vectors in a finite-dimensional Euclidean space).<ref>{{harvnb|Dieudonné|1960}}</ref>
+
+==History==
+[[File:Hilbert.jpg|thumb|right|[[David Hilbert]]]]
+Prior to the development of Hilbert spaces, other generalizations of Euclidean spaces were known to [[mathematician]]s and [[physicist]]s. In particular, the idea of an [[vector space|abstract linear space (vector space)]] had gained some traction towards the end of the 19th century:<ref>Largely from the work of [[Hermann Grassmann]], at the urging of [[August Ferdinand Möbius]] {{harv|Boyer|Merzbach|1991|pp=584–586}}. The first modern axiomatic account of abstract vector spaces ultimately appeared in [[Giuseppe Peano]]'s 1888 account ({{harvnb|Grattan-Guinness|2000|loc=§5.2.2}}; {{harvnb|O'Connor|Robertson|1996}}).</ref> this is a space whose elements can be added together and multiplied by scalars (such as [[real numbers|real]] or [[complex numbers]]) without necessarily identifying these elements with [[vector (geometric)|"geometric" vectors]], such as position and momentum vectors in physical systems. Other objects studied by mathematicians at the turn of the 20th century, in particular spaces of [[sequence (mathematics)|sequences]] (including [[series (mathematics)|series]]) and spaces of functions,<ref>A detailed account of the history of Hilbert spaces can be found in {{harvnb|Bourbaki|1987}}.</ref> can naturally be thought of as linear spaces. Functions, for instance, can be added together or multiplied by constant scalars, and these operations obey the algebraic laws satisfied by addition and scalar multiplication of spatial vectors.
+
+In the first decade of the 20th century, parallel developments led to the introduction of Hilbert spaces. The first of these was the observation, which arose during [[David Hilbert]] and [[Erhard Schmidt]]'s study of [[integral equations]],<ref>{{harvnb|Schmidt|1908}}</ref> that two [[square-integrable]] real-valued functions {{mvar|f}} and {{mvar|g}} on an interval {{math|[''a'', ''b'']}} have an ''inner product''
+
+: <math>\langle f, g \rangle = \int_a^b f(x)g(x)\, \mathrm{d}x</math>
+
+which has many of the familiar properties of the Euclidean dot product. In particular, the idea of an [[orthogonality|orthogonal]] family of functions has meaning. Schmidt exploited the similarity of this inner product with the usual dot product to prove an analog of the [[spectral theorem|spectral decomposition]] for an operator of the form
+
+: <math>f(x) \mapsto \int_a^b K(x, y) f(y)\, \mathrm{d}y</math>
+
+where {{mvar|K}} is a continuous function symmetric in {{mvar|x}} and {{mvar|y}}. The resulting [[eigenfunction expansion]] expresses the function {{mvar|K}} as a series of the form
+
+: <math>K(x, y) = \sum_n \lambda_n\varphi_n(x)\varphi_n(y)</math>
+
+where the functions {{mvar|φ<sub>n</sub>}} are orthogonal in the sense that {{math|1=⟨''φ''<sub>''n''</sub>, ''φ''<sub>''m''</sub>⟩ = 0}} for all {{math|''n'' ≠ ''m''}}. The individual terms in this series are sometimes referred to as elementary product solutions. However, there are eigenfunction expansions that fail to converge in a suitable sense to a square-integrable function: the missing ingredient, which ensures convergence, is completeness.<ref>{{harvnb|Titchmarsh|1946|loc=§IX.1}}</ref>
+
+The second development was the [[Lebesgue integral]], an alternative to the [[Riemann integral]] introduced by [[Henri Lebesgue]] in 1904.<ref>{{harvnb|Lebesgue|1904}}. Further details on the history of integration theory can be found in {{harvtxt|Bourbaki|1987}} and {{harvtxt|Saks|2005}}.</ref> The Lebesgue integral made it possible to integrate a much broader class of functions. In 1907, [[Frigyes Riesz]] and [[Ernst Sigismund Fischer]] independently proved that the space {{math|''L''<sup>2</sup>}} of square Lebesgue-integrable functions is a [[complete metric space]].<ref>{{harvnb|Bourbaki|1987}}.</ref> As a consequence of the interplay between geometry and completeness, the 19th century results of [[Joseph Fourier]], [[Friedrich Bessel]] and [[Marc-Antoine Parseval]] on [[trigonometric series]] easily carried over to these more general spaces, resulting in a geometrical and analytical apparatus now usually known as the [[Riesz–Fischer theorem]].<ref>{{harvnb|Dunford|Schwartz|1958|loc=§IV.16}}</ref>
+
+Further basic results were proved in the early 20th century. For example, the [[Riesz representation theorem]] was independently established by [[Maurice Fréchet]] and [[Frigyes Riesz]] in 1907.<ref>In {{harvtxt|Dunford|Schwartz|1958|loc=§IV.16}}, the result that every linear functional on {{math|''L''<sup>2</sup>[0,1]}} is represented by integration is jointly attributed to {{harvtxt|Fréchet|1907}} and {{harvtxt|Riesz|1907}}. The general result, that the dual of a Hilbert space is identified with the Hilbert space itself, can be found in {{harvtxt|Riesz|1934}}.</ref> [[John von Neumann]] coined the term ''abstract Hilbert space'' in his work on unbounded [[Self-adjoint operator|Hermitian operators]].<ref>{{Harvnb|von Neumann|1929}}.</ref> Although other mathematicians such as [[Hermann Weyl]] and [[Norbert Wiener]] had already studied particular Hilbert spaces in great detail, often from a physically motivated point of view, von Neumann gave the first complete and axiomatic treatment of them.<ref>{{harvnb|Kline|1972|p=1092}}</ref> Von Neumann later used them in his seminal work on the foundations of quantum mechanics,<ref>{{Harvnb|Hilbert|Nordheim|von Neumann|1927}}</ref> and in his continued work with [[Eugene Wigner]]. The name "Hilbert space" was soon adopted by others, for example by Hermann Weyl in his book on quantum mechanics and the theory of groups.<ref name="Weyl31">{{Harvnb|Weyl|1931}}.</ref>
+
+The significance of the concept of a Hilbert space was underlined with the realization that it offers one of the best [[mathematical formulation of quantum mechanics|mathematical formulations of quantum mechanics]].<ref>{{harvnb|Prugovečki|1981|pp=1–10}}.</ref> In short, the states of a quantum mechanical system are vectors in a certain Hilbert space, the observables are [[hermitian operator]]s on that space, the [[symmetry|symmetries]] of the system are [[unitary operator]]s, and [[quantum measurement|measurements]] are [[orthogonal projection]]s. The relation between quantum mechanical symmetries and unitary operators provided an impetus for the development of the [[unitary representation|unitary]] [[representation theory]] of [[group (mathematics)|groups]], initiated in the 1928 work of Hermann Weyl.<ref name="Weyl31" /> On the other hand, in the early 1930s it became clear that classical mechanics can be described in terms of Hilbert space ([[Koopman–von Neumann classical mechanics]]) and that certain properties of classical [[dynamical systems]] can be analyzed using Hilbert space techniques in the framework of [[ergodic theory]].<ref name="von Neumann 1932">{{harvnb|von Neumann|1932}}</ref>
+
+The algebra of [[observable]]s in quantum mechanics is naturally an algebra of operators defined on a Hilbert space, according to [[Werner Heisenberg]]'s [[matrix mechanics]] formulation of quantum theory.<ref>{{harvnb|Peres|1993|pp=79–99}}.</ref> Von Neumann began investigating [[operator algebra]]s in the 1930s, as [[ring (mathematics)|rings]] of operators on a Hilbert space. The kind of algebras studied by von Neumann and his contemporaries are now known as [[von Neumann algebra]]s.<ref>{{harvnb|Murphy|1990|p=112}}</ref> In the 1940s, [[Israel Gelfand]], [[Mark Naimark]] and [[Irving Segal]] gave a definition of a kind of operator algebras called [[C*-algebra]]s that on the one hand made no reference to an underlying Hilbert space, and on the other extrapolated many of the useful features of the operator algebras that had previously been studied. The spectral theorem for self-adjoint operators in particular that underlies much of the existing Hilbert space theory was generalized to C*-algebras.<ref>{{harvnb|Murphy|1990|p=72}}</ref> These techniques are now basic in abstract harmonic analysis and representation theory.
+
+==Examples==
+
+===Lebesgue spaces===
+{{Main|Lp space|l1={{mvar|L<sup>p</sup>}} space}}
+
+Lebesgue spaces are [[function space]]s associated to [[measure (mathematics)|measure spaces]] {{math|(''X'', ''M'', ''μ'')}}, where {{math|''X''}} is a set, {{math|''M''}} is a [[Sigma-algebra|σ-algebra]] of subsets of {{math|''X''}}, and {{math|''μ''}} is a [[countably additive measure]] on {{math|''M''}}. Let {{math|''L''<sup>2</sup>(''X'', ''μ'')}} be the space of those complex-valued measurable functions on {{math|''X''}} for which the [[Lebesgue integration|Lebesgue integral]] of the square of the [[absolute value]] of the function is finite, i.e., for a function {{math|''f''}} in {{math|''L''<sup>2</sup>(''X'', ''μ'')}},
+<math display="block"> \int_X |f|^2 \mathrm{d} \mu < \infty \,, </math>
+and where functions are identified if and only if they differ only on a [[null set|set of measure zero]].
+
+The inner product of functions {{math|''f''}} and {{math|''g''}} in {{math|''L''<sup>2</sup>(''X'', ''μ'')}} is then defined as
+<math display="block">\langle f, g\rangle = \int_X f(t) \overline{g(t)} \, \mathrm{d} \mu(t) </math> or <math display="block"> \langle f, g\rangle = \int_X \overline{f(t)} g(t) \, \mathrm{d} \mu(t) \,,</math>
+
+where the second form (conjugation of the first element) is commonly found in the [[theoretical physics]] literature. For {{math|''f''}} and {{math|''g''}} in {{math|''L''<sup>2</sup>}}, the integral exists because of the Cauchy–Schwarz inequality, and defines an inner product on the space. Equipped with this inner product, {{math|''L''<sup>2</sup>}} is in fact complete.<ref>{{Harvnb|Halmos|1957|loc=Section 42}}.</ref> The Lebesgue integral is essential to ensure completeness: on domains of real numbers, for instance, not enough functions are [[Riemann integral|Riemann integrable]].<ref>{{Harvnb|Hewitt|Stromberg|1965}}.</ref>
+
+The Lebesgue spaces appear in many natural settings. The spaces {{math|''L''<sup>2</sup>('''R''')}} and {{math|''L''<sup>2</sup>([0,1])}} of square-integrable functions with respect to the [[Lebesgue measure]] on the real line and unit interval, respectively, are natural domains on which to define the Fourier transform and Fourier series. In other situations, the measure may be something other than the ordinary Lebesgue measure on the real line. For instance, if {{math|''w''}} is any positive measurable function, the space of all measurable functions {{math|''f''}} on the interval {{math|[0, 1]}} satisfying
+<math display="block">\int_0^1 \bigl|f(t)\bigr|^2 w(t)\, \mathrm{d}t < \infty</math>
+is called the [[Lp space#Weighted Lp spaces|weighted {{math|''L''<sup>2</sup>}} space]] {{math|''L''{{su|p=2|b=''w''|lh=0.8em}}([0, 1])}}, and {{math|''w''}} is called the weight function. The inner product is defined by
+<math display="block">\langle f, g\rangle = \int_0^1 f(t) \overline{g(t)} w(t) \, \mathrm{d}t \,.</math>
+
+The weighted space {{math|''L''{{su|p=2|b=''w''|lh=0.8em}}([0, 1])}} is identical with the Hilbert space {{math|''L''<sup>2</sup>([0, 1], ''μ'')}} where the measure {{math|''μ''}} of a Lebesgue-measurable set {{math|''A''}} is defined by
+<math display="block">\mu(A) = \int_A w(t)\,\mathrm{d}t \,.</math>
+
+Weighted {{math|''L''<sup>2</sup>}} spaces like this are frequently used to study [[orthogonal polynomials]], because different families of orthogonal polynomials are orthogonal with respect to different weighting functions.<ref>{{Abramowitz_Stegun_ref|22|773}}</ref>
+
+===Sobolev spaces===
+[[Sobolev space]]s, denoted by {{math|''H''{{i sup|''s''}}}} or {{math|''W''{{i sup|''s'', 2}}}}, are Hilbert spaces. These are a special kind of [[function space]] in which [[derivative|differentiation]] may be performed, but that (unlike other [[Banach spaces]] such as the [[Hölder space]]s) support the structure of an inner product. Because differentiation is permitted, Sobolev spaces are a convenient setting for the theory of [[partial differential equations]].<ref name="BeJoSc81" /> They also form the basis of the theory of [[Direct method in calculus of variations|direct methods in the calculus of variations]].<ref>{{Harvnb|Giusti|2003}}.<!--Find a reference more specific to the case p=2--></ref>
+
+For {{math|''s''}} a non-negative [[integer]] and {{math|Ω ⊂ '''R'''<sup>''n''</sup>}}, the Sobolev space {{math|''H''<sup>''s''</sup>(Ω)}} contains {{math|''L''<sup>2</sup>}} functions whose [[weak derivative]]s of order up to {{math|''s''}} are also {{math|''L''<sup>2</sup>}}. The inner product in {{math|''H''<sup>''s''</sup>(Ω)}} is
+<math display="block">\langle f, g\rangle = \int_\Omega f(x)\bar{g}(x)\,\mathrm{d}x + \int_\Omega D f(x)\cdot D\bar{g}(x)\,\mathrm{d}x + \cdots + \int_\Omega D^s f(x)\cdot D^s \bar{g}(x)\, \mathrm{d}x</math>
+where the dot indicates the dot product in the Euclidean space of partial derivatives of each order. Sobolev spaces can also be defined when {{math|''s''}} is not an integer.
+
+Sobolev spaces are also studied from the point of view of spectral theory, relying more specifically on the Hilbert space structure. If {{math|Ω}} is a suitable domain, then one can define the Sobolev space {{math|''H''<sup>''s''</sup>(Ω)}} as the space of [[Bessel potential]]s;<ref>{{harvnb|Stein|1970}}</ref> roughly,
+<math display="block">H^s(\Omega) = \left\{ (1-\Delta)^{-s/2}f \mathrel{\Big|} f\in L^2(\Omega)\right\} \,.</math>
+
+Here {{math|Δ}} is the Laplacian and {{math|(1 − Δ)<sup>−''s''&hairsp;/&hairsp;2</sup>}} is understood in terms of the [[spectral mapping theorem]]. Apart from providing a workable definition of Sobolev spaces for non-integer {{math|''s''}}, this definition also has particularly desirable properties under the [[Fourier transform]] that make it ideal for the study of [[pseudodifferential operator]]s. Using these methods on a [[compact space|compact]] [[Riemannian manifold]], one can obtain for instance the [[Hodge decomposition]], which is the basis of [[Hodge theory]].<ref>Details can be found in {{harvtxt|Warner|1983}}.</ref>
+
+===Spaces of holomorphic functions===
+====Hardy spaces====
+The [[Hardy space]]s are function spaces, arising in [[complex analysis]] and [[harmonic analysis]], whose elements are certain [[holomorphic function]]s in a complex domain.<ref>A general reference on Hardy spaces is the book {{harvtxt|Duren|1970}}.</ref> Let {{math|''U''}} denote the [[unit disc]] in the complex plane. Then the Hardy space {{math|''H''<sup>2</sup>(''U'')}} is defined as the space of holomorphic functions {{math|''f''}} on {{math|''U''}} such that the means
+
+<math display="block">M_r(f) = \frac{1}{2\pi} \int_0^{2\pi} \left|f\bigl(re^{i\theta}\bigr)\right|^2 \, \mathrm{d}\theta</math>
+
+remain bounded for {{math|''r'' < 1}}. The norm on this Hardy space is defined by
+<math display="block">\left\|f\right\|_2 = \lim_{r \to 1} \sqrt{M_r(f)} \,.</math>
+
+Hardy spaces in the disc are related to Fourier series. A function {{math|''f''}} is in {{math|''H''<sup>2</sup>(''U'')}} if and only if
+<math display="block">f(z) = \sum_{n=0}^\infty a_n z^n</math>
+where
+<math display="block">\sum_{n=0}^\infty |a_n|^2 < \infty \,.</math>
+
+Thus {{math|''H''<sup>2</sup>(''U'')}} consists of those functions that are ''L''<sup>2</sup> on the circle, and whose negative frequency Fourier coefficients vanish.
+
+====Bergman spaces====
+The [[Bergman space]]s are another family of Hilbert spaces of holomorphic functions.<ref>{{harvnb|Krantz|2002|loc=§1.4}}</ref> Let {{math|''D''}} be a bounded open set in the [[complex plane]] (or a higher-dimensional complex space) and let {{math|''L''<sup>2, ''h''</sup>(''D'')}} be the space of holomorphic functions {{math|''f''}} in {{math|''D''}} that are also in {{math|''L''<sup>2</sup>(''D'')}} in the sense that
+<math display="block">\|f\|^2 = \int_D |f(z)|^2\,\mathrm{d}\mu(z) < \infty \,,</math>
+
+where the integral is taken with respect to the Lebesgue measure in {{math|''D''}}. Clearly {{math|''L''<sup>2, ''h''</sup>(''D'')}} is a subspace of {{math|''L''<sup>2</sup>(''D'')}}; in fact, it is a [[closed set|closed]] subspace, and so a Hilbert space in its own right. This is a consequence of the estimate, valid on [[compact space|compact]] subsets {{math|''K''}} of {{math|''D''}}, that
+<math display="block">\sup_{z\in K} \left|f(z)\right| \le C_K \left\|f\right\|_2 \,,</math>
+which in turn follows from [[Cauchy's integral formula]]. Thus convergence of a sequence of holomorphic functions in {{math|''L''<sup>2</sup>(''D'')}} implies also [[compact convergence]], and so the limit function is also holomorphic. Another consequence of this inequality is that the linear functional that evaluates a function {{math|''f''}} at a point of {{math|''D''}} is actually continuous on {{math|''L''<sup>2, ''h''</sup>(''D'')}}. The Riesz representation theorem implies that the evaluation functional can be represented as an element of {{math|''L''<sup>2, ''h''</sup>(''D'')}}. Thus, for every {{math|''z'' ∈ ''D''}}, there is a function {{math|''η''<sub>''z''</sub> ∈ ''L''<sup>2, ''h''</sup>(''D'')}} such that
+<math display="block">f(z) = \int_D f(\zeta)\overline{\eta_z(\zeta)}\,\mathrm{d}\mu(\zeta)</math>
+for all {{math|''f'' ∈ ''L''<sup>2, ''h''</sup>(''D'')}}. The integrand
+<math display="block">K(\zeta, z) = \overline{\eta_z(\zeta)}</math>
+is known as the [[Bergman kernel]] of {{math|''D''}}. This [[integral kernel]] satisfies a reproducing property
+<math display="block">f(z) = \int_D f(\zeta)K(\zeta, z)\,\mathrm{d}\mu(\zeta) \,.</math>
+
+A Bergman space is an example of a [[reproducing kernel Hilbert space]], which is a Hilbert space of functions along with a kernel {{math|''K''(''ζ'', ''z'')}} that verifies a reproducing property analogous to this one. The Hardy space {{math|''H''<sup>2</sup>(''D'')}} also admits a reproducing kernel, known as the [[Szegő kernel]].<ref>{{harvnb|Krantz|2002|loc=§1.5}}</ref> Reproducing kernels are common in other areas of mathematics as well. For instance, in [[harmonic analysis]] the [[Poisson kernel]] is a reproducing kernel for the Hilbert space of square-integrable [[harmonic function]]s in the [[unit ball]]. That the latter is a Hilbert space at all is a consequence of the mean value theorem for harmonic functions.
+
+==Applications==
+Many of the applications of Hilbert spaces exploit the fact that Hilbert spaces support generalizations of simple geometric concepts like [[projection operator|projection]] and [[change of basis]] from their usual finite dimensional setting. In particular, the [[spectral theory]] of [[continuous function|continuous]] [[self-adjoint operator|self-adjoint]] [[linear operator]]s on a Hilbert space generalizes the usual [[Eigendecomposition of a matrix|spectral decomposition]] of a [[matrix (mathematics)|matrix]], and this often plays a major role in applications of the theory to other areas of mathematics and physics.
+
+===Sturm–Liouville theory===
+{{Main|Sturm–Liouville theory|Spectral theory of ordinary differential equations}}
+[[File:Harmonic partials on strings.svg|right|thumb|The [[overtone]]s of a vibrating string. These are [[eigenfunction]]s of an associated Sturm–Liouville problem. The eigenvalues 1, {{sfrac|1|2}}, {{sfrac|1|3}}, ... form the (musical) [[harmonic series (music)|harmonic series]].]]
+In the theory of [[ordinary differential equation]]s, spectral methods on a suitable Hilbert space are used to study the behavior of eigenvalues and eigenfunctions of differential equations. For example, the [[Sturm–Liouville theory|Sturm–Liouville problem]] arises in the study of the harmonics of waves in a violin string or a drum, and is a central problem in [[ordinary differential equations]].<ref>{{harvnb|Young|1988|loc=Chapter 9}}.</ref> The problem is a differential equation of the form
+<math display="block"> -\frac{\mathrm{d}}{\mathrm{d}x}\left[p(x)\frac{\mathrm{d}y}{\mathrm{d}x}\right] + q(x)y = \lambda w(x)y</math>
+for an unknown function {{math|''y''}} on an interval {{closed-closed|''a'', ''b''}}, satisfying general homogeneous [[Robin boundary conditions]]
+<math display="block">\begin{cases}
+  \alpha y(a)+\alpha' y'(a) &= 0 \\
+  \beta y(b) + \beta' y'(b) &= 0 \,.
+\end{cases}</math>
+The functions {{math|''p''}}, {{math|''q''}}, and {{math|''w''}} are given in advance, and the problem is to find the function {{math|''y''}} and constants {{math|''λ''}} for which the equation has a solution. The problem only has solutions for certain values of {{math|''λ''}}, called eigenvalues of the system, and this is a consequence of the spectral theorem for [[compact operator]]s applied to the [[integral operator]] defined by the [[Green's function]] for the system. Furthermore, another consequence of this general result is that the eigenvalues {{math|''λ''}} of the system can be arranged in an increasing sequence tending to infinity.<ref>{{harvnb|Pedersen|1995|loc=§4.4}}</ref><ref group="nb">The eigenvalues of the Fredholm kernel are {{math|{{sfrac|1|''λ''}}}}, which tend to zero.</ref>
+
+===Partial differential equations===
+Hilbert spaces form a basic tool in the study of [[partial differential equations]].<ref name="BeJoSc81">{{harvnb|Bers|John|Schechter|1981}}.</ref> For many classes of partial differential equations, such as linear [[elliptic partial differential equation|elliptic equations]], it is possible to consider a generalized solution (known as a [[weak derivative|weak]] solution) by enlarging the class of functions. Many weak formulations involve the class of [[Sobolev space|Sobolev functions]], which is a Hilbert space. A suitable weak formulation reduces to a geometrical problem, the analytic problem of finding a solution or, often what is more important, showing that a solution exists and is unique for given boundary data. For linear elliptic equations, one geometrical result that ensures unique solvability for a large class of problems is the [[Lax–Milgram theorem]]. This strategy forms the rudiment of the [[Galerkin method]] (a [[finite element method]]) for numerical solution of partial differential equations.<ref>More detail on finite element methods from this point of view can be found in {{harvtxt|Brenner|Scott|2005}}.</ref>
+
+A typical example is the [[Poisson equation]] {{math|1=−Δ''u'' = ''g''}} with [[Dirichlet boundary conditions]] in a bounded domain {{math|Ω}} in {{math|'''R'''<sup>2</sup>}}. The weak formulation consists of finding a function {{math|''u''}} such that, for all continuously differentiable functions {{math|''v''}} in {{math|Ω}} vanishing on the boundary:
+<math display="block">\int_\Omega \nabla u\cdot\nabla v = \int_\Omega gv\,.</math>
+
+This can be recast in terms of the Hilbert space {{math|''H''{{su|p=1|b=0}}(Ω)}} consisting of functions {{math|''u''}} such that {{math|''u''}}, along with its weak partial derivatives, are square integrable on {{math|Ω}}, and vanish on the boundary. The question then reduces to finding {{math|''u''}} in this space such that for all {{math|''v''}} in this space
+<math display="block">a(u, v) = b(v)</math>
+
+where {{math|''a''}} is a continuous [[bilinear form]], and {{math|''b''}} is a continuous [[linear functional]], given respectively by
+<math display="block">a(u, v) = \int_\Omega \nabla u\cdot\nabla v,\quad b(v)= \int_\Omega gv\,.</math>
+
+Since the Poisson equation is [[elliptic partial differential equation|elliptic]], it follows from Poincaré's inequality that the bilinear form {{math|''a''}} is [[coercive function|coercive]]. The Lax–Milgram theorem then ensures the existence and uniqueness of solutions of this equation.<ref>{{harvnb|Brezis|2010}}, section 9.5</ref>
+
+Hilbert spaces allow for many elliptic partial differential equations to be formulated in a similar way, and the Lax–Milgram theorem is then a basic tool in their analysis. With suitable modifications, similar techniques can be applied to [[parabolic partial differential equation]]s and certain [[hyperbolic partial differential equation]]s.<ref>{{harvnb|Evans|1998}}</ref>
+
+===Ergodic theory===
+[[File:BunimovichStadium.svg|thumb|right|The path of a [[dynamical billiards|billiard]] ball in the [[Bunimovich stadium]] is described by an ergodic [[dynamical system]].]]
+The field of [[ergodic theory]] is the study of the long-term behavior of [[chaos theory|chaotic]] [[dynamical system]]s. The protypical case of a field that ergodic theory applies to is [[thermodynamics]], in which—though the microscopic state of a system is extremely complicated (it is impossible to understand the ensemble of individual collisions between particles of matter)—the average behavior over sufficiently long time intervals is tractable. The [[laws of thermodynamics]] are assertions about such average behavior. In particular, one formulation of the [[zeroth law of thermodynamics]] asserts that over sufficiently long timescales, the only functionally independent measurement that one can make of a thermodynamic system in equilibrium is its total energy, in the form of [[temperature]].<ref>{{harvtxt|Pathria|1996}}, Chapters 2 and 3</ref>
+
+An ergodic dynamical system is one for which, apart from the energy—measured by the [[Hamiltonian (quantum mechanics)|Hamiltonian]]—there are no other functionally independent [[conserved quantities]] on the [[phase space]]. More explicitly, suppose that the energy {{math|''E''}} is fixed, and let {{math|Ω<sub>''E''</sub>}} be the subset of the phase space consisting of all states of energy {{math|''E''}} (an energy surface), and let {{math|''T''<sub>''t''</sub>}} denote the evolution operator on the phase space. The dynamical system is ergodic if every invariant measurable functions on {{math|Ω<sub>''E''</sub>}} is constant [[almost everywhere]].<ref>{{harvtxt|Einsiedler|Ward|2011}}, Proposition 2.14.</ref>  An invariant function {{math|''f''}} is one for which
+<math display="block">f(T_tw) = f(w)</math>
+for all {{math|''w''}} on {{math|Ω<sub>''E''</sub>}} and all time {{math|''t''}}. [[Liouville's theorem (Hamiltonian)|Liouville's theorem]] implies that there exists a [[measure theory|measure]] {{math|''μ''}} on the energy surface that is invariant under the [[time translation]]. As a result, time translation is a [[unitary transformation]] of the Hilbert space {{math|''L''<sup>2</sup>(Ω<sub>''E''</sub>, ''μ'')}} consisting of square-integrable functions on the energy surface {{math|Ω<sub>''E''</sub>}} with respect to the inner product
+<math display="block">\left\langle f, g\right\rangle_{L^2\left(\Omega_E, \mu\right)} = \int_E f\bar{g}\,\mathrm{d}\mu\,.</math>
+
+The von Neumann mean ergodic theorem<ref name="von Neumann 1932"/> states the following:
+* If {{math|''U''<sub>''t''</sub>}} is a (strongly continuous) one-parameter [[semigroup]] of unitary operators on a Hilbert space {{math|''H''}}, and {{math|''P''}} is the orthogonal projection onto the space of common fixed points of {{math|''U''<sub>''t''</sub>}}, {{math|1={''x''  ∈''H'' {{!}} ''U''<sub>''t''</sub>''x'' = ''x'', ∀''t'' > 0}<nowiki/>}}, then <math display="block"> Px = \lim_{T\to\infty} \frac{1}{T} \int_0^T U_tx\,\mathrm{d}t\,.</math>
+
+For an ergodic system, the fixed set of the time evolution consists only of the constant functions, so the ergodic theorem implies the following:<ref>{{harvnb|Reed|Simon|1980}}</ref> for any function {{math|''f'' ∈ ''L''<sup>2</sup>(Ω<sub>''E''</sub>, ''μ'')}},
+<math display="block">\underset{T\to\infty}{L^2 - \lim} \frac{1}{T}\int_0^T f(T_tw)\,\mathrm{d}t = \int_{\Omega_E} f(y)\,\mathrm{d}\mu(y)\,.</math>
+
+That is, the long time average of an observable {{math|''f''}} is equal to its expectation value over an energy surface.
+
+===Fourier analysis===
+[[File:Sawtooth Fourier Analysys.svg|thumb|right|Superposition of sinusoidal wave basis functions (bottom) to form a sawtooth wave (top)]]
+[[File:Harmoniki.png|thumb|right|[[Spherical harmonics]], an orthonormal basis for the Hilbert space of square-integrable functions on the sphere, shown graphed along the radial direction]]
+One of the basic goals of [[Fourier analysis]] is to decompose a function into a (possibly infinite) [[linear combination]] of given basis functions: the associated [[Fourier series]]. The classical Fourier series associated to a function {{math|''f''}} defined on the interval {{math|[0, 1]}} is a series of the form
+<math display="block">\sum_{n=-\infty}^\infty a_n e^{2\pi in\theta}</math>
+where
+<math display="block">a_n = \int_0^1f(\theta)\;\!e^{-2\pi in\theta}\,\mathrm{d}\theta\,.</math>
+
+The example of adding up the first few terms in a Fourier series for a sawtooth function is shown in the figure. The basis functions are sine waves with wavelengths {{math|{{sfrac|''λ''|''n''}}}} (for integer {{math|''n''}}) shorter than the wavelength {{math|''λ''}} of the sawtooth itself (except for {{math|1=''n'' = 1}}, the ''fundamental'' wave).
+
+A significant problem in classical Fourier series asks in what sense the Fourier series converges, if at all, to the function {{math|''f''}}. Hilbert space methods provide one possible answer to this question.<ref>A treatment of Fourier series from this point of view is available, for instance, in {{harvtxt|Rudin|1987}} or {{harvtxt|Folland|2009}}.</ref> The functions {{math|1=''e<sub>n</sub>''(''θ'') = ''e''<sup>2π''inθ''</sup>}} form an orthogonal basis of the Hilbert space {{math|''L''<sup>2</sup>([0, 1])}}. Consequently, any square-integrable function can be expressed as a series
+<math display="block">f(\theta) = \sum_n a_n e_n(\theta)\,,\quad a_n = \langle f, e_n\rangle</math>
+
+and, moreover, this series converges in the Hilbert space sense (that is, in the [[mean convergence|{{math|''L''<sup>2</sup>}} mean]]).
+
+The problem can also be studied from the abstract point of view: every Hilbert space has an [[orthonormal basis]], and every element of the Hilbert space can be written in a unique way as a sum of multiples of these basis elements. The coefficients appearing on these basis elements are sometimes known abstractly as the Fourier coefficients of the element of the space.<ref>{{harvnb|Halmos|1957|loc=§5}}</ref> The abstraction is especially useful when it is more natural to use different basis functions for a space such as {{math|''L''<sup>2</sup>([0, 1])}}. In many circumstances, it is desirable not to decompose a function into trigonometric functions, but rather into [[orthogonal polynomials]] or [[wavelet]]s for instance,<ref>{{harvnb|Bachman|Narici|Beckenstein|2000}}</ref> and in higher dimensions into [[spherical harmonics]].<ref>{{harvnb|Stein|Weiss|1971|loc=§IV.2}}.</ref>
+
+For instance, if {{math|''e''<sub>''n''</sub>}} are any orthonormal basis functions of {{math|''L''<sup>2</sup>[0, 1]}}, then a given function in {{math|''L''<sup>2</sup>[0, 1]}} can be approximated as a finite linear combination<ref>{{harvnb|Lanczos|1988|pp=212–213}}</ref>
+<math display="block">f(x) \approx f_n (x) = a_1 e_1 (x) + a_2 e_2(x) + \cdots + a_n e_n (x)\,.</math>
+
+The coefficients {{math|{''a''<sub>''j''</sub>}<nowiki/>}} are selected to make the magnitude of the difference {{math|{{norm|''f'' − ''f''<sub>''n''</sub>}}<sup>2</sup>}} as small as possible. Geometrically, the [[#Best approximation|best approximation]] is the [[#Orthogonal complements and projections|orthogonal projection]] of {{math|''f''}} onto the subspace consisting of all linear combinations of the {{math|{''e''<sub>''j''</sub>}<nowiki/>}}, and can be calculated by<ref>{{harvnb|Lanczos|1988|loc=Equation 4-3.10}}</ref>
+<math display="block">a_j = \int_0^1 \overline{e_j(x)}f (x) \, \mathrm{d}x\,.</math>
+
+That this formula minimizes the difference {{math|{{norm|''f'' − ''f''<sub>''n''</sub>}}<sup>2</sup>}} is a consequence of [[#Bessel's inequality and Parseval's formula|Bessel's inequality and Parseval's formula]].
+
+In various applications to physical problems, a function can be decomposed into physically meaningful [[eigenfunction]]s of a [[differential operator]] (typically the [[Laplace operator]]): this forms the foundation for the spectral study of functions, in reference to the [[spectral theorem|spectrum]] of the differential operator.<ref>The classic reference for spectral methods is {{harvnb|Courant|Hilbert|1953}}. A more up-to-date account is {{harvnb|Reed|Simon|1975}}.</ref> A concrete physical application involves the problem of [[hearing the shape of a drum]]: given the fundamental modes of vibration that a drumhead is capable of producing, can one infer the shape of the drum itself?<ref>{{harvnb|Kac|1966}}</ref> The mathematical formulation of this question involves the [[Dirichlet eigenvalue]]s of the Laplace equation in the plane, that represent the fundamental modes of vibration in direct analogy with the integers that represent the fundamental modes of vibration of the violin string.
+
+[[Spectral theory]] also underlies certain aspects of the [[Fourier transform]] of a function. Whereas Fourier analysis decomposes a function defined on a [[compact set]] into the discrete spectrum of the Laplacian (which corresponds to the vibrations of a violin string or drum), the Fourier transform of a function is the decomposition of a function defined on all of Euclidean space into its components in the [[continuous spectrum]] of the Laplacian. The Fourier transformation is also geometrical, in a sense made precise by the [[Plancherel theorem]], that asserts that it is an [[isometry]] of one Hilbert space (the "time domain") with another (the "frequency domain"). This isometry property of the Fourier transformation is a recurring theme in abstract [[harmonic analysis]] (since it reflects the conservation of energy for the continuous Fourier Transform), as evidenced for instance by the [[Plancherel theorem for spherical functions]] occurring in [[noncommutative harmonic analysis]].
+
+===Quantum mechanics===
+[[File:HAtomOrbitals.png|right|thumb|The [[atomic orbital|orbitals]] of an [[electron]] in a [[hydrogen atom]] are [[eigenfunction]]s of the [[energy (physics)|energy]].]]
+{{main|Measurement in quantum mechanics}}
+In the mathematically rigorous formulation of [[quantum mechanics]], developed by [[John von Neumann]],<ref>{{harvnb|von Neumann|1955}}</ref> the possible states (more precisely, the [[pure state]]s) of a quantum mechanical system are represented by [[unit vector]]s (called ''state vectors'') residing in a complex separable Hilbert space, known as the [[quantum state space|state space]], well defined up to a complex number of norm 1 (the [[phase factor]]). In other words, the possible states are points in the [[projective space|projectivization]] of a Hilbert space, usually called the [[complex projective space]]. The exact nature of this Hilbert space is dependent on the system; for example, the position and momentum states for a single non-relativistic spin zero particle is the space of all [[square-integrable]] functions, while the states for the spin of a single proton are unit elements of the two-dimensional complex Hilbert space of [[spinors in three dimensions|spinors]]. Each observable is represented by a [[self-adjoint operator|self-adjoint]] [[linear operator]] acting on the state space. Each eigenstate of an observable corresponds to an [[eigenvector]] of the operator, and the associated [[eigenvalue]] corresponds to the value of the observable in that eigenstate.<ref>{{harvnb|Holevo|2001|p=17}}</ref>
+
+The inner product between two state vectors is a complex number known as a [[probability amplitude]]. During an ideal measurement of a quantum mechanical system, the probability that a system collapses from a given initial state to a particular eigenstate is given by the square of the [[absolute value]] of the probability amplitudes between the initial and final states.<ref>{{harvnb|Rieffel|Polak|2011|p=55}}</ref> The possible results of a measurement are the eigenvalues of the operator—which explains the choice of self-adjoint operators, for all the eigenvalues must be real. The probability distribution of an observable in a given state can be found by computing the spectral decomposition of the corresponding operator.<ref>{{harvnb|Peres|1993|p=101}}</ref>
+
+For a general system, states are typically not pure, but instead are represented as statistical mixtures of pure states, or mixed states, given by [[density matrix|density matrices]]: self-adjoint operators of [[trace of a matrix|trace]] one on a Hilbert space.<ref>{{harvnb|Peres|1993|pp=73}}</ref> Moreover, for general quantum mechanical systems, the effects of a single measurement can influence other parts of a system in a manner that is described instead by a [[positive operator valued measure]]. Thus the structure both of the states and observables in the general theory is considerably more complicated than the idealization for pure states.<ref>{{harvnb|Nielsen|Chuang|2000|p=90}}</ref>
+
+===Probability theory===
+In [[probability theory]], Hilbert spaces also have diverse applications.  Here a fundamental Hilbert space is the space of [[random variable]]s on a given [[probability space]], having class <math>L^2</math> (finite first and second [[moment (mathematics)|moments]]).  A common operation in statistics is that of centering a random variable by subtracting its [[expected value|expectation]].  Thus if <math>X</math> is a random variable, then <math>X - E(X)</math> is its centering.  In the Hilbert space view, this is the orthogonal projection of <math>X</math> onto the [[Kernel (algebra)|kernel]] of the expectation operator, which a [[continuous linear functional]] on the Hilbert space (in fact, the inner product with the constant random variable 1), and so this kernel is a closed subspace.
+
+The [[conditional expectation]] has a natural interpretation in the Hilbert space.<ref>{{harvtxt|Billingsley|1986}}, p. 477, ex. 34.13}}</ref> Suppose that a probability space <math>(\Omega, P, \mathcal B)</math> is given, where <math>\mathcal B</math> is a [[sigma algebra]] on the set <math>\Omega</math>, and <math>P</math> is a [[probability measure]] on the measure space <math>(\Omega, \mathcal B)</math>.  If <math>\mathcal F\le\mathcal B</math> is a sigma subalgebra of <math>\mathcal B</math>, then the conditional expectation <math>E[X|\mathcal F]</math> is the orthogonal projection of <math>X</math> onto the subspace of <math>L^2(\Omega, P)</math> consisting of the <math>\mathcal F</math>-measurable functions.  If the random variable <math>X</math> in <math>L^2(\Omega, P)</math> is independent of the sigma algebra <math>\mathcal F</math> then conditional expectation <math>E(X|\mathcal F) = E(X)</math>, i.e., its projection onto the <math>\mathcal F</math>-measurable functions is constant.  Equivalently, the projection of its centering is zero.
+
+In particular, if two random variables <math>X</math> and <math>Y</math> (in <math>L^2(\Omega, P)</math>) are independent, then the centered random variables <math>X-E(X)</math> and <math>Y-E(Y)</math> are orthogonal.  (This means that the two variables have zero [[covariance]]: they are [[uncorrelated]].)  In that case, the Pythagorean theorem in the kernel of the expectation operator implies that the [[variance]]s of <math>X</math> and <math>Y</math> satisfy the identity:
+<math display="block">\operatorname{Var}(X+Y) = \operatorname{Var}(X) + \operatorname{Var}(Y),</math>
+sometimes called the Pythagorean theorem of statistics, and is of importance in [[linear regression]].<ref>{{harvnb|Stapleton|1995}}</ref>  As {{harvtxt|Stapleton|1995}} puts it, "the [[analysis of variance]] may be viewed as the decomposition of the squared length of a vector into the sum of the squared lengths of several vectors, using the Pythagorean Theorem."
+
+The theory of [[Martingale (probability theory)|martingale]]s can be formulated in Hilbert spaces.  A martingale in a Hilbert space is a sequence <math>x_1,x_2,\dots</math> of elements of a Hilbert space such that, for each {{math|''n''}}, <math>x_n</math> is the orthogonal projection of <math>x_{n+1}</math> onto the linear hull of <math>x_1,\dots,x_n</math>.<ref>{{harvtxt|Hewitt|Stromberg|1965}}, Exercise 16.45.</ref> If the <math>x_k</math> are random variables, this reproduces the usual definition of a (discrete) martingale: the expectation of <math>x_{n+1}</math>, conditioned on <math>x_1,\dots,x_n</math>, is equal to <math>x_n</math>.
+
+Hilbert spaces are also used throughout the foundations of the [[Itô calculus]].<ref>{{harvnb|Karatzas|Shreve|2019}}, Chapter 3</ref> To any square-integrable [[martingale (probability theory)|martingale]], it is possible to associate a Hilbert norm on the space of equivalence classes of [[progressively measurable process]]es with respect to the martingale (using the [[quadratic variation]] of the martingale as the measure).  The [[Itô integral]] can be constructed by first defining it for [[simple process]]es, and then exploiting their density in the Hilbert space.  A noteworthy result is then the [[Itô isometry]], which attests that for any martingale ''M'' having quadratic variation measure <math>d\langle M\rangle_t</math>, and any progressively measurable process ''H'':
+<math display="block">E\left[\left(\int_0^tH_sdM_s\right)^2\right] = E\left[\int_0^tH_s^2d\langle M\rangle_s\right]</math>
+whenever the expectation on the right-hand side is finite.
+
+A deeper application of Hilbert spaces that is especially important in the theory of [[Gaussian process]]es is an attempt, due to [[Leonard Gross]] and others, to make sense of certain formal integrals over infinite dimensional spaces like the [[Feynman path integral]] from [[quantum field theory]].  The problem with integral like this is that there is no [[infinite dimensional Lebesgue measure]].  The notion of an [[abstract Wiener space]] allows one to construct a measure on a Banach space {{math|''B''}} that contains a Hilbert space {{math|''H''}}, called the [[Cameron–Martin space]], as a dense subset, out of a finitely additive cylinder set measure on {{math|''H''}}.  The resulting measure on {{math|''B''}} is countably additive and invariant under translation by elements of {{math|''H''}}, and this provides a mathematically rigorous way of thinking of the [[Wiener measure]] as a Gaussian measure on the Sobolev space <math>H^1([0,\infty))</math>.<ref>{{harvtxt|Stroock|2011}}, Chapter 8.</ref>
+
+===Color perception===
+{{Main|Color vision#Mathematics of color perception}}
+Any true physical color can be represented by a combination of pure [[spectral color]]s. As physical colors can be composed of any number of spectral colors, the space of physical colors may aptly be represented by a Hilbert space over spectral colors. Humans have [[Trichromacy|three types of cone cells]] for color perception, so the perceivable colors can be represented by 3-dimensional Euclidean space. The many-to-one linear mapping from the Hilbert space of physical colors to the Euclidean space of human perceivable colors explains why many distinct physical colors may be perceived by humans to be identical (e.g., pure yellow light versus a mix of red and green light, see [[metamerism (color)|metamerism]]).<ref>{{citation|chapter=Mind and nature|author=[[Hermann Weyl]]|title=Mind and nature: selected writings on philosophy, mathematics, and physics|year=2009|publisher=Princeton University Press}}.</ref><ref>{{citation|title=Geometry of color perception. Part 2: perceived colors from real quantum states and Hering's rebit|first=M.|last=Berthier|year=2020|journal=The Journal of Mathematical Neuroscience|volume=10|issue=1 |page=14 |doi=10.1186/s13408-020-00092-x |pmid=32902776 |pmc=7481323 |doi-access=free }}.</ref>
+
+==Properties==
+
+===Pythagorean identity===
+Two vectors {{math|''u''}} and {{math|''v''}} in a Hilbert space {{math|''H''}} are orthogonal when {{math|1=⟨''u'', ''v''⟩ = 0}}. The notation for this is {{math|''u'' ⊥ ''v''}}. More generally, when {{math|''S''}} is a subset in {{math|''H''}}, the notation {{math|''u'' ⊥ ''S''}} means that {{math|''u''}} is orthogonal to every element from {{math|''S''}}.
+
+When {{math|''u''}} and {{math|''v''}} are orthogonal, one has
+<math display="block">\|u + v\|^2 = \langle u + v, u + v \rangle = \langle u, u \rangle + 2 \, \operatorname{Re} \langle u, v \rangle + \langle v, v \rangle= \|u\|^2 + \|v\|^2\,.</math>
+
+By induction on {{math|''n''}}, this is extended to any family {{math|''u''<sub>1</sub>, ..., ''u<sub>n</sub>''}} of {{math|''n''}} orthogonal vectors,
+<math display="block">\left\|u_1 + \cdots + u_n\right\|^2 = \left\|u_1\right\|^2 + \cdots + \left\|u_n\right\|^2 .</math>
+
+Whereas the Pythagorean identity as stated is valid in any inner product space, completeness is required for the extension of the Pythagorean identity to series.<ref>{{harvnb|Reed|Simon|1980}}, Theorem 12.6</ref> A series {{math|Σ''u<sub>k</sub>''}} of ''orthogonal'' vectors converges in {{math|''H''}} if and only if the series of squares of norms converges, and
+<math display="block">\Biggl\|\sum_{k=0}^\infty u_k \Biggr\|^2 = \sum_{k=0}^\infty \left\|u_k\right\|^2\,.</math>
+Furthermore, the sum of a series of orthogonal vectors is independent of the order in which it is taken.
+
+===Parallelogram identity and polarization===
+[[File:Color parallelogram.svg|right|thumb|Geometrically, the parallelogram identity asserts that {{math|1=AC<sup>2</sup> + BD<sup>2</sup> = 2(AB<sup>2</sup> + AD<sup>2</sup>)}}. In words, the sum of the squares of the diagonals is twice the sum of the squares of any two adjacent sides.]]
+By definition, every Hilbert space is also a [[Banach space]]. Furthermore, in every Hilbert space the following [[parallelogram identity]] holds:<ref>{{harvnb|Reed|Simon|1980}}, p. 38</ref>
+<math display="block">\|u + v\|^2 + \|u - v\|^2 = 2\bigl(\|u\|^2 + \|v\|^2\bigr)\,.</math>
+
+Conversely, every Banach space in which the parallelogram identity holds is a Hilbert space, and the inner product is uniquely determined by the norm by the [[polarization identity]].<ref>{{harvnb|Young|1988|p=23}}.</ref> For real Hilbert spaces, the polarization identity is
+<math display="block">\langle u, v\rangle = \tfrac{1}{4}\bigl(\|u + v\|^2 - \|u - v\|^2\bigr)\,.</math>
+
+For complex Hilbert spaces, it is
+<math display="block">\langle u, v\rangle = \tfrac{1}{4}\bigl(\|u + v\|^2 - \|u - v\|^2 + i\|u + iv\|^2 - i\|u - iv\|^2\bigr)\,.</math>
+
+The parallelogram law implies that any Hilbert space is a [[uniformly convex Banach space]].<ref>{{harvnb|Clarkson|1936}}.</ref>
+
+===Best approximation===
+This subsection employs the [[Hilbert projection theorem]]. If {{math|''C''}} is a non-empty closed convex subset of a Hilbert space {{math|''H''}} and {{math|''x''}} a point in {{math|''H''}}, there exists a unique point {{math|''y'' ∈ ''C''}} that minimizes the distance between {{math|''x''}} and points in {{math|''C''}},<ref>{{harvnb|Rudin|1987|loc=Theorem 4.10}}</ref>
+<math display="block"> y \in C \,, \quad \|x - y\| = \operatorname{dist}(x, C) = \min \bigl\{ \|x - z\| \mathrel{\big|} z \in C \bigr\}\,.</math>
+
+This is equivalent to saying that there is a point with minimal norm in the translated convex set {{math|1=''D'' = ''C'' − ''x''}}. The proof consists in showing that every minimizing sequence {{math|(''d<sub>n</sub>'') ⊂ ''D''}} is Cauchy (using the parallelogram identity) hence converges (using completeness) to a point in {{math|''D''}} that has minimal norm. More generally, this holds in any uniformly convex Banach space.<ref>{{harvnb|Dunford|Schwartz|1958|loc=II.4.29}}</ref>
+
+When this result is applied to a closed subspace {{math|''F''}} of {{math|''H''}}, it can be shown that the point {{math|''y'' ∈ ''F''}} closest to {{math|''x''}} is characterized by<ref>{{harvnb|Rudin|1987|loc=Theorem 4.11}}</ref>
+<math display="block"> y \in F \,, \quad x - y \perp F \,.</math>
+
+This point {{math|''y''}} is the ''orthogonal projection'' of {{math|''x''}} onto {{math|''F''}}, and the mapping {{math|''P<sub>F</sub>'' : ''x'' → ''y''}} is linear (see [[#Orthogonal complements and projections|Orthogonal complements and projections]]). This result is especially significant in [[applied mathematics]], especially [[numerical analysis]], where it forms the basis of [[least squares]] methods.<ref>{{cite book
+ | last1 = Blanchet | first1 = Gérard | last2 = Charbit | first2 = Maurice
+ | title = Digital Signal and Image Processing Using MATLAB
+ | publisher = Wiley | volume = 1 | edition = Second | date = 2014
+ | location = New Jersey | pages = 349–360 | isbn = 978-1848216402
+}}</ref>
+
+In particular, when {{math|''F''}} is not equal to {{math|''H''}}, one can find a nonzero vector {{math|''v''}} orthogonal to {{math|''F''}} (select {{math|''x'' ∉ ''F''}} and {{math|1=''v'' = ''x'' − ''y''}}). A very useful criterion is obtained by applying this observation to the closed subspace {{math|''F''}} generated by a subset {{math|''S''}} of {{math|''H''}}.
+: A subset {{math|''S''}} of {{math|''H''}} spans a dense vector subspace if (and only if) the vector 0 is the sole vector {{math|''v'' ∈ ''H''}} orthogonal to {{math|''S''}}.
+
+===Duality===
+The [[continuous dual space|dual space]] {{math|''H''*}} is the space of all [[continuous function (topology)|continuous]] linear functions from the space {{math|''H''}} into the base field. It carries a natural norm, defined by
+<math display="block">\|\varphi\| = \sup_{\|x\|=1, x\in H} |\varphi(x)| \,.</math>
+This norm satisfies the [[parallelogram law]], and so the dual space is also an inner product space where this inner product can be defined in terms of this dual norm by using the [[polarization identity]]. The dual space is also complete so it is a Hilbert space in its own right. 
+If {{math|1=''e''<sub>•</sub> = (''e''<sub>''i''</sub>)<sub>''i'' ∈ ''I''</sub>}} is a complete orthonormal basis for {{mvar|H}} then the inner product on the dual space of any two <math>f, g \in H^*</math> is
+<math display="block">\langle f, g \rangle_{H^{*}} = \sum_{i \in I} f (e_i) \overline{g (e_i)}</math>
+where all but countably many of the terms in this series are zero.
+
+The [[Riesz representation theorem]] affords a convenient description of the dual space. To every element {{math|''u''}} of {{math|''H''}}, there is a unique element {{math|''φ<sub>u</sub>''}} of {{math|''H''*}}, defined by
+<math display="block">\varphi_u(x) = \langle x, u\rangle </math>
+where moreover, <math>\left\| \varphi_u \right\| = \left\| u \right\|.</math>
+
+The Riesz representation theorem states that the map from {{math|''H''}} to {{math|''H''*}} defined by {{math|''u'' ↦ ''φ<sub>u</sub>''}} is [[Surjective map|surjective]], which makes this map an [[Isometry|isometric]] [[Antilinear map|antilinear]] isomorphism.<ref>{{harvnb|Weidmann|1980|loc=Theorem 4.8}}</ref> So to every element {{math|''φ''}} of the dual {{math|''H''*}} there exists one and only one {{math|''u<sub>φ</sub>''}} in {{math|''H''}} such that
+<math display="block">\langle x, u_\varphi\rangle = \varphi(x)</math>
+for all {{math|''x'' ∈ ''H''}}. The inner product on the dual space {{math|''H''*}} satisfies
+<math display="block"> \langle \varphi, \psi \rangle = \langle u_\psi, u_\varphi \rangle \,.</math>
+
+The reversal of order on the right-hand side restores linearity in {{math|''φ''}} from the antilinearity of {{math|''u<sub>φ</sub>''}}. In the real case, the antilinear isomorphism from {{math|''H''}} to its dual is actually an isomorphism, and so real Hilbert spaces are naturally isomorphic to their own duals.
+
+The representing vector {{math|''u<sub>φ</sub>''}} is obtained in the following way. When {{math|''φ'' ≠ 0}}, the [[Kernel (algebra)|kernel]] {{math|1=''F'' = Ker(''φ'')}} is a closed vector subspace of {{math|''H''}}, not equal to {{math|''H''}}, hence there exists a nonzero vector {{math|''v''}} orthogonal to {{math|''F''}}. The vector {{math|''u''}} is a suitable scalar multiple {{math|''λv''}} of {{math|''v''}}. The requirement that {{math|1=''φ''(''v'') = ⟨''v'', ''u''⟩}} yields
+<math display="block"> u = \langle v, v \rangle^{-1} \, \overline{\varphi (v)} \, v \,.</math>
+
+This correspondence {{math|''φ'' ↔ ''u''}} is exploited by the [[bra–ket notation]] popular in [[physics]].<ref>{{harvnb|Peres|1993|pp=77–78}}.</ref> It is common in physics to assume that the inner product, denoted by {{math|{{bra-ket|''x''|''y''}}}}, is linear on the right,
+<math display="block">\langle x | y \rangle = \langle y, x \rangle \,.</math>
+The result {{math|{{bra-ket|''x''|''y''}}}} can be seen as the action of the linear functional {{math|{{bra|''x''}}}} (the ''bra'') on the vector {{math|{{ket|''y''}}}} (the ''ket'').
+
+The Riesz representation theorem relies fundamentally not just on the presence of an inner product, but also on the completeness of the space. In fact, the theorem implies that the [[Banach space|topological dual]] of any inner product space can be identified with its completion.<ref>{{harvtxt|Weidmann|1980}}, Exercise 4.11.</ref> An immediate consequence of the Riesz representation theorem is also that a Hilbert space {{math|''H''}} is [[reflexive space|reflexive]], meaning that the natural map from {{math|''H''}} into its [[dual space|double dual space]] is an isomorphism.
+
+===Weakly-convergent sequences===
+{{main|Weak convergence (Hilbert space)}}
+In a Hilbert space {{math|''H''}}, a sequence {{math|{''x<sub>n</sub>''}<nowiki/>}} is [[weak topology#Weak convergence|weakly convergent]] to a vector {{math|''x'' ∈ ''H''}} when
+<math display="block">\lim_n \langle x_n, v \rangle = \langle x, v \rangle</math>
+for every {{math|''v'' ∈ ''H''}}.
+
+For example, any orthonormal sequence {{math|{''f<sub>n</sub>''}<nowiki/>}} converges weakly to&nbsp;0, as a consequence of [[#Bessel's inequality|Bessel's inequality]]. Every weakly convergent sequence {{math|{''x<sub>n</sub>''}<nowiki/>}} is bounded, by the [[uniform boundedness principle]].
+
+Conversely, every bounded sequence in a Hilbert space admits weakly convergent subsequences ([[Alaoglu's theorem]]).<ref>{{harvnb|Weidmann|1980|loc=§4.5}}</ref> This fact may be used to prove minimization results for continuous [[convex function]]als, in the same way that the [[Bolzano–Weierstrass theorem]] is used for continuous functions on {{math|'''R'''<sup>''d''</sup>}}. Among several variants, one simple statement is as follows:<ref>{{harvnb|Buttazzo|Giaquinta|Hildebrandt|1998|loc=Theorem 5.17}}</ref>
+
+:If {{math|''f'' : ''H'' → '''R'''}} is a convex continuous function such that {{math|''f''(''x'')}} tends to {{math|+∞}} when {{math|{{norm|''x''}}}} tends to {{math|∞}}, then {{math|''f''}} admits a minimum at some point {{math|''x''<sub>0</sub> ∈ ''H''}}.
+
+This fact (and its various generalizations) are fundamental for [[direct method in the calculus of variations|direct method]]s in the [[calculus of variations]]. Minimization results for convex functionals are also a direct consequence of the slightly more abstract fact that closed bounded convex subsets in a Hilbert space {{math|''H''}} are [[Weak topology|weakly compact]], since {{math|''H''}} is reflexive. The existence of weakly convergent subsequences is a special case of the [[Eberlein–Šmulian theorem]].
+
+===Banach space properties===
+Any general property of [[Banach space]]s continues to hold for Hilbert spaces. The [[open mapping theorem (functional analysis)|open mapping theorem]] states that a [[continuous function|continuous]] [[surjective]] linear transformation from one Banach space to another is an [[open mapping]] meaning that it sends open sets to open sets. A corollary is the [[bounded inverse theorem]], that a continuous and [[bijective]] linear function from one Banach space to another is an isomorphism (that is, a continuous linear map whose inverse is also continuous). This theorem is considerably simpler to prove in the case of Hilbert spaces than in general Banach spaces.<ref>{{harvnb|Halmos|1982|loc=Problem 52, 58}}</ref> The open mapping theorem is equivalent to the [[closed graph theorem]], which asserts that a linear function from one Banach space to another is continuous if and only if its graph is a [[closed set]].<ref>{{harvnb|Rudin|1973}}</ref> In the case of Hilbert spaces, this is basic in the study of [[unbounded operator]]s (see [[closed operator]]).
+
+The (geometrical) [[Hahn–Banach theorem]] asserts that a closed convex set can be separated from any point outside it by means of a [[hyperplane]] of the Hilbert space. This is an immediate consequence of the [[#Best approximation|best approximation]] property: if {{math|''y''}} is the element of a closed convex set {{math|''F''}} closest to {{math|''x''}}, then the separating hyperplane is the plane perpendicular to the segment {{math|''xy''}} passing through its midpoint.<ref>{{harvnb|Trèves|1967|loc=Chapter 18}}</ref>
+
+==Operators on Hilbert spaces==
+
+===Bounded operators===
+The [[continuous function (topology)|continuous]] [[linear operator]]s {{math|''A'' : ''H''<sub>1</sub> → ''H''<sub>2</sub>}} from a Hilbert space {{math|''H''<sub>1</sub>}} to a second Hilbert space {{math|''H''<sub>2</sub>}} are [[Bounded linear operator|''bounded'']] in the sense that they map [[bounded set]]s to bounded sets.<ref>A general reference for this section is {{harvtxt|Rudin|1973}}, chapter 12.</ref> Conversely, if an operator is bounded, then it is continuous. The space of such [[bounded linear operator]]s has a [[norm (mathematics)|norm]], the [[operator norm]] given by
+<math display="block">\lVert A \rVert = \sup \bigl\{\| Ax \| \mathrel{\big|} \| x \| \leq 1 \bigr\}\,.</math>
+
+The sum and the composite of two bounded linear operators is again bounded and linear. For ''y'' in ''H''<sub>2</sub>, the map that sends {{math|''x'' ∈ ''H''<sub>1</sub>}} to {{math|⟨''Ax'', ''y''⟩}} is linear and continuous, and according to the [[Riesz representation theorem]] can therefore be represented in the form
+<math display="block">\left\langle x, A^* y \right\rangle = \langle Ax, y \rangle</math>
+for some vector {{math|''A''*''y''}} in {{math|''H''<sub>1</sub>}}. This defines another bounded linear operator {{math|''A''* : ''H''<sub>2</sub> → ''H''<sub>1</sub>}}, the [[Hermitian adjoint|adjoint]] of {{mvar|''A''}}. The adjoint satisfies {{math|1=''A''** = ''A''}}. When the Riesz representation theorem is used to identify each Hilbert space with its continuous dual space, the adjoint of {{mvar|A}} can be shown to be [[Riesz representation theorem#Adjoints and transposes|identical to]] the [[Transpose of a linear map|transpose]] {{math|<sup>t</sup>''A'' : ''H''<sub>2</sub>* → ''H''<sub>1</sub>*}} of {{mvar|A}}, which by definition sends <math>\psi \in H_2^{*}</math> to the functional <math>\psi \circ A \in H_1^{*}.</math>
+
+The set {{math|B(''H'')}} of all bounded linear operators on {{math|''H''}} (meaning operators {{math|''H'' → ''H''}}), together with the addition and composition operations, the norm and the adjoint operation, is a [[C*-algebra]], which is a type of [[operator algebra]].
+
+An element {{math|''A''}} of {{math|B(''H'')}} is called 'self-adjoint' or 'Hermitian' if {{math|1=''A''* = ''A''}}. If {{math|''A''}} is Hermitian and {{math|⟨''Ax'', ''x''⟩ ≥ 0}} for every {{math|''x''}}, then {{math|''A''}} is called 'nonnegative', written {{math|''A'' ≥ 0}}; if equality holds only when {{math|1=''x'' = 0}}, then {{math|''A''}} is called 'positive'. The set of self adjoint operators admits a [[partial order]], in which {{math|''A'' ≥ ''B''}} if {{math|''A'' − ''B'' ≥ 0}}. If {{math|''A''}} has the form {{math|''B''*''B''}} for some {{math|''B''}}, then {{math|''A''}} is nonnegative; if {{math|''B''}} is invertible, then {{math|''A''}} is positive. A converse is also true in the sense that, for a non-negative operator {{math|''A''}}, there exists a unique non-negative [[Square root of a matrix|square root]] {{math|''B''}} such that
+<math display="block">A = B^2 = B^*B\,.</math>
+
+In a sense made precise by the [[spectral theorem]], self-adjoint operators can usefully be thought of as operators that are "real". An element {{math|''A''}} of {{math|B(''H'')}} is called ''normal'' if {{math|1=''A''*''A'' = ''AA''*}}. Normal operators decompose into the sum of a self-adjoint operator and an imaginary multiple of a self adjoint operator
+<math display="block">A = \frac{A + A^*}{2} + i\frac{A - A^*}{2i}</math>
+that commute with each other. Normal operators can also usefully be thought of in terms of their real and imaginary parts.
+
+An element {{math|''U''}} of {{math|B(''H'')}} is called [[unitary operator|unitary]] if {{math|''U''}} is invertible and its inverse is given by {{math|''U''*}}. This can also be expressed by requiring that {{math|''U''}} be onto and {{math|1=⟨''Ux'', ''Uy''⟩ = ⟨''x'', ''y''⟩}} for all {{math|''x'', ''y'' ∈ ''H''}}. The unitary operators form a [[group (mathematics)|group]] under composition, which is the [[isometry group]] of {{math|''H''}}.
+
+An element of {{math|B(''H'')}} is [[compact operator|compact]] if it sends bounded sets to [[relatively compact]] sets. Equivalently, a bounded operator {{math|''T''}} is compact if, for any bounded sequence {{math|{''x<sub>k</sub>''}<nowiki/>}}, the sequence {{math|{''Tx<sub>k</sub>''}<nowiki/>}} has a convergent subsequence. Many [[integral operator]]s are compact, and in fact define a special class of operators known as [[Hilbert–Schmidt operator]]s that are especially important in the study of [[integral equation]]s. [[Fredholm operator]]s differ from a compact operator by a multiple of the identity, and are equivalently characterized as operators with a finite dimensional [[kernel (linear operator)|kernel]] and [[cokernel]]. The index of a Fredholm operator {{math|''T''}} is defined by
+<math display="block">\operatorname{index} T = \dim\ker T - \dim\operatorname{coker} T \,.</math>
+
+The index is [[homotopy]] invariant, and plays a deep role in [[differential geometry]] via the [[Atiyah–Singer index theorem]].
+
+===Unbounded operators===
+[[Unbounded operator]]s are also tractable in Hilbert spaces, and have important applications to [[quantum mechanics]].<ref>See {{harvtxt|Prugovečki|1981}}, {{harvtxt|Reed|Simon|1980|loc=Chapter VIII}} and {{harvtxt|Folland|1989}}.</ref> An unbounded operator {{math|''T''}} on a Hilbert space {{math|''H''}} is defined as a linear operator whose domain {{math|''D''(''T'')}} is a linear subspace of {{math|''H''}}. Often the domain {{math|''D''(''T'')}} is a dense subspace of {{math|''H''}}, in which case {{math|''T''}} is known as a [[densely defined operator]].
+
+The adjoint of a densely defined unbounded operator is defined in essentially the same manner as for bounded operators. [[Self-adjoint operator|Self-adjoint unbounded operators]] play the role of the ''observables'' in the mathematical formulation of quantum mechanics. Examples of self-adjoint unbounded operators on the Hilbert space {{math|''L''<sup>2</sup>('''R''')}} are:<ref>{{harvnb|Prugovečki|1981|loc=III, §1.4}}</ref>
+* A suitable extension of the differential operator <math display="block">(A f)(x) = -i \frac{\mathrm{d}}{\mathrm{d}x} f(x) \,,</math> where {{math|''i''}} is the imaginary unit and {{math|''f''}} is a differentiable function of compact support.
+* The multiplication-by-{{math|''x''}} operator: <math display="block">(B f) (x) = x f(x)\,. </math>
+
+These correspond to the [[momentum]] and [[position operator|position]] observables, respectively. Neither {{math|''A''}} nor {{math|''B''}} is defined on all of {{math|''H''}}, since in the case of {{math|''A''}} the derivative need not exist, and in the case of {{math|''B''}} the product function need not be square integrable. In both cases, the set of possible arguments form dense subspaces of {{math|''L''<sup>2</sup>('''R''')}}.
+
+==Constructions==
+
+===Direct sums===
+Two Hilbert spaces {{math|''H''<sub>1</sub>}} and {{math|''H''<sub>2</sub>}} can be combined into another Hilbert space, called the [[direct sum of modules#Direct sum of Hilbert spaces|(orthogonal) direct sum]],<ref>{{harvnb|Dunford|Schwartz|1958|loc=IV.4.17-18}}</ref> and denoted
+<math display="block">H_1 \oplus H_2 \,,</math>
+
+consisting of the set of all [[ordered pair]]s {{math|(''x''<sub>1</sub>, ''x''<sub>2</sub>)}} where {{math|''x''<sub>''i''</sub> ∈ ''H''<sub>''i''</sub>}}, {{math|1=''i'' = 1, 2}}, and inner product defined by
+<math display="block">\bigl\langle (x_1, x_2), (y_1, y_2)\bigr\rangle_{H_1 \oplus H_2} = \left\langle x_1, y_1\right\rangle_{H_1} + \left\langle x_2, y_2\right\rangle_{H_2} \,.</math>
+
+More generally, if {{math|''H''<sub>''i''</sub>}} is a family of Hilbert spaces indexed by {{nowrap|''i'' ∈ ''I''}}, then the direct sum of the {{math|''H''<sub>''i''</sub>}}, denoted
+<math display="block">\bigoplus_{i \in I}H_i</math>
+consists of the set of all indexed families
+<math display="block">x = (x_i \in H_i \mid i \in I) \in \prod_{i \in I}H_i</math>
+in the [[Cartesian product]] of the {{math|''H''<sub>''i''</sub>}} such that
+<math display="block">\sum_{i \in I} \|x_i\|^2 < \infty \,.</math>
+
+The inner product is defined by
+<math display="block">\langle x, y\rangle = \sum_{i \in I} \left\langle x_i, y_i\right\rangle_{H_i} \,.</math>
+
+Each of the {{math|''H''<sub>''i''</sub>}} is included as a closed subspace in the direct sum of all of the {{math|''H''<sub>''i''</sub>}}. Moreover, the {{math|''H''<sub>''i''</sub>}} are pairwise orthogonal. Conversely, if there is a system of closed subspaces, {{math|''V''<sub>''i''</sub>}}, {{math|''i'' ∈ ''I''}}, in a Hilbert space {{math|''H''}}, that are pairwise orthogonal and whose union is dense in {{math|''H''}}, then {{math|''H''}} is canonically isomorphic to the direct sum of {{math|''V<sub>i</sub>''}}. In this case, {{math|''H''}} is called the internal direct sum of the {{math|''V<sub>i</sub>''}}. A direct sum (internal or external) is also equipped with a family of orthogonal projections {{math|''E<sub>i</sub>''}} onto the {{math|''i''}}th direct summand {{math|''H<sub>i</sub>''}}. These projections are bounded, self-adjoint, [[idempotent]] operators that satisfy the orthogonality condition
+<math display="block">E_i E_j = 0,\quad i \neq j \,.</math>
+
+The [[spectral theorem]] for [[compact operator|compact]] self-adjoint operators on a Hilbert space {{math|''H''}} states that {{math|''H''}} splits into an orthogonal direct sum of the eigenspaces of an operator, and also gives an explicit decomposition of the operator as a sum of projections onto the eigenspaces. The direct sum of Hilbert spaces also appears in quantum mechanics as the [[Fock space]] of a system containing a variable number of particles, where each Hilbert space in the direct sum corresponds to an additional [[degrees of freedom (mechanics)|degree of freedom]] for the quantum mechanical system. In [[representation theory]], the [[Peter–Weyl theorem]] guarantees that any [[unitary representation]] of a [[compact group]] on a Hilbert space splits as the direct sum of finite-dimensional representations.
+
+===Tensor products===
+{{main|Tensor product of Hilbert spaces}}
+If {{math|''x''<sub>1</sub>, ''y''<sub>1</sub> ∊ ''H''<sub>1</sub>}} and {{math|''x''<sub>2</sub>, ''y''<sub>2</sub> ∊ ''H''<sub>2</sub>}}, then one defines an inner product on the (ordinary) [[tensor product]] as follows. On [[simple tensor]]s, let
+<math display="block"> \langle x_1 \otimes x_2, \, y_1 \otimes y_2 \rangle = \langle x_1, y_1 \rangle \, \langle x_2, y_2 \rangle \,.</math>
+
+This formula then extends by [[Sesquilinear form|sesquilinearity]] to an inner product on {{math|''H''<sub>1</sub> ⊗ ''H''<sub>2</sub>}}. The Hilbertian tensor product of {{math|''H''<sub>1</sub>}} and {{math|''H''<sub>2</sub>}}, sometimes denoted by {{math|''H''<sub>1</sub> <math>\widehat{\otimes}</math> ''H''<sub>2</sub>}}, is the Hilbert space obtained by completing {{math|''H''<sub>1</sub> ⊗ ''H''<sub>2</sub>}} for the metric associated to this inner product.<ref>{{harvnb|Weidmann|1980|loc=§3.4}}</ref>
+
+An example is provided by the Hilbert space {{math|''L''<sup>2</sup>([0, 1])}}. The Hilbertian tensor product of two copies of {{math|''L''<sup>2</sup>([0, 1])}} is isometrically and linearly isomorphic to the space {{math|''L''<sup>2</sup>([0, 1]<sup>2</sup>)}} of square-integrable functions on the square {{math|[0, 1]<sup>2</sup>}}. This isomorphism sends a simple tensor {{math|''f''<sub>1</sub> ⊗ ''f''<sub>2</sub>}} to the function
+<math display="block">(s, t) \mapsto f_1(s) \, f_2(t)</math>
+on the square.
+
+This example is typical in the following sense.<ref>{{harvnb|Kadison|Ringrose|1983|loc=Theorem 2.6.4}}</ref> Associated to every simple tensor product {{math|''x''<sub>1</sub> ⊗ ''x''<sub>2</sub>}} is the rank one operator from {{math|''H''{{su|p=∗|b=1|lh=0.8em}}}} to {{math|''H''<sub>2</sub>}} that maps a given {{math|''x''* ∈ ''H''{{su|p=∗|b=1|lh=0.8em}}}} as
+<math display="block">x^* \mapsto x^*(x_1) x_2 \,.</math>
+
+This mapping defined on simple tensors extends to a linear identification between {{math|''H''<sub>1</sub> ⊗ ''H''<sub>2</sub>}} and the space of finite rank operators from {{math|''H''{{su|p=∗|b=1|lh=0.8em}}}} to {{math|''H''<sub>2</sub>}}. This extends to a linear isometry of the Hilbertian tensor product {{math|''H''<sub>1</sub> <math>\widehat{\otimes}</math> ''H''<sub>2</sub>}} with the Hilbert space {{math|''HS''(''H''{{su|p=∗|b=1|lh=0.8em}}, ''H''<sub>2</sub>)}} of [[Hilbert–Schmidt operator]]s from {{math|''H''{{su|p=∗|b=1|lh=0.8em}}}} to {{math|''H''<sub>2</sub>}}.
+
+==Orthonormal bases==
+The notion of an [[orthonormal basis]] from linear algebra generalizes over to the case of Hilbert spaces.<ref>{{harvnb|Dunford|Schwartz|1958|loc=§IV.4}}.</ref> In a Hilbert space {{math|''H''}}, an orthonormal basis is a family {{math|{''e''<sub>''k''</sub>}<sub>''k'' ∈ ''B''</sub>}} of elements of {{math|''H''}} satisfying the conditions:
+# ''Orthogonality'': Every two different elements of {{math|''B''}} are orthogonal: {{math|1=⟨''e<sub>k</sub>'', ''e<sub>j</sub>''⟩ = 0}} for all {{math|''k'', ''j'' ∈ ''B''}} with {{nowrap|''k'' ≠ ''j''}}.
+# ''Normalization'': Every element of the family has norm 1: {{math|1={{norm|''e''<sub>''k''</sub>}} = 1}} for all {{math|''k'' ∈ ''B''}}.
+# ''Completeness'': The [[linear span]] of the family {{math|''e''<sub>''k''</sub>}}, {{math|''k'' ∈ ''B''}}, is [[dense set|dense]] in ''H''.
+
+A system of vectors satisfying the first two conditions basis is called an orthonormal system or an orthonormal set (or an orthonormal sequence if {{math|''B''}} is [[countable set|countable]]). Such a system is always [[linearly independent]].
+
+Despite the name, an orthonormal basis is not, in general, a basis in the sense of linear algebra ([[Hamel basis]]). More precisely, an orthonormal basis is a Hamel basis if and only if the Hilbert space is a finite-dimensional vector space.<ref>{{harvnb|Roman|2008|loc=p. 218}}</ref>
+
+Completeness of an orthonormal system of vectors of a Hilbert space can be equivalently restated as:
+
+: for every {{math|''v'' ∈ ''H''}}, if {{math|1=⟨''v'', ''e''<sub>''k''</sub>⟩ = 0}} for all {{math|''k'' ∈ ''B''}}, then {{math|1=''v'' = '''0'''}}.
+
+This is related to the fact that the only vector orthogonal to a dense linear subspace is the zero vector, for if {{math|''S''}} is any orthonormal set and {{math|''v''}} is orthogonal to {{math|''S''}}, then {{math|''v''}} is orthogonal to the closure of the linear span of {{math|''S''}}, which is the whole space.
+
+Examples of orthonormal bases include:
+* the set {{math|{(1, 0, 0), (0, 1, 0), (0, 0, 1)}<nowiki/>}} forms an orthonormal basis of {{math|'''R'''<sup>3</sup>}} with the [[dot product]];
+* the sequence {{math|{&hairsp;''f''<sub>''n''</sub> {{!}} ''n'' ∈ '''Z'''}<nowiki/>}} with {{math|1=''f''<sub>''n''</sub>(''x'') = [[exponential function|exp]](2π''inx'')}} forms an orthonormal basis of the complex space {{math|''L''<sup>2</sup>([0, 1])}};
+
+In the infinite-dimensional case, an orthonormal basis will not be a basis in the sense of [[linear algebra]]; to distinguish the two, the latter basis is also called a [[Hamel basis]]. That the span of the basis vectors is dense implies that every vector in the space can be written as the sum of an infinite series, and the orthogonality implies that this decomposition is unique.
+
+===Sequence spaces===
+The space <math>\ell_2</math> of square-summable sequences of complex numbers is the set of infinite sequences<ref name="Stein 2005"/>
+<math display="block">(c_1, c_2, c_3, \dots)</math>
+of real or complex numbers such that
+<math display="block">\left|c_1\right|^2 + \left|c_2\right|^2 + \left|c_3\right|^2 + \cdots < \infty \,.</math>
+
+This space has an orthonormal basis:
+<math display="block">\begin{align}
+  e_1 &= (1, 0, 0, \dots) \\
+  e_2 &= (0, 1, 0, \dots) \\
+      & \ \ \vdots
+\end{align}</math>
+
+This space is the infinite-dimensional generalization of the <math>\ell_2^n</math> space of finite-dimensional vectors. It is usually the first example used to show that in infinite-dimensional spaces, a set that is [[Closed set|closed]] and [[Bounded set|bounded]] is not necessarily [[Sequentially compact space|(sequentially) compact]] (as is the case in all ''finite'' dimensional spaces). Indeed, the set of orthonormal vectors above shows this: It is an infinite sequence of vectors in the unit ball (i.e., the ball of points with norm less than or equal one). This set is clearly bounded and closed; yet, no subsequence of these vectors converges to anything and consequently the unit ball in <math>\ell_2</math> is not compact. Intuitively, this is because "there is always another coordinate direction" into which the next elements of the sequence can evade.
+
+One can generalize the space <math>\ell_2</math> in many ways. For example, if {{math|''B''}} is any set, then one can form a Hilbert space of sequences with index set {{math|''B''}}, defined by<ref>{{harvnb|Rudin|1987}}, Definition 3.7</ref>
+<math display="block">\ell^2(B) =\biggl\{ x : B \xrightarrow{x} \mathbb{C} \mathrel{\bigg|} \sum_{b \in B} \left|x (b)\right|^2 < \infty \biggr\} \,.</math>
+
+The summation over ''B'' is here defined by
+<math display="block">\sum_{b \in B} \left|x (b)\right|^2 = \sup \sum_{n=1}^N \left|x(b_n)\right|^2</math>
+the [[supremum]] being taken over all finite subsets of&nbsp;{{math|''B''}}. It follows that, for this sum to be finite, every element of {{math|''l''<sup>2</sup>(''B'')}} has only countably many nonzero terms. This space becomes a Hilbert space with the inner product
+<math display="block">\langle x, y \rangle = \sum_{b \in B} x(b)\overline{y(b)}</math>
+
+for all {{math|''x'', ''y'' ∈ ''l''<sup>2</sup>(''B'')}}. Here the sum also has only countably many nonzero terms, and is unconditionally convergent by the Cauchy–Schwarz inequality.
+
+An orthonormal basis of {{math|''l''<sup>2</sup>(''B'')}} is indexed by the set {{math|''B''}}, given by
+:<math display="block">e_b(b') = \begin{cases}
+  1 & \text{if } b=b'\\
+  0 & \text{otherwise.}
+\end{cases}</math>
+
+{{Anchor|Bessel's inequality}}
+{{Anchor|Parseval's formula}}
+
+===Bessel's inequality and Parseval's formula===
+Let {{math|''f''<sub>1</sub>, …, ''f''<sub>''n''</sub>}} be a finite orthonormal system in&nbsp;{{math|''H''}}. For an arbitrary vector {{math|''x'' ∈ ''H''}}, let
+<math display="block">y = \sum_{j=1}^n \langle x, f_j \rangle \, f_j \,.</math>
+
+Then {{math|1=⟨''x'', ''f''<sub>''k''</sub>⟩ = ⟨''y'', ''f''<sub>''k''</sub>⟩}} for every {{math|1=''k'' = 1, …, ''n''}}. It follows that {{math|''x'' − ''y''}} is orthogonal to each {{math|''f''<sub>''k''</sub>}}, hence {{math|''x'' − ''y''}} is orthogonal to&nbsp;{{math|''y''}}. Using the Pythagorean identity twice, it follows that
+<math display="block">\|x\|^2 = \|x - y\|^2 + \|y\|^2 \ge \|y\|^2 = \sum_{j=1}^n\bigl|\langle x, f_j \rangle\bigr|^2 \,.</math>
+
+Let {{math|{''f''<sub>''i''</sub>}, ''i'' ∈ ''I''}}, be an arbitrary orthonormal system in&nbsp;{{math|''H''}}. Applying the preceding inequality to every finite subset {{math|''J''}} of {{math|''I''}} gives Bessel's inequality:<ref>For the case of finite index sets, see, for instance, {{harvnb|Halmos|1957|loc=§5}}. For infinite index sets, see {{harvnb|Weidmann|1980|loc=Theorem 3.6}}.</ref>
+<math display="block">\sum_{i \in I}\bigl|\langle x, f_i \rangle\bigr|^2 \le \|x\|^2, \quad x \in H</math>
+(according to the definition of the [[series (mathematics)#Summations over arbitrary index sets|sum of an arbitrary family]] of non-negative real numbers).
+
+Geometrically, Bessel's inequality implies that the orthogonal projection of {{math|''x''}} onto the linear subspace spanned by the {{math|''f<sub>i</sub>''}} has norm that does not exceed that of {{math|''x''}}. In two dimensions, this is the assertion that the length of the leg of a right triangle may not exceed the length of the hypotenuse.
+
+Bessel's inequality is a stepping stone to the stronger result called [[Parseval identity|Parseval's identity]], which governs the case when Bessel's inequality is actually an equality. By definition, if {{math|{''e''<sub>''k''</sub>}<sub>''k'' ∈ ''B''</sub>}} is an orthonormal basis of {{math|''H''}}, then every element {{math|''x''}} of {{math|''H''}} may be written as
+<math display="block">x = \sum_{k \in B} \left\langle x, e_k \right\rangle \, e_k \,.</math>
+
+Even if {{math|''B''}} is uncountable, Bessel's inequality guarantees that the expression is well-defined and consists only of countably many nonzero terms. This sum is called the Fourier expansion of {{math|''x''}}, and the individual coefficients {{math|⟨''x'', ''e''<sub>''k''</sub>⟩}} are the Fourier coefficients of {{math|''x''}}. Parseval's identity then asserts that<ref name="Hewitt 1965">{{harvtxt|Hewitt|Stromberg|1965}}, Theorem 16.26.</ref>
+<math display="block">\|x\|^2 = \sum_{k\in B}|\langle x, e_k\rangle|^2 \,.</math>
+
+Conversely,<ref name="Hewitt 1965"/> if {{math|{''e''<sub>''k''</sub>}<nowiki/>}} is an orthonormal set such that Parseval's identity holds for every {{math|''x''}}, then {{math|{''e''<sub>''k''</sub>}<nowiki/>}} is an orthonormal basis.
+
+===Hilbert dimension===
+As a consequence of [[Zorn's lemma]], ''every'' Hilbert space admits an orthonormal basis; furthermore, any two orthonormal bases of the same space have the same [[cardinal number|cardinality]], called the Hilbert dimension of the space.<ref>{{harvnb|Levitan|2001}}. Many authors, such as {{harvtxt|Dunford|Schwartz|1958|loc=§IV.4}}, refer to this just as the dimension. Unless the Hilbert space is finite dimensional, this is not the same thing as its dimension as a linear space (the cardinality of a Hamel basis).</ref> For instance, since {{math|''l''<sup>2</sup>(''B'')}} has an orthonormal basis indexed by {{math|''B''}}, its Hilbert dimension is the cardinality of {{math|''B''}} (which may be a finite integer, or a countable or uncountable [[cardinal number]]).
+
+The Hilbert dimension is not greater than the [[Hamel dimension]] (the usual dimension of a vector space). The two dimensions are equal if and only one of them is finite.
+
+As a consequence of Parseval's identity,<ref>{{harvtxt|Hewitt|Stromberg|1965}}, Theorem 16.29.</ref> if {{math|{''e''<sub>''k''</sub>}<sub>''k'' ∈ ''B''</sub>}} is an orthonormal basis of {{math|''H''}}, then the map {{math|Φ : ''H'' → ''l''<sup>2</sup>(''B'')}} defined by {{math|1=Φ(''x'') = ⟨x, ''e''<sub>''k''</sub>⟩<sub>''k''∈''B''</sub>}} is an isometric isomorphism of Hilbert spaces: it is a bijective linear mapping such that
+<math display="block">\bigl\langle \Phi (x), \Phi(y) \bigr\rangle_{l^2(B)} = \left\langle x, y \right\rangle_H</math>
+for all {{math|''x'', ''y'' ∈ ''H''}}. The [[cardinal number]] of {{math|''B''}} is the Hilbert dimension of {{math|''H''}}. Thus every Hilbert space is isometrically isomorphic to a sequence space {{math|''l''<sup>2</sup>(''B'')}} for some set {{math|''B''}}.
+
+===Separable spaces===
+By definition, a Hilbert space is [[separable space|separable]] provided it contains a dense countable subset. Along with Zorn's lemma, this means a Hilbert space is separable if and only if it admits a [[countable]] orthonormal basis. All infinite-dimensional separable Hilbert spaces are therefore isometrically isomorphic to the [[Sequence space#ℓp spaces|square-summable sequence space]] <math>\ell^2.</math>
+
+In the past, Hilbert spaces were often required to be separable as part of the definition.<ref>{{harvnb|Prugovečki|1981|loc=I, §4.2}}</ref>
+
+==== In quantum field theory ====
+Most spaces used in physics are separable, and since these are all isomorphic to each other, one often refers to any infinite-dimensional separable Hilbert space as "''the'' Hilbert space" or just "Hilbert space".<ref>{{harvtxt|von Neumann|1955}} defines a Hilbert space via a countable Hilbert basis, which amounts to an isometric isomorphism with ''l''<sup>2</sup>. The convention still persists in most rigorous treatments of quantum mechanics; see for instance {{harvnb|Sobrino|1996|loc=Appendix B}}.</ref> Even in [[quantum field theory]], most of the Hilbert spaces are in fact separable, as stipulated by the [[Wightman axioms]]. However, it is sometimes argued that non-separable Hilbert spaces are also important in quantum field theory, roughly because the systems in the theory possess an infinite number of [[degrees of freedom (mechanics)|degrees of freedom]] and any infinite [[Tensor product of Hilbert spaces|Hilbert tensor product]] (of spaces of dimension greater than one) is non-separable.<ref name="Streater">{{harvnb|Streater|Wightman|1964|pp=86–87}}</ref> For instance, a [[bosonic field]] can be naturally thought of as an element of a tensor product whose factors represent harmonic oscillators at each point of space. From this perspective, the natural state space of a boson might seem to be a non-separable space.<ref name="Streater"/> However, it is only a small separable subspace of the full tensor product that can contain physically meaningful fields (on which the observables can be defined). Another non-separable Hilbert space models the state of an infinite collection of particles in an unbounded region of space. An orthonormal basis of the space is indexed by the density of the particles, a continuous parameter, and since the set of possible densities is uncountable, the basis is not countable.<ref name="Streater"/>
+
+==Orthogonal complements and projections==
+{{Main|Orthogonal complement|}}
+
+If {{math|''S''}} is a subset of a Hilbert space {{math|''H''}}, the set of vectors orthogonal to {{math|''S''}} is defined by
+<math display="block">S^\perp = \left\{ x \in H \mid \langle x, s \rangle = 0\ \text{ for all } s \in S \right\} \,.</math>
+
+The set {{math|''S''<sup>⊥</sup>}} is a [[closed set|closed]] subspace of {{math|''H''}} (can be proved easily using the linearity and continuity of the inner product) and so forms itself a Hilbert space. If {{math|''V''}} is a closed subspace of {{math|''H''}}, then {{math|''V''<sup>⊥</sup>}} is called the {{em|[[orthogonal complement]]}} of {{math|''V''}}. In fact, every {{math|''x'' ∈ ''H''}} can then be written uniquely as {{math|1=''x'' = ''v'' + ''w''}}, with {{math|''v'' ∈ ''V''}} and {{math|''w'' ∈ ''V''<sup>⊥</sup>}}. Therefore, {{math|''H''}} is the internal Hilbert direct sum of {{math|''V''}} and {{math|''V''<sup>⊥</sup>}}.
+
+The linear operator {{math|''P<sub>V</sub>'' : ''H'' → ''H''}} that maps {{math|''x''}} to {{math|''v''}} is called the {{em|[[orthogonal projection]]}} onto {{math|''V''}}. There is a [[natural transformation|natural]] one-to-one correspondence between the set of all closed subspaces of {{math|''H''}} and the set of all bounded self-adjoint operators {{math|''P''}} such that {{math|1=''P''<sup>2</sup> = ''P''}}. Specifically,
+
+{{math theorem|The orthogonal projection {{math|''P<sub>V</sub>''}} is a self-adjoint linear operator on {{math|''H''}} of norm ≤&nbsp;1 with the property {{math|1=''P''{{su|p=2|b=''V''}} = ''P<sub>V</sub>''}}. Moreover, any self-adjoint linear operator {{math|''E''}} such that {{math|1=''E''<sup>2</sup> = ''E''}} is of the form {{math|''P<sub>V</sub>''}}, where {{math|''V''}} is the range of {{math|''E''}}. For every {{math|''x''}} in {{math|''H''}}, {{math|''P<sub>V</sub>''(''x'')}} is the unique element {{math|''v''}} of {{math|''V''}} that [[Hilbert projection theorem|minimizes the distance]] {{math|{{norm|''x'' − ''v''}}}}.}}
+
+This provides the geometrical interpretation of {{math|''P<sub>V</sub>''(''x'')}}: it is the best approximation to ''x'' by elements of ''V''.<ref>{{harvnb|Young|1988|loc=Theorem 15.3}}</ref>
+
+Projections {{math|''P<sub>U</sub>''}} and {{math|''P<sub>V</sub>''}} are called mutually orthogonal if {{math|1=''P''<sub>''U''</sub>''P''<sub>''V''</sub> = 0}}. This is equivalent to {{math|''U''}} and {{math|''V''}} being orthogonal as subspaces of {{math|''H''}}. The sum of the two projections {{math|''P''<sub>''U''</sub>}} and {{math|''P''<sub>''V''</sub>}} is a projection only if {{math|''U''}} and {{math|''V''}} are orthogonal to each other, and in that case {{math|1=''P''<sub>''U''</sub> + ''P''<sub>''V''</sub> = ''P''<sub>''U''+''V''</sub>}}.<ref>{{harvnb|von Neumann|1955}}, Theorem 16</ref> The composite {{math|''P''<sub>''U''</sub>''P''<sub>''V''</sub>}} is generally not a projection; in fact, the composite is a projection if and only if the two projections commute, and in that case {{math|1=''P''<sub>''U''</sub>''P''<sub>''V''</sub> = ''P''<sub>''U''∩''V''</sub>}}.<ref>{{harvnb|von Neumann|1955}}, Theorem 14</ref>
+
+By restricting the codomain to the Hilbert space {{math|''V''}}, the orthogonal projection {{math|''P''<sub>''V''</sub>}} gives rise to a projection mapping {{math|''π'' : ''H'' → ''V''}}; it is the adjoint of the [[inclusion mapping]]
+<math display="block">i : V \to H \,,</math>
+meaning that
+<math display="block">\left\langle i x, y\right\rangle_H = \left\langle x, \pi y \right\rangle_V</math>
+for all {{math|''x'' ∈ ''V''}} and {{math|''y'' ∈ ''H''}}.
+
+The operator norm of the orthogonal projection {{math|''P''<sub>''V''</sub>}} onto a nonzero closed subspace {{math|''V''}} is equal to 1:
+<math display="block">\|P_V\| = \sup_{x \in H, x \neq 0} \frac{\|P_V x\|}{\|x\|} = 1 \,.</math>
+
+Every closed subspace ''V'' of a Hilbert space is therefore the image of an operator {{math|''P''}} of norm one such that {{math|1=''P''<sup>2</sup> = ''P''}}. The property of possessing appropriate projection operators characterizes Hilbert spaces:<ref>{{harvnb|Kakutani|1939}}</ref>
+
+* A Banach space of dimension higher than 2 is (isometrically) a Hilbert space if and only if, for every closed subspace {{math|''V''}}, there is an operator {{math|''P''<sub>''V''</sub>}} of norm one whose image is {{math|''V''}} such that {{math|1=''P''{{su|b=''V''|p=2}} = ''P<sub>V</sub>''}}.
+
+While this result characterizes the metric structure of a Hilbert space, the structure of a Hilbert space as a [[topological vector space]] can itself be characterized in terms of the presence of complementary subspaces:<ref>{{harvnb|Lindenstrauss|Tzafriri|1971}}</ref>
+* A Banach space {{math|''X''}} is topologically and linearly isomorphic to a Hilbert space if and only if, to every closed subspace {{math|''V''}}, there is a closed subspace {{math|''W''}} such that {{math|''X''}} is equal to the internal direct sum {{math|''V'' ⊕ ''W''}}.
+
+The orthogonal complement satisfies some more elementary results. It is a [[monotone function]] in the sense that if {{math|''U'' ⊂ ''V''}}, then {{math|''V''<sup>⊥</sup> ⊆ ''U''<sup>⊥</sup>}} with equality holding if and only if {{math|''V''}} is contained in the [[closure (topology)|closure]] of {{math|''U''}}. This result is a special case of the [[Hahn–Banach theorem]]. The closure of a subspace can be completely characterized in terms of the orthogonal complement: if {{math|''V''}} is a subspace of {{math|''H''}}, then the closure of {{math|''V''}} is equal to {{math|''V''<sup>⊥⊥</sup>}}. The orthogonal complement is thus a [[Galois connection]] on the [[partial order]] of subspaces of a Hilbert space. In general, the orthogonal complement of a sum of subspaces is the intersection of the orthogonal complements:<ref>{{harvnb|Halmos|1957|loc=§12}}</ref>
+<math display="block">\biggl(\sum_i V_i\biggr)^\perp = \bigcap_i V_i^\perp \,.</math>
+
+If the {{math|''V''<sub>''i''</sub>}} are in addition closed, then
+<math display="block">\overline{\sum_i V_i^\perp \vphantom\Big|} = \biggl(\bigcap_i V_i\biggr)^\perp \,.</math>
+
+==Spectral theory==
+There is a well-developed [[spectral theory]] for self-adjoint operators in a Hilbert space, that is roughly analogous to the study of [[symmetric matrix|symmetric matrices]] over the reals or self-adjoint matrices over the complex numbers.<ref>A general account of spectral theory in Hilbert spaces can be found in {{harvtxt|Riesz|Sz.-Nagy|1990}}. A more sophisticated account in the language of C*-algebras is in {{harvtxt|Rudin|1973}} or {{harvtxt|Kadison|Ringrose|1997}}</ref> In the same sense, one can obtain a "diagonalization" of a self-adjoint operator as a suitable sum (actually an integral) of orthogonal projection operators.
+
+The [[spectrum of an operator]] {{math|''T''}}, denoted {{math|''σ''(''T'')}}, is the set of complex numbers {{math|''λ''}} such that {{math|''T'' − ''λ''}} lacks a continuous inverse. If {{math|''T''}} is bounded, then the spectrum is always a [[compact set]] in the complex plane, and lies inside the disc {{math|{{abs|''z''}} ≤ {{norm|''T''}}}}. If {{math|''T''}} is self-adjoint, then the spectrum is real. In fact, it is contained in the interval {{math|[''m'', ''M'']}} where
+<math display="block">m = \inf_{\|x\|=1}\langle Tx, x\rangle \,,\quad M = \sup_{\|x\|=1}\langle Tx, x\rangle \,.</math>
+
+Moreover, {{math|''m''}} and {{math|''M''}} are both actually contained within the spectrum.
+
+The eigenspaces of an operator {{math|''T''}} are given by
+<math display="block">H_\lambda = \ker(T - \lambda)\,.</math>
+
+Unlike with finite matrices, not every element of the spectrum of {{math|''T''}} must be an eigenvalue: the linear operator {{math|''T'' − ''λ''}} may only lack an inverse because it is not surjective. Elements of the spectrum of an operator in the general sense are known as ''spectral values''. Since spectral values need not be eigenvalues, the spectral decomposition is often more subtle than in finite dimensions.
+
+However, the [[spectral theorem]] of a self-adjoint operator {{math|''T''}} takes a particularly simple form if, in addition, {{math|''T''}} is assumed to be a [[compact operator]]. The [[Compact operator on Hilbert space#Spectral theorem|spectral theorem for compact self-adjoint operators]] states:<ref>See, for instance, {{harvtxt|Riesz|Sz.-Nagy|1990|loc=Chapter VI}} or {{harvnb|Weidmann|1980|loc=Chapter 7}}. This result was already known to {{harvtxt|Schmidt|1908}} in the case of operators arising from integral kernels.</ref>
+* A compact self-adjoint operator {{math|''T''}} has only countably (or finitely) many spectral values. The spectrum of {{math|''T''}} has no [[limit point]] in the complex plane except possibly zero. The eigenspaces of {{math|''T''}} decompose {{math|''H''}} into an orthogonal direct sum: <math display="block">H = \bigoplus_{\lambda\in\sigma(T)}H_\lambda \,.</math> Moreover, if {{math|''E<sub>λ</sub>''}} denotes the orthogonal projection onto the eigenspace {{math|''H<sub>λ</sub>''}}, then <math display="block">T = \sum_{\lambda\in\sigma(T)} \lambda E_\lambda \,,</math> where the sum converges with respect to the norm on {{math|B(''H'')}}.
+
+This theorem plays a fundamental role in the theory of [[integral equation]]s, as many integral operators are compact, in particular those that arise from [[Hilbert–Schmidt operator]]s.
+
+The general spectral theorem for self-adjoint operators involves a kind of operator-valued [[Riemann–Stieltjes integral]], rather than an infinite summation.<ref>{{harvnb|Riesz|Sz.-Nagy|1990|loc=§§107–108}}</ref> The ''spectral family'' associated to {{math|''T''}} associates to each real number λ an operator {{math|''E<sub>λ</sub>''}}, which is the projection onto the nullspace of the operator {{math|(''T'' − ''λ'')<sup>+</sup>}}, where the positive part of a self-adjoint operator is defined by
+<math display="block">A^+ = \tfrac{1}{2}\Bigl(\sqrt{A^2} + A\Bigr) \,.</math>
+
+The operators {{math|''E<sub>λ</sub>''}} are monotone increasing relative to the partial order defined on self-adjoint operators; the eigenvalues correspond precisely to the jump discontinuities. One has the spectral theorem, which asserts
+<math display="block">T = \int_\mathbb{R} \lambda\, \mathrm{d}E_\lambda \,.</math>
+
+The integral is understood as a Riemann–Stieltjes integral, convergent with respect to the norm on {{math|B(''H'')}}. In particular, one has the ordinary scalar-valued integral representation
+<math display="block">\langle Tx, y\rangle = \int_{\R} \lambda\,\mathrm{d}\langle E_\lambda x, y\rangle \,.</math>
+
+A somewhat similar spectral decomposition holds for normal operators, although because the spectrum may now contain non-real complex numbers, the operator-valued Stieltjes measure {{math|d''E<sub>λ</sub>''}} must instead be replaced by a [[resolution of the identity]].
+
+A major application of spectral methods is the [[spectral mapping theorem]], which allows one to apply to a self-adjoint operator {{math|''T''}} any continuous complex function {{math|''f''}} defined on the spectrum of {{math|''T''}} by forming the integral
+<math display="block">f(T) = \int_{\sigma(T)} f(\lambda)\,\mathrm{d}E_\lambda \,.</math>
+
+The resulting [[continuous functional calculus]] has applications in particular to [[pseudodifferential operators]].<ref>{{harvnb|Shubin|1987}}</ref>
+
+The spectral theory of ''unbounded'' self-adjoint operators is only marginally more difficult than for bounded operators. The spectrum of an unbounded operator is defined in precisely the same way as for bounded operators: {{math|''λ''}} is a spectral value if the [[resolvent operator]]
+<math display="block">R_\lambda = (T - \lambda)^{-1}</math>
+
+fails to be a well-defined continuous operator. The self-adjointness of {{math|''T''}} still guarantees that the spectrum is real. Thus the essential idea of working with unbounded operators is to look instead at the resolvent {{math|''R<sub>λ</sub>''}} where {{math|''λ''}} is nonreal. This is a ''bounded'' normal operator, which admits a spectral representation that can then be transferred to a spectral representation of {{math|''T''}} itself. A similar strategy is used, for instance, to study the spectrum of the Laplace operator: rather than address the operator directly, one instead looks as an associated resolvent such as a [[Riesz potential]] or [[Bessel potential]].
+
+A precise version of the spectral theorem in this case is:<ref>{{harvnb|Rudin|1973|loc=Theorem 13.30}}.</ref>
+{{math theorem|math_statement=Given a densely defined self-adjoint operator {{math|''T''}} on a Hilbert space {{math|''H''}}, there corresponds a unique [[resolution of the identity]] {{math|''E''}} on the Borel sets of {{math|'''R'''}}, such that <math display="block">\langle Tx, y \rangle = \int_\R \lambda \, \mathrm{d}E_{x,y}(\lambda)</math> for all {{math|''x'' ∈ ''D''(''T'')}} and {{math|''y'' ∈ ''H''}}. The spectral measure {{math|''E''}} is concentrated on the spectrum of {{math|''T''}}.}}
+There is also a version of the spectral theorem that applies to unbounded normal operators.
+
+== In popular culture ==
+In ''[[Gravity's Rainbow]]'' (1973), a novel by [[Thomas Pynchon]], one of the characters is called  "Sammy Hilbert-Spaess", a pun on "Hilbert Space". The novel refers also to [[Gödel's incompleteness theorems]].<ref>{{Cite book|title=Gravity's Rainbow|last=Pynchon|first=Thomas|publisher=Viking Press|year=1973|isbn=978-0143039945|pages=217, 275}}</ref>
+
+== See also ==
+{{portal|Mathematics}}
+{{cols|colwidth=21em}}
+* {{annotated link|Banach space}}
+* {{annotated link|Fock space}}
+* {{annotated link|Fundamental theorem of Hilbert spaces}}
+* {{annotated link|Hadamard space}}
+* {{annotated link|Hausdorff space}}
+* {{annotated link|Hilbert algebra (disambiguation)|Hilbert algebra}}
+* {{annotated link|Hilbert C*-module}}
+* {{annotated link|Hilbert manifold}}
+* {{annotated link|L-semi-inner product}}
+* {{annotated link|Locally convex topological vector space}}
+* {{annotated link|Operator theory}}
+* {{annotated link|Operator topologies}}
+* {{annotated link|Quantum state space}}
+* {{annotated link|Rigged Hilbert space}}
+* {{annotated link|Topological vector space}}
+{{colend}}
+
+==Remarks==
+{{reflist|group=nb}}
+
+==Notes==
+{{reflist|colwidth=30em}}
+
+== References ==
+{{Refbegin|colwidth=30em}}
+* {{citation | last=Axler | first=Sheldon | title=Linear Algebra Done Right | volume= | pages=296 | publication-date=2015 | series=[[Undergraduate Texts in Mathematics]] | date=18 December 2014 | edition=3rd | publisher=[[Springer Publishing]] | isbn=978-3-319-11079-0 | author-link=Sheldon Axler}}
+* {{Citation | last1=Bachman | first1=George | last2=Narici | first2=Lawrence | last3=Beckenstein | first3=Edward | title=Fourier and wavelet analysis | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Universitext | isbn=978-0-387-98899-3 | mr=1729490 | year=2000}}.
+* {{citation|last1= Bers|first1=Lipman|author-link=Lipman Bers|first2=Fritz|last2= John|author-link2=Fritz John | first3= Martin | last3= Schechter|title=Partial differential equations | publisher= American Mathematical Society|year=1981|isbn=978-0-8218-0049-2}}.
+* {{citation|first=Patrick|last=Billingsley|title=Probability and measure|year=1986|publisher=Wiley}}.
+* {{citation|last=Bourbaki|first=Nicolas|author-link=Nicolas Bourbaki|title=Spectral theories|series=Elements of mathematics|publisher= Springer-Verlag|location=Berlin|year=1986|isbn=978-0-201-00767-1}}.
+* {{citation|last=Bourbaki|first=Nicolas|author-link=Nicolas Bourbaki|title=Topological vector spaces|series=Elements of mathematics|publisher= Springer-Verlag|location=Berlin|year=1987|isbn=978-3-540-13627-9}}.
+* {{citation|last1=Boyer|first1=Carl Benjamin|author-link1=Carl Benjamin Boyer|last2=Merzbach|first2=Uta C|author2-link=Uta Merzbach|year=1991|title=A History of Mathematics|edition=2nd|publisher=John Wiley & Sons, Inc.|isbn=978-0-471-54397-8|url=https://archive.org/details/historyofmathema00boye}}.
+* {{citation|last1=Brenner|first1=S.|first2=R. L.|last2=Scott|title=The Mathematical Theory of Finite Element Methods|edition=2nd|publisher=Springer|year=2005|isbn=978-0-387-95451-6}}.
+* {{citation | authorlink=Haim Brezis | first=Haim|last=Brezis|title=Functional analysis, Sobolev spaces, and partial differential equations|publisher=Springer|year=2010}}.
+* {{Citation | last1=Buttazzo | first1=Giuseppe | last2=Giaquinta | first2=Mariano | last3=Hildebrandt | first3=Stefan | title=One-dimensional variational problems | publisher=The Clarendon Press Oxford University Press | series=Oxford Lecture Series in Mathematics and its Applications | isbn=978-0-19-850465-8 | mr=1694383 | year=1998 | volume=15}}.
+* {{citation|last=Clarkson|first=J. A.|title=Uniformly convex spaces|journal=Trans. Amer. Math. Soc.|volume=40|year=1936|pages=396–414|doi=10.2307/1989630|issue=3|jstor=1989630|doi-access=free}}.
+* {{citation|last1=Courant|first1=Richard|author-link=Richard Courant|first2=David|last2=Hilbert|author-link2=David Hilbert|title=Methods of Mathematical Physics, Vol. I|publisher=Interscience|year=1953}}.
+* {{citation | last = Dieudonné | first = Jean | author-link=Jean Dieudonné|title= Foundations of Modern Analysis|publisher = Academic Press| year= 1960}}.
+* {{citation|last=Dirac|first=P.A.M.|author-link=Paul Dirac|title=The Principles of Quantum Mechanics |publisher=Clarendon Press|location=Oxford|year=1930|title-link=The Principles of Quantum Mechanics}}.
+* {{citation|last1=Dunford|first1=N.|first2=J.T.|last2=Schwartz|author-link2=Jacob T. Schwartz|title=Linear operators, Parts I and II|publisher=Wiley-Interscience|year=1958}}.
+* {{citation|last= Duren|first=P.|title=Theory of H<sup>p</sup>-Spaces|year=1970|publisher= Academic Press|location= New York}}.
+* {{citation|last1=Einsiedler|first1=Manfred|last2=Ward|first2=Thomas|title=Ergodic theory with a view towards number theory|publisher=Springer|year=2011}}.
+* {{Citation |author-link=Lawrence C. Evans |first=L. C. |last=Evans |title=Partial Differential Equations |publisher=American Mathematical Society |location=Providence |year=1998 |isbn=0-8218-0772-2 }}.
+<!--*{{Citation | last1=Feintuch | first1=Avraham | last2=Saeks | first2=Richard | title=System theory | publisher=Academic Press Inc. [Harcourt Brace Jovanovich Publishers] | location=London | series=Pure and Applied Mathematics | isbn=978-0-12-251750-1 | mr=663906 | year=1982 | volume=102}}.-->
+* {{citation |title=Fourier analysis and its application |first=Gerald B.|last=Folland |url=https://books.google.com/books?as_isbn=0-8218-4790-2 |isbn=978-0-8218-4790-9 |publisher=American Mathematical Society Bookstore |year=2009 |edition=Reprint of Wadsworth and Brooks/Cole 1992}}.
+* {{citation|last=Folland|first=Gerald B.|title=Harmonic analysis in phase space|series=Annals of Mathematics Studies|volume= 122|publisher=Princeton University Press|year= 1989|isbn= 978-0-691-08527-2}}.
+* {{citation|last=Fréchet|first=Maurice|title=Sur les ensembles de fonctions et les opérations linéaires|journal=C. R. Acad. Sci. Paris|volume=144|pages=1414–1416|year=1907}}.
+* {{citation|last=Fréchet|first=Maurice|title=Sur les opérations linéaires|year=1904|journal=Transactions of the American Mathematical Society|volume=5|issue=4|pages=493–499|doi=10.2307/1986278|jstor=1986278}}.
+* {{citation|last=Giusti|first=Enrico|title=Direct Methods in the Calculus of Variations|publisher=World Scientific|year=2003|isbn=978-981-238-043-2}}.
+* {{Citation | last1=Grattan-Guinness | first1=Ivor | title=The search for mathematical roots, 1870–1940 | publisher=[[Princeton University Press]] | series=Princeton Paperbacks | isbn=978-0-691-05858-0 | mr=1807717 | year=2000}}.
+* {{citation| last =Halmos| first =Paul| author-link=Paul Halmos|title=Introduction to Hilbert Space and the Theory of Spectral Multiplicity|year=1957|
+publisher=Chelsea Pub. Co}}
+* {{citation| last=Halmos|first=Paul|author-link=Paul Halmos|title=A Hilbert Space Problem Book|year=1982|publisher=Springer-Verlag|isbn=978-0-387-90685-0}}.
+* {{citation| last1 = Hewitt| first1 = Edwin| last2 = Stromberg| first2 = Karl| title = Real and Abstract Analysis| year = 1965| publisher = Springer-Verlag| location = New York}}.
+* {{citation| last1=Hilbert| first1=David| author-link1 = David Hilbert| last2=Nordheim| first2 = Lothar Wolfgang| author-link2= Lothar Nordheim| last3= von Neumann| first3= John|author-link3= John von Neumann| title = Über die Grundlagen der Quantenmechanik| journal = Mathematische Annalen| volume = 98| pages = 1–30| year = 1927| doi=10.1007/BF01451579|doi-access=| s2cid=120986758}}.
+* {{citation|last=Holevo |first=Alexander S. |author-link=Alexander Holevo |title=Statistical Structure of Quantum Theory |publisher=Springer |series=Lecture Notes in Physics |year=2001 |isbn=3-540-42082-7|oclc=318268606}}.
+* {{citation|last=Kac|first=Mark|author-link=Mark Kac|title=Can one hear the shape of a drum?|journal=[[American Mathematical Monthly]]|volume=73|issue=4, part 2|year=1966|pages=1–23|doi=10.2307/2313748|jstor=2313748}}.
+* {{Citation | last1=Kadison | first1=Richard V. | last2=Ringrose | first2=John R. | title=Fundamentals of the theory of operator algebras. Vol. I | publisher=[[American Mathematical Society]] | location=Providence, R.I. | series=Graduate Studies in Mathematics | isbn=978-0-8218-0819-1 | mr=1468229 | year=1997 | volume=15}}.
+* {{Citation | last1=Kadison | first1=Richard V. | last2=Ringrose | first2=John R. |year= 1983 | title=Fundamentals of the Theory of Operator Algebras, Vol. I: Elementary Theory |location= New York |publisher= Academic Press, Inc.}}
+*{{Citation|last1=Karatzas|first1=Ioannis|last2=Shreve|first2=Steven|year=2019|title=Brownian Motion and Stochastic Calculus|publisher=Springer|edition=2nd|isbn=978-0-387-97655-6}}
+
+<!--* {{citation | last1 = Колмогоров| first1 = А. Н.| author-link1 = Andrey Kolmogorov| last2= Фомин|first2= С. В.| author-link2 = Sergei Fomin | title = Элементы теории функций и функционального анализа|year = 1989| edition = sixth Russian (with corrections)| publisher = "Nauka", Moscow| isbn= 5-02-013993-9}}.-->
+* {{Citation | last1=Kakutani | first1=Shizuo | author1-link=Shizuo Kakutani | title=Some characterizations of Euclidean space | mr=0000895 | year=1939 | journal=Japanese Journal of Mathematics | volume=16 | pages=93–97| doi=10.4099/jjm1924.16.0_93 | doi-access=free }}.
+* {{Citation | last1=Kline | first1=Morris | author1-link=Morris Kline | title=Mathematical thought from ancient to modern times, Volume 3 | year=1972 | publisher=[[Oxford University Press]] | edition=3rd | isbn=978-0-19-506137-6 | publication-date=1990 | url=https://archive.org/details/mathematicalthou00morr }}.
+* {{citation | last1 = Kolmogorov | first1 = Andrey | author-link1 = Andrey Kolmogorov | last2 = Fomin| first2 = Sergei V.| author-link2 = Sergei Fomin| title = Introductory Real Analysis | year = 1970| edition = Revised English edition, trans. by Richard A. Silverman (1975)| publisher = Dover Press| isbn = 978-0-486-61226-3| url = https://archive.org/details/introductoryreal00kolm_0}}.
+* {{Citation | last1=Krantz | first1=Steven G. | author-link=Steven Krantz|title=Function Theory of Several Complex Variables | publisher=[[American Mathematical Society]] | location=Providence, R.I. | isbn=978-0-8218-2724-6 | year=2002}}.
+* {{citation | last=Lanczos | first=Cornelius | title=Applied analysis | isbn=978-0-486-65656-4 | publisher=Dover Publications | year=1988 | edition=Reprint of 1956 Prentice-Hall | url=https://books.google.com/books?as_isbn=0-486-65656-X}}.
+*{{citation|last=Lebesgue|first=Henri|title=Leçons sur l'intégration et la recherche des fonctions primitives|url=https://books.google.com/books?id=VfUKAAAAYAAJ&q=%22Lebesgue%22%20%22Le%C3%A7ons%20sur%20l'int%C3%A9gration%20et%20la%20recherche%20des%20fonctions%20...%22&pg=PA1|year=1904|publisher=Gauthier-Villars}}.
+* {{springer|id=H/h047380|title=Hilbert space|first=B.M. |last=Levitan}}.
+* {{Citation | last1=Lindenstrauss | first1=J. | last2=Tzafriri | first2=L. | title=On the complemented subspaces problem | mr=0276734 | year=1971 | journal=[[Israel Journal of Mathematics]] | issn=0021-2172 | volume=9 | pages=263–269 | doi=10.1007/BF02771592 | doi-access= | issue=2| s2cid=119575718 }}.
+* {{Citation | last1=Marsden | first1=Jerrold E. | author1-link=Jerrold E. Marsden | title=Elementary classical analysis | publisher=W. H. Freeman and Co. | mr=0357693 | year=1974}}.
+* {{citation | last=Murphy | first=Gerald J. |title=C*-algebras and Operator Theory |publisher=Academic Press |year=1990 |isbn=0-12-511360-9}}.
+* {{citation| last=von Neumann| first=John| author-link=John von Neumann| title=Allgemeine Eigenwerttheorie Hermitescher Funktionaloperatoren| journal=Mathematische Annalen| volume = 102| pages = 49–131| year = 1929| doi=10.1007/BF01782338| s2cid=121249803}}.
+* {{citation | last=von Neumann | first=John|author-link=John von Neumann|title=Physical Applications of the Ergodic Hypothesis|year=1932|journal=Proc Natl Acad Sci USA|volume=18|pages=263–266|doi=10.1073/pnas.18.3.263|pmid=16587674|issue=3|pmc=1076204|jstor=86260|bibcode = 1932PNAS...18..263N | doi-access=free}}.
+*{{Citation | last1=von Neumann | first1=John | author1-link=John von Neumann | title=Mathematical Foundations of Quantum Mechanics | publisher=[[Princeton University Press]] | series=Princeton Landmarks in Mathematics | isbn=978-0-691-02893-4 | mr=1435976 | publication-date=1996|year=1955| title-link=Mathematical Foundations of Quantum Mechanics |translator-first=Robert T. |translator-last=Beyer}}.
+* {{citation|last1=Nielsen|first1=Michael A.|author-link1=Michael Nielsen |last2=Chuang|first2=Isaac L. |author-link2=Isaac Chuang |title=Quantum Computation and Quantum Information|title-link=Quantum Computation and Quantum Information|publisher=[[Cambridge University Press]]|location=Cambridge|year=2000|edition=1st|oclc=634735192|isbn=978-0-521-63503-5}}.
+* {{MacTutor|class=HistTopics|id=Abstract_linear_spaces|title=Abstract linear spaces|date=1996}}
+* {{citation | last=Pathria | first=RK | title=Statistical mechanics|publisher=Academic Press|edition=2|year=1996}}.
+* {{Citation | last1=Pedersen | first1=Gert | title=Analysis Now | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Graduate Texts in Mathematics | isbn=978-1-4612-6981-6 | year=1995 | volume=118 | mr=0971256 }}
+* {{citation | last=Peres | first=Asher |author-link = Asher Peres |title=[[Quantum Theory: Concepts and Methods]] |publisher=Kluwer |year=1993 |isbn=0-7923-2549-4 |oclc=28854083}}
+* {{citation| last=Prugovečki|first=Eduard|title=Quantum mechanics in Hilbert space|publisher=Dover|edition=2nd|year=1981|publication-date=2006|isbn=978-0-486-45327-9}}.
+* {{citation | last1=Reed | first1=Michael|author-link=Michael C. Reed|first2=Barry|last2=Simon|author-link2=Barry Simon|series=Methods of Modern Mathematical Physics|title=Functional Analysis (vol I of 4 vols)|publisher=Academic Press|year=1980|isbn= 978-0-12-585050-6}}.
+* {{citation | last1=Reed | first1=Michael|author-link=Michael C. Reed|first2=Barry|last2=Simon|author-link2=Barry Simon|title=Fourier Analysis, Self-Adjointness (vol II of 4 vols)|series=Methods of Modern Mathematical Physics|publisher=Academic Press|year=1975|isbn=9780125850025 }}.
+* {{Citation|title-link= Quantum Computing: A Gentle Introduction |title=Quantum Computing: A Gentle Introduction|last1=Rieffel|first1=Eleanor G.|last2=Polak|first2=Wolfgang H.|date=2011-03-04|publisher=MIT Press|isbn=978-0-262-01506-6|language=en|author-link=Eleanor Rieffel}}.
+* {{citation | last=Riesz | first=Frigyes | author-link=Frigyes Riesz|title=Sur une espèce de Géométrie analytique des systèmes de fonctions sommables|journal=C. R. Acad. Sci. Paris|volume=144|pages=1409–1411|year=1907}}.
+* {{citation | last=Riesz | first=Frigyes |author-link=Frigyes Riesz|title=Zur Theorie des Hilbertschen Raumes|journal=Acta Sci. Math. Szeged |volume=7|pages=34–38|year=1934}}.
+* {{citation | last1=Riesz | first1=Frigyes | author-link=Frigyes Riesz|first2=Béla|last2=Sz.-Nagy|author-link2=Béla Szőkefalvi-Nagy|title=Functional analysis|publisher=Dover|year=1990|isbn= 978-0-486-66289-3}}.
+*{{citation | last=Roman | first=Stephen | title=Advanced Linear Algebra | edition=Third | series=[[Graduate Texts in Mathematics]] | publisher  = Springer | date=2008| pages= | isbn=978-0-387-72828-5 |author-link=Steven Roman}}
+* {{Rudin Walter Functional Analysis|edition=1}} <!-- {{sfn | Rudin | 1991 | p=}} -->
+* {{citation | last=Rudin | first=Walter|author-link=Walter Rudin|title=Real and Complex Analysis|year=1987|publisher=McGraw-Hill|isbn=978-0-07-100276-9}}.
+* {{citation | last=Saks | first=Stanisław |author-link=Stanisław Saks|title=Theory of the integral|publisher=Dover|year=2005|edition=2nd Dover|isbn=978-0-486-44648-6}}; originally published ''Monografje Matematyczne'', vol. 7, Warszawa, 1937.
+* {{Schaefer Wolff Topological Vector Spaces|edition=2}} <!-- {{sfn | Schaefer | 1999 | p=}} -->
+* {{citation| last=Schmidt| first=Erhard|author-link=Erhard Schmidt|title=Über die Auflösung linearer Gleichungen mit unendlich vielen Unbekannten|journal=Rend. Circ. Mat. Palermo|volume=25|pages=63–77|year=1908 | doi=10.1007/BF03029116| s2cid=120666844}}.
+* {{Citation | last1=Shubin | first1=M. A. | title=Pseudodifferential operators and spectral theory | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Springer Series in Soviet Mathematics | isbn=978-3-540-13621-7 | mr=883081 | year=1987}}.
+* {{Citation | last1=Sobrino | first1=Luis | title=Elements of non-relativistic quantum mechanics | journal=<!-- Citation bot--> | publisher=World Scientific Publishing Co. Inc. | location=River Edge, New Jersey | isbn=978-981-02-2386-1 | mr=1626401 | year=1996| bibcode=1996lnrq.book.....S | doi=10.1142/2865 | doi-access= }}.
+* {{citation|last=Stapleton|first=James|title=Linear statistical models|publisher=John Wiley and Sons|year=1995}}.
+* {{citation | last=Stewart | first=James|title=Calculus: Concepts and Contexts|edition=3rd|publisher=Thomson/Brooks/Cole|year=2006}}.
+* {{citation | last=Stein | first=E|title=Singular Integrals and Differentiability Properties of Functions|publisher=Princeton Univ. Press|year=1970|isbn=978-0-691-08079-6|url-access=registration|url=https://archive.org/details/singularintegral0000stei}}.
+* {{citation|last1=Stein|first1=Elias|author-link1=Elias Stein|first2=Guido|last2=Weiss|author-link2=Guido Weiss|title=Introduction to Fourier Analysis on Euclidean Spaces|publisher=Princeton University Press|year=1971|isbn=978-0-691-08078-9|location=Princeton, N.J.|url-access=registration|url=https://archive.org/details/introductiontofo0000stei}}.
+* {{citation | last1=Stein|first1=E|last2=Shakarchi|first2=R|title=Real analysis, measure theory, integration, and Hilbert spaces|publisher=Princeton University Press|year=2005}}.
+* {{citation|last1=Streater|first1=Ray|author-link1=Ray Streater|last2=Wightman|first2=Arthur|author-link2=Arthur Wightman|title= PCT, Spin and Statistics and All That|year=1964|publisher=W. A. Benjamin, Inc}}.
+* {{citation|last=Stroock|first=Daniel|title=Probability theory: an analytic view|publisher=Cambridge University Press|year=2011|edition=2}}.
+* {{cite book| last = Teschl| given = Gerald|author-link=Gerald Teschl| title=Mathematical Methods in Quantum Mechanics; With Applications to Schrödinger Operators| publisher=[[American Mathematical Society]]| place = [[Providence, Rhode Island|Providence]]| year=2009 |url=https://www.mat.univie.ac.at/~gerald/ftp/book-schroe/ |isbn=978-0-8218-4660-5 }}.
+* {{citation| last=Titchmarsh|first=Edward Charles|author-link=Edward Charles Titchmarsh|title=Eigenfunction expansions, part 1|year=1946|publisher=Clarendon Press|location=Oxford University}}.
+* {{citation|first=François|last=Trèves|title=Topological Vector Spaces, Distributions and Kernels|publisher=Academic Press|year=1967}}.
+* {{Citation | last1=Warner | first1=Frank | title=Foundations of Differentiable Manifolds and Lie Groups | publisher=[[Springer-Verlag]] | location=Berlin, New York | isbn=978-0-387-90894-6 | year=1983}}.
+* {{Citation | last1=Weidmann | first1=Joachim | title=Linear operators in Hilbert spaces | publisher=[[Springer-Verlag]] | location=Berlin, New York | series=Graduate Texts in Mathematics | isbn=978-0-387-90427-6 | mr=566954 | year=1980 | volume=68}}.
+* {{citation | last=Weyl| first=Hermann| author-link=Hermann Weyl| title = The Theory of Groups and Quantum Mechanics| year = 1931| publisher = Dover Press| edition = English 1950| isbn= 978-0-486-60269-1}}.
+* {{citation| last=Young|first=Nicholas|title=An introduction to Hilbert space|publisher=Cambridge University Press|year=1988|zbl=0645.46024|isbn=978-0-521-33071-8}}.
+{{Refend}}
+
+==External links==
+
+{{Wikibooks|Functional Analysis/Hilbert spaces}}
+{{Commons category}}
+* {{springer|title=Hilbert space|id=p/h047380}}
+* [http://mathworld.wolfram.com/HilbertSpace.html Hilbert space at Mathworld]
+* [http://terrytao.wordpress.com/2009/01/17/254a-notes-5-hilbert-spaces/ 245B, notes 5: Hilbert spaces] by [[Terence Tao]]
+
+{{Hilbert space}}
+{{Lp spaces}}
+{{Functional analysis}}
+{{Banach spaces}}
+{{Authority control}}
+
+{{good article}}
+
+[[Category:Hilbert spaces| ]]
+[[Category:Functional analysis]]
+[[Category:Linear algebra]]
+[[Category:Operator theory]]
+[[Category:David Hilbert|Space]]
