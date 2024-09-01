@@ -1,0 +1,70 @@
+{{short description|Self-consistent fictional setting with elements that may differ from the real world}}
+{{Redirect-multi|2|In-universe|Imaginary world|fictional dream worlds|Dream world (plot device)}}
+{{more footnotes|date=June 2012}}
+[[File:Map-of-Oz.jpg|thumb|300px|Map of the Land of Oz, the fictional realm that is the setting for [[L. Frank Baum]]'s ''[[List of Oz books|Oz]]'' series]]
+
+A '''fictional universe''' (also called an '''imagined universe''' or a '''constructed universe''') is the [[continuity (fiction)|internally consistent]] fictional [[setting (narrative)|setting]] used in a [[narrative|narrative work]] or [[work of art]], most commonly associated with works of [[fantasy]] and [[science fiction]]. Fictional universes appear in [[novel]]s, [[comics]], [[film]]s, [[television show]]s, [[video game]]s, [[visual art|art]], and other creative works.<ref name=":0">{{Cite book |last1=Schult |first1=Stefanie |title=Subcreation: fictional-world construction from J.R.R. Tolkien to Terry Pratchett and Tad Williams |last2=Tolkien |first2=J. R. R. |last3=Pratchett |first3=Terry |last4=Williams |first4=Tad |date=2017 |publisher=Logos Verlag Berlin GmbH |others=Ernst-Moritz-Arndt-Universität Greifswald |isbn=978-3-8325-4419-5 |location=Berlin}}</ref><ref>{{Cite book |last=Pavel |first=Thomas G. |title=Fictional Worlds |publisher=Harvard University Press |year=1986 |isbn=9780674299665}}</ref>
+
+In science fiction, a fictional universe may be a remote alien planet or galaxy with little apparent relationship to the real world (as in ''[[Star Wars]]''); in fantasy it may be a greatly fictionalized or invented version of Earth's distant past or future (as in ''[[The Lord of the Rings]]'').<ref name=":0" />
+
+==Fictional continuity==
+
+In a 1970 article in ''[[CAPA-alpha]]'', comics historian [[Don Markstein]] provided a definition of fictional ''universe'' meant to clarify the concept of fictional continuities. According to the criteria he imagined:<ref name=Markstein>[https://archive.today/20190531164542/http://toonopedia.com/universe.htm "THE MERCHANT OF VENICE meets THE SHIEK OF ARABI"], by [[Don Markstein]] (as "Om Markstein Sklom Stu"), in ''[[CAPA-alpha]]'' #71 (September 1970); archived at Toonopedia</ref>
+
+# If characters A and B have met, then they are in the same universe; if characters B and C have met, then, [[transitive relation|transitively]], A and C are in the same universe.
+# Characters cannot be connected by real people—otherwise, it could be argued that [[Superman]] and the [[Fantastic Four]] were in the same universe, as Superman met [[John F. Kennedy]], Kennedy met [[Neil Armstrong]], and Armstrong met the Fantastic Four.
+#Characters cannot be connected by characters "that do not originate with the publisher"—otherwise it could be argued that Superman and the Fantastic Four were in the same universe, as both met [[Hercules]].
+# Specific fictionalized versions of real people—for instance, the version of [[Jerry Lewis]] from [[DC Comics]]' ''[[The Adventures of Jerry Lewis]]'', who was distinct from the real Jerry Lewis in that he had a housekeeper with magical powers—''can'' be used as connections; this also applies to specific versions of public-domain fictional characters, such as [[Hercules (Marvel Comics)|Marvel Comics' version of Hercules]] or [[Robin Hood (DC Comics)|DC Comics' version of Robin Hood]].
+#Characters are only considered to have met if they appeared together in a story; therefore, characters who simply appeared on the same front cover are not necessarily in the same universe.
+
+==Collaboration==
+{{see also|Shared universe}}
+
+Fictional universes are sometimes shared by multiple prose authors, with each author's works in that universe being granted approximately equal canonical status. For example, [[Larry Niven]]'s fictional universe [[Known Space]] has an approximately 135-year period in which Niven allows other authors to write stories about the [[Man-Kzin Wars]]. Other fictional universes, like the [[Ring of Fire series|''Ring of Fire'' series]], actively court canonical stimulus from fans, but gate and control the changes through a formalized process and the final say of [[Eric Flint|the editor and universe creator]].<ref>{{cite book | title =Grantville Gazette III | others = [[Thomas Kidd (illustrator)|Thomas Kidd]] (cover art) | isbn = 978-1-4165-0941-7 | publisher = [[Baen Books]] | last = [[Eric Flint|Flint, Eric]] and various others | title-link = Grantville Gazette III | date = 26 December 2006 | pages = 311–313|quote=The print published and e-published Grantville Gazettes all contain a post book [[afterword]] detailing where and how to submit a manuscript to the fictional canon oversight process for the [[1632 series]].}}</ref>
+
+==See also==
+{{div col|colwidth=20em}}
+* [[Alternate history (fiction)|Alternate history]]
+* [[Alternate universe (fan fiction)|Alternate universe]]
+* [[Constructed world]]
+* [[Continuity (fiction)|Continuity]]
+* [[Diegesis]]
+* [[Expanded universe]]
+* [[Shared universe]]
+* [[Fantasy world]]
+* [[Fictional country]]
+* [[Fictional location]]
+* [[Future history]]
+* [[Index of fictional places]]
+* [[List of fantasy worlds]] 
+* [[Mythical place]]
+* [[Paracosm]]
+* [[Parallel universe (fiction)|Parallel universe]]
+* [[Planets in science fiction]]
+* [[Setting (fiction)|Setting]]
+* [[Simulated reality]]
+* [[Virtual reality]]
+*[[Multiverse#Multiverse Hypothesis in fiction|Multiverse]]
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+==Further reading==
+* [[Alberto Manguel]] and [[Gianni Guadalupi]]: ''[[The Dictionary of Imaginary Places]]'', New York : Harcourt Brace, c2000. {{ISBN|0-15-100541-9}}
+* [[Brian Stableford]]: ''The Dictionary of Science Fiction Places'', New York : Wonderland Press, c1999. {{ISBN|0-684-84958-5}}
+* [[Diana Wynne Jones]]: ''The Tough Guide to Fantasyland'', New York : Firebird, 2006. {{ISBN|0-14-240722-4}}, Explains and parodies the common features of a standard fantasy world
+* [[George Ochoa]] and [[Jeffery Osier]]: ''Writer's Guide to Creating A Science Fiction Universe'', Cincinnati, Ohio : [[Writer's Digest|Writer's Digest Books]], 1993. {{ISBN|0-89879-536-2}}
+* Michael Page and [[Robert Ingpen]] : ''[[Encyclopedia of Things That Never Were]]: Creatures, Places, and People'', 1987. {{ISBN|0-14-010008-3}}
+
+{{Fiction writing}}
+{{fiction navbox}}
+
+{{Authority control}}
+
+[[Category:Continuity (fiction)]]
+[[Category:Fiction|Universe]]
+[[Category:Fictional universes| ]]
+[[Category:Imagination]]
+[[Category:Setting]]
+[[Category:Worldbuilding]]
