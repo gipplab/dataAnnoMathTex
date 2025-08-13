@@ -1,1 +1,1 @@
-{"global": {}, "local": {}}
+{"global": {"p": {"name": "point", "mathEnv": "p(s'|s, a)", "uniqueIDs": ["12---86", "12---157"], "qid": "N/A", "time": 176, "manualSelectionTime": -1, "sourcesWithNums": {"ArXiv": 3}, "type": "Identifier"}, "pi": {"name": "constant", "mathEnv": "\\pi(a|s)", "uniqueIDs": ["12---105", "15---62", "39---14", "58---19"], "qid": "Q188248", "time": 1353, "manualSelectionTime": -1, "sourcesWithNums": {"Manual": 1}, "type": "Identifier"}}, "local": {}}
